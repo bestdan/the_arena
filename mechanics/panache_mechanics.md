@@ -1,0 +1,12 @@
+
+When a combatant attempts an attack, check, or similar action, they may declare they are performing it **with Panache**.
+
+They should briefly describe their flashy or daring maneuver.
+
+### **Rolling with Panache**
+
+- Roll **2d20**.
+- Use the die **farther from 10** (distance = |roll – 10|).
+- If the action already has **advantage**, roll 3d20 and **drop the lowest** before resolving Panache.
+- If it has **disadvantage**, roll 3d20 and **drop the highest** before resolving Panache.
+
