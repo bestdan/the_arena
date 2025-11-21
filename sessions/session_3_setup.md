@@ -7,44 +7,23 @@
 The party stands before her, along with Merryn (who's checking her bowstring with practiced ease), Kael (a young man in his early twenties, nervous energy radiating off him as he adjusts his shield), and Sienna (an older woman with graying red hair and scars crossing her forearms).
 
 ---
-
-Snak eyes each of them in turn, her gaze hard but not unkind. When she speaks, her voice is gravel and iron.
-
+```
 "Alright. Listen up, and listen well. I don't repeat myself."
 
-She jerks her thumb toward the ceiling, where the crowd's noise grows louder.
 
 "Today's entertainment is the Gauntlet. Three zones. Three waves. Ten rounds." She holds up a thick, calloused finger for emphasis. "You see that hourglass they're setting up? When those sands run out, they release the reserves. And trust me—" She leans forward. "—you do *not* want to see what's in those cages."
 
-Merryn glances up from her bow. "How bad are the reserves?"
-
-"Bad enough that in five years, only *one* group has faced them and survived. And they were all Level 5." Snak straightens. "So. Don't let the timer run out."
-
-She moves to the weapon rack and taps a crude map scratched into the stone wall—three rough rectangles stacked vertically.
-
-"Zone One: The Scrap. Four goblins. They're weak, but they're *annoying*. Two have nets, two have bows. They'll try to tie you up, literally." She glances at any spellcasters or archers in the party. "You, especially. Kill them fast. Don't get fancy. Speed matters more than style here."
-
-Kael clears his throat. "How fast?"
-
-"Three rounds or less. Ideally two." Snak moves her finger down the map. "That gives you breathing room for Zone Two."
+"Zone One: The Scrap. Four goblins. They're weak, but they're *annoying*. Two have nets, two have bows. They'll try to tie you up, literally. Kill them fast. Don't get fancy. Speed matters more than style here."
 
 "Zone Two: The Breach. Two hobgoblins. Not like the goblins—these are *soldiers*. Chain mail, shields, and they work together. They'll form a shield wall." She makes a blocking gesture with her forearms. "If you let them stay together, they'll gut you with teamwork. Separate them, flank them, or hit them with everything you've got all at once."
 
-Sienna nods slowly, her expression grim. She's seen hobgoblin tactics before.
-
-"Expected time: three to four rounds. Don't rush stupidly, but don't dawdle either. You should be halfway through your timer when you finish Zone Two."
-
-She pauses, then taps the bottom rectangle—harder than necessary.
+"Expected time:Don't rush stupidly, but don't dawdle either. You should be halfway through your timer when you finish Zone Two."
 
 "Zone Three: The Pit."
 
-The way she says it makes everyone pay closer attention.
-
 "Bonecrusher."
 
-Merryn's eyes widen slightly. "The ogre? I thought he wasn't—"
-
-"He's been cleared for Gauntlet runs." Snak's voice is flat. "He's killed *eleven* gladiators in the last two months. They keep him chained to a center post—fifteen-foot chain, so he's got a thirty-foot range from the middle. Stay outside that range if you can."
+Snak's voice is flat. "He's killed *eleven* gladiators in the last two months. They keep him chained to a center post—fifteen-foot chain, so he's got a thirty-foot range from the middle. Stay outside that range if you can."
 
 She looks directly at the more aggressive fighters in the group.
 
@@ -52,45 +31,13 @@ She looks directly at the more aggressive fighters in the group.
 
 "What about the chain?" asks one of the PCs.
 
-Snak's mouth twists into something that might be a smile, but isn't pleasant. "At half health, he goes berserk. He'll try to break it." She meets their eyes. "Strength check. If he rolls well, he breaks free. And then..." She shrugs. "Then you're fighting an angry, wounded, *mobile* ogre. And the crowd will *love* it."
+Snak's mouth twists into something that might be a smile, but isn't pleasant. "At half health, he goes berserk. He'll try to break it." She meets their eyes. "Just a question of strength check. If he rolls well, he breaks free. And then..." She shrugs. "Then you're fighting an angry, wounded, *mobile* ogre. And the crowd will *love* it."
 
 Silence for a moment.
-
-"There's also two goblin handlers with whips. Their job is to waste your time and try to unlock the side cages early—more reinforcements. Kill them fast, or they'll make your life hell."
-
-Snak steps back from the wall and crosses her arms again.
 
 "Here's my advice, and I'll only say it once: **Move fast, hit hard, don't get fancy in the first two zones.** Save your big tricks and your resources for Bonecrusher. The crowd wants speed and blood. Give them both."
 
 She pauses, scanning their faces.
-
-"Ranged attackers—you're golden for this one. Melee—" She nods toward Kael and Sienna. "—you're going to have to play smart. Don't try to be heroes. Dead heroes don't spend their winnings."
-
-Merryn smirks. "Dead heroes don't make *you* money, you mean."
-
-Snak doesn't smile, but there's a glint in her eye. "That too."
-
-She pulls a small leather pouch from her belt and drops it on the nearby table with a *clink*.
-
-"Equipment. If you've got gold, now's the time. Healing potions—fifty gold. Alchemist's fire—fifty gold, works nicely on ogres. Nets, poles, ropes, manacles—ask if you want something. I've got a bit of everything."
-
-She straightens her vest and heads toward the exit, then pauses at the doorway.
-
-"One more thing."
-
-She doesn't turn around.
-
-"Bonecrusher's killed eleven. Don't be number twelve."
-
-She glances back over her shoulder.
-
-"Or thirteen through seventeen, for that matter. Now get your gear sorted. You've got five minutes before they call you up."
-
-She leaves.
-
-Kael swallows hard. Sienna starts checking her mace. Merryn tests her bowstring one more time, then grins at the party.
-
-"Well," she says brightly. "Should be fun."
 
 ---
 
