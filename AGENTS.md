@@ -1,3 +1,11 @@
+---
+tags: [arena, documentation, meta, ai-instructions]
+content_type: guide
+audience: ai-agents
+created: 2025-11-21
+updated: 2025-11-23
+---
+
 # AGENTS: The Arena
 
 LLM operators start here. Keep edits inside `The_Arena/`. Favor writing to Markdown files, linking with Obsidian wiki-link syntax, and preserving the campaign's theatrical, consequences-matter tone.

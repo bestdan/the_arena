@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, darkness, survival, horror]
+encounter_type: environmental
+party_size: "4-6"
+level_range: "4-6"
+difficulty: hard
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # Night Game
 
 - **Hook:** Arena lights die; magical darkness blankets the sands. The crowd sees everything via arcane scry-screens while combatants stumble blind. The wager: who can cross the killing field in the dark?

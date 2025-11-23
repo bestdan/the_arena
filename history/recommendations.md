@@ -1,3 +1,12 @@
+---
+tags: [arena, meta, history, recommendations]
+content_type: recommendations
+created: 2025-11-23
+updated: 2025-11-23
+audience: gm
+aliases: [best-practices, ai-campaign-guide]
+---
+
 # Recommendations: Building an AI-Assisted TTRPG Campaign Manager
 
 ## Core Learnings from The Arena Repository

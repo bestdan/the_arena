@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, maze, dynamic, environmental]
+encounter_type: environmental
+party_size: "4-6"
+level_range: "4-6"
+difficulty: hard
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # The Cartographer's Curse
 
 - **Hook:** The arena shifts and changes with every heartbeat. Walls rise, floors sink, pillars rotate. Only one map exists—and it's being drawn in real-time by a mad cartographer in a tower above. Reach the exit before the map completes, or be trapped forever in the labyrinth.

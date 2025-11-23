@@ -1,3 +1,13 @@
+---
+tags: [arena, session, encounter, session-3]
+session_number: 3
+party_level: 2
+status: completed
+created: 2025-11-21
+updated: 2025-11-21
+encounter_type: gauntlet
+---
+
 # Session 3 Encounter: The Gauntlet Run
 
 ## Party Composition

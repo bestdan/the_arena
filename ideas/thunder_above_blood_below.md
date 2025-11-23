@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, aerial, underground, multi-level]
+encounter_type: environmental
+party_size: "4-6"
+level_range: "6-8"
+difficulty: hard
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # Thunder Above, Blood Below
 
 - **Hook:** Storm priests demand tribute; announcer promises "lightning to anoint the brave."

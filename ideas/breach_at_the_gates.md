@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, defense, objective, siege]
+encounter_type: objective
+party_size: "4-6"
+level_range: "6-8"
+difficulty: hard
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # Breach at the Gates
 
 - **Hook:** The arena transforms into a fortified checkpoint. Waves of "invaders" pour from the north gate, desperate to reach the south gate and "escape to freedom." The gladiators must hold the line. Let too many through, and the crowd jeers your failure. Hold strong, and glory is yours.

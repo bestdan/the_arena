@@ -1,3 +1,11 @@
+---
+tags: [arena, documentation, meta, sessions]
+content_type: instructions
+audience: ai-agents
+created: 2025-11-21
+updated: 2025-11-21
+---
+
 # AGENTS: sessions/
 
 Use this guide when drafting or revising session notes. Keep the Arena theatrical and consequence-heavy.

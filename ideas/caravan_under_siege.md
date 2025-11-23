@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, defense, objective, attrition]
+encounter_type: objective
+party_size: "4-6"
+level_range: "5-7"
+difficulty: hard
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # Caravan Under Siege
 
 - **Hook:** A gilded merchant wagon crosses the arena sands, laden with "treasure" (actually weighted crates). Waves of raiders attempt to overwhelm the escorts and loot the cargo. The gladiators must protect the caravan as it trundles toward safety. Each crate stolen is a mark against them—lose too many, and the patrons' investment vanishes.

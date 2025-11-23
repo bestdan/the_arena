@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, environmental, 3d-combat]
+encounter_type: environmental
+party_size: "4-6"
+level_range: "4-6"
+difficulty: medium
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # Chains and Chandeliers
 
 - **Hook:** Senate demands spectacle; announcer promises "a dance of iron and fire."

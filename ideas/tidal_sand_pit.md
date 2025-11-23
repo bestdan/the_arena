@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, environmental, timed, hazard]
+encounter_type: environmental
+party_size: "4-6"
+level_range: "4-6"
+difficulty: medium
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # Tidal Sand Pit
 
 - **Hook:** "Will they drown in dust?" Arena master floods sand with underground sluices, turning the floor into sucking mud.

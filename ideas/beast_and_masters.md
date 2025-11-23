@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, beasts, tactics]
+encounter_type: combat
+party_size: "4-6"
+level_range: "3-5"
+difficulty: medium
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # Beast and Masters
 
 - **Party:** 5 Level 2 PCs; includes optional NPC aid.

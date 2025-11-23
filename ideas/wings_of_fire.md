@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, bbeg, dragon, flying]
+encounter_type: combat
+party_size: "4-6"
+level_range: "5-13"
+difficulty: deadly
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # Wings of Fire
 
 - **Hook:** A young dragon—barely past wyrmling age but already arrogant—demands "tribute in blood." The arena offers substitution: let gladiators test the dragon's pride. Scales versus steel, breath versus courage.

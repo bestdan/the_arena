@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, deception, mystery]
+encounter_type: mixed
+party_size: "4-6"
+level_range: "5-7"
+difficulty: hard
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # Doppelgangers Dance
 
 - **Hook:** Multiple entrances spit gladiators across a fractured arena. Somewhere in the chaos, doppelgangers wear their faces. Kill every imposter before the imposters kill you—but can you trust your own eyes when the DM smiles?

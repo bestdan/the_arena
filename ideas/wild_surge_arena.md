@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, wild-magic, chaos, environmental]
+encounter_type: environmental
+party_size: "4-6"
+level_range: "5-7"
+difficulty: hard
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # Wild Surge Arena
 
 - **Hook:** Patrons unleash unstable wild magic across the sands—each spell risks a surge. Wizards' colleges bet on who controls the chaos. The crowd screams as fireballs bloom into sheep, and healing surges into lightning.

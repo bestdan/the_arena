@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, bbeg, beholder, anti-magic]
+encounter_type: combat
+party_size: "4-6"
+level_range: "10-12"
+difficulty: deadly
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # All-Seeing Nightmare
 
 - **Hook:** A beholder crime lord demands "trial by spectacle"—prove the arena worthy of hosting its slaver rings, or watch the city burn from within. The crowd trembles as eye-stalks sweep the stands.

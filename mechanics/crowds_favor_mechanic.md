@@ -1,3 +1,13 @@
+---
+tags: [arena, mechanics, homebrew, social]
+mechanic_type: social
+complexity: moderate
+status: active
+created: 2025-11-21
+updated: 2025-11-21
+aliases: [favor, crowd, audience]
+---
+
 
 Track Favor per combatant.
 

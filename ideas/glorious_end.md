@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, last-stand, heroic-death]
+encounter_type: combat
+party_size: "4-6"
+level_range: "any"
+difficulty: deadly
+mechanics: [crowds-favor, panache, last-stand]
+status: ready
+created: 2025-11-21
+---
 # Glorious End
 
 - **Hook:** The Grand Master announces a special exhibition: "The Rite of Phoenix Flames." Gladiators face an impossible gauntlet knowing death is certain—but resurrection awaits the fallen. Victory is measured not in survival, but in how spectacularly you fall. The crowd will remember every last stand, every defiant strike, every moment of glory before the end.

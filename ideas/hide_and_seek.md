@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, stealth, survival, timed]
+encounter_type: mixed
+party_size: "4-6"
+level_range: "3-5"
+difficulty: hard
+mechanics: [crowds-favor]
+status: ready
+created: 2025-11-21
+---
 # Hide and Seek
 
 - **Hook:** The arena goes dark. Hunters stalk the sands with your names on their lips. Survive 10 rounds without being "announced"—but if a hunter reaches a pillar and shouts your name, the crowd's magic executes you where you stand.

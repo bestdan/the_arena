@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, constructs, swarm]
+encounter_type: combat
+party_size: "4-6"
+level_range: "6-8"
+difficulty: hard
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # Clockwork Legion
 
 - **Hook:** The Artificer's Guild unveils its masterwork: an army of mechanical soldiers. Patrons wager fortunes on whether flesh can triumph over gears. The crowd chants "BREAK THE MACHINES!" as pistons hiss and gears grind.

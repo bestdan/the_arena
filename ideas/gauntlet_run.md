@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, gauntlet, timed, objective]
+encounter_type: objective
+party_size: "4-6"
+level_range: "3-5"
+difficulty: hard
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # Gauntlet Run
 
 - **Party:** 5 Level 2 PCs; supporting NPCs are at risk.

@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, construct, boss]
+encounter_type: combat
+party_size: "4-6"
+level_range: "7-9"
+difficulty: deadly
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # Blades of the Clockwork Colossus
 
 - **Hook:** Artificer guild sponsors a "precision execution"; gears feed the crowd's countdown.

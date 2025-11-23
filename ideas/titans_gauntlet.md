@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, bbeg, titan, epic]
+encounter_type: combat
+party_size: "4-6"
+level_range: "12-14"
+difficulty: deadly
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # Titan's Gauntlet
 
 - **Hook:** A bound titan—chained by ancient gods, now arena spectacle—breaks one shackle. The crowd evacuates upper tiers as the earth trembles. Stop the titan before the second chain shatters and Tarsus falls.

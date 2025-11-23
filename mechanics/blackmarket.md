@@ -1,3 +1,13 @@
+---
+tags: [arena, mechanics, homebrew, economics]
+mechanic_type: reward
+complexity: simple
+status: active
+created: 2025-11-21
+updated: 2025-11-21
+aliases: [black-market, shop, equipment]
+---
+
 # Black Market Inventory (Weekly)
 
 A practical list of what gladiators can buy during downtime. Prices are tight, stock is limited.

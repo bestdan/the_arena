@@ -1,3 +1,11 @@
+---
+tags: [arena, documentation, meta, github]
+content_type: instructions
+audience: ai-agents
+created: 2025-11-23
+updated: 2025-11-23
+---
+
 # GitHub Copilot Instructions for The Arena
 
 ## Repository Overview

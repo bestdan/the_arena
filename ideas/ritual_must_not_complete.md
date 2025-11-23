@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, ritual, objective, timed]
+encounter_type: objective
+party_size: "4-6"
+level_range: "6-8"
+difficulty: hard
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # The Ritual Must Not Complete
 
 - **Hook:** Cultist prisoners perform a "dark ritual" in the arena's center—a theatrical spectacle for the crowd. The gladiators must disrupt it before completion. Five ritual circles glow with eldritch power; each one activated brings doom closer. Let too many complete, and the "demon" (heavily armored champion) manifests at full power. Interrupt them all, and face only a weakened foe.

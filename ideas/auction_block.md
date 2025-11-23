@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, roleplay, social]
+encounter_type: mixed
+party_size: "4-6"
+level_range: "3-6"
+difficulty: medium
+mechanics: [crowds-favor]
+status: ready
+created: 2025-11-21
+---
 # The Auction Block
 
 - **Hook:** Gladiators become the prize. Wealthy patrons bid on your services, your skills, your very lives—while you fight to impress them. Perform well, earn high bids, and secure powerful sponsors. Fail, and you're sold to the cruelest master in Tarsus.

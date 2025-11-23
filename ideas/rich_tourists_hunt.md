@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, role-reversal, survival]
+encounter_type: mixed
+party_size: "4-6"
+level_range: "4-6"
+difficulty: hard
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # Rich Tourists Hunt
 
 - **Hook:** Decadent nobles from Tarsus's wealthiest estates have paid a fortune for the thrill of "the hunt." They descend into the Arena armed with their finest magical weapons and enchanted trinkets to hunt the gladiators like game. The twist: kill a noble, claim their treasures. The crowd roars for blood—preferably theirs.

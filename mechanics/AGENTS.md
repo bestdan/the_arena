@@ -1,3 +1,11 @@
+---
+tags: [arena, documentation, meta, mechanics]
+content_type: instructions
+audience: ai-agents
+created: 2025-11-21
+updated: 2025-11-21
+---
+
 # AGENTS: mechanics/
 
 Use this when creating or tuning homebrew rules. Keep mechanics punchy, lethal, and easy to table-run.

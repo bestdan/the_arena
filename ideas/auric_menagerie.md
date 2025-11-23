@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, beasts, variety]
+encounter_type: combat
+party_size: "4-6"
+level_range: "4-6"
+difficulty: hard
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # Auric Menagerie
 
 - **Hook:** Patron Aurix unveils his "gilded pets" and promises riches to survivors.

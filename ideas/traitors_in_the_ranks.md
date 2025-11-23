@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, betrayal, social, mystery]
+encounter_type: mixed
+party_size: "4-6"
+level_range: "4-6"
+difficulty: hard
+mechanics: [crowds-favor]
+status: ready
+created: 2025-11-21
+---
 # Traitors in the Ranks
 
 - **Party:** 5 Level 2 PCs with allied gladiators who might turn.

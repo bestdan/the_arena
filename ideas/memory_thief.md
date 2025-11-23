@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, psychic, mystery]
+encounter_type: mixed
+party_size: "4-6"
+level_range: "6-8"
+difficulty: hard
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # The Memory Thief
 
 - **Hook:** An enchanter's curse strips gladiators of their memories—their names, their skills, their very identities. Scattered across the arena are memory fragments (glowing orbs). Reclaim your past while shadowy echoes of forgotten foes hunt you. Remember who you are—or be lost forever.

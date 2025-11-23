@@ -1,3 +1,11 @@
+---
+tags: [arena, encounter-idea, index, bbeg]
+content_type: index
+created: 2025-11-23
+updated: 2025-11-23
+aliases: [boss-battles, epic-encounters]
+---
+
 # BBEG Battle Ideas Index
 
 This index catalogues epic "Big Bad Evil Guy" battle sessions for The Arena campaign, organized by difficulty tier.
