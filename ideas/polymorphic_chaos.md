@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, transformation, wild-magic]
+encounter_type: environmental
+party_size: "4-6"
+level_range: "5-7"
+difficulty: hard
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # Polymorphic Chaos
 
 - **Hook:** Arcane academies sponsor a "Transformation Trial"—combatants and beasts alike warped by unpredictable polymorph magics. The crowd bets on what emerges from each shimmer. Who fights as themselves, and who becomes the beast?

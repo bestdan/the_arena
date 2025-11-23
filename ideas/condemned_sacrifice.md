@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, ritual, objective, dramatic]
+encounter_type: objective
+party_size: "4-6"
+level_range: "4-6"
+difficulty: hard
+mechanics: [crowds-favor, panache, last-stand]
+status: ready
+created: 2025-11-21
+---
 # Condemned Sacrifice
 
 - **Party:** 5 Level 2 PCs with possible NPC allies.

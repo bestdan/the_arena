@@ -1,3 +1,11 @@
+---
+tags: [arena, documentation, readme]
+content_type: readme
+audience: all
+created: 2025-11-21
+updated: 2025-11-23
+---
+
 # The Arena
 
 A D&D 5e gladiatorial campaign set in Tarsus, where spectacle shapes survival and showmanship matters as much as steel.

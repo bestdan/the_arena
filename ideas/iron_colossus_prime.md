@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, bbeg, construct, golem]
+encounter_type: combat
+party_size: "4-6"
+level_range: "8-10"
+difficulty: deadly
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # Iron Colossus Prime
 
 - **Hook:** Gnomish artificers unveil their masterwork—a war-golem prototype powered by elemental cores. The arena becomes testing ground. Dismantle the machine before it dismantles you.

@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, aerial, flying, objective]
+encounter_type: objective
+party_size: "4-6"
+level_range: "5-7"
+difficulty: hard
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # Aerial Ascension
 
 - **Hook:** Floating platforms rise and fall above a bottomless pit. Wings, ropes, and sheer audacity are the only paths to victory. The crowd gasps as combatants leap between islands in the sky. Fall, and the darkness swallows you whole.

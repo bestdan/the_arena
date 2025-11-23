@@ -1,3 +1,11 @@
+---
+tags: [arena, documentation, meta, ideas]
+content_type: instructions
+audience: ai-agents
+created: 2025-11-21
+updated: 2025-11-21
+---
+
 # AGENTS: ideas/
 
 Use this when brainstorming new sessions or twists. Deliver concise seeds that can expand into full write-ups in `sessions/`.

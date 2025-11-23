@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, undead, necromancy]
+encounter_type: combat
+party_size: "4-6"
+level_range: "5-7"
+difficulty: hard
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # Grave Dust Pageant
 
 - **Hook:** Necromancers stage a "two-act tragedy"—living challengers first, then the dead rise for an encore.

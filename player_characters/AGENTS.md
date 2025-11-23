@@ -1,3 +1,11 @@
+---
+tags: [arena, documentation, meta, player-characters]
+content_type: instructions
+audience: ai-agents
+created: 2025-11-21
+updated: 2025-11-21
+---
+
 # AGENTS: player_characters/
 
 Use this when updating the roster. Keep entries consistent so sessions can reference them quickly.

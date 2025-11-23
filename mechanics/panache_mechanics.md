@@ -1,3 +1,13 @@
+---
+tags: [arena, mechanics, homebrew, combat]
+mechanic_type: combat
+complexity: moderate
+status: active
+created: 2025-11-21
+updated: 2025-11-21
+aliases: [panache, showmanship]
+---
+
 
 When a combatant attempts an attack, check, or similar action, they may declare they are performing it **with Panache**.
 

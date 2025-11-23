@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, bbeg, giant, storm, elemental]
+encounter_type: combat
+party_size: "4-6"
+level_range: "11-13"
+difficulty: deadly
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # Avatar of the Storm
 
 - **Hook:** Storm giants' emissary descends with thunder—challenging Tarsus to prove mortals worthy of the giants' notice. Lightning splits the sky; the crowd cowers beneath the tempest.

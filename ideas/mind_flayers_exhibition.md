@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, bbeg, aberration, illithid]
+encounter_type: combat
+party_size: "4-6"
+level_range: "7-9"
+difficulty: deadly
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # Mind Flayer's Exhibition
 
 - **Hook:** An illithid elder-brain spawn demands "demonstration of will"—psychic supremacy versus mortal determination. The crowd's thoughts echo in the arena. Resist the mind-shatter... or become thralls.

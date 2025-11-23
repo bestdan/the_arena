@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, bbeg, vampire, gothic]
+encounter_type: combat
+party_size: "4-6"
+level_range: "9-11"
+difficulty: deadly
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # Crimson Waltz
 
 - **Hook:** A vampire lord from old Tarsus nobility claims ancient arena rights—"first blood to first death." The crowd whispers as midnight descends and crimson eyes gleam. Dance with death... or become it.

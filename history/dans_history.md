@@ -1,3 +1,11 @@
+---
+tags: [arena, meta, history, development]
+content_type: session-notes
+created: 2025-11-23
+updated: 2025-11-23
+aliases: [dans-notes, development-story]
+---
+
 
 # Pre-AI setup
 I set up an Obsidian folder / vault specific for the campaign so I could track my ideas. All the files are markdown `_.md` files, so basically linkable plain text. 

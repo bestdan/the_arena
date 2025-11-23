@@ -1,3 +1,11 @@
+---
+tags: [arena, documentation, meta, npcs]
+content_type: instructions
+audience: ai-agents
+created: 2025-11-21
+updated: 2025-11-21
+---
+
 # AGENTS: npcs/
 
 Use this to update or add NPC profiles. Keep each entry playable at the table and tied to Arena politics.

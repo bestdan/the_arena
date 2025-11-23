@@ -1,3 +1,12 @@
+---
+tags: [arena, session, setup, session-3]
+session_number: 3
+party_level: 2
+status: completed
+created: 2025-11-21
+updated: 2025-11-21
+---
+
 # Session 3 Setup: Pre-Arena Vignettes
 
 ## Vignette 1: Snak's Briefing

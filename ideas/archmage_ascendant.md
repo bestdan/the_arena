@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, bbeg, spellcaster, magic]
+encounter_type: combat
+party_size: "4-6"
+level_range: "9-11"
+difficulty: deadly
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # Archmage Ascendant
 
 - **Hook:** A visiting archmage wagers their tower's fortune—survive their "Spellweave Showcase" and the gladiators earn a patron beyond compare. The crowd watches raw magical might bend reality on the sands.

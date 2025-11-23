@@ -1,3 +1,12 @@
+---
+tags: [arena, session, session-0]
+session_number: 0
+party_level: 1
+status: completed
+created: 2025-11-21
+updated: 2025-11-21
+---
+
 In a holding pen are twenty people new participants. Some obviously know each other, others are stranger to all. There are some who are desolate. There are some brimming with excitement.
 
 This is a mid weekday performance. You are no draw, but time is money and matinees still bring in a few onlookers.

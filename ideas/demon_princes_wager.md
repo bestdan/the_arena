@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, bbeg, demon, fiend]
+encounter_type: combat
+party_size: "4-6"
+level_range: "8-10"
+difficulty: deadly
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # Demon Prince's Wager
 
 - **Hook:** A demon lord's lieutenant emerges from a ritual gate—wagering souls against glory. The crowd watches unholy fire scorch the sands. Banish it back to the Abyss, or become eternal thralls.

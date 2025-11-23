@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, maze, illusion, stealth]
+encounter_type: environmental
+party_size: "4-6"
+level_range: "5-7"
+difficulty: hard
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # Mirror Maze Murders
 
 - **Hook:** A labyrinth of enchanted mirrors confounds friend and foe alike. Reflections lie, doubles attack, and the crowd watches from above as gladiators hunt phantoms. Patrons wager on who breaks first—mind or mirror.

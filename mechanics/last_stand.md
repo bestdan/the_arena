@@ -1,3 +1,13 @@
+---
+tags: [arena, mechanics, homebrew, combat]
+mechanic_type: combat
+complexity: moderate
+status: active
+created: 2025-11-21
+updated: 2025-11-21
+aliases: [last-stand, heroic-death, final-moment]
+---
+
 # Last Stand
 
 A creature at **0 hit points** who would make a **death saving throw** may choose to activate **Last Stand** instead. This choice is voluntary and irrevocable.

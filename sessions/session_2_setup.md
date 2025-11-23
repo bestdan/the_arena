@@ -1,3 +1,12 @@
+---
+tags: [arena, session, setup, session-2]
+session_number: 2
+party_level: 2
+status: completed
+created: 2025-11-21
+updated: 2025-11-21
+---
+
 ## 5 days before Match 2: 
 
 The half-elf woman recovers. Her name is [[Merryn Thal]].  She joined The Arena voluntarily. She **loves** fame, the crowd, the applause. She did something else before (she won't reveal what), but failed at it, and this seemed like the natural next step. She's as cutthroat as can be: make her look good, she'll help you. Make her look bad, you'll end up like those shitty archers. 

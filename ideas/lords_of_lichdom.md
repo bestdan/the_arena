@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, bbeg, undead, necromancer]
+encounter_type: combat
+party_size: "4-6"
+level_range: "7-9"
+difficulty: deadly
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # Lords of Lichdom
 
 - **Hook:** Twin necromancers—once rivals, now undead collaborators—stage a "deathless duel." The crowd's pulse quickens as life magic meets unlife. Can mortals outlast immortality?

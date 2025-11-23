@@ -1,3 +1,11 @@
+---
+tags: [arena, lore, worldbuilding, location]
+content_type: location
+created: 2025-11-21
+updated: 2025-11-21
+aliases: [arena, coliseum]
+---
+
 `The Arena` is a massive circular coliseum in the middle of Tarsus. 
 
 It is 200 feet in diameter with walls 20 feet tall to keep participants inside. It has 4 gates at cardinal directions for entry and exit of combatants and creatures.

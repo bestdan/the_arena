@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, siege, objective, tactics]
+encounter_type: objective
+party_size: "4-6"
+level_range: "5-7"
+difficulty: hard
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # Last Stand at Broken Tower
 
 - **Hook:** Gladiators defend a crumbling fortress mock-up against waves of "invaders." The crowd roars for every banner held, every wall retaken. Patrons wager on which tower falls first.

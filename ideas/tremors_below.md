@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, underground, environmental, monster]
+encounter_type: environmental
+party_size: "4-6"
+level_range: "5-7"
+difficulty: hard
+mechanics: [crowds-favor, panache]
+status: ready
+created: 2025-11-21
+---
 # Tremors Below
 
 - **Hook:** The arena floor conceals a network of tunnels. Massive burrowing beasts erupt from below, dragging victims into the dark. Patrons bet on who gets swallowed first. The crowd feels the vibrations and screams warnings—but can the gladiators react in time?

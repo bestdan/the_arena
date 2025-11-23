@@ -1,3 +1,13 @@
+---
+tags: [arena, encounter-idea, communication, puzzle]
+encounter_type: mixed
+party_size: "4-6"
+level_range: "4-6"
+difficulty: medium
+mechanics: [crowds-favor]
+status: ready
+created: 2025-11-21
+---
 # Lost in Translation
 
 - **Hook:** Arcane interference scrambles all language. Each gladiator hears the others speak gibberish—but scattered across the arena are clues in *different languages*. Decode the escape route while enemies harry you. Fail, and the sands swallow you whole.
