@@ -2,11 +2,11 @@
 All characters are currently level 2. 
 
 **Imwe**: Human fighter
-[[link]](./imwe.md)
+[[imwe]]
 
 
 **Torgana** Orc-barbarian
-[[link]](./imwe.md)
+[[torgana]]
 
 
 **Orion Blackreef** Half-elf bard

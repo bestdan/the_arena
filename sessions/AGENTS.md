@@ -25,7 +25,7 @@ Use this guide when drafting or revising session notes. Keep the Arena theatrica
 
 ## Writing Rules
 - Keep the crowd and announcer present to reinforce spectacle.
-- Call out when custom mechanics apply (Panache, Crowd Favor, Last Stand).
+- Call out when custom mechanics apply ([[panache_mechanics|Panache]], [[crowds_favor_mechanic|Crowd Favor]], [[last_stand|Last Stand]]).
 - Track consequences and continuity (wounds, debts, patron favors).
-- Link named NPCs, locations, and mechanics with `[[wiki links]]`.
+- Link named NPCs, locations, and mechanics using Obsidian wiki-link syntax.
 - Aim for concise headings and bullets where it helps scanning; otherwise flow with narrative prose.

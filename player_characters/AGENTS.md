@@ -9,5 +9,5 @@ Use this when updating the roster. Keep entries consistent so sessions can refer
 ## Update Rules
 - Track status: active, absent, injured, dead, or freed; note session references.
 - Record class/role, notable fighting style, and crowd perception.
-- Capture ongoing arcs (debts, patron ties, rivalries) with `[[wiki links]]` to sessions or NPCs.
+- Capture ongoing arcs (debts, patron ties, rivalries) using Obsidian wiki-link syntax to reference sessions or NPCs.
 - Keep notes concise and scannable; avoid duplicating prose from sessions.

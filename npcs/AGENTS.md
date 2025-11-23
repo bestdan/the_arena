@@ -11,4 +11,4 @@ Use this to update or add NPC profiles. Keep each entry playable at the table an
 - Track relationships to PCs and other NPCs; note promises, grudges, and favors owed.
 - Record consequences from sessions (injuries, public opinions, rewards).
 - Keep stat-level detail light unless it is a combatant; focus on hooks that matter in play.
-- Link to appearances in `sessions/*.md` and related mechanics with `[[wiki links]]`.
+- Link to appearances in `sessions/*.md` and related mechanics using Obsidian wiki-link syntax.
