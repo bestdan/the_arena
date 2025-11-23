@@ -34,7 +34,7 @@
 - **Overheat:** If reduced below 50 HP, it vents steam (15-foot cone, 3d6 fire, Dex save DC 14).
 
 ## Crowd Favor Hooks
-- Sabotage an Assembly Line before it spawns a construct: +1 Favor.
+- Sabotage an Assembly Line before it spawns a construct: +1 [[crowds_favor_mechanic|Favor]].
 - Destroy 3+ constructs in a single turn (multi-attack, AoE): +2 Favor.
 - Land the killing blow on the Master Artificer while standing on the Forge Throne: +3 Favor for dramatic flair.
 - Use a construct's ability against other constructs (grapple with Rug, reflect magic with Helmed Horror): +1 Favor.
