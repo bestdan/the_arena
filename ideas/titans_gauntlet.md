@@ -4,7 +4,7 @@
 - **Party:** 4-6 PCs, level 12-14. Epic-tier combat, environmental destruction, and race-against-time pressure.
 
 ## Arena Layout
-- Massive colosseum (200-foot diameter)—titan stands 40 feet tall, chained at center by two godforged chains (AC 20, 100 HP each, immune to non-magical damage).
+- Massive colosseum (200-foot diameter)—titan stands 40 feet tall, chained at center by two godforged chains (AC 20, 100 HP each base value, immune to non-magical damage).
 - Crumbling pillars (8 total, 30 feet tall)—titan's movements shake them; Dex save DC 13 or take 3d10 bludgeoning from falling debris each round titan acts.
 - Siege ballistae (4 emplacements at cardinal points)—crewed by arena guards (NPC support), fire giant-slaying bolts (+8 to hit, 4d12 piercing, 3 bolts each).
 - Chasm forming (initiative 15): titan's struggle cracks floor; new fissures appear (10-foot wide, 40-foot deep), requiring jump (Athletics DC 15) or fall.

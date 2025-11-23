@@ -14,7 +14,7 @@
   - **Phylacteries:** Each necromancer has a hidden soul gem on their dais (AC 12, 20 HP, immune to necrotic/poison). If killed without gem destroyed, they respawn at end of next round with half HP at their dais.
 - 4 **Wights** (CR 3) emerge from ossuary when combat starts.
 - 8 **Skeletons** (CR 1/4) shamble up if necromancers bloodied.
-- **Flex:** For 4 PCs, reduce to 1 necromancer with phylactery (other fled pre-match), 3 Wights, 6 Skeletons; necromancer has reduced HP (60 instead of typical mage HP). For 6 PCs, add 1 **Wraith** (CR 5) as necromancers' lieutenant and 4 more Skeletons.
+- **Flex:** For 4 PCs, reduce to 1 necromancer with phylactery (other fled pre-match), 3 Wights, 6 Skeletons; necromancer has reduced HP (60 instead of standard Mage's 40 HP, but fewer high-level spells prepared). For 6 PCs, add 1 **Wraith** (CR 5) as necromancers' lieutenant and 4 more Skeletons.
 
 ## Necromancer Tactics
 - **Opening:** Both necromancers cast *circle of death* overlapping zones; Wights advance to lock down melee PCs.
