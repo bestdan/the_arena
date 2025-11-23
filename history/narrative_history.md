@@ -2,7 +2,7 @@
 
 ## A Note on Sources and Limitations
 
-This narrative is based on analysis of a **shallow git clone** containing only 5 commits from November 23, 2025 onward. The repository owner indicates there are 27 commits in the full history, with the first commit dating to **November 1, 2025** (commit 7bbd4c4). 
+This narrative is based on analysis of a **shallow git clone** containing only the 5 most recent commits. The repository owner indicates there are 27 commits in the full history, with the first commit dating to **November 1, 2025** (commit 7bbd4c4). 
 
 Due to the shallow clone limitation, this history focuses on:
 - The observable repository structure and content
@@ -201,7 +201,7 @@ Both arena and repository are refineries: taking raw potential (condemned prison
 
 ## Historiographical Note
 
-This narrative was generated through human-AI collaboration using a shallow clone (5 visible commits from Nov 23, 2025). The full repository contains 27 commits dating back to November 1, 2025, with pre-git development occurring earlier using ChatGPT and Claude.
+This narrative was generated through human-AI collaboration using a shallow clone with only the 5 most recent commits visible. The full repository contains 27 commits dating back to November 1, 2025, with pre-git development occurring earlier using ChatGPT and Claude.
 
 The limitations of the shallow clone prevented chronological analysis of the repository's actual development sequence. This document instead focuses on structural analysis of the current state and the patterns evident in the most recent major addition (PR #11).
 
