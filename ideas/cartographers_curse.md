@@ -19,7 +19,7 @@
 The cartographer draws the maze in real-time, and **the arena physically manifests what they draw**.
 
 ### Map Drawing Progress
-- Each round, roll 1d4 to determine how many **new features** the cartographer adds:
+- Each round, roll 1d4 to determine what **type of feature** the cartographer adds:
   - 1: New wall (blocks a passage).
   - 2: New corridor (opens a path).
   - 3: Rotating pillar (changes connections between corridors).

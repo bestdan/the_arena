@@ -29,7 +29,7 @@ Each patron box houses a specific type of patron with unique preferences:
 12. **The Crime Lord** (values ruthlessness): Bids high for dirty tricks, intimidation, betrayal.
 
 ### Bidding Mechanics
-- Each patron starts with a **bid pool** (100-500 gp, based on wealth).
+- Each patron starts with a **bid pool** based on wealth tier: Noble/Wealthy (400-500 gp), Merchant/Professional (250-350 gp), Minor/Aspiring (100-200 gp).
 - After each PC's performance (action, check, or attack), patrons may **increase bids** on that PC if impressed.
 - **Bid Increments:** +10 gp (minor success), +25 gp (impressive), +50 gp (extraordinary), +100 gp (legendary).
 - At the end of the bout (12 rounds), **highest bidder wins that PC's contract** for the next month (exclusive sponsorship, plot implications).
@@ -128,6 +128,12 @@ Instead of traditional combat, PCs face **performance tasks**:
   - **Daredevil Duke:** High-risk/high-reward missions, celebrity status.
   - **Healer's Consortium:** Medical supplies, access to healers, support network.
   - **Shadow Broker:** Espionage gigs, underworld connections.
+  - **Beast Tamer:** Access to exotic mounts, animal companions, hunting contracts.
+  - **Artisan's Guild:** Crafting discounts, custom equipment, workshop access.
+  - **Entertainer:** Performance venues, fame boost, social connections.
+  - **Executioner:** Assassination contracts, lethal equipment, grim reputation.
+  - **Scholar:** Library access, research assistance, arcane lore.
+  - **Noble House:** Political influence, social standing, courtly protection.
   - **Crime Lord:** Dirty jobs, moral dilemmas, lucrative but dangerous.
 - **Rival Sponsors:** If two PCs are sponsored by rival patrons, tensions arise (future plot hook).
 - **Disgrace:** PC with lowest bids (or negative bids) is "claimed" by Crime Lord or Executioner against their will (forced into unpleasant contract).

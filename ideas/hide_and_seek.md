@@ -18,7 +18,7 @@ Each Announcement Pillar is a stone obelisk (AC 17, 75 HP, immune to poison/psyc
 - Hunter must **know the PC's name** and **have seen them within the last 3 rounds** (line-of-sight, no more than 60 feet away).
 - Upon successful announcement, arcane magic targets that PC:
   - PC hears their name boom across arena (no save).
-  - PC must make **Charisma save DC 15** at start of their next turn.
+  - PC must make **Wisdom save DC 15** at start of their next turn.
   - **Failure:** PC drops to 0 HP instantly (crowd's magic strikes them down).
   - **Success:** PC resists but takes 4d10 force damage and is **marked** (glowing faintly; disadvantage on Stealth for 1 minute).
 

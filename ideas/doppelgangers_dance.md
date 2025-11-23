@@ -22,7 +22,7 @@ Example: Alice plays her PC (Theron the Fighter) **and** plays a doppelganger pr
 - Imposters have *detect thoughts*, *Read Thoughts* ability, and perfect physical mimicry.
 - Players secretly control their imposter's actions when it's "on screen" (DM hands control back and forth).
 - Goal for imposters: blend in, sow distrust, isolate and kill real PCs.
-- **Win Condition for Imposters:** If more imposters survive than real PCs, patrons withdraw support (narrative loss).
+- **Win Condition for Imposters:** If more imposters survive than real PCs, patrons withdraw support (narrative loss). If equal numbers survive, it's a stalemate (reduced Favor, mixed patron reactions).
 
 ### Trust Mechanics
 - No meta-gaming: players can't ask "are you really Kira?" Players must roleplay suspicion based on behavior.

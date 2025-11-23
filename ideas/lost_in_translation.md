@@ -73,7 +73,7 @@ Enemies exist to create pressure and force PCs to split attention; they **do not
 ## Round Timer
 - **Rounds 1-5:** Enemies patrol slowly; Sentinels move 20 feet/round; Scramblers create minor distractions.
 - **Rounds 6-8:** Enemies become aggressive; Sentinels move 30 feet/round; Scramblers spam illusions; Silence Wraith activates.
-- **Rounds 9-10:** **Collapsing Sands**—arena floor begins to crumble at edges (5-foot inward collapse per round; deals 3d6 bludgeoning to PCs caught in collapse, Dex save DC 14 to leap to safety).
+- **Rounds 9-10:** **Collapsing Sands** (see Hazards below)—arena floor begins to crumble at edges.
 - **Round 11+:** If PCs haven't escaped, entire floor collapses (all PCs make Dex save DC 16 or fall into pit; 6d6 bludgeoning, prone, need to climb out).
 
 ## Crowd Favor Hooks
