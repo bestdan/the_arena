@@ -17,5 +17,5 @@ Use this when brainstorming new sessions or twists. Deliver concise seeds that c
 
 ## Output Style
 - Create a new `brainstorm_*.md` entry per concept; keep bullets tight.
-- Note how custom mechanics might feature (Panache, Crowd Favor, Last Stand).
-- Add `[[wiki links]]` to NPCs, locations, or mechanics when they appear.
+- Note how custom mechanics might feature ([[panache_mechanics|Panache]], [[crowds_favor_mechanic|Crowd Favor]], [[last_stand|Last Stand]]).
+- Use Obsidian wiki-link syntax to reference NPCs, locations, or mechanics when they appear.

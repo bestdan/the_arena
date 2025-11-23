@@ -1,6 +1,6 @@
 # AGENTS: The Arena
 
-LLM operators start here. Keep edits inside `The_Arena/`. Favor writing to Markdown files, linking with Obsidian `[[wiki links]]`, and preserving the campaign's theatrical, consequences-matter tone.
+LLM operators start here. Keep edits inside `The_Arena/`. Favor writing to Markdown files, linking with Obsidian wiki-link syntax, and preserving the campaign's theatrical, consequences-matter tone.
 
 ## Quickstart Context
 - Load this file plus `environment/the_empire.md` for baseline lore and arena framing.

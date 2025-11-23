@@ -41,9 +41,9 @@ The format is repeatable but never repetitive—each bout features different ter
 
 The campaign features homebrew systems that reinforce the theatrical, consequence-driven gameplay:
 
-- **[[Panache]]** (`mechanics/panache_mechanics.md`) - Mechanical rewards for showmanship and style in combat
-- **[[Crowd's Favor]]** (`mechanics/crowds_favor_mechanic.md`) - The audience becomes an active participant, influencing outcomes
-- **[[Last Stand]]** (`mechanics/last_stand.md`) - Dramatic final moments with mechanical benefits when a gladiator falls
+- **[[panache_mechanics|Panache]]** (`mechanics/panache_mechanics.md`) - Mechanical rewards for showmanship and style in combat
+- **[[crowds_favor_mechanic|Crowd's Favor]]** (`mechanics/crowds_favor_mechanic.md`) - The audience becomes an active participant, influencing outcomes
+- **[[last_stand|Last Stand]]** (`mechanics/last_stand.md`) - Dramatic final moments with mechanical benefits when a gladiator falls
 
 These mechanics ensure that *how* you fight matters as much as whether you win.
 
@@ -93,7 +93,7 @@ Each folder has its own `AGENTS.md` with specialized instructions for that conte
 2. **Check mechanics**: Reference the three core homebrew systems for integration opportunities
 3. **Maintain tone**: Keep the theatrical, announcer-style voice and show consequences visibly
 4. **Track continuity**: Injuries, deaths, patron relationships, and reputation matter across sessions
-5. **Use wiki links**: Connect content with Obsidian-style `[[links]]` for easy navigation
+5. **Use wiki links**: Connect content with Obsidian-style wiki links for easy navigation
 
 The campaign is built for collaboration between human creativity and AI assistance, letting GMs focus on player interactions while AI handles content generation, consistency checks, and rapid iteration on encounter design.
 
