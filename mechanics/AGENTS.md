@@ -12,4 +12,4 @@ Use this when creating or tuning homebrew rules. Keep mechanics punchy, lethal, 
 - Keep balance anchored in 5e core; lean risky but avoid opaque math.
 - Add short usage examples or callouts when edge cases exist.
 - Show when crowd reaction or style matters; flag Panache/Crowd Favor hooks explicitly.
-- Cross-link other rules and sessions with `[[wiki links]]`; avoid duplicating text across files.
+- Cross-link other rules and sessions using Obsidian wiki-link syntax; avoid duplicating text across files.

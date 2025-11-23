@@ -53,7 +53,7 @@ These aren't warriors—they're wealthy dilettantes with too much gold and too l
 - **Kill a noble in melee with Panache:** +2 Favor (the crowd delights in seeing the hunters become the hunted).
 - **Steal a noble's weapon mid-combat (Disarm):** +1 Favor, roaring laughter from the stands.
 - **Use a noble's own magical item against them:** +2 Favor (dramatic irony at its finest).
-- **Survive being reduced to 0 HP via [[Last Stand]], then kill the noble who downed you:** +3 Favor (legendary moment).
+- **Survive being reduced to 0 HP via [[last_stand|Last Stand]], then kill the noble who downed you:** +3 Favor (legendary moment).
 - **Reach the trophy pavilion and declare a challenge (taunt all nobles):** +1 Favor, but all nobles focus fire on you for 1 round.
 
 ## Hazards and Tricks
@@ -95,5 +95,5 @@ These aren't warriors—they're wealthy dilettantes with too much gold and too l
 
 ## Notes for Downtime
 - **Loot Distribution:** Encourage PCs to claim trophies immediately. No "waiting until after"—this is gladiatorial theater. Who grabs what matters for narrative and mechanics.
-- **[[Crowd's Favor]] Integration:** This session is built for Favor. Nobles are weak but lucrative; players must balance survival with spectacle.
-- **[[Panache]] Opportunities Everywhere:** Disarming nobles, using their weapons, theatrical kills—reward creativity generously.
+- **[[crowds_favor_mechanic|Crowd's Favor]] Integration:** This session is built for Favor. Nobles are weak but lucrative; players must balance survival with spectacle.
+- **[[panache_mechanics|Panache]] Opportunities Everywhere:** Disarming nobles, using their weapons, theatrical kills—reward creativity generously.

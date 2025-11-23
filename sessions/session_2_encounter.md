@@ -11,7 +11,7 @@ created: 2025-11-15
 - Imwe
 - Torgana
 - Orion Blackreef
-- Gladiator (wielding [[sessions/The Arena 2#Shield of the Righteous Martyr|Shield of Righteous Martyr]])
+- Gladiator (wielding [[session_2_setup#Shield of the Righteous Martyr|Shield of Righteous Martyr]])
 
 **Allied NPCs:**
 - **Merryn** (L2 Elf Archer) - Skilled, loves the crowd, cutthroat

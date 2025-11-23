@@ -76,7 +76,7 @@ Structure should include:
 **Start here for detailed context:**
 - `/AGENTS.md` - Main agent instructions and campaign snapshot
 - Each subfolder has its own `AGENTS.md` with scoped instructions
-- Load `sessions/Intro.md` for baseline lore and arena framing
+- Load `environment/the_empire.md` for baseline lore and arena framing
 - Check `player_characters/characters.md` for current cast
 
 ## Continuity Tracking
