@@ -3,7 +3,7 @@
 Use this guide when drafting or revising session notes. Keep the Arena theatrical and consequence-heavy.
 
 ## Load This Context First
-- `AGENTS.md` and `sessions/Intro.md` for world framing.
+- `AGENTS.md` and `environment/the_empire.md` for world framing.
 - Mechanics: `mechanics/panache_mechanics.md`, `mechanics/crowds_favor_mechanic.md`, `mechanics/last_stand.md`.
 - Current cast: `player_characters/Characters.md`; add relevant `npcs/*.md` for featured characters.
 

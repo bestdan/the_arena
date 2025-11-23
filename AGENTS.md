@@ -3,8 +3,9 @@
 LLM operators start here. Keep edits inside `The_Arena/`. Favor writing to Markdown files, linking with Obsidian `[[wiki links]]`, and preserving the campaign's theatrical, consequences-matter tone.
 
 ## Quickstart Context
-- Load this file plus `sessions/Intro.md` for baseline lore and arena framing.
+- Load this file plus `environment/the_empire.md` for baseline lore and arena framing.
 - Mechanics to keep handy: `mechanics/panache_mechanics.md`, `mechanics/crowds_favor_mechanic.md`, `mechanics/last_stand.md`.
+- for details about the physical arena itself, see `environment/arena_details.md`
 - Cast snapshot: `player_characters/characters.md`; key NPC sheets live in `npcs/`.
 - When editing a folder, check its local `AGENTS.md` for scoped instructions.
 

@@ -4,7 +4,7 @@ Use this when brainstorming new sessions or twists. Deliver concise seeds that c
 
 ## Load This Context First
 - `AGENTS.md` for campaign tone.
-- Optional: `sessions/Intro.md` plus current `player_characters/characters.md` to align hooks.
+- Optional: `environment/the_empire.md` plus current `player_characters/characters.md` to align hooks.
 
 ## Brainstorm Checklist
 - Hook or theme: why this bout matters to the crowd or patrons.
