@@ -50,7 +50,7 @@
 - Dragon should monologue: "I am FIRE incarnate!" "You dare challenge a DRAGON?" "Your bones will adorn my hoard!"
 - If TPK imminent, dragon may accept yield ("You fought well, mortals—LIVE, and tell of my mercy."); converts to patron/rival dynamic.
 - Use [[last_stand]] against breath weapon—one PC absorbs full blast to save others, dies heroically.
-- Adjust dragon age category for party level: Wyrmling (CR 4) for level 3-4, Young (CR 7-10) for 5-7, Adult (CR 13+) for 8-10.
+- Adjust dragon age category for party level: Wyrmling (CR 2-4) for level 3-4, Young (CR 6-9) for 5-7, Young (CR 9-10) for 8-10, Adult (CR 13+) for 11-13. Use lower-CR dragons (Brass, Copper, White) for lower-level parties.
 
 ## Aftermath Seeds
 - Victory: Dragon hoard access (partial—arena takes cut). Include magic item: *Dragon Scale Armor*, *Dragonslayer Longsword +1*, or gemstones worth 2,000 gp.

@@ -44,7 +44,7 @@
 ## GM Tips
 - Mind Blast is devastating—telegraph with illithid's tentacles writhing, psionic hum building.
 - Dominated Warriors should be recognizable—use NPC names from previous sessions ("That's... that's KAEL! What has it DONE to him?").
-- Intellect Devourers inside PCs create moral dilemma—killing the body kills the PC's brain; need *dispel evil*, *protection from evil*, or creative solutions.
+- Intellect Devourers inside PCs create moral dilemma—killing the body kills the PC's brain; need *dispel evil and good*, *protection from evil and good*, or creative solutions.
 - Let low-Int PCs shine with physical prowess; high-Int PCs can counter-psychic or identify weaknesses.
 - Use [[last_stand]] when PC resists domination at cost—burns out brain to save party from thralldom.
 

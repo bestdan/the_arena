@@ -10,7 +10,7 @@
 - Steam vents (8 scattered): provide half-cover but burst with superheated steam when Colossus steps adjacent (2d6 fire, 10-foot radius, Dex DC 13 half).
 
 ## Enemies (mechanical monstrosity plus swarm drones)
-- 1 **Iron Colossus** (reskin Iron Golem with modifications, CR 16 reduced to CR 12 by modular design):
+- 1 **Iron Colossus** (reskin Iron Golem with modifications, effective CR 12 when all cores active; CR reduces as cores destroyed):
   - **Core Abilities (starts with all 4):**
     - Fire Core: Breath weapon (30-foot cone, 6d6 fire, Dex DC 15 half, recharge 5-6).
     - Ice Core: Frost aura (10-foot radius, creatures start turn take 2d6 cold and -10 movement).

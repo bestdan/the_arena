@@ -13,7 +13,7 @@
 - 1 **Empyrean** (CR 23, weakened to CR 18 by chains)—titan uses maul slams, *earthquake* tremors, and divine rage. While chained, cannot move more than 40 feet from center.
 - 4 **Stone Golems** (CR 10)—titan's jailers, turned to titan's side when chain broke. Advance on PCs to prevent chain-destruction.
 - 2 **Earth Elementals** (CR 5)—emerge from cracked floor, harass ranged attackers.
-- **Flex:** For 4 PCs, reduce to CR 15 titan (use Storm Giant stats with legendary actions), 2 Stone Golems, 1 Earth Elemental; titan starts with one chain already weakened (50 HP). For 6 PCs, upgrade to full CR 23 Empyrean with 3 chains (player goal: destroy 2 before titan breaks third).
+- **Flex:** For 4 PCs, reduce to CR 15 titan (use Storm Giant stats with legendary actions), 2 Stone Golems, 1 Earth Elemental; both chains start weakened (50 HP each instead of 100). For 6 PCs, upgrade to full CR 23 Empyrean (higher AC and HP) with standard 2 chains but add 2 more Stone Golems.
 
 ## Titan Phases (Awakening Fury)
 - **Phase 1 (Chained):** Titan uses maul (reach 20 feet) on nearest PCs; Stone Golems form defensive ring around chains. Roars cause fear aura (30 feet, Wisdom DC 18 or frightened).
