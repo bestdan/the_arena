@@ -1,4 +1,6 @@
 
+All characters are currently level 2. 
+
 **Imwe**: Human fighter
 [[link]](./imwe.md)
 
