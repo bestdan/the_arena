@@ -72,9 +72,9 @@ This file serves as the entry point for Copilot agents working across the reposi
 
 ## The BBEG Expansion: Pull Request #11 (November 23, 2025)
 
-The first captured development milestone was a merge from branch `copilot/create-battles-with-bbig-bad` into the main repository. The PR title: "Add BBEG battle session ideas."
+The first captured development milestone was a merge from branch `copilot/create-battles-with-bbeg-bad` into the main repository. The PR title: "Add BBEG battle session ideas."
 
-This massive addition brought **3,788 lines of new content** across 60 files, representing a systematic expansion of the campaign's endgame content. The commit was authored by **copilot-swe-agent[bot]**, explicitly identifying it as AI-generated work.
+This massive addition brought **3,788 lines of new content across 60 files** (as recorded in the commit statistics), representing a systematic expansion of the campaign's endgame content. The commit was authored by **copilot-swe-agent[bot]**, explicitly identifying it as AI-generated work.
 
 ### The BBEG Battle System
 The centerpiece was `ideas/BBEG_BATTLES_INDEX.md`, organizing epic encounters by tier:
@@ -238,8 +238,7 @@ As of the latest commits, The Arena repository represents:
 
 ### A Complete Campaign Framework
 - 3 played sessions with full documentation
-- 33+ brainstormed encounter ideas ranging from low to epic tier
-- 11 fully-detailed BBEG battles across all challenge tiers
+- 35 brainstormed encounter ideas ranging from low to epic tier (including 11 fully-detailed BBEG battles)
 - 3 interconnected homebrew mechanical systems
 - Complete NPC and PC rosters
 - Comprehensive AI instruction framework
