@@ -137,8 +137,8 @@ Three glowing relic pieces scattered across tiers—randomly placed each session
 ### Round Timer: 15 Rounds (Fog Rises)
 - **Rounds 1-4:** No fog; exploration and combat.
 - **Rounds 5-8:** Fog covers Tier 1 (anyone in fog: Con save DC 13 at start of turn or 2d6 poison damage).
-- **Rounds 9-11:** Fog covers Tier 2 (same save, 3d6 poison damage).
-- **Rounds 12-15:** Fog covers Tier 3 (same save, 4d6 poison damage). Crowd chants countdown.
+- **Rounds 9-12:** Fog covers Tier 2 (same save, 3d6 poison damage).
+- **Rounds 13-15:** Fog covers Tier 3 (same save, 4d6 poison damage). Crowd chants countdown.
 - **Round 15 End:** If exit unopened, all gladiators in arena die (fog fills entire space; TPK unless teleported out by merciful patron).
 
 ### Fragment Assembly
@@ -214,8 +214,8 @@ Three glowing relic pieces scattered across tiers—randomly placed each session
 - **Stealing:** Holder can be grappled or disarmed (Athletics/Acrobatics contest) to force drop. Egg falls, rolls randomly.
 
 ### Hatching Outcome
-- **If PC holds egg at start of Round 11:** Phoenix hatches, imprints on PC. Phoenix becomes loyal ally (use **Phoenix** stat block from Mordenkainen's Tome of Foes—CR 16 but reduced to CR 8 for balance; stays for 1 hour or until killed, then reforms in egg).
-- **If enemy/rival holds egg:** Phoenix attacks PCs (hostile, full CR 16 stats).
+- **If PC holds egg at start of Round 11:** Phoenix hatches, imprints on PC. Phoenix becomes loyal ally (use **Phoenix** stat block from Mordenkainen's Tome of Foes—CR 16; reduce HP to 100 and remove lair actions for CR 8 balance; stays for 1 hour or until killed, then reforms in egg).
+- **If enemy/rival holds egg:** Phoenix attacks PCs (hostile, full CR 16 stats with lair actions).
 - **If egg unclaimed (dropped):** Phoenix hatches neutral—ignores everyone, flies away. No reward (crowd boos).
 
 ### Enemies (Rival Teams)
@@ -279,7 +279,7 @@ Three glowing relic pieces scattered across tiers—randomly placed each session
 - **Hatching (enemy victory):** "DISASTER! The phoenix turns on them! BURN, GLADIATORS, BURN!" (crowd gasps/screams)
 
 ### Aftermath Seeds
-- **Phoenix Ally:** PC who hatched egg gains phoenix as companion for 1 hour (use CR 8 reduced phoenix; can't leave arena but fights for PC). After 1 hour, phoenix dissolves into ash, reforms as dormant egg (takes 1 week to re-hatch; PC keeps egg).
+- **Phoenix Ally:** PC who hatched egg gains phoenix as companion for 1 hour (phoenix has CR 16 base stats with HP reduced to 100 and no lair actions; can't leave arena but fights for PC). After 1 hour, phoenix dissolves into ash, reforms as dormant egg (takes 1 week to re-hatch; PC keeps egg).
 - **Phoenix Feather:** Hatching yields 1d4 **Phoenix Feathers** (sell for 500 gp each or use as spell components for fire magic).
 - **Cult Vendetta:** Surviving cultists swear revenge—later session features fire cult ambush or assassination attempt.
 - **Patron Interest:** Fire mage noble impressed by heat resistance/strategy; offers contract for "dangerous fire plane expeditions."
