@@ -113,7 +113,7 @@ Other teams want the serpent too—they'll fight PCs AND chase it.
   - **Tier 2 (Mid-Level):** Open platform with crumbling bridges (requires Acrobatics DC 12 to cross safely or fall 30 feet); ladder to Tier 3.
   - **Tier 3 (Top Level):** Narrow walkways, broken pillars, hanging chains—risky terrain (Dex save DC 13 to avoid falling when attacked).
 - **Exit Portal:** Center of Tier 1; locked with arcane seal. Requires all 3 fragments to open.
-- **Fog Vents:** Base of each tier; toxic fog rises 10 feet per round starting Round 5 (covers Tier 1 by Round 8, Tier 2 by Round 11, Tier 3 by Round 14).
+- **Fog Vents:** Base of each tier; toxic fog rises steadily (covers Tier 1 by Round 8, Tier 2 by Round 12, Tier 3 by Round 15). See Round Timer for details.
 
 ### The Artifact Fragments
 Three glowing relic pieces scattered across tiers—randomly placed each session (DM pre-assigns or rolls 1d6 per tier to determine hiding spots).
@@ -279,7 +279,7 @@ Three glowing relic pieces scattered across tiers—randomly placed each session
 - **Hatching (enemy victory):** "DISASTER! The phoenix turns on them! BURN, GLADIATORS, BURN!" (crowd gasps/screams)
 
 ### Aftermath Seeds
-- **Phoenix Ally:** PC who hatched egg gains phoenix as companion for 1 hour (phoenix has CR 16 base stats with HP reduced to 100 and no lair actions; can't leave arena but fights for PC). After 1 hour, phoenix dissolves into ash, reforms as dormant egg (takes 1 week to re-hatch; PC keeps egg).
+- **Phoenix Ally:** If PC successfully bonds with phoenix (see Hatching Outcome), it serves for 1 hour then dissolves into ash and reforms as dormant egg. PC keeps egg (takes 1 week to re-hatch; can repeat bonding process in future sessions).
 - **Phoenix Feather:** Hatching yields 1d4 **Phoenix Feathers** (sell for 500 gp each or use as spell components for fire magic).
 - **Cult Vendetta:** Surviving cultists swear revenge—later session features fire cult ambush or assassination attempt.
 - **Patron Interest:** Fire mage noble impressed by heat resistance/strategy; offers contract for "dangerous fire plane expeditions."
