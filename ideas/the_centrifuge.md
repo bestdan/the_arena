@@ -2,7 +2,7 @@
 tags: [arena, encounter-idea, environmental, movement, spinning, centrifugal, hazard]
 encounter_type: environmental
 party_size: "4-6"
-level_range: "6-9"
+level_range: "7-9"
 difficulty: hard
 mechanics: [crowds-favor, panache]
 status: ready

@@ -2,7 +2,7 @@
 tags: [arena, encounter-idea, environmental, movement, cold, freezing, hazard]
 encounter_type: environmental
 party_size: "4-6"
-level_range: "5-8"
+level_range: "6-8"
 difficulty: hard
 mechanics: [crowds-favor, panache]
 status: ready

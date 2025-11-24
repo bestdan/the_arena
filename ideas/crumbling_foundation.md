@@ -2,7 +2,7 @@
 tags: [arena, encounter-idea, environmental, movement, collapsing, hazard]
 encounter_type: environmental
 party_size: "4-6"
-level_range: "4-6"
+level_range: "5-6"
 difficulty: hard
 mechanics: [crowds-favor, panache]
 status: ready

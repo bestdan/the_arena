@@ -2,7 +2,7 @@
 tags: [arena, encounter-idea, environmental, movement, rising-water, drowning, hazard]
 encounter_type: environmental
 party_size: "4-6"
-level_range: "5-7"
+level_range: "6-7"
 difficulty: hard
 mechanics: [crowds-favor, panache]
 status: ready
