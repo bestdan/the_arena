@@ -95,7 +95,7 @@ The grove spawns defenders from the Corrupted Heart Tree and lurking within the 
 
 ## Hazards and Twists
 - **Spontaneous Bloom:** Round 4, random 20-foot-radius area blooms with **Blood Petals** (beautiful red flowers; 3d6 necrotic damage, DC 14 Con save for half; area becomes difficult terrain).
-- **Vine Surge:** Initiative count 20 (rounds 2, 5, 8), Corrupted Heart Tree spawns 1d4 new Assassin Vines (max 12 total active; crowd loves/hates this depending on PC performance).
+- **Vine Surge:** Initiative count 20 (rounds 2, 5, 8), Corrupted Heart Tree spawns 1d4 new Assassin Vines (max 12 total active; stop spawning if PCs are heavily wounded or struggling; reduce to 1d2 if party is overwhelmed).
 - **False Path:** One stone trail is entirely trapped; PCs who stick to it trigger 3 consecutive traps (GMs should foreshadow this with "too perfect" appearance or corpse-strewn evidence).
 - **Nature's Mockery:** Corrupted Dryad (if present) mimics PC voices to lure them into traps or separate the party ("Help! I'm stuck in the stream!").
 - **Overgrowth Collapse:** If PCs set major fires, sections of canopy collapse (DM chooses 20-foot-radius area; DC 13 Dex save or 3d6 bludgeoning + knocked prone).
@@ -126,4 +126,4 @@ The grove spawns defenders from the Corrupted Heart Tree and lurking within the 
 - **Injury:** PC who fell in pit trap and was impaled develops "Thornmarked" scar (visible vein-like marks on skin; no mechanical effect but NPCs react with superstition).
 - **Political:** Rival arena claims the "natural spectacle" was plagiarized from their upcoming bout; accusations of espionage and copycat performances.
 - **Loot:** Assassin Vines can be harvested for **Living Rope** (50 feet, can command to tie/untie self as bonus action; lasts 1d4 days before withering; 25 gp value per 50 feet).
-- **Cursed Growth:** One PC who touched Corrupted Heart Tree sap must make DC 12 Wisdom save; failure = nightmares of being strangled by roots for 1d4 nights (exhaustion 1 level until cured with *lesser restoration*).
+- **Cursed Growth:** One PC who touched Corrupted Heart Tree sap must make DC 12 Wisdom save; failure = nightmares of being strangled by roots for 1d4 nights (gain 1 level of exhaustion total until nightmares end or cured with *lesser restoration*; does not stack with multiple failures).
