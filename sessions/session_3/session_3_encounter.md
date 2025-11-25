@@ -1,30 +1,32 @@
 ---
-tags: [arena, encounter, session2]
+tags: [arena, encounter]
 created: 2025-11-15
+session_number: 3
+party_level: 2
+created: 2025-11-21
+updated: 2025-11-21
 ---
 
-# Session 2 Encounter: The Butcher's Block
+# Session 3 Encounter: The Butcher's Block
 
 ## Party Composition (8 combatants)
 
 **Level 2 Player Characters (4):**
-- Imwe
-- Torgana
-- Orion Blackreef
-- Gladiator (wielding [[session_2_setup#Shield of the Righteous Martyr|Shield of Righteous Martyr]])
+- Imwe: starts with 3 favor
+- Torgana: starts with 2 favor
+- Orion Blackreef: starts with 0 favor
+- Father Crow: starts with 2 favor
+- Gladiator (wielding [Shield of the Righteous Martyr](../../items/shield_of_the_righteous_martyr.md)): starts with 1 favor
 
 **Allied NPCs:**
 - **Merryn** (L2 Elf Archer) - Skilled, loves the crowd, cutthroat
 - **Rohm** (L2 Fighter) - Protective, motivated, solid with shield and spear
 - **Tovo, Dec, Lira** (L1 Fighters) - Green, armed with spears/daggers, need protection
 
-**Party Strength:** ~14,000 adjusted XP threshold, but with significant variance in capability
 
 ---
 
 ## Enemy Composition
-
-**Total XP:** ~700 (Medium-Hard encounter for this group)
 
 ### Primary Threat
 
@@ -87,25 +89,6 @@ created: 2025-11-15
 ---
 
 ## Arena Layout
-
-**Arena Size:** 60 ft diameter circle
-
-```
-           [Wall Spikes - North]
-              ║ ║ ║ ║ ║
-
-[Quicksand]     OGRE        [Quicksand]
-   (West)    Master1  Master2   (East)
-    ≋≋≋     Hyena Hyena Hyena    ≋≋≋
-     ≋        Hyena               ≋
-
-
-           [Starting Gate]
-              (South)
-           PARTY ENTERS
-```
-
----
 
 ## Environmental Hazards
 

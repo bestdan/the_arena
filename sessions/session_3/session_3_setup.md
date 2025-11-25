@@ -7,12 +7,12 @@ created: 2025-11-21
 updated: 2025-11-21
 ---
 
-## 5 days before Match 2: 
+## 5 days before Match 3: 
 
 The half-elf woman recovers. Her name is [[Merryn Thal]].  She joined The Arena voluntarily. She **loves** fame, the crowd, the applause. She did something else before (she won't reveal what), but failed at it, and this seemed like the natural next step. She's as cutthroat as can be: make her look good, she'll help you. Make her look bad, you'll end up like those shitty archers. 
 She's good with a bow, and meditates by sharpening a pair of long curved daggers. She's somehow already gotten new clothes in the pens, some brightly colored scarves.
 
-## 2 days before Match 2: 
+## 2 days before Match 3: 
 Snak saunters to your ~cell~ boarding room. She looks your party over with a flat, unimpressed stare, chewing on something that might be jerky or might be a warning.
 
 ```
@@ -28,7 +28,7 @@ You want real backing? Real money? Then you give them a show they can't ignore. 
 So don't die stupid. Hit hard, last long, make 'em wish they'd sent someone who matters. Dead fighters don't generate revenue.
 ```
 
-## 1 day before Match 2:
+## 1 day before Match 3:
 At about 1pm, after lunch, you hear heavy boots in the hallway. Jeff's voice, sharp. Then another voice: "Hey, lay off, he's exhausted." The lock rattles. Jeff appears, face already annoyed, and shoves the door open.
 
 First through is a young man, barely. Maybe 18 years old. Lanky, with dirt under his fingernails and the hollow-eyed look of someone who hasn't slept in days. He can barely stand.
@@ -72,25 +72,7 @@ Her eyes cruise over Torgana, Imwe, landing on Gladiator.
 "Time to even the odds a bit."
 She pulls a shield out of a burlap sack. It's covered in grime and mud. Intentionally. To hide something about it. 
 "You seemed handy with a shield. Hope I'm not wrong. You've got an hour to get used to it. Don't fuck it up. Try to not let anyone on that it's special."
-She hands the shield to Gladiator. 
-
-#### **Shield of the Righteous Martyr**
-**Very Rare (requires attunement)**  
-A heavy, scarred shield engraved with the names of those who died carrying it (5 names. There's an open slot).
-
-**Properties:**
-**• +2 bonus to AC.**
-**• Protective Aura:**  
-Allies within **5 feet** of you gain a **+1 bonus to AC**.  
-
-**• Shieldmaster’s Discipline:**  
-While attuned, if you take the Attack action on your turn, you can use a bonus action to try to shove a creature within 5 feet of you with your shield.
-- +2 on strength saves
-
-**• Martyr’s Intervention (5/day):**  
-When an ally within 10 ft takes damage, you can use your reaction to reduce that damage by **1d10 + your proficiency bonus**.  
-You take **2 points** of unavoidable damage when you do this.
-
+She hands the shield to Gladiator. It is the [Shield of the Righteous Martyr](../../items/shield_of_the_righteous_martyr.md)
 
 
 ## Ten minutes before match, the Armory
@@ -99,7 +81,7 @@ Rohm, Tovo, Dec and Lira enter. They look surprisingly better, sharp eyed. They 
 Rohm goes directly for the shields, and a spear, does a quick calibration of weight and length. 
 He looks over you all, eyes lingering on Gladiators shield. 
 
-"Surprisingly dirty. But no less effective. I have nothing to offer except my future debt, and the hope you are a good man.  Help me. Help them. You can have my winnings, and my favor."
+"Dirty. But no less effective. I have nothing to offer except my future debt, and the hope you are a good man.  Help me. Help them. You can have my winnings, and my favor."
 The bugle sounds. The announcer begins. 
 
 ```
@@ -115,45 +97,24 @@ The bugle sounds. The announcer begins.
 
 "Today? Today we separate the _lucky_ from the _lethal_."
 
-**[He gestures dramatically toward the gates.]**
-
 "No more beasts driven mad with hot irons. No more mindless claws and hunger. Today, our survivors face something _far_ more dangerous…"
-
-**[A pause. The crowd leans in.]**
 
 "_Professionals._"
 
-**[Jeers and excited shouts.]**
 
 "That's right! From the holding pens of the east gate, we present: THE BUTCHER'S BLOCK!"
 
 **[Distant gates creak open. The sound of something heavy moving, chains rattling, sharp cackling laughter.]**
 
-"One massive brute with a cleaver the size of a _child_! A pack of hyenas so hungry, they've been eating each other!"
-
-**[The crowd roars. He grins.]**
-
 "And facing them? Our returning champions—IF you can call them that yet—plus a few… _new additions_ to keep things interesting."
 
 **[He turns toward the southern gate where the party waits.]**
 
-"Will the Butcher's Block live up to its name and send them all to the bone pile?"
-
-**[He raises his hand high, voice booming.]**
-
-"Only one way to find out!"
-
-**[The gates begin to rise on both sides. Sunlight floods the sand.]**
-
 "Combatants! The sands… are WAITING!"
 ```
-
-As he finishes, there is a rasp from the Armory door. Snak turns, and yells "No way. No fucking way."
-"Sorry Snak, sorry. Pitbosses orders. He's more ripe than 5 day old fish. Boss wants him out." He shoves in a bedraggled form, smelling of stale alcohol.
 
 The bugle sounds. You walk up into the blinding light once again. To an arena very different to the one you left. 
 
 Roll initiative please. 
 
-
-The crowd gasps as they see the kids. There are murmers and less cheering. For all it's cruelty, The Arena doesn't enjoy seeing kids slaughtered. 
+There is silence, the the crowd gasps as they see the kids. There are murmers and less cheering. For all it's cruelty, The Arena doesn't enjoy seeing kids slaughtered. 

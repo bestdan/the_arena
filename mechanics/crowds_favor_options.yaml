@@ -1,0 +1,189 @@
+# Crowd's Favor Options
+# Data file for all available favor spending options in The Arena
+
+options:
+  - cost: 1
+    name: Flair Boost
+    category: offense
+    action: declared
+    effect: Add +1d4 to any attack roll, skill check, or save (declared before or after rolling)
+
+  - cost: 1
+    name: Flash Step
+    category: mobility
+    action: free
+    effect: Move 10 feet without provoking opportunity attacks
+
+  - cost: 1
+    name: On Guard
+    category: defense
+    action: reaction
+    effect: Gain +1 AC until the start of your next turn
+
+  - cost: 1
+    name: Taunt
+    category: control
+    action: bonus
+    effect: Force a creature within 15 ft. to make a Wisdom save or have disadvantage on its next attack against anyone but you
+
+  - cost: 1
+    name: Eyecatcher
+    category: support
+    action: free
+    effect: Give an ally you can see +1 on their next attack roll or check
+
+  - cost: 1
+    name: Up by your Bootstraps
+    category: mobility
+    action: bonus
+    effect: Stand from prone using no movement
+
+  - cost: 1
+    name: Flash Recuperation
+    category: defense
+    action: bonus
+    effect: Gain temp HP = your proficiency bonus
+
+  - cost: 1
+    name: Damage Tax
+    category: defense
+    action: free
+    effect: After dealing damage, regain 1d4 HP
+
+  - cost: 2
+    name: Moral Support
+    category: support
+    action: bonus
+    effect: Take the Help action as a bonus action
+
+  - cost: 2
+    name: Turn the Knife
+    category: offense
+    action: free
+    effect: Reroll damage you just rolled
+
+  - cost: 2
+    name: Light in Their Eyes
+    category: defense
+    action: reaction
+    effect: After an enemy hits you, force them to reroll the attack
+
+  - cost: 2
+    name: The Chant Rises
+    category: defense
+    action: free
+    effect: Gain advantage on your next saving throw
+
+  - cost: 2
+    name: Salt in the Wound
+    category: offense
+    action: free
+    effect: Add +1d6 to a single attack damage roll after you hit
+
+  - cost: 2
+    name: Bold Stance
+    category: defense
+    action: bonus
+    effect: "Until end of your next turn: can't be pushed or knocked prone; opportunity attacks against you at disadvantage"
+
+  - cost: 2
+    name: Sizzle Sniper
+    category: offense
+    action: free
+    effect: Your next melee or ranged attack ignores half cover and three-quarters cover
+
+  - cost: 2
+    name: Stage Fright
+    category: control
+    action: bonus
+    effect: Choose a creature within 30 ft. It must succeed on a Wisdom save or cannot take reactions until the start of your next turn
+
+  - cost: 2
+    name: Swagger Step
+    category: mobility
+    action: free
+    effect: Gain advantage on your next Acrobatics or Athletics check
+
+  - cost: 2
+    name: Roaring Momentum
+    category: mobility
+    action: free
+    effect: After hitting or succeeding, immediately move up to half your speed without provoking opportunity attacks
+
+  - cost: 3
+    name: Rally the Arena
+    category: support
+    action: free
+    effect: Grant +1d6 to all allies' next attack roll (once per round per arena rules)
+
+  - cost: 3
+    name: Tankin' Time
+    category: defense
+    action: bonus
+    effect: Give yourself temporary HP = your proficiency bonus × 2
+
+  - cost: 3
+    name: Crowd Favorite
+    category: offense
+    action: free
+    effect: Your next attack that hits deals an additional 2d6 damage
+
+  - cost: 3
+    name: Second Wind
+    category: defense
+    action: bonus
+    effect: Regain HP equal to 1d10 + your proficiency bonus
+
+  - cost: 3
+    name: Perfect Opening
+    category: offense
+    action: bonus
+    effect: Your next attack roll before the end of your turn has advantage and scores a critical hit on a 19-20
+
+  - cost: 3
+    name: Crowd Shield
+    category: defense
+    action: reaction
+    effect: When you would take damage, reduce it by 2d8 + your Charisma modifier (minimum 1)
+
+  - cost: 3
+    name: Arena Acrobatics
+    category: mobility
+    action: bonus
+    effect: Until the end of your turn, your movement doesn't provoke opportunity attacks and you can move through enemy spaces
+
+  - cost: 3
+    name: Mass Distraction
+    category: control
+    action: bonus
+    effect: Choose up to 3 creatures within 30 ft. Each must succeed on a Wisdom save or have disadvantage on their next attack roll
+
+  - cost: 3
+    name: Steal the Show
+    category: support
+    action: bonus
+    effect: Grant an ally within 30 ft. advantage on their next attack roll and +1d8 to the damage if it hits
+
+  - cost: 3
+    name: Dramatic Dodge
+    category: defense
+    action: reaction
+    effect: When targeted by an attack, impose disadvantage on the attack roll and move up to 10 feet without provoking opportunity attacks
+
+  - cost: 5
+    name: Turn the Tide
+    category: signature
+    action: free
+    effect: "Once per encounter: automatically succeed on a death saving throw and stand up with 1 HP"
+
+  - cost: 5
+    name: Finisher's Spotlight
+    category: signature
+    action: declared
+    effect: "Declare at start of turn: your attacks deal +10 damage (flat) this turn"
+
+  - cost: 6
+    name: The Arena's Blessing
+    category: signature
+    action: free
+    effect: "For 3 rounds: all Panache rolls gain advantage; if you drop to 0 HP, drop to 1 instead (once)"
