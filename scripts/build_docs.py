@@ -15,7 +15,7 @@ import re
 import shutil
 import yaml
 from pathlib import Path
-from typing import Dict, List, Optional
+from typing import Dict, List, Optional, Any
 
 # Repository root
 REPO_ROOT = Path(__file__).parent.parent
@@ -28,7 +28,7 @@ EXCLUDE_DIRS = {".git", ".github", "node_modules", "docs", "scripts"}
 EXCLUDE_FILES = {".gitignore", ".gitattributes"}
 
 
-def parse_frontmatter(content: str) -> tuple[Optional[Dict], str]:
+def parse_frontmatter(content: str) -> tuple[Optional[Dict[str, Any]], str]:
     """
     Parse YAML frontmatter from markdown content.
     
@@ -59,6 +59,9 @@ def build_file_index(docs_dir: Path) -> Dict[str, str]:
     """
     Build an index of all markdown files in docs directory.
     Returns a dict mapping filename -> relative path from docs root.
+    
+    Note: If multiple files have the same name, only the last one found
+    will be indexed. Consider using unique filenames across directories.
     """
     file_index = {}
     if not docs_dir.exists():
@@ -108,7 +111,8 @@ def convert_wiki_links(content: str, current_file_path: Path, file_index: Dict[s
         if link in file_index:
             return f"[{alias}]({file_index[link]})"
         
-        # Default to just the filename (may be a broken link)
+        # Default to just the filename (may be a broken link if file not public)
+        print(f"⚠ Warning: Could not resolve wiki link [[{link_content}]] - target may not be marked as public")
         return f"[{alias}]({link})"
     
     # Replace all [[...]] patterns
