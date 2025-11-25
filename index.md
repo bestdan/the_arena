@@ -50,9 +50,9 @@ The format is repeatable but never repetitive—each bout features different ter
 
 The campaign features homebrew systems that reinforce the theatrical, consequence-driven gameplay:
 
-- **[[panache|Panache]]** (`mechanics/panache.md`) - Mechanical rewards for showmanship and style in combat
-- **[[crowds_favor|Crowd's Favor]]** (`mechanics/crowds_favor.md`) - The audience becomes an active participant, influencing outcomes
-- **[[last_stand|Last Stand]]** (`mechanics/last_stand.md`) - Dramatic final moments with mechanical benefits when a gladiator falls
+- **[[panache|Panache]]** - Mechanical rewards for showmanship and style in combat
+- **[[crowds_favor|Crowd's Favor]]** - The audience becomes an active participant, influencing outcomes
+- **[[last_stand|Last Stand]]** - Dramatic final moments with mechanical benefits when a gladiator falls
 
 These mechanics ensure that *how* you fight matters as much as whether you win.
 
