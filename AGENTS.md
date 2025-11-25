@@ -12,7 +12,7 @@ LLM operators start here. Keep edits inside `The_Arena/`. Favor writing to Markd
 
 ## Quickstart Context
 - Load this file plus `environment/the_empire.md` for baseline lore and arena framing.
-- Mechanics to keep handy: `mechanics/panaches.md`, `mechanics/crowds_favor.md`, `mechanics/last_stand.md`.
+- Mechanics to keep handy: `mechanics/panache.md`, `mechanics/crowds_favor.md`, `mechanics/last_stand.md`.
 - for details about the physical arena itself, see `environment/arena_details.md`
 - Cast snapshot: `player_characters/characters.md`; key NPC sheets live in `npcs/`.
 - When editing a folder, check its local `AGENTS.md` for scoped instructions.

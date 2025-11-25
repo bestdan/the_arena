@@ -36,7 +36,7 @@ created: 2025-11-21
 - Forcing vampire into moonlight beam (shove, grapple, or spell): +3 Favor.
 - Dropping chandelier on vampire (ranged attack vs. AC 12 to break chain, then Dex save DC 15 or 4d10 bludgeoning + pinned): +3 Favor.
 - Destroying all 4 blood fountains before vampire can drain any: +4 Favor (party-wide).
-- Using [[panaches]] to "cut in" and waltz with vampire before striking: +3 Favor on success (Performance check DC 16).
+- Using [[panache]] to "cut in" and waltz with vampire before striking: +3 Favor on success (Performance check DC 16).
 
 ## Hazards and Vampire Vulnerabilities
 - **Moonlight beams:** Sweep in predictable waltz pattern (1-2-3, 1-2-3 count); PCs can predict and herd vampire.

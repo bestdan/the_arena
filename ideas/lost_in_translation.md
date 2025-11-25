@@ -93,7 +93,7 @@ Enemies exist to create pressure and force PCs to split attention; they **do not
 - Detect and dispel a Spell Scrambler's fake clue: +1 Favor.
 - Activate the Exit Seal correctly on first attempt (no resets): +3 Favor.
 - Escape within 7 rounds (fast puzzle solve): +2 Favor.
-- Use [[panaches|Panache]] to distract enemies while another PC reads clues: +1 Favor to both.
+- Use [[panache|Panache]] to distract enemies while another PC reads clues: +1 Favor to both.
 
 ## Tactical Elements
 - **Language Barrier:** PCs must invent communication methods. Examples:

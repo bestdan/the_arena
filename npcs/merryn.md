@@ -8,10 +8,11 @@ created: 2025-11-21
 character_name: Merryn Thal
 class: Rogue
 aliases: [merryn, miren]
+visibility: public
 ---
 
 
-**The Smile Behind the Mask**
+**Merryn Thal: The Smile Behind the Mask**
 
 **Race/Class:** Half-Elf (Rogue/Entertainer) woman. 
 **Appearance:** Dashing, flamboyant, wears half-masks and bright silks even in the bloodstained sand.  

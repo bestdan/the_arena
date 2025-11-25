@@ -56,7 +56,7 @@ created: 2025-11-21
 - Stop an enemy one square from the gate with a killing blow: +2 Favor.
 - Use environment to stop multiple enemies at once (tipped brazier, collapsing barricade): +2 Favor.
 - Intercept a runner with an opportunity attack that drops them: +1 Favor.
-- Declare a [[panaches|Panache]] strike to defend the gate and succeed: +2 Favor.
+- Declare a [[panache|Panache]] strike to defend the gate and succeed: +2 Favor.
 - Save an overwhelmed ally from being bypassed: +1 Favor to both.
 - Hold the center chokepoint solo for a full round while enemies try to pass: +2 Favor.
 

@@ -36,7 +36,7 @@ created: 2025-11-21
 - Silencing all 4 Cult Fanatics within 2 rounds: +2 Favor to party (shared).
 - Climbing to a floating platform while under eye-ray fire: +2 Favor.
 - Landing melee killing blow on beholder while it's airborne (requires flight or platform jump): +4 Favor ("the impossible strike!").
-- Using [[panaches]] to reflect an eye-ray with a shield or mirror: +3 Favor on success (DM discretion for physics).
+- Using [[panache]] to reflect an eye-ray with a shield or mirror: +3 Favor on success (DM discretion for physics).
 
 ## Hazards and Tactics
 - Anti-magic cone suppresses *all* magic (spells, magic items, potions)—PCs must position carefully or go mundane.

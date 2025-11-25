@@ -34,7 +34,7 @@ created: 2025-11-21
 - Destroying a godforged chain under titan's attack: +4 Favor (requires 100 damage while surviving titan's reach).
 - Manning siege ballista and landing hit on titan: +2 Favor per hit.
 - Surviving titan's maul slam at point-blank range (taking damage but staying conscious): +3 Favor.
-- Using [[panaches]] to climb titan and attack weak point (eyes, joints): +4 Favor on success (Athletics DC 20 to climb, advantage on attacks while mounted).
+- Using [[panache]] to climb titan and attack weak point (eyes, joints): +4 Favor on success (Athletics DC 20 to climb, advantage on attacks while mounted).
 - Preventing titan escape in Phase 3 final round: +5 Favor (party-wide, "SAVIORS OF TARSUS").
 
 ## Hazards and Titan Weaknesses

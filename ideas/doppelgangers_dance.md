@@ -56,7 +56,7 @@ Example: Alice plays her PC (Theron the Fighter) **and** plays a doppelganger pr
 
 ## Crowd Favor Hooks
 - Identify a doppelganger via clever questioning/trap and expose them publicly: +2 [[crowds_favor|Favor]].
-- Kill a doppelganger with [[panaches|Panache]] after unmasking it: +2 Favor.
+- Kill a doppelganger with [[panache|Panache]] after unmasking it: +2 Favor.
 - Rescue a real PC from an imposter's ambush: +1 Favor to both.
 - Survive a 1v1 imposter encounter and defeat it solo: +2 Favor.
 - Convince the party you're real when they suspect you (successful Deception/Persuasion): +1 Favor.

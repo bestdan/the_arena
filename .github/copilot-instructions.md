@@ -21,7 +21,7 @@ This is **The Arena**, a D&D 5e gladiatorial campaign set in Tarsus. The reposit
 
 ## Key Custom Mechanics
 When suggesting code or content, be aware of these homebrew systems:
-- **Panache** (`mechanics/panaches.md`) - Showmanship and style matter in combat
+- **Panache** (`mechanics/panache.md`) - Showmanship and style matter in combat
 - **Crowd's Favor** (`mechanics/crowds_favor.md`) - Audience reactions affect outcomes
 - **Last Stand** (`mechanics/last_stand.md`) - Dramatic final moments with mechanical benefits
 
@@ -97,7 +97,7 @@ Always track and maintain:
 
 ## Link Format
 Use Obsidian-style wiki links: `[[filename]]` or `[[folder/filename]]`
-Examples: `[[panaches]]`, `[[npcs/patron_name]]`, `[[Crowd's Favor]]`
+Examples: `[[panache]]`, `[[npcs/patron_name]]`, `[[Crowd's Favor]]`
 
 ## Code Suggestions
 When suggesting file edits or new content:

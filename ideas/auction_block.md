@@ -93,7 +93,7 @@ Instead of traditional combat, PCs face **performance tasks**:
 ## Crowd Favor Hooks
 - Impress a patron with exceptional performance: +1 [[crowds_favor|Favor]].
 - Fulfill a patron's shouted request perfectly: +2 Favor.
-- Use [[panaches|Panache]] successfully during a demonstration: +1 Favor.
+- Use [[panache|Panache]] successfully during a demonstration: +1 Favor.
 - Land a critical hit on bullseye or dummy: +2 Favor.
 - Tame a dangerous beast on first attempt: +2 Favor.
 - Complete obstacle course without failure: +2 Favor.

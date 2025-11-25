@@ -46,7 +46,7 @@ created: 2025-11-21
 - Hold a tower solo for a full round while under attack: +2 Favor.
 - Topple a ladder with enemies on it (they fall, take falling damage): +1 Favor.
 - Kill an enemy with environmental damage (tipped brazier, thrown from walls): +2 Favor.
-- Rally a wounded ally with a [[panaches|Panache]] declaration: +1 Favor to both.
+- Rally a wounded ally with a [[panache|Panache]] declaration: +1 Favor to both.
 - Hold the keep for all 10 rounds without it being breached: +3 Favor to all defenders (shared).
 
 ## Hazards and Terrain

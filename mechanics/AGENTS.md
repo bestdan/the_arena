@@ -12,7 +12,7 @@ Use this when creating or tuning homebrew rules. Keep mechanics punchy, lethal, 
 
 ## Load This Context First
 - `AGENTS.md` for global tone.
-- Nearby mechanics you might touch: `panaches.md`, `crowds_favor.md`, `last_stand.md`.
+- Nearby mechanics you might touch: `panache.md`, `crowds_favor.md`, `last_stand.md`.
 - If a rule targets a session arc, skim the relevant `sessions/*.md` for fit.
 
 ## Writing Rules

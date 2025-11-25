@@ -61,7 +61,7 @@ Other teams want the serpent too—they'll fight PCs AND chase it.
 ### Objectives
 - **Primary:** Catch the Golden Serpent before Round 12 ends.
 - **Secondary:** Eliminate rival gladiators (reduces competition, earns Favor).
-- **Tertiary:** Catch serpent with [[panaches|Panache]] (diving tackle, mid-air intercept, trick shot).
+- **Tertiary:** Catch serpent with [[panache|Panache]] (diving tackle, mid-air intercept, trick shot).
 
 ### [[crowds_favor|Crowd Favor]] Hooks
 - First PC to get within 5 feet of serpent: +1 Favor.
@@ -153,7 +153,7 @@ Three glowing relic pieces scattered across tiers—randomly placed each session
 
 ### [[crowds_favor|Crowd Favor]] Hooks
 - First PC to find a fragment: +1 Favor.
-- Defeat Stone Golem with [[panaches|Panache]]: +3 Favor (declaring dramatic attack).
+- Defeat Stone Golem with [[panache|Panache]]: +3 Favor (declaring dramatic attack).
 - Retrieve Fragment 3 from hanging chain with acrobatic catch (Dex save DC 13): +2 Favor.
 - Open exit portal in final 3 rounds (Rounds 13-15): +3 Favor for clutch timing.
 - Carry all 3 fragments solo (no passing to allies): +2 Favor for glory-hog.
@@ -253,7 +253,7 @@ Three glowing relic pieces scattered across tiers—randomly placed each session
 - Steal egg from rival with grapple/disarm: +2 Favor.
 - Throw egg to ally across lava pit (successful ranged "pass"): +2 Favor for teamwork.
 - Survive holding egg in Rounds 7-9 (1d6 fire damage): +1 Favor per round survived.
-- Defeat Salamander with [[panaches|Panache]] while holding egg: +4 Favor (multitasking badass).
+- Defeat Salamander with [[panache|Panache]] while holding egg: +4 Favor (multitasking badass).
 - Hold egg when it hatches (Round 11): +5 Favor for ultimate victory.
 
 ### Rival Tactics
@@ -304,7 +304,7 @@ Three glowing relic pieces scattered across tiers—randomly placed each session
 - Golden Serpent, egg rolling—make it unpredictable. Don't telegraph where it'll go; roll randomly.
 - Let PCs attempt to predict/intercept (Intelligence or Wisdom checks DC 14 to guess next direction; success = readied action bonus).
 
-### Encouraging [[panaches|Panache]]
+### Encouraging [[panache|Panache]]
 - Reward creative catches: diving tackles, mid-air intercepts, trick shots, acrobatic grapples.
 - Announce Panache attempts to crowd: "LOOK AT THAT! A daring leap! Will they catch it?!" (builds tension).
 
@@ -316,7 +316,7 @@ Three glowing relic pieces scattered across tiers—randomly placed each session
 ---
 
 ## Cross-Linking
-- [[panaches]] for flashy catches/attacks.
+- [[panache]] for flashy catches/attacks.
 - [[crowds_favor]] for earning audience approval.
 - [[last_stand]] if a PC sacrifices themselves to pass the snitch/fragment to an ally (heroic death).
 - [[environment/arena_details]] for physical arena staging and crowd dynamics.

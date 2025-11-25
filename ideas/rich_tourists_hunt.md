@@ -106,4 +106,4 @@ These aren't warriors—they're wealthy dilettantes with too much gold and too l
 ## Notes for Downtime
 - **Loot Distribution:** Encourage PCs to claim trophies immediately. No "waiting until after"—this is gladiatorial theater. Who grabs what matters for narrative and mechanics.
 - **[[crowds_favor|Crowd's Favor]] Integration:** This session is built for Favor. Nobles are weak but lucrative; players must balance survival with spectacle.
-- **[[panaches|Panache]] Opportunities Everywhere:** Disarming nobles, using their weapons, theatrical kills—reward creativity generously.
+- **[[panache|Panache]] Opportunities Everywhere:** Disarming nobles, using their weapons, theatrical kills—reward creativity generously.

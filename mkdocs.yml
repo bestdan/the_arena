@@ -79,5 +79,11 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/bestdan/the_arena
   generator: false
+
+extra_css:
+  - stylesheets/sortable-tables.css
+
+extra_javascript:
+  - javascripts/sortable-tables.js
 # Site navigation will be auto-generated from docs/ structure
 # Only public files will be copied to docs/ by the build script

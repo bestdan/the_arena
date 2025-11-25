@@ -10,7 +10,7 @@ updated: 2025-11-21
 
 ## 5 days before Match 3: 
 
-The half-elf woman recovers. Her name is [[Merryn Thal]].  She joined The Arena voluntarily. She **loves** fame, the crowd, the applause. She did something else before (she won't reveal what), but failed at it, and this seemed like the natural next step. She's as cutthroat as can be: make her look good, she'll help you. Make her look bad, you'll end up like those shitty archers. 
+The half-elf woman recovers. Her name is [Merryn Thal](../../npcs/merryn.md).  She joined The Arena voluntarily. She **loves** fame, the crowd, the applause. She did something else before (she won't reveal what), but failed at it, and this seemed like the natural next step. She's as cutthroat as can be: make her look good, she'll help you. Make her look bad, you'll end up like those shitty archers. 
 She's good with a bow, and meditates by sharpening a pair of long curved daggers. She's somehow already gotten new clothes in the pens, some brightly colored scarves.
 
 ## 2 days before Match 3: 

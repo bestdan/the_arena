@@ -82,7 +82,7 @@ The grove spawns defenders from the Corrupted Heart Tree and lurking within the 
 - Burn down a section of the grove dramatically (sets undergrowth on fire, spreads slowly): +2 Favor for spectacle.
 - Kill the Shambling Mound using fire (exploiting its vulnerability): +2 Favor for nature knowledge.
 - Navigate the entire fight without stepping on a path (staying in difficult terrain to avoid traps): +1 Favor for paranoia paying off.
-- Climb a platform and make a called shot from above ([[panaches|with Panache]]): +1 Favor for style.
+- Climb a platform and make a called shot from above ([[panache|with Panache]]): +1 Favor for style.
 - Destroy the Heart Tree in a single dramatic blow (30+ damage in one hit): +3 Favor for cinematic finish.
 
 ## Tactical Elements

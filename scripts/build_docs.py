@@ -20,9 +20,10 @@ from typing import Dict, List, Optional, Any
 # Repository root
 REPO_ROOT = Path(__file__).parent.parent
 DOCS_DIR = REPO_ROOT / "docs"
+STATIC_DIR = REPO_ROOT / "static"
 
 # Directories to exclude from scanning
-EXCLUDE_DIRS = {".git", ".github", "node_modules", "docs", "scripts"}
+EXCLUDE_DIRS = {".git", ".github", "node_modules", "docs", "scripts", "static"}
 
 # Files to always exclude
 EXCLUDE_FILES = {".gitignore", ".gitattributes"}
@@ -79,17 +80,18 @@ def build_file_index(docs_dir: Path) -> Dict[str, str]:
 def convert_wiki_links(content: str, current_file_path: Path, file_index: Dict[str, str]) -> str:
     """
     Convert Obsidian [[wiki links]] to MkDocs relative links.
-    
+
     Handles:
     - [[filename]] -> [filename](path/to/filename.md) using file_index
     - [[folder/filename]] -> [filename](folder/filename.md)
     - [[filename|Display Text]] -> [Display Text](path/to/filename.md)
-    
+
     Uses file_index to find the correct path for files.
+    Calculates relative paths from current file location.
     """
     def replace_link(match):
         link_content = match.group(1)
-        
+
         # Handle alias format [[link|alias]]
         if '|' in link_content:
             link, alias = link_content.split('|', 1)
@@ -98,23 +100,44 @@ def convert_wiki_links(content: str, current_file_path: Path, file_index: Dict[s
         else:
             link = link_content.strip()
             alias = link.split('/')[-1]  # Use filename as display text
-        
+
         # Ensure .md extension
         if not link.endswith('.md'):
             link = f"{link}.md"
-        
+
         # If link already has a directory path, use it as-is
         if '/' in link:
             return f"[{alias}]({link})"
-        
+
         # Look up in file index
         if link in file_index:
-            return f"[{alias}]({file_index[link]})"
-        
+            target_path = file_index[link]
+            target_path_obj = Path(target_path)
+
+            # Get the directory of the current file (relative to docs root)
+            current_dir = current_file_path.parent.relative_to(DOCS_DIR)
+            target_dir = target_path_obj.parent
+
+            # If target is in the same directory, use just the filename
+            if current_dir == target_dir:
+                return f"[{alias}]({target_path_obj.name})"
+
+            # Otherwise, use relative path navigation
+            # Count how many levels up we need to go
+            up_levels = len(current_dir.parts)
+            if up_levels == 0:
+                # Current file is in root, use path as-is
+                return f"[{alias}]({target_path})"
+            else:
+                # Build relative path with ../
+                rel_parts = ['..'] * up_levels + list(target_path_obj.parts)
+                rel_path = '/'.join(rel_parts)
+                return f"[{alias}]({rel_path})"
+
         # Default to just the filename (may be a broken link if file not public)
         print(f"⚠ Warning: Could not resolve wiki link [[{link_content}]] - target may not be marked as public")
         return f"[{alias}]({link})"
-    
+
     # Replace all [[...]] patterns
     content = re.sub(r'\[\[([^\]]+)\]\]', replace_link, content)
     return content
@@ -267,8 +290,8 @@ and showmanship matters as much as steel.
             with open(docs_path, 'r', encoding='utf-8') as f:
                 content = f.read()
             
-            # Convert wiki links using file index
-            content = convert_wiki_links(content, source_path, file_index)
+            # Convert wiki links using file index (pass docs_path not source_path)
+            content = convert_wiki_links(content, docs_path, file_index)
             
             # Write back
             with open(docs_path, 'w', encoding='utf-8') as f:
@@ -294,13 +317,29 @@ Browse the navigation to explore public content.
 
 ## About The Arena
 
-A D&D 5e gladiatorial campaign set in Tarsus, where spectacle shapes survival 
+A D&D 5e gladiatorial campaign set in Tarsus, where spectacle shapes survival
 and showmanship matters as much as steel.
 """
         with open(index_path, 'w', encoding='utf-8') as f:
             f.write(index_content)
         print(f"✓ Created index: {index_path}")
-    
+
+    # Copy static assets (CSS, JS, etc.)
+    if STATIC_DIR.exists():
+        print("\nCopying static assets...")
+        for item in STATIC_DIR.rglob('*'):
+            if item.is_file():
+                # Calculate relative path from static dir
+                rel_path = item.relative_to(STATIC_DIR)
+                dest_path = DOCS_DIR / rel_path
+
+                # Create parent directories
+                dest_path.parent.mkdir(parents=True, exist_ok=True)
+
+                # Copy file
+                shutil.copy2(item, dest_path)
+                print(f"✓ Copied static asset: {rel_path}")
+
     print("\n" + "=" * 60)
     print(f"Build complete! {len(public_files)} file(s) processed")
     print(f"Documentation ready in: {DOCS_DIR}")

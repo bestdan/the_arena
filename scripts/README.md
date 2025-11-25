@@ -52,3 +52,41 @@ Then run `python3 scripts/update_favor_table.py` to regenerate the table.
 - Cleaner mechanics file (no duplicated data in front matter)
 - Easy to reuse data for other purposes (web apps, tools, etc.)
 - Version control friendly (clear diffs when options change)
+
+### `generate_favor_table.py`
+
+Generates the interactive Crowd's Favor table for the docs site from YAML data.
+
+**Usage:**
+```bash
+python3 scripts/generate_favor_table.py
+```
+
+**What it does:**
+- Reads `mechanics/crowds_favor_options.yaml`
+- Generates a markdown table with the `.favor-table` class
+- Updates `docs/mechanics/crowds_favor.md`
+- Sorts options by cost, then alphabetically by name
+
+**When to run:**
+- After adding/editing/removing entries in `crowds_favor_options.yaml`
+- Before building the documentation site
+- Can be added to a pre-commit hook or CI pipeline
+
+**Interactive features (on the published site):**
+- 🔍 **Search**: Filter by name, category, or effect text
+- 📊 **Sort**: Click any column header to sort ascending/descending
+- 🎯 **Filter**: Dropdown filters for Cost, Category, and Action type
+- 📱 **Responsive**: Mobile-friendly layout with card view on small screens
+
+**Technical Details:**
+
+The interactive table system consists of:
+
+1. **Data Source**: `mechanics/crowds_favor_options.yaml` - single source of truth
+2. **Generator**: `scripts/generate_favor_table.py` - converts YAML to markdown
+3. **Styling**: `docs/stylesheets/sortable-tables.css` - arena-themed styling
+4. **Interactivity**: `docs/javascripts/sortable-tables.js` - filtering/sorting logic
+5. **Configuration**: `mkdocs.yml` - includes CSS/JS in the build
+
+The table uses the `.favor-table` class which triggers the JavaScript enhancement when the page loads.

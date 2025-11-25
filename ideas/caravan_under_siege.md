@@ -61,7 +61,7 @@ created: 2025-11-21
 - Stop a raider carrying a crate with a killing blow before they escape: +2 Favor.
 - Retrieve a stolen crate and return it to wagon in same turn: +2 Favor.
 - Protect the wagon from a direct attack that would destroy it (taking the hit yourself or intercepting): +2 Favor.
-- Declare [[panaches|Panache]] attack while standing on the moving wagon: +2 Favor if successful.
+- Declare [[panache|Panache]] attack while standing on the moving wagon: +2 Favor if successful.
 - Coordinate with ally to stop theft attempt (one readied action triggers another's movement): +1 Favor to both.
 - Single PC defends one side of wagon alone for a full round: +2 Favor.
 

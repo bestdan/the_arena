@@ -37,7 +37,7 @@ created: 2025-11-21
 - Destroying a phylactery while under attack: +3 Favor to the gem-breaker.
 - Turning undead and driving 4+ creatures back in one use: +2 Favor to cleric/paladin.
 - Dropping a necromancer *before* their phylactery is destroyed (watching them respawn): +1 Favor ("the crowd loves the drama!").
-- Using [[panaches]] to leap into ossuary pit, grab bone, and smash phylactery in one turn: +3 Favor on success.
+- Using [[panache]] to leap into ossuary pit, grab bone, and smash phylactery in one turn: +3 Favor on success.
 
 ## Hazards and Synergies
 - Ossuary pit bones can be thrown (improvised weapon, 1d4 bludgeoning) or used with *animate objects* if party has caster.

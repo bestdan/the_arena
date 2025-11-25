@@ -16,7 +16,9 @@ While there are other ways to gain or lose favor, the most predictable is rollin
 ### 🔥 Hot Crowd 🔥
 
 After **3 consecutive successful** Panache rolls, the crowd becomes **Hot** for that combatant:
+
 - All further **with Panache** rolls gain **+2**.
+
 - Hot status ends immediately when the combatant **loses any Favor**.
 
 ---

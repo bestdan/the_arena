@@ -12,57 +12,54 @@ Custom homebrew systems that reinforce the theatrical, consequence-driven gamepl
 
 ## Core Combat Mechanics
 
-### [[panache|Panache]]
-Mechanical rewards for showmanship and style in combat. Roll 2d20 and use the die farther from 10—high risk, high reward for dramatic maneuvers.
+### [Panache →](panache.md)
+Called ahead of time, roll 2d20 and use the die farther from 10—high risk, high reward for dramatic maneuvers.
 
 **Key Features:**
+
 - Voluntary risk/reward system
 - Integrates with advantage/disadvantage
 - Drives crowd engagement
 
-[Full Rules →](panache.md)
-
 ---
 
-### [[crowds_favor|Crowd's Favor]]
+### [Crowd's Favor →](crowds_favor.md)
 The audience becomes an active participant, influencing outcomes through favor points earned via Panache rolls.
 
 **Key Features:**
+
 - Earn favor through successful showmanship
 - Spend favor on combat abilities
 - "Hot Crowd" momentum mechanic
 - 35+ unique crowd favor abilities
 
-[Full Rules →](crowds_favor.md)
-
 ---
 
-### [[last_stand|Last Stand]]
+### [Last Stand →](last_stand.md)
 Dramatic final moments with mechanical benefits when a gladiator falls—one last blaze of glory before permanent death.
 
 **Key Features:**
+
 - Voluntary activation at 0 HP
 - Extra actions and critical hits
 - Permanent, irrevocable death
 - Final Gift to allies
 
-[Full Rules →](last_stand.md)
-
 ---
 
 ## Economy & Rewards
 
-### [[blackmarket|Black Market]]
+### [Black Market →](blackmarket.md)
 Weekly rotating inventory of consumables, gear, and shady services available to gladiators between bouts.
 
 **Categories:**
+
 - Consumables (potions, powders, ampoules)
 - Ammunition & weapon add-ons
 - Armor & gear
 - Training & recovery items
 - Shady services
 
-[Full Inventory →](blackmarket.md)
 
 ---
 

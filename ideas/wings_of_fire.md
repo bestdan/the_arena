@@ -40,7 +40,7 @@ created: 2025-11-21
 - Surviving dragon's breath weapon at point-blank range (within 5 feet of origin): +3 Favor.
 - Toppling a boulder onto dragon while it's grounded: +2 Favor (requires coordination or high Strength).
 - Climbing onto dragon's back mid-flight and attacking (requires grapple check): +4 Favor ("dragonrider gladiator!").
-- Using [[panaches]] to taunt dragon into landing (Intimidation or Performance check, DC 16): +2 Favor on success.
+- Using [[panache]] to taunt dragon into landing (Intimidation or Performance check, DC 16): +2 Favor on success.
 
 ## Hazards and Lair Actions
 - **Wind Gusts (Initiative 20):** 30-foot cone from dragon's position; Str save DC 14 or pushed 15 feet and prone. Can knock PCs off perch or into boulders.

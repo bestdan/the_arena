@@ -37,7 +37,7 @@ created: 2025-11-21
 - Destroying an altar while under demon attack: +2 Favor.
 - Resisting *confusion* spell and immediately attacking demon: +2 Favor.
 - Landing radiant damage (smite, spell, or holy weapon) on Glabrezu: +1 Favor per instance (crowd loves holy vs. unholy).
-- Using [[panaches]] to mock demon ("Back to the Abyss, fiend!") before killing blow: +3 Favor on success.
+- Using [[panache]] to mock demon ("Back to the Abyss, fiend!") before killing blow: +3 Favor on success.
 
 ## Hazards and Holy Synergies
 - Lava fissures: pushing demons into them deals 3d6 fire (Dex save DC 14 half) but demons have resistance; PCs take full damage.

@@ -77,7 +77,7 @@ If PCs survive to the end of Round 10, the hourglass shatters; hunters flee; PCs
 - Successfully hide from a hunter for 3+ consecutive rounds: +1 [[crowds_favor|Favor]].
 - Destroy an Announcement Pillar: +2 Favor (dramatic defiance).
 - Prevent a hunter from announcing by grappling/stunning them at pillar: +2 Favor.
-- Kill a Shadow Stalker with [[panaches|Panache]]: +2 Favor.
+- Kill a Shadow Stalker with [[panache|Panache]]: +2 Favor.
 - Survive being **marked** (failed save but didn't drop to 0 HP): +1 Favor for resilience.
 - Distract hunters to protect another PC (draw attacks, create opening): +1 Favor to both.
 - Win without destroying any pillars (pure stealth/survival): +3 Favor for restraint.

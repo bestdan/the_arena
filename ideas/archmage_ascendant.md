@@ -35,7 +35,7 @@ created: 2025-11-21
 - Destroying a spell-stone mid-combat while engaged with enemy: +2 Favor.
 - Surviving a prismatic wall touch and staying conscious: +1 Favor.
 - Landing killing blow on archmage with a melee weapon (not spell): +3 Favor for "besting magic with steel."
-- Using [[panaches]] on an acrobatic dodge through *wall of force* gap: +2 Favor on success.
+- Using [[panache]] on an acrobatic dodge through *wall of force* gap: +2 Favor on success.
 
 ## Hazards and Interactions
 - Ritual circle pulses every 3 rounds (initiative 15): all creatures inside make DC 15 Con save or take 3d8 force damage; archmage immune.

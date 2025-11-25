@@ -86,7 +86,7 @@ Guardians patrol the maze; they **adapt to the changing terrain** and use it to 
 - Navigate a shifting corridor without getting trapped: +1 [[crowds_favor|Favor]].
 - Convince cartographer to open a path for the party: +2 Favor for clever roleplay.
 - Attack cartographer successfully (deal damage through arrow slits): +1 Favor for boldness.
-- Destroy a wall to create shortcut with [[panaches|Panache]]: +1 Favor.
+- Destroy a wall to create shortcut with [[panache|Panache]]: +1 Favor.
 - Rescue a PC trapped in dead-end before Labyrinth Wraith drains them: +2 Favor.
 - Reach exit gate first: +2 Favor for speed.
 - Climb tower and destroy the map: +3 Favor for audacity.

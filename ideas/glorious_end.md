@@ -56,7 +56,7 @@ This encounter is designed to kill the party. Scale enemy power to ensure no PC 
 - Fighting on while surrounded or isolated: +1 Favor per round
 - Igniting the oil channels dramatically: +2 Favor
 - Landing a hit on the Chimera or Pit Champion: +2 Favor each
-- Using [[panaches]] during Last Stand: +2 Favor on success (stacks with normal Panache Favor)
+- Using [[panache]] during Last Stand: +2 Favor on success (stacks with normal Panache Favor)
 - Last PC standing: +5 Favor bonus for carrying hope to the bitter end
 - Party wipe achieved with combined 15+ Favor: The crowd's roaring approval echoes for weeks
 
