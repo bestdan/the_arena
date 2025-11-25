@@ -15,6 +15,13 @@ Use this guide when drafting or revising session notes. Keep the Arena theatrica
 - Mechanics: `mechanics/panache_mechanics.md`, `mechanics/crowds_favor_mechanic.md`, `mechanics/last_stand.md`.
 - Current cast: `player_characters/characters.md`; add relevant `npcs/*.md` for featured characters.
 
+## Organization
+- create 3 files per session: 
+  - `session_x_setup.md` which holds pre-session info
+  - `session_x_encounter.md` holds details of how to run the sessions: npcs, enemies, environment changes etc
+  -  `session_x_notes.md` holds notes from the played session, actions taken favor granted, items taken, plot lines developed etc
+
+
 ## Session Format (keep consistent)
 1. Pre-session interactions: character moments, NPC conversations, world hooks.
 2. Announcer dialogue: use code blocks for hype and stage directions.
