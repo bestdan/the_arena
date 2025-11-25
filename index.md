@@ -7,7 +7,7 @@ created: 2025-11-21
 updated: 2025-11-23
 ---
 
-# The Arena
+# The Arena ![](favicon-32x32.png)
 
 A D&D 5e gladiatorial campaign set in Tarsus, where spectacle shapes survival and showmanship matters as much as steel.
 
@@ -50,29 +50,9 @@ The format is repeatable but never repetitive—each bout features different ter
 
 The campaign features homebrew systems that reinforce the theatrical, consequence-driven gameplay:
 
-- **[[panache|Panache]]** (`mechanics/panache.md`) - Mechanical rewards for showmanship and style in combat
-- **[[crowds_favor|Crowd's Favor]]** (`mechanics/crowds_favor.md`) - The audience becomes an active participant, influencing outcomes
-- **[[last_stand|Last Stand]]** (`mechanics/last_stand.md`) - Dramatic final moments with mechanical benefits when a gladiator falls
+- **[[panache|Panache]]** - Mechanical rewards for showmanship and style in combat
+- **[[crowds_favor|Crowd's Favor]]** - The audience becomes an active participant, influencing outcomes
+- **[[last_stand|Last Stand]]** - Dramatic final moments with mechanical benefits when a gladiator falls
 
 These mechanics ensure that *how* you fight matters as much as whether you win.
-
-## AI Support for GMs
-
-See [AI Support for GMs ](ai_support_for_gm.md)
-
-## Publishing Public Documentation
-
-This repository can publish markdown files as a public documentation website. Files marked with `visibility: public` in their frontmatter are automatically published.
-
-**Features:**
-- 🔍 Full-text search across all published content
-- 📊 Sortable tables
-- 🔗 Automatic wiki-link conversion
-- 🎨 Dark/light mode toggle
-- 📱 Responsive mobile design
-
----
-
-For comprehensive context and detailed instructions, see `AGENTS.md` and the folder-specific agent guides throughout the repository.
-
 

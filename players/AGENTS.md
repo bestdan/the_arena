@@ -6,13 +6,13 @@ created: 2025-11-21
 updated: 2025-11-21
 ---
 
-# AGENTS: player_characters/
+# AGENTS: players/
 
 Use this when updating the roster. Keep entries consistent so sessions can reference them quickly.
 
 ## Load This Context First
 - `AGENTS.md` for global rules.
-- `player_characters/characters.md` as the source of truth.
+- `players/characters.md` as the source of truth.
 
 ## Update Rules
 - Track status: active, absent, injured, dead, or freed; note session references.

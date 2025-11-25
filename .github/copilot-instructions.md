@@ -31,7 +31,7 @@ When suggesting code or content, be aware of these homebrew systems:
 ├── ideas/            # Brainstorm seeds for future sessions
 ├── mechanics/        # Homebrew rule systems
 ├── npcs/             # NPC character sheets
-├── player_characters/ # PC tracking and sheets
+├── players/ # PC tracking and sheets
 └── AGENTS.md         # Detailed instructions for AI agents (see below)
 ```
 
@@ -85,7 +85,7 @@ Structure should include:
 - `/AGENTS.md` - Main agent instructions and campaign snapshot
 - Each subfolder has its own `AGENTS.md` with scoped instructions
 - Load `environment/the_empire.md` for baseline lore and arena framing
-- Check `player_characters/characters.md` for current cast
+- Check `players/characters.md` for current cast
 
 ## Continuity Tracking
 Always track and maintain:

@@ -11,55 +11,29 @@ updated: 2025-11-25
 ---
 
 ## Session 0: Orientation
-*Character creation and campaign setup*
+Character creation and campaign setup for the Arena.
 
-Status: Completed
-
-[View Session →](../sessions/session_0/session_0.md)
+[View Session](session_0/index.md)
 
 ---
 
 ## Session 1: First Blood
-The new bloods face their first trial in the Arena—wild boars followed by lizard princes. Ten gladiators enter. Not all survive.
+The new bloods face their first trial in the Arena—wild boars followed by lizard princes. Ten gladiators enter, but three die in the brutal combat. Survivors receive their first rewards and introduction to arena life with Snak.
 
-**Key Moments:**
-- First taste of the Arena's brutality
-- Three participants die
-- Introduction to Snak and arena life
-- First rewards: silver pieces and better cots
-
-**Files:**
-- [Session Setup](session_1/session_1_setup.md)
-- [Session Notes](session_1/session_1_notes.md)
+[View Session](session_1/index.md)
 
 ---
 
 ## Session 2: The Gauntlet Run 🏃‍♂️
-*Speed and Bonecrusher*
-The gladiators face the Gauntlet—three zones, three waves, ten rounds. When the hourglass runs out, reinforcements arrive. Bonecrusher the Ogre has killed eleven gladiators. Will they be the twelfth?
+The gladiators face the Gauntlet—three zones, three waves, ten rounds of timed pressure combat. Goblins give way to hobgoblins before the legendary Bonecrusher the Ogre enters. The party's performance draws first patron interest.
 
-**Party Level:** 2
-
-**Key Moments:**
-- Timed pressure mechanics
-- Zone-based combat (goblins → hobgoblins → ogre)
-- Bonecrusher's legendary reputation
-- First patron interest
-
-**Files:**
-- [Session Setup](session_2/session_2_setup.md)
-- [Session Encounter](session_2/session_2_encounter.md)
-- [Session Notes](session_2/session_2_notes.md)
+[View Session](session_2/index.md)
 
 ---
 
 ## Session 3: The Butchers Block 🔪
-*Coming soon*
+Days later, four prisoners of war arrive: Rohm and three young teenage herders. Snak reveals someone wants the kids dead and recruits the party to keep them alive. The survivors face professional fighters, not beasts, with the crowd watching children thrown to the hyenas.
 
-**Party Level:** 2
-**Status:** Planned
-
-**Files:**
-- [Session Setup](session_3/session_3_setup.md): 
+[View Session](session_3/index.md) 
 
 

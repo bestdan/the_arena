@@ -4,6 +4,7 @@ npc_type: guard
 status: active
 first_appearance: 2025-11-15
 relationship: ally
+visibility: public
 created: 2025-11-21
 aliases: [snak, pen-boss]
 ---

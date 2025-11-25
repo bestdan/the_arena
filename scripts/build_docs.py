@@ -186,6 +186,31 @@ def process_markdown_file(source_path: Path, docs_path: Path, file_index: Dict[s
         print(f"✗ Error processing {source_path}: {e}")
 
 
+def extract_referenced_assets(content: str) -> List[str]:
+    """
+    Extract image and asset references from markdown content.
+    Returns list of relative paths to assets.
+    """
+    assets = []
+
+    # Match markdown image syntax: ![alt](path)
+    img_pattern = r'!\[.*?\]\(([^)]+)\)'
+    for match in re.finditer(img_pattern, content):
+        path = match.group(1)
+        # Skip absolute URLs
+        if not path.startswith(('http://', 'https://', '//')):
+            assets.append(path)
+
+    # Match HTML img tags: <img src="path">
+    html_img_pattern = r'<img[^>]+src=["\']([^"\']+)["\']'
+    for match in re.finditer(html_img_pattern, content):
+        path = match.group(1)
+        if not path.startswith(('http://', 'https://', '//')):
+            assets.append(path)
+
+    return assets
+
+
 def build_docs():
     """
     Main build function: scan repo and build docs directory.
@@ -193,33 +218,39 @@ def build_docs():
     print("=" * 60)
     print("Building The Arena Public Documentation")
     print("=" * 60)
-    
+
     # Clean docs directory
     if DOCS_DIR.exists():
         print(f"\nCleaning {DOCS_DIR}...")
         shutil.rmtree(DOCS_DIR)
-    
+
     DOCS_DIR.mkdir(exist_ok=True)
-    
+
     # Scan for markdown files
     print("\nScanning for public markdown files...")
     public_files = []
-    
+
+    pages_files = []  # Track .pages files separately
+
     for root, dirs, files in os.walk(REPO_ROOT):
         # Filter out excluded directories
         dirs[:] = [d for d in dirs if d not in EXCLUDE_DIRS]
-        
+
         root_path = Path(root)
-        
+
         for filename in files:
             if filename in EXCLUDE_FILES:
                 continue
-            
+
             if filename.endswith('.md'):
                 filepath = root_path / filename
-                
+
                 if is_public_file(filepath):
                     public_files.append(filepath)
+
+            # Also collect .pages files for mkdocs-awesome-pages plugin
+            if filename == '.pages':
+                pages_files.append(root_path / filename)
     
     if not public_files:
         print("\n⚠ No files with 'visibility: public' found!")
@@ -289,17 +320,54 @@ and showmanship matters as much as steel.
         try:
             with open(docs_path, 'r', encoding='utf-8') as f:
                 content = f.read()
-            
+
             # Convert wiki links using file index (pass docs_path not source_path)
             content = convert_wiki_links(content, docs_path, file_index)
-            
+
             # Write back
             with open(docs_path, 'w', encoding='utf-8') as f:
                 f.write(content)
-            
+
             print(f"✓ Processed links: {docs_path.relative_to(REPO_ROOT)}")
         except Exception as e:
             print(f"✗ Error processing links in {docs_path}: {e}")
+
+    # Third pass: Copy referenced assets (images, etc.)
+    print("\nCopying referenced assets...")
+    assets_copied = 0
+    for source_path, docs_path in file_mappings:
+        try:
+            with open(docs_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+
+            # Extract asset references
+            asset_refs = extract_referenced_assets(content)
+
+            for asset_ref in asset_refs:
+                # Resolve asset path relative to source file
+                source_asset = (source_path.parent / asset_ref).resolve()
+
+                # Skip if source doesn't exist
+                if not source_asset.exists():
+                    print(f"⚠ Warning: Asset not found: {source_asset.relative_to(REPO_ROOT)}")
+                    continue
+
+                # Target path in docs, maintaining relative structure
+                target_asset = (docs_path.parent / asset_ref).resolve()
+
+                # Ensure target directory exists
+                target_asset.parent.mkdir(parents=True, exist_ok=True)
+
+                # Copy asset
+                shutil.copy2(source_asset, target_asset)
+                print(f"✓ Copied asset: {source_asset.relative_to(REPO_ROOT)} -> {target_asset.relative_to(REPO_ROOT)}")
+                assets_copied += 1
+
+        except Exception as e:
+            print(f"✗ Error copying assets for {docs_path}: {e}")
+
+    if assets_copied > 0:
+        print(f"\nCopied {assets_copied} asset(s)")
     
     # Create index.md if it doesn't exist and README wasn't public
     index_path = DOCS_DIR / "index.md"
@@ -323,6 +391,73 @@ and showmanship matters as much as steel.
         with open(index_path, 'w', encoding='utf-8') as f:
             f.write(index_content)
         print(f"✓ Created index: {index_path}")
+
+    # Copy .pages files for navigation control
+    if pages_files:
+        print("\nCopying .pages files...")
+        for pages_file in pages_files:
+            # Calculate relative path from repo root
+            rel_path = pages_file.relative_to(REPO_ROOT)
+            dest_path = DOCS_DIR / rel_path
+
+            # Ensure target directory exists
+            dest_path.parent.mkdir(parents=True, exist_ok=True)
+
+            # Copy file
+            shutil.copy2(pages_file, dest_path)
+            print(f"✓ Copied: {rel_path}")
+
+    # Copy and optimize favicon if it exists
+    favicon_path = REPO_ROOT / "favicon.png"
+    if favicon_path.exists():
+        print("\nProcessing favicon...")
+
+        # Copy original
+        shutil.copy2(favicon_path, DOCS_DIR / "favicon.png")
+        print("✓ Copied: favicon.png")
+
+        # Create optimized versions for better browser support
+        try:
+            from PIL import Image
+
+            img = Image.open(favicon_path)
+
+            # Convert to RGBA and make black background transparent
+            if img.mode != 'RGBA':
+                img = img.convert('RGBA')
+
+            # Convert black/dark pixels to transparent
+            data = img.getdata()
+            new_data = []
+            threshold = 30  # Pixels darker than this become transparent
+
+            for item in data:
+                # If pixel is black or very dark, make it transparent
+                if item[0] < threshold and item[1] < threshold and item[2] < threshold:
+                    new_data.append((0, 0, 0, 0))  # Transparent
+                else:
+                    new_data.append(item)
+
+            img.putdata(new_data)
+
+            # Save transparent original
+            img.save(DOCS_DIR / "favicon.png", 'PNG')
+            print("✓ Created transparent favicon.png")
+
+            # Create 32x32 (standard favicon size)
+            favicon_32 = img.resize((32, 32), Image.Resampling.LANCZOS)
+            favicon_32.save(DOCS_DIR / "favicon-32x32.png", optimize=True)
+            print("✓ Created: favicon-32x32.png")
+
+            # Create 192x192 (for mobile/modern browsers)
+            favicon_192 = img.resize((192, 192), Image.Resampling.LANCZOS)
+            favicon_192.save(DOCS_DIR / "favicon-192x192.png", optimize=True)
+            print("✓ Created: favicon-192x192.png")
+
+        except ImportError:
+            print("⚠ PIL/Pillow not available, skipping favicon optimization")
+        except Exception as e:
+            print(f"⚠ Warning: Could not optimize favicon: {e}")
 
     # Copy static assets (CSS, JS, etc.)
     if STATIC_DIR.exists():

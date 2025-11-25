@@ -22,3 +22,5 @@ visibility: public
 **Hook:** Miren becomes a mouthpiece for the “audience’s will.” She’s favored by sponsors and starts getting special treatment—maybe even missions. She can help the party gain influence… or become their PR enemy if they cross him.
 
 **Skills**: Great shot with a bow
+
+She joined The Arena voluntarily. She loves fame, the crowd, the applause. She did something else before (she won't reveal what), but failed at it, and this seemed like the natural next step. She's as cutthroat as can be: make her look good, she'll help you. Make her look bad, you'll end up like those shitty archers. She's good with a bow, and meditates by sharpening a pair of long curved daggers. She's somehow already gotten new clothes in the pens, some brightly colored scarves.

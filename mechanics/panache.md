@@ -11,9 +11,11 @@ aliases: [panache, showmanship]
 
 # Panache
 
-When a combatant attempts an attack, check, or similar action, they may declare they are performing it **with Panache**.
+When a combatant attempts an attack, check, or similar action, they may declare they are performing it **with Panache**. 
 
 They should briefly describe their flashy or daring maneuver.
+
+If they succeed, they are likely to win the [Crowds Favor](crowds_favor.md)
 
 ### **Rolling with Panache**
 

@@ -13,8 +13,8 @@ LLM operators start here. Keep edits inside `The_Arena/`. Favor writing to Markd
 ## Quickstart Context
 - Load this file plus `environment/the_empire.md` for baseline lore and arena framing.
 - Mechanics to keep handy: `mechanics/panache.md`, `mechanics/crowds_favor.md`, `mechanics/last_stand.md`.
-- for details about the physical arena itself, see `environment/arena_details.md`
-- Cast snapshot: `player_characters/characters.md`; key NPC sheets live in `npcs/`.
+- for details about the physical arena itself, see `environment/the_arena.md`
+- Cast snapshot: `players/characters.md`; key NPC sheets live in `npcs/`.
 - When editing a folder, check its local `AGENTS.md` for scoped instructions.
 
 ## Campaign Snapshot (for light-weight context)
@@ -28,7 +28,7 @@ LLM operators start here. Keep edits inside `The_Arena/`. Favor writing to Markd
 - `mechanics/` - homebrew systems. See `mechanics/AGENTS.md`.
 - `ideas/` - brainstorm seeds. See `ideas/AGENTS.md`.
 - `npcs/` - NPC sheets. See `npcs/AGENTS.md`.
-- `player_characters/` - PC tracking. See `player_characters/AGENTS.md`.
+- `players/` - PC tracking. See `players/AGENTS.md`.
 - `CLAUDE.md` - legacy all-in-one brief; prefer the sharded guides above for tighter context windows.
 
 ## Working Rules for All Agents
