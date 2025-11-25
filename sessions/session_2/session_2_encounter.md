@@ -1,10 +1,11 @@
 ---
-tags: [arena, session, encounter, session-3]
+tags: [arena, session, encounter, session-2]
 session_number: 2
 party_level: 2
 status: completed
+visibility: public
 created: 2025-11-21
-updated: 2025-11-21
+updated: 2025-11-25
 encounter_type: gauntlet
 ---
 

@@ -50,8 +50,8 @@ The format is repeatable but never repetitive—each bout features different ter
 
 The campaign features homebrew systems that reinforce the theatrical, consequence-driven gameplay:
 
-- **[[panache_mechanics|Panache]]** (`mechanics/panache_mechanics.md`) - Mechanical rewards for showmanship and style in combat
-- **[[crowds_favor_mechanic|Crowd's Favor]]** (`mechanics/crowds_favor_mechanic.md`) - The audience becomes an active participant, influencing outcomes
+- **[[panaches|Panache]]** (`mechanics/panaches.md`) - Mechanical rewards for showmanship and style in combat
+- **[[crowds_favor|Crowd's Favor]]** (`mechanics/crowds_favor.md`) - The audience becomes an active participant, influencing outcomes
 - **[[last_stand|Last Stand]]** (`mechanics/last_stand.md`) - Dramatic final moments with mechanical benefits when a gladiator falls
 
 These mechanics ensure that *how* you fight matters as much as whether you win.
@@ -123,9 +123,9 @@ This repository can publish markdown files as a public documentation website. Fi
 # visibility: public
 
 # Build and preview locally
-pip install -r requirements.txt
-python scripts/build_docs.py
-mkdocs serve
+pip3 install -r requirements.txt
+python3 scripts/build_docs.py
+python3 -m mkdocs serve
 ```
 
 See [`PUBLISHING.md`](PUBLISHING.md) for complete documentation on publishing files.

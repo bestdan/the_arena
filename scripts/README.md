@@ -23,7 +23,7 @@ python3 scripts/update_favor_table.py
 
 **What it does:**
 - Reads favor options from `mechanics/crowds_favor_options.yaml`
-- Regenerates the markdown table in `mechanics/crowds_favor_mechanic.md`
+- Regenerates the markdown table in `mechanics/crowds_favor.md`
 - Automatically sorts by cost, then alphabetically by name
 - Preserves all other content in the mechanics file
 

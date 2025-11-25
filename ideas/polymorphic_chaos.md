@@ -46,7 +46,7 @@ created: 2025-11-21
 - **Voluntary Fail:** Creatures can choose to fail the save and embrace the polymorph (tactical choice).
 
 ## Crowd Favor Hooks
-- Win a fight while polymorphed into a creature CR lower than your level: +2 [[crowds_favor_mechanic|Favor]].
+- Win a fight while polymorphed into a creature CR lower than your level: +2 [[crowds_favor|Favor]].
 - Destroy a Font to save an ally from polymorph: +1 Favor.
 - Voluntarily fail a save and immediately use the new form's signature ability (toad swallow, snake grapple): +2 Favor for boldness.
 - Kill a Transmuter while they're mid-cast: +1 Favor.

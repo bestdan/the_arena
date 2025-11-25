@@ -6,7 +6,7 @@ Usage:
     python scripts/update_favor_table.py
 
 This script reads mechanics/crowds_favor_options.yaml and regenerates
-the markdown table in mechanics/crowds_favor_mechanic.md.
+the markdown table in mechanics/crowds_favor.md.
 """
 
 import re
@@ -79,7 +79,7 @@ def main():
 
     # Paths to data file and mechanic file
     data_file = repo_root / "mechanics" / "crowds_favor_options.yaml"
-    mechanic_file = repo_root / "mechanics" / "crowds_favor_mechanic.md"
+    mechanic_file = repo_root / "mechanics" / "crowds_favor.md"
 
     if not data_file.exists():
         print(f"Error: {data_file} not found")

@@ -9,19 +9,11 @@ updated: 2025-11-25
 aliases: [favor, crowd, audience]
 data_source: crowds_favor_options.yaml
 ---
-# Crowd's Favor Mechanic
+# Crowd's Favor
 
-Track Favor per combatant.
+While there are other ways to gain or lose favor, the most predictable is rolling with [Panache](panache.md). A successful `with Panache` roll will generally gain you one favor... a **failed** Panache roll with a natural result of 5 **or lower** (before modifiers) causes **–1 Favor**.
 
-## Gaining and Losing Favor
-
-**Gain Favor:**
-- A **successful** Panache roll grants **+1 Favor**.
-
-**Lose Favor:**
-- A **failed** Panache roll with a natural result of 5 **or lower** (before modifiers) causes **–1 Favor**.
-
-### Hot Crowd
+### 🔥 Hot Crowd 🔥
 
 After **3 consecutive successful** Panache rolls, the crowd becomes **Hot** for that combatant:
 - All further **with Panache** rolls gain **+2**.

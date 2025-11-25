@@ -43,7 +43,7 @@ created: 2025-11-21
 - Maze becomes open pit (easy navigation, no cover).
 
 ## Crowd Favor Hooks
-- Identify and strike a Doppelganger's true form (not a reflection): +2 [[crowds_favor_mechanic|Favor]].
+- Identify and strike a Doppelganger's true form (not a reflection): +2 [[crowds_favor|Favor]].
 - Kill a Mirror Wraith while standing adjacent to a mirror: +1 Favor for understanding the mechanic.
 - Survive disorientation and land three consecutive hits: +1 Favor for focus.
 - Destroy the Mirror Nexus deliberately to end illusions (despite Glass Storm risk): +2 Favor for boldness.

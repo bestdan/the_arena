@@ -60,7 +60,7 @@ created: 2025-11-21
 - Disrupt a ritual at 2/3 progress with a killing blow: +2 Favor.
 - Stop a Cult Fanatic from reaching an undefended circle: +1 Favor.
 - Destroy a completed circle's runes with creative solution (acid, radiant damage, dispel magic): +2 Favor.
-- Declare [[panache_mechanics|Panache]] attack while interrupting ritual: +2 Favor if successful.
+- Declare [[panaches|Panache]] attack while interrupting ritual: +2 Favor if successful.
 - Coordinate simultaneous disruption of 2+ circles in same round: +2 Favor to each PC involved.
 - Single PC holds off multiple enemies while allies disrupt circles: +2 Favor.
 - Face the demon at 50% HP or lower (0 circles): +5 Favor total (shared).

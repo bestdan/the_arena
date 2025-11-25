@@ -75,14 +75,14 @@ The grove spawns defenders from the Corrupted Heart Tree and lurking within the 
 - **Tertiary:** Disable at least 3 traps before they trigger (bonus Favor for cleverness).
 
 ## Crowd Favor Hooks
-- Spot and disable a trap before it triggers: +1 [[crowds_favor_mechanic|Favor]] for caution.
+- Spot and disable a trap before it triggers: +1 [[crowds_favor|Favor]] for caution.
 - Trigger a trap intentionally to damage enemies: +2 Favor for tactical improvisation.
 - Use environmental hazards against enemies (push into razorleaf bushes, lure into streams): +1 Favor per creative use.
 - Survive being grappled by 3+ vines/plants simultaneously and break free: +2 Favor for resilience.
 - Burn down a section of the grove dramatically (sets undergrowth on fire, spreads slowly): +2 Favor for spectacle.
 - Kill the Shambling Mound using fire (exploiting its vulnerability): +2 Favor for nature knowledge.
 - Navigate the entire fight without stepping on a path (staying in difficult terrain to avoid traps): +1 Favor for paranoia paying off.
-- Climb a platform and make a called shot from above ([[panache_mechanics|with Panache]]): +1 Favor for style.
+- Climb a platform and make a called shot from above ([[panaches|with Panache]]): +1 Favor for style.
 - Destroy the Heart Tree in a single dramatic blow (30+ damage in one hit): +3 Favor for cinematic finish.
 
 ## Tactical Elements

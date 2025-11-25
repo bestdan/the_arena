@@ -52,7 +52,7 @@ created: 2025-11-24
 - **Giant Octopus:** Climbs pillars to grapple PCs, drags them underwater with tentacles, uses ink cloud to blind and escape.
 
 ## Crowd Favor Hooks
-- Climb to highest pillar and make ranged/spell attacks on aquatic enemies below: +1 [[crowds_favor_mechanic|Favor]] for tactical superiority.
+- Climb to highest pillar and make ranged/spell attacks on aquatic enemies below: +1 [[crowds_favor|Favor]] for tactical superiority.
 - Defeat an enemy while fully submerged (both underwater): +2 Favor for drowning the drowner.
 - Swing on a chain between pillars while attacking mid-swing: +2 Favor for acrobatic spectacle.
 - Rescue a drowning ally (bring them to air/pillar before death save failure): +2 Favor for heroic rescue.

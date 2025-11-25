@@ -1,4 +1,4 @@
-site_name: The Arena - Public Documentation
+site_name: The Arena
 site_description: D&D 5e Gladiatorial Campaign - Public Resources
 site_author: The Arena
 repo_url: https://github.com/bestdan/the_arena
@@ -9,15 +9,15 @@ theme:
   palette:
     # Primary color scheme
     - scheme: slate
-      primary: red
-      accent: amber
+      primary: green
+      accent: light green
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
     # Light mode
     - scheme: default
-      primary: red
-      accent: amber
+      primary: green
+      accent: light green
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -28,7 +28,7 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.indexes
-    - toc.follow
+    - toc.integrate
     - search.suggest
     - search.highlight
     - search.share
@@ -79,6 +79,5 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/bestdan/the_arena
   generator: false
-
 # Site navigation will be auto-generated from docs/ structure
 # Only public files will be copied to docs/ by the build script

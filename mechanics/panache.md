@@ -9,6 +9,7 @@ updated: 2025-11-21
 aliases: [panache, showmanship]
 ---
 
+# Panache
 
 When a combatant attempts an attack, check, or similar action, they may declare they are performing it **with Panache**.
 

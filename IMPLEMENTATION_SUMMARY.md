@@ -100,7 +100,7 @@ Site will be available at: `https://bestdan.github.io/the_arena/`
 
 The build script intelligently converts Obsidian-style wiki links:
 
-- `[[panache_mechanics]]` → `[panache_mechanics](mechanics/panache_mechanics.md)`
+- `[[panaches]]` → `[panaches](mechanics/panaches.md)`
 - `[[file|Display Text]]` → `[Display Text](path/to/file.md)`
 - Automatically finds files in subdirectories
 - Warns when links can't be resolved

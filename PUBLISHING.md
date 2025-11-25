@@ -219,7 +219,7 @@ created: 2025-11-25
 
 Showmanship matters in The Arena...
 
-See also: [[crowds_favor_mechanic|Crowd's Favor]]
+See also: [[crowds_favor|Crowd's Favor]]
 ```
 
 ### Example Table with Sorting

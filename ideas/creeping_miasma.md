@@ -50,7 +50,7 @@ created: 2025-11-24
 - **Gas Spores:** Float aimlessly through clouds; when killed, death burst releases spore infestation (Constitution save DC 13 or diseased).
 
 ## Crowd Favor Hooks
-- Survive 5 rounds in poison gas without taking damage (Constitution saves or immunity): +2 [[crowds_favor_mechanic|Favor]] for endurance.
+- Survive 5 rounds in poison gas without taking damage (Constitution saves or immunity): +2 [[crowds_favor|Favor]] for endurance.
 - Use fire spell to burn away gas cloud dramatically: +2 Favor for environmental mastery.
 - Defeat an enemy while both in heavily obscured gas (blind fighting): +2 Favor for skill.
 - Climb to raised ledge and make ranged attacks from safety: +1 Favor for tactical positioning.

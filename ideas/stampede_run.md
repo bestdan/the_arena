@@ -56,7 +56,7 @@ created: 2025-11-24
 - **Kobold Provocateurs:** Harass from platforms, trigger panic in animals to create additional stampedes.
 
 ## Crowd Favor Hooks
-- Dodge 3 stampedes in a single round: +2 [[crowds_favor_mechanic|Favor]] for agility.
+- Dodge 3 stampedes in a single round: +2 [[crowds_favor|Favor]] for agility.
 - Redirect a stampede into enemies using Animal Handling or spell: +2 Favor for turning the tables.
 - Defeat enemy while both in stampede path (both taking trampling): +2 Favor for reckless courage.
 - Never use a safe platform (fight on ground throughout): +3 Favor for bravery.

@@ -83,10 +83,10 @@ Guardians patrol the maze; they **adapt to the changing terrain** and use it to 
 - **Round 10 Twist:** Cartographer goes mad (crowd pressure); starts drawing *chaos*—walls shift every initiative count 10, pillars spin wildly, floors tilt (all creatures make Dex save DC 12 or slide 10 feet in random direction).
 
 ## Crowd Favor Hooks
-- Navigate a shifting corridor without getting trapped: +1 [[crowds_favor_mechanic|Favor]].
+- Navigate a shifting corridor without getting trapped: +1 [[crowds_favor|Favor]].
 - Convince cartographer to open a path for the party: +2 Favor for clever roleplay.
 - Attack cartographer successfully (deal damage through arrow slits): +1 Favor for boldness.
-- Destroy a wall to create shortcut with [[panache_mechanics|Panache]]: +1 Favor.
+- Destroy a wall to create shortcut with [[panaches|Panache]]: +1 Favor.
 - Rescue a PC trapped in dead-end before Labyrinth Wraith drains them: +2 Favor.
 - Reach exit gate first: +2 Favor for speed.
 - Climb tower and destroy the map: +3 Favor for audacity.

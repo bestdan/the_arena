@@ -42,7 +42,7 @@ created: 2025-11-21
 - Destroying all four cores (disabling all abilities): +4 Favor (party-wide, "surgical dismantling!").
 - Preventing Animated Armor from healing Colossus: +1 Favor per prevention.
 - Surviving self-destruct explosion at point-blank range (within 5 feet of Colossus when timer hits zero): +3 Favor.
-- Using [[panache_mechanics]] to climb Colossus and attack core from atop it: +3 Favor on success (Athletics DC 16 to climb, advantage on core attacks while mounted).
+- Using [[panaches]] to climb Colossus and attack core from atop it: +3 Favor on success (Athletics DC 16 to climb, advantage on core attacks while mounted).
 
 ## Hazards and Tactical Opportunities
 - **Gear-rails:** Colossus can spend movement to "ride" rail to opposite side of arena (60-foot rapid transit). PCs can sabotage rails (Thieves' Tools DC 15) to cause crash (4d6 bludgeoning to Colossus, prone).

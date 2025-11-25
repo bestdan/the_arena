@@ -46,7 +46,7 @@ created: 2025-11-24
 - **Spark Mephits:** Swarm PCs on active sections; death burst adds lightning damage (stacks with surge).
 
 ## Crowd Favor Hooks
-- Successfully predict surge pattern 3 rounds in a row: +2 [[crowds_favor_mechanic|Favor]] for mastery.
+- Successfully predict surge pattern 3 rounds in a row: +2 [[crowds_favor|Favor]] for mastery.
 - Defeat an enemy while standing on an active section (taking surge damage): +2 Favor for reckless bravery.
 - Push/grapple an enemy onto an active section using Shove or spell: +2 Favor for tactical electrocution.
 - Never step on an active section throughout entire fight: +3 Favor for perfect footwork.

@@ -36,7 +36,7 @@ created: 2025-11-21
 ## Void Spawn (Environmental Threat)
 - At the end of rounds 4 and 7, a **Void Tendril** (reskin Grick, CR 2) emerges from the darkness and attacks the lowest platform (grapple and pull creatures downward, Strength DC 14 to escape).
 - If a platform drops below 15 feet, Void Tendrils can reach it (extended range).
-- Killing a Tendril earns +1 [[crowds_favor_mechanic|Crowd's Favor]].
+- Killing a Tendril earns +1 [[crowds_favor|Crowd's Favor]].
 
 ## Jumping and Falling Rules
 - **Long Jump:** Base distance = Strength score (10-foot running start). Without running start, half distance.

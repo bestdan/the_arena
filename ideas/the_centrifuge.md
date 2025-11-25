@@ -55,7 +55,7 @@ created: 2025-11-24
 - **Bronze Dragon:** Hovers above, uses lightning breath and repulsion breath to blast PCs toward spiked wall; never touches spinning floor.
 
 ## Crowd Favor Hooks
-- Successfully move to center pillar from outer edge while at fast+ spin speed: +2 [[crowds_favor_mechanic|Favor]] for determination.
+- Successfully move to center pillar from outer edge while at fast+ spin speed: +2 [[crowds_favor|Favor]] for determination.
 - Defeat enemy while both sliding toward wall: +2 Favor for desperate combat.
 - Grapple enemy and release them to be flung into wall: +2 Favor for using environment.
 - Never grab an anchor point (fight freely throughout): +3 Favor for mastery.

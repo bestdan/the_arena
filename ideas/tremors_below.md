@@ -40,7 +40,7 @@ created: 2025-11-21
 - **Umber Hulk Spawn:** Surface, use confusing gaze (Charisma save DC 13), claw multiattack, burrow to new position.
 
 ## Crowd Favor Hooks
-- Dodge a burrowing creature's surprise attack with a readied action: +1 [[crowds_favor_mechanic|Favor]] for anticipation.
+- Dodge a burrowing creature's surprise attack with a readied action: +1 [[crowds_favor|Favor]] for anticipation.
 - Land a critical hit on a creature as it surfaces (before it acts): +2 Favor for quick reflexes.
 - Get swallowed and cut your way out in one turn: +3 Favor for dramatic escape.
 - Collapse a boulder onto a creature as it burrows beneath (AC 17, 30 HP; when destroyed, deals 3d6 to creature below): +2 Favor.

@@ -45,7 +45,7 @@ created: 2025-11-24
 - **Magma Mephits:** Suicide rush into PC groups in shadows; death burst forces repositioning.
 
 ## Crowd Favor Hooks
-- Predict shadow movement and position perfectly for next round: +1 [[crowds_favor_mechanic|Favor]].
+- Predict shadow movement and position perfectly for next round: +1 [[crowds_favor|Favor]].
 - Defeat an enemy while both of you are in direct sunlight (taking damage): +2 Favor for defying the sun.
 - Use *heat metal* or fire damage against fire-immune enemies creatively (environmental kills): +2 Favor.
 - Survive 3 consecutive rounds in direct sunlight without dropping: +2 Favor for endurance.
