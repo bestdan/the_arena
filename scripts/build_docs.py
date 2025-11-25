@@ -55,7 +55,7 @@ def check_dependencies():
         print("\nInstall all dependencies with:")
         print("  pip install -r requirements.txt")
         print("\nOr install specific missing packages:")
-        if "Pillow" in str(missing_deps):
+        if any('Pillow' in dep for dep in missing_deps):
             print("  pip install Pillow==11.0.0")
         print("=" * 60 + "\n")
         raise RuntimeError("Missing required dependencies. Cannot proceed with build.")
@@ -491,7 +491,10 @@ and showmanship matters as much as steel.
 
         except ImportError as e:
             # This should never happen since we validate dependencies at build start
-            raise RuntimeError(f"PIL/Pillow import failed unexpectedly: {e}")
+            raise RuntimeError(
+                f"PIL/Pillow import failed unexpectedly: {e}\n"
+                f"Try reinstalling dependencies: pip install -r requirements.txt"
+            )
         except Exception as e:
             print(f"\n✗ Error optimizing favicon: {e}")
             raise RuntimeError(f"Failed to process favicon: {e}")
