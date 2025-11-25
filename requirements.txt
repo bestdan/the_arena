@@ -8,6 +8,7 @@ PyYAML==6.0.1
 # Additional MkDocs plugins
 mkdocs-minify-plugin==0.8.0
 mkdocs-redirects==1.2.1
+mkdocs-awesome-pages-plugin==2.9.2
 
 # For improved search
 lunr==0.7.0.post1

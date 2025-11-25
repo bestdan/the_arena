@@ -230,6 +230,8 @@ def build_docs():
     print("\nScanning for public markdown files...")
     public_files = []
 
+    pages_files = []  # Track .pages files separately
+
     for root, dirs, files in os.walk(REPO_ROOT):
         # Filter out excluded directories
         dirs[:] = [d for d in dirs if d not in EXCLUDE_DIRS]
@@ -245,6 +247,10 @@ def build_docs():
 
                 if is_public_file(filepath):
                     public_files.append(filepath)
+
+            # Also collect .pages files for mkdocs-awesome-pages plugin
+            if filename == '.pages':
+                pages_files.append(root_path / filename)
     
     if not public_files:
         print("\n⚠ No files with 'visibility: public' found!")
@@ -385,6 +391,21 @@ and showmanship matters as much as steel.
         with open(index_path, 'w', encoding='utf-8') as f:
             f.write(index_content)
         print(f"✓ Created index: {index_path}")
+
+    # Copy .pages files for navigation control
+    if pages_files:
+        print("\nCopying .pages files...")
+        for pages_file in pages_files:
+            # Calculate relative path from repo root
+            rel_path = pages_file.relative_to(REPO_ROOT)
+            dest_path = DOCS_DIR / rel_path
+
+            # Ensure target directory exists
+            dest_path.parent.mkdir(parents=True, exist_ok=True)
+
+            # Copy file
+            shutil.copy2(pages_file, dest_path)
+            print(f"✓ Copied: {rel_path}")
 
     # Copy static assets (CSS, JS, etc.)
     if STATIC_DIR.exists():
