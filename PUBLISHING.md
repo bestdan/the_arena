@@ -1,3 +1,7 @@
+---
+visibility: public
+---
+
 # Publishing Public Documentation
 
 This guide explains how to publish markdown files from The Arena repository as a public website.
