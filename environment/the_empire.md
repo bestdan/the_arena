@@ -1,6 +1,7 @@
 ---
 tags: [arena, lore, worldbuilding, empire]
 content_type: setting
+visibility: public
 created: 2025-11-21
 updated: 2025-11-21
 aliases: [tarsus, the-empire]

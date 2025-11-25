@@ -1,6 +1,7 @@
 ---
 tags: [arena, lore, worldbuilding, location]
 content_type: location
+visibility: public
 created: 2025-11-21
 updated: 2025-11-21
 aliases: [arena, coliseum]

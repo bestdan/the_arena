@@ -106,6 +106,30 @@ Each folder has its own `AGENTS.md` with specialized instructions for that conte
 
 The campaign is built for collaboration between human creativity and AI assistance, letting GMs focus on player interactions while AI handles content generation, consistency checks, and rapid iteration on encounter design.
 
+## Publishing Public Documentation
+
+This repository can publish markdown files as a public documentation website. Files marked with `visibility: public` in their frontmatter are automatically published.
+
+**Features:**
+- 🔍 Full-text search across all published content
+- 📊 Sortable tables
+- 🔗 Automatic wiki-link conversion
+- 🎨 Dark/light mode toggle
+- 📱 Responsive mobile design
+
+**Quick Start:**
+```bash
+# Mark files as public by adding to frontmatter:
+# visibility: public
+
+# Build and preview locally
+pip install -r requirements.txt
+python scripts/build_docs.py
+mkdocs serve
+```
+
+See [`PUBLISHING.md`](PUBLISHING.md) for complete documentation on publishing files.
+
 ---
 
 For comprehensive context and detailed instructions, see `AGENTS.md` and the folder-specific agent guides throughout the repository.
