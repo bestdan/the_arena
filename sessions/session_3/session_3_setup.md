@@ -78,7 +78,7 @@ Snak is there waiting when you enter.
 > "Time to even the odds a bit."
 She pulls a shield out of a burlap sack. It's covered in grime and mud. Intentionally. To hide something about it. 
 
-> "You seemed handy with [a shield](../../items/shield_of_the_righteous_martyr.md). Hope I'm not wrong. You've got an hour to get used to it. Don't fuck it up. Try to not let anyone on that it's special."
+> "You seemed handy with **a shield**. Hope I'm not wrong. You've got an hour to get used to it. Don't fuck it up. Try to not let anyone on that it's special."
 
 She hands the shield to Gladiator.
 
