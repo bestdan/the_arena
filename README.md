@@ -89,7 +89,7 @@ AI support for active gameplay:
 ├── ideas/            # Brainstorm seeds for future sessions
 ├── mechanics/        # Homebrew rule systems
 ├── npcs/             # NPC character sheets
-├── player_characters/ # PC tracking and sheets
+├── players/ # PC tracking and sheets
 ├── environment/      # World lore and arena details
 └── AGENTS.md         # Detailed instructions for AI assistants
 ```
@@ -116,8 +116,6 @@ This repository can publish markdown files as a public documentation website. Fi
 - 🔗 Automatic wiki-link conversion
 - 🎨 Dark/light mode toggle
 - 📱 Responsive mobile design
-
-See [`PUBLISHING.md`](PUBLISHING.md) for complete documentation on publishing files.
 
 ---
 

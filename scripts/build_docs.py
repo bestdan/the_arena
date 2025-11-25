@@ -186,6 +186,31 @@ def process_markdown_file(source_path: Path, docs_path: Path, file_index: Dict[s
         print(f"✗ Error processing {source_path}: {e}")
 
 
+def extract_referenced_assets(content: str) -> List[str]:
+    """
+    Extract image and asset references from markdown content.
+    Returns list of relative paths to assets.
+    """
+    assets = []
+
+    # Match markdown image syntax: ![alt](path)
+    img_pattern = r'!\[.*?\]\(([^)]+)\)'
+    for match in re.finditer(img_pattern, content):
+        path = match.group(1)
+        # Skip absolute URLs
+        if not path.startswith(('http://', 'https://', '//')):
+            assets.append(path)
+
+    # Match HTML img tags: <img src="path">
+    html_img_pattern = r'<img[^>]+src=["\']([^"\']+)["\']'
+    for match in re.finditer(html_img_pattern, content):
+        path = match.group(1)
+        if not path.startswith(('http://', 'https://', '//')):
+            assets.append(path)
+
+    return assets
+
+
 def build_docs():
     """
     Main build function: scan repo and build docs directory.
@@ -193,31 +218,31 @@ def build_docs():
     print("=" * 60)
     print("Building The Arena Public Documentation")
     print("=" * 60)
-    
+
     # Clean docs directory
     if DOCS_DIR.exists():
         print(f"\nCleaning {DOCS_DIR}...")
         shutil.rmtree(DOCS_DIR)
-    
+
     DOCS_DIR.mkdir(exist_ok=True)
-    
+
     # Scan for markdown files
     print("\nScanning for public markdown files...")
     public_files = []
-    
+
     for root, dirs, files in os.walk(REPO_ROOT):
         # Filter out excluded directories
         dirs[:] = [d for d in dirs if d not in EXCLUDE_DIRS]
-        
+
         root_path = Path(root)
-        
+
         for filename in files:
             if filename in EXCLUDE_FILES:
                 continue
-            
+
             if filename.endswith('.md'):
                 filepath = root_path / filename
-                
+
                 if is_public_file(filepath):
                     public_files.append(filepath)
     
@@ -289,17 +314,54 @@ and showmanship matters as much as steel.
         try:
             with open(docs_path, 'r', encoding='utf-8') as f:
                 content = f.read()
-            
+
             # Convert wiki links using file index (pass docs_path not source_path)
             content = convert_wiki_links(content, docs_path, file_index)
-            
+
             # Write back
             with open(docs_path, 'w', encoding='utf-8') as f:
                 f.write(content)
-            
+
             print(f"✓ Processed links: {docs_path.relative_to(REPO_ROOT)}")
         except Exception as e:
             print(f"✗ Error processing links in {docs_path}: {e}")
+
+    # Third pass: Copy referenced assets (images, etc.)
+    print("\nCopying referenced assets...")
+    assets_copied = 0
+    for source_path, docs_path in file_mappings:
+        try:
+            with open(docs_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+
+            # Extract asset references
+            asset_refs = extract_referenced_assets(content)
+
+            for asset_ref in asset_refs:
+                # Resolve asset path relative to source file
+                source_asset = (source_path.parent / asset_ref).resolve()
+
+                # Skip if source doesn't exist
+                if not source_asset.exists():
+                    print(f"⚠ Warning: Asset not found: {source_asset.relative_to(REPO_ROOT)}")
+                    continue
+
+                # Target path in docs, maintaining relative structure
+                target_asset = (docs_path.parent / asset_ref).resolve()
+
+                # Ensure target directory exists
+                target_asset.parent.mkdir(parents=True, exist_ok=True)
+
+                # Copy asset
+                shutil.copy2(source_asset, target_asset)
+                print(f"✓ Copied asset: {source_asset.relative_to(REPO_ROOT)} -> {target_asset.relative_to(REPO_ROOT)}")
+                assets_copied += 1
+
+        except Exception as e:
+            print(f"✗ Error copying assets for {docs_path}: {e}")
+
+    if assets_copied > 0:
+        print(f"\nCopied {assets_copied} asset(s)")
     
     # Create index.md if it doesn't exist and README wasn't public
     index_path = DOCS_DIR / "index.md"

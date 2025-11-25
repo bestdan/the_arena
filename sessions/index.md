@@ -23,12 +23,14 @@ Status: Completed
 The new bloods face their first trial in the Arena—wild boars followed by lizard princes. Ten gladiators enter. Not all survive.
 
 **Key Moments:**
+
 - First taste of the Arena's brutality
 - Three participants die
 - Introduction to Snak and arena life
 - First rewards: silver pieces and better cots
 
 **Files:**
+
 - [Session Setup](session_1/session_1_setup.md)
 - [Session Notes](session_1/session_1_notes.md)
 
@@ -41,12 +43,14 @@ The gladiators face the Gauntlet—three zones, three waves, ten rounds. When th
 **Party Level:** 2
 
 **Key Moments:**
+
 - Timed pressure mechanics
 - Zone-based combat (goblins → hobgoblins → ogre)
 - Bonecrusher's legendary reputation
 - First patron interest
 
 **Files:**
+
 - [Session Setup](session_2/session_2_setup.md)
 - [Session Encounter](session_2/session_2_encounter.md)
 - [Session Notes](session_2/session_2_notes.md)
@@ -60,6 +64,7 @@ The gladiators face the Gauntlet—three zones, three waves, ten rounds. When th
 **Status:** Planned
 
 **Files:**
+
 - [Session Setup](session_3/session_3_setup.md): 
 
 

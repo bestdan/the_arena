@@ -12,7 +12,7 @@ Use this when brainstorming new sessions or twists. Deliver concise seeds that c
 
 ## Load This Context First
 - `AGENTS.md` for campaign tone.
-- Optional: `environment/the_empire.md` `environment/arena_details.md`  plus current `player_characters/characters.md` to align hooks.
+- Optional: `environment/the_empire.md` `environment/arena_details.md`  plus current `players/characters.md` to align hooks.
 
 **Note** Unless otherwise specified, do not balance encounters for specific levels or specific number of players beyond 3 - 6 players. That will be handled later.
 

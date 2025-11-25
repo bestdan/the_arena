@@ -13,7 +13,7 @@ Use this guide when drafting or revising session notes. Keep the Arena theatrica
 ## Load This Context First
 - `AGENTS.md` and `environment/the_empire.md` for world framing.
 - Mechanics: `mechanics/panache.md`, `mechanics/crowds_favor.md`, `mechanics/last_stand.md`.
-- Current cast: `player_characters/characters.md`; add relevant `npcs/*.md` for featured characters.
+- Current cast: `players/characters.md`; add relevant `npcs/*.md` for featured characters.
 
 ## Organization
 - create 3 files per session: 

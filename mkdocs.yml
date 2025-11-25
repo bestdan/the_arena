@@ -6,6 +6,7 @@ repo_name: bestdan/the_arena
 
 theme:
   name: material
+  favicon: favicon.png
   palette:
     # Primary color scheme
     - scheme: slate

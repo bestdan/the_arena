@@ -11,8 +11,8 @@ updated: 2025-11-25
 
 The participants all successfully run the guantlet! 
 
-[Torgana](../../player_characters/torgana.md) recieves potion of healing from the crowd, but doesn't use it. 
+[Torgana](../../players/torgana.md) recieves potion of healing from the crowd, but doesn't use it. 
 
-[Imwe](../../player_characters/imwe.md) is the last out, takes a giant hit from the ogre as he attempts to jump round it. Leaves with 1hp. 
+[Imwe](../../players/imwe.md) is the last out, takes a giant hit from the ogre as he attempts to jump round it. Leaves with 1hp. 
 
 

@@ -1,5 +1,5 @@
 ---
-visibility: public
+visibility: private
 ---
 
 # Publishing Public Documentation
