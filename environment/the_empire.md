@@ -14,7 +14,7 @@ It grows it's frontiers constantly. It's growth is not cancerous. It is measured
 
 The empire builds roads roads that stretch from one end to the other, bringing far-flung people together as well as their goods, their customs, their music, their food. But not their histories.
 
-An you can buy everything in Tarsus. The heart of the Empire. It is where the Senate sits is where the wealthiest families hold their estates. It has theaters and universities and guilds and organized crime (of course).
+And you can buy everything in Tarsus. The heart of the Empire. It is where the Senate sits is where the wealthiest families hold their estates. It has theaters and universities and guilds and organized crime (of course).
 
 Tarsus is every other organ as well. The spleen and the liver cleaning out the detritus all of those veins that bring all the good things. Because they also bring the bad - every criminal, every traitor, every prisoner of war from the far-flung armies who would not bend the knee .... They all make their way into Tarsus to the Arena.
 
