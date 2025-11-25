@@ -319,4 +319,4 @@ Three glowing relic pieces scattered across tiers—randomly placed each session
 - [[panache]] for flashy catches/attacks.
 - [[crowds_favor]] for earning audience approval.
 - [[last_stand]] if a PC sacrifices themselves to pass the snitch/fragment to an ally (heroic death).
-- [[environment/arena_details]] for physical arena staging and crowd dynamics.
+- [[environment/the_arena]] for physical arena staging and crowd dynamics.

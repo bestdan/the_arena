@@ -32,7 +32,7 @@ The gladiators face the Gauntlet—three zones, three waves, ten rounds of timed
 ---
 
 ## Session 3: The Butchers Block 🔪
-*Status: Planned*
+Days later, four prisoners of war arrive: Rohm and three young teenage herders. Snak reveals someone wants the kids dead and recruits the party to keep them alive. The survivors face professional fighters, not beasts, with the crowd watching children thrown to the hyenas.
 
 [View Session](session_3/index.md) 
 

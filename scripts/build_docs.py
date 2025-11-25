@@ -407,6 +407,58 @@ and showmanship matters as much as steel.
             shutil.copy2(pages_file, dest_path)
             print(f"✓ Copied: {rel_path}")
 
+    # Copy and optimize favicon if it exists
+    favicon_path = REPO_ROOT / "favicon.png"
+    if favicon_path.exists():
+        print("\nProcessing favicon...")
+
+        # Copy original
+        shutil.copy2(favicon_path, DOCS_DIR / "favicon.png")
+        print("✓ Copied: favicon.png")
+
+        # Create optimized versions for better browser support
+        try:
+            from PIL import Image
+
+            img = Image.open(favicon_path)
+
+            # Convert to RGBA and make black background transparent
+            if img.mode != 'RGBA':
+                img = img.convert('RGBA')
+
+            # Convert black/dark pixels to transparent
+            data = img.getdata()
+            new_data = []
+            threshold = 30  # Pixels darker than this become transparent
+
+            for item in data:
+                # If pixel is black or very dark, make it transparent
+                if item[0] < threshold and item[1] < threshold and item[2] < threshold:
+                    new_data.append((0, 0, 0, 0))  # Transparent
+                else:
+                    new_data.append(item)
+
+            img.putdata(new_data)
+
+            # Save transparent original
+            img.save(DOCS_DIR / "favicon.png", 'PNG')
+            print("✓ Created transparent favicon.png")
+
+            # Create 32x32 (standard favicon size)
+            favicon_32 = img.resize((32, 32), Image.Resampling.LANCZOS)
+            favicon_32.save(DOCS_DIR / "favicon-32x32.png", optimize=True)
+            print("✓ Created: favicon-32x32.png")
+
+            # Create 192x192 (for mobile/modern browsers)
+            favicon_192 = img.resize((192, 192), Image.Resampling.LANCZOS)
+            favicon_192.save(DOCS_DIR / "favicon-192x192.png", optimize=True)
+            print("✓ Created: favicon-192x192.png")
+
+        except ImportError:
+            print("⚠ PIL/Pillow not available, skipping favicon optimization")
+        except Exception as e:
+            print(f"⚠ Warning: Could not optimize favicon: {e}")
+
     # Copy static assets (CSS, JS, etc.)
     if STATIC_DIR.exists():
         print("\nCopying static assets...")
