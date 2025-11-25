@@ -53,3 +53,12 @@ jobs:
             exit 1
           fi
           echo "✓ Build successful - site directory created with index.html"
+      
+      - name: Install test dependencies
+        run: |
+          pip install -r requirements-test.txt
+          playwright install chromium
+
+      - name: Test search functionality
+        run: |
+          python tests/test_search.py
