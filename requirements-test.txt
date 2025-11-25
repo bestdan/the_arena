@@ -1,0 +1,11 @@
+## Test dependencies for automated testing
+## Install with: pip install -r requirements-test.txt
+
+# Base documentation dependencies
+-r requirements.txt
+
+# Testing framework
+playwright==1.56.0
+
+# HTTP requests for testing
+requests==2.31.0
