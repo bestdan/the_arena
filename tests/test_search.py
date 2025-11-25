@@ -116,8 +116,12 @@ def test_search_functionality():
         
     finally:
         # Clean up server process
-        server_process.terminate()
-        server_process.wait(timeout=5)
+        try:
+            server_process.terminate()
+            server_process.wait(timeout=5)
+        except subprocess.TimeoutExpired:
+            server_process.kill()
+            server_process.wait()
 
 
 if __name__ == '__main__':
