@@ -1,0 +1,55 @@
+name: Test Documentation Build
+
+on:
+  pull_request:
+    branches:
+      - main
+    paths:
+      - '**.md'
+      - 'mkdocs.yml'
+      - 'requirements.txt'
+      - 'scripts/build_docs.py'
+      - 'static/**'
+      - '.github/workflows/test-docs-build.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  test-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Fetch all history for proper git info
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Build documentation
+        run: |
+          python scripts/build_docs.py
+
+      - name: Build MkDocs site
+        run: |
+          mkdocs build --strict
+
+      - name: Check build artifacts
+        run: |
+          if [ ! -d "site" ]; then
+            echo "Error: site directory not created"
+            exit 1
+          fi
+          if [ ! -f "site/index.html" ]; then
+            echo "Error: site/index.html not found"
+            exit 1
+          fi
+          echo "✓ Build successful - site directory created with index.html"
