@@ -13,6 +13,7 @@ This script:
 import os
 import re
 import shutil
+import sys
 import yaml
 from pathlib import Path
 from typing import Dict, List, Optional, Any
@@ -27,6 +28,37 @@ EXCLUDE_DIRS = {".git", ".github", "node_modules", "docs", "scripts", "static"}
 
 # Files to always exclude
 EXCLUDE_FILES = {".gitignore", ".gitattributes"}
+
+
+def check_dependencies():
+    """
+    Check that all required dependencies are available.
+    Raises RuntimeError if critical dependencies are missing.
+    
+    This function is designed to be extensible - add new dependency
+    checks here as the build script requirements grow.
+    """
+    missing_deps = []
+    
+    # Check for PIL/Pillow - required for favicon optimization
+    try:
+        from PIL import Image
+    except ImportError:
+        missing_deps.append("Pillow (required for favicon optimization)")
+    
+    if missing_deps:
+        print("\n" + "=" * 60)
+        print("ERROR: Missing required dependencies!")
+        print("=" * 60)
+        for dep in missing_deps:
+            print(f"  ✗ {dep}")
+        print("\nInstall all dependencies with:")
+        print("  pip install -r requirements.txt")
+        print("\nOr install specific missing packages:")
+        if any('Pillow' in dep for dep in missing_deps):
+            print("  pip install Pillow==11.0.0")
+        print("=" * 60 + "\n")
+        raise RuntimeError("Missing required dependencies. Cannot proceed with build.")
 
 
 def parse_frontmatter(content: str) -> tuple[Optional[Dict[str, Any]], str]:
@@ -218,6 +250,9 @@ def build_docs():
     print("=" * 60)
     print("Building The Arena Public Documentation")
     print("=" * 60)
+    
+    # Check dependencies first
+    check_dependencies()
 
     # Clean docs directory
     if DOCS_DIR.exists():
@@ -454,10 +489,15 @@ and showmanship matters as much as steel.
             favicon_192.save(DOCS_DIR / "favicon-192x192.png", optimize=True)
             print("✓ Created: favicon-192x192.png")
 
-        except ImportError:
-            print("⚠ PIL/Pillow not available, skipping favicon optimization")
+        except ImportError as e:
+            # This should never happen since we validate dependencies at build start
+            raise RuntimeError(
+                f"PIL/Pillow import failed unexpectedly: {e}\n"
+                f"Try reinstalling dependencies: pip install -r requirements.txt"
+            )
         except Exception as e:
-            print(f"⚠ Warning: Could not optimize favicon: {e}")
+            print(f"\n✗ Error optimizing favicon: {e}")
+            raise RuntimeError(f"Failed to process favicon: {e}")
 
     # Copy static assets (CSS, JS, etc.)
     if STATIC_DIR.exists():
