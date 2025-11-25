@@ -2,6 +2,7 @@
 tags: [arena, documentation, readme]
 content_type: readme
 audience: all
+visibility: public
 created: 2025-11-21
 updated: 2025-11-23
 ---
@@ -49,8 +50,8 @@ The format is repeatable but never repetitive—each bout features different ter
 
 The campaign features homebrew systems that reinforce the theatrical, consequence-driven gameplay:
 
-- **[[panache_mechanics|Panache]]** (`mechanics/panache_mechanics.md`) - Mechanical rewards for showmanship and style in combat
-- **[[crowds_favor_mechanic|Crowd's Favor]]** (`mechanics/crowds_favor_mechanic.md`) - The audience becomes an active participant, influencing outcomes
+- **[[panache|Panache]]** (`mechanics/panache.md`) - Mechanical rewards for showmanship and style in combat
+- **[[crowds_favor|Crowd's Favor]]** (`mechanics/crowds_favor.md`) - The audience becomes an active participant, influencing outcomes
 - **[[last_stand|Last Stand]]** (`mechanics/last_stand.md`) - Dramatic final moments with mechanical benefits when a gladiator falls
 
 These mechanics ensure that *how* you fight matters as much as whether you win.
@@ -104,6 +105,19 @@ Each folder has its own `AGENTS.md` with specialized instructions for that conte
 5. **Use wiki links**: Connect content with Obsidian-style wiki links for easy navigation
 
 The campaign is built for collaboration between human creativity and AI assistance, letting GMs focus on player interactions while AI handles content generation, consistency checks, and rapid iteration on encounter design.
+
+## Publishing Public Documentation
+
+This repository can publish markdown files as a public documentation website. Files marked with `visibility: public` in their frontmatter are automatically published.
+
+**Features:**
+- 🔍 Full-text search across all published content
+- 📊 Sortable tables
+- 🔗 Automatic wiki-link conversion
+- 🎨 Dark/light mode toggle
+- 📱 Responsive mobile design
+
+See [`PUBLISHING.md`](PUBLISHING.md) for complete documentation on publishing files.
 
 ---
 

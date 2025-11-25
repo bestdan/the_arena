@@ -1,10 +1,13 @@
 ---
 tags: [arena, lore, worldbuilding, empire]
 content_type: setting
+visibility: public
 created: 2025-11-21
 updated: 2025-11-21
 aliases: [tarsus, the-empire]
 ---
+
+# The Empire
 
 Logically, it makes sense that there was a time before the empire. But within Tarsus there are no histories, not stories, of anything before. The Empire has been around a long time. The empire has simply always been a fact of life, like the bite of cold and the bright of sun.
 

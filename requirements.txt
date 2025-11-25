@@ -1,0 +1,13 @@
+# MkDocs and Material theme
+mkdocs==1.5.3
+mkdocs-material==9.5.3
+
+# Required for frontmatter parsing
+PyYAML==6.0.1
+
+# Additional MkDocs plugins
+mkdocs-minify-plugin==0.8.0
+mkdocs-redirects==1.2.1
+
+# For improved search
+lunr==0.7.0.post1

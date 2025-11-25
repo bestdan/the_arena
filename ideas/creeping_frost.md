@@ -50,7 +50,7 @@ created: 2025-11-24
 - **Frost Giant:** Hurls ice chunks to knock PCs prone on slippery ice; throws enemies into frost wave.
 
 ## Crowd Favor Hooks
-- Successfully save against frost wave 5 times in a row: +1 [[crowds_favor_mechanic|Favor]] for resilience.
+- Successfully save against frost wave 5 times in a row: +1 [[crowds_favor|Favor]] for resilience.
 - Break an ally free from ice restraint in 1 action: +2 Favor for heroic rescue.
 - Defeat an enemy while both in the frost wave (taking damage): +2 Favor for reckless bravery.
 - Shove an enemy into the frost wave using *thunderwave* or similar: +1 Favor per enemy.

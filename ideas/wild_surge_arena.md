@@ -76,7 +76,7 @@ created: 2025-11-21
 - Pre-print Wild Magic Surge table or use digital roller for speed.
 - Narrate each surge with flair—crowd reactions, visual spectacle, unexpected twists.
 - Let non-casters feel useful: they can position, grapple casters off ley lines, or destroy Constructs tactically.
-- If a surge is devastating to the party, let the crowd's [[crowds_favor_mechanic|Favor]] grant a one-time reroll (spend 3 Favor collectively).
+- If a surge is devastating to the party, let the crowd's [[crowds_favor|Favor]] grant a one-time reroll (spend 3 Favor collectively).
 - Encourage casters to "lean into" surges—cast recklessly, embrace chaos, and the crowd will love it.
 - Track Unstable Elemental's current type on a visible token or note; call out changes loudly.
 

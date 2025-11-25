@@ -87,13 +87,13 @@ Enemies exist to create pressure and force PCs to split attention; they **do not
 - **Round 11+:** If PCs haven't escaped, entire floor collapses (all PCs make Dex save DC 16 or fall into pit; 6d6 bludgeoning, prone, need to climb out).
 
 ## Crowd Favor Hooks
-- First PC to read a clue aloud (in their unique language) and attempt to share it: +1 [[crowds_favor_mechanic|Favor]].
+- First PC to read a clue aloud (in their unique language) and attempt to share it: +1 [[crowds_favor|Favor]].
 - Creatively communicate a clue using gestures/drawings (DM's judgment): +1 Favor.
 - Defeat an Arcane Sentinel while defending a pedestal: +1 Favor.
 - Detect and dispel a Spell Scrambler's fake clue: +1 Favor.
 - Activate the Exit Seal correctly on first attempt (no resets): +3 Favor.
 - Escape within 7 rounds (fast puzzle solve): +2 Favor.
-- Use [[panache_mechanics|Panache]] to distract enemies while another PC reads clues: +1 Favor to both.
+- Use [[panache|Panache]] to distract enemies while another PC reads clues: +1 Favor to both.
 
 ## Tactical Elements
 - **Language Barrier:** PCs must invent communication methods. Examples:

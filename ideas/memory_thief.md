@@ -83,10 +83,10 @@ Shadowy manifestations of **foes the PCs have forgotten**—echoes of past enemi
 - **Round 8 Twist:** Enchanter appears (hologram) and taunts: "You'll never remember! Give up and I'll end your suffering!" (psychological pressure).
 
 ## Crowd Favor Hooks
-- First PC to collect a Memory Orb: +1 [[crowds_favor_mechanic|Favor]].
+- First PC to collect a Memory Orb: +1 [[crowds_favor|Favor]].
 - Collect all 3 required fragments before any ally: +1 Favor for speed.
 - Protect an ally during Restoration Ritual (take damage defending them): +2 Favor.
-- Defeat a Forgotten Echo with [[panache_mechanics|Panache]] while still memory-less: +2 Favor for instinct.
+- Defeat a Forgotten Echo with [[panache|Panache]] while still memory-less: +2 Favor for instinct.
 - Recognize a Shade Echo as a past enemy (successful Intelligence check): +1 Favor for clarity.
 - Complete Restoration Ritual without interruption: +3 Favor.
 - Roleplay disorientation convincingly (DM's judgment): +1 Favor.

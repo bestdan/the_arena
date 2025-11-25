@@ -35,7 +35,7 @@ created: 2025-11-21
 - Redirecting a conductor's lightning strike to hit storm giant: +3 Favor.
 - Surviving being grappled by Air Elemental and lifted into storm (escape or ally rescue): +2 Favor.
 - Catching storm giant's thrown greatsword mid-flight (Dex save DC 20 or Athletics check DC 18): +4 Favor ("IMPOSSIBLE!").
-- Using [[panache_mechanics]] to surf on Air Elemental or ride lightning bolt (DM discretion): +3 Favor on success.
+- Using [[panache]] to surf on Air Elemental or ride lightning bolt (DM discretion): +3 Favor on success.
 - Landing melee hit on storm giant while standing in storm (taking lightning auto-hit): +2 Favor for bravery.
 
 ## Hazards and Elemental Synergies

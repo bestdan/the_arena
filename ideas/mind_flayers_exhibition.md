@@ -35,7 +35,7 @@ created: 2025-11-21
 - Resisting Mind Blast while adjacent to mind flayer (save DC 15+ while within 5 feet): +3 Favor.
 - Destroying psionic amplifier while stunned ally recovers: +2 Favor.
 - Saving dominated ally from Extract Brain (killing Intellect Devourer in PC's skull): +3 Favor ("miracle rescue!").
-- Using [[panache_mechanics]] to "psychic duel" mind flayer (Intelligence contest instead of attack): +3 Favor on success.
+- Using [[panache]] to "psychic duel" mind flayer (Intelligence contest instead of attack): +3 Favor on success.
 - Forcing mind flayer into silence zone: +2 Favor.
 
 ## Hazards and Psychic Defenses

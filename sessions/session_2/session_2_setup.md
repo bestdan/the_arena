@@ -3,8 +3,9 @@ tags: [arena, session-setup]
 session_number: 2
 party_level: 2
 status: completed
+visibility: public
 created: 2025-11-21
-updated: 2025-11-21
+updated: 2025-11-25
 ---
 
 # Session 2 Setup: Pre-Arena Vignettes
@@ -16,7 +17,9 @@ updated: 2025-11-21
 The party stands before her, along with Merryn (who's checking her bowstring with practiced ease), Kael (a young man in his early twenties, nervous energy radiating off him as he adjusts his shield), and Sienna (an older woman with graying red hair and scars crossing her forearms).
 
 ---
+
 ```
+
 "Alright. Listen up, and listen well. I don't repeat myself."
 
 
@@ -47,6 +50,7 @@ Silence for a moment.
 "Here's my advice, and I'll only say it once: **Move fast, hit hard, don't get fancy in the first two zones.** Save your big tricks and your resources for Bonecrusher. The crowd wants speed and blood. Give them both."
 
 She pauses, scanning their faces.
+```
 
 ---
 

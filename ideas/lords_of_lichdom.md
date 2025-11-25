@@ -37,7 +37,7 @@ created: 2025-11-21
 - Destroying a phylactery while under attack: +3 Favor to the gem-breaker.
 - Turning undead and driving 4+ creatures back in one use: +2 Favor to cleric/paladin.
 - Dropping a necromancer *before* their phylactery is destroyed (watching them respawn): +1 Favor ("the crowd loves the drama!").
-- Using [[panache_mechanics]] to leap into ossuary pit, grab bone, and smash phylactery in one turn: +3 Favor on success.
+- Using [[panache]] to leap into ossuary pit, grab bone, and smash phylactery in one turn: +3 Favor on success.
 
 ## Hazards and Synergies
 - Ossuary pit bones can be thrown (improvised weapon, 1d4 bludgeoning) or used with *animate objects* if party has caster.
@@ -55,7 +55,7 @@ created: 2025-11-21
 - Let necromancers taunt: "You'll have to do better than that, mortals!" after first death and respawn.
 - Undead swarm can feel overwhelming—give PCs environmental advantages (knocking pillars onto skeletons, shoving Wights into pit).
 - If party brings radiant damage or turn undead, lean into "crowd loves holy might versus dark magic" narrative—extra Favor for flashy plays.
-- Use [[crowds_favor_mechanic]] to let PCs spend Favor mid-fight for "blessed weapon" buff (+1d6 radiant for 1 minute, 2 Favor cost).
+- Use [[crowds_favor]] to let PCs spend Favor mid-fight for "blessed weapon" buff (+1d6 radiant for 1 minute, 2 Favor cost).
 
 ## Aftermath Seeds
 - Victory: One phylactery gem remains intact—sell it to collectors, deliver to authorities, or risk keeping it (patron offers reward or blackmail leverage).

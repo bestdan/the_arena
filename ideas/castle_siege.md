@@ -46,7 +46,7 @@ created: 2025-11-21
 - Hold a tower solo for a full round while under attack: +2 Favor.
 - Topple a ladder with enemies on it (they fall, take falling damage): +1 Favor.
 - Kill an enemy with environmental damage (tipped brazier, thrown from walls): +2 Favor.
-- Rally a wounded ally with a [[panache_mechanics|Panache]] declaration: +1 Favor to both.
+- Rally a wounded ally with a [[panache|Panache]] declaration: +1 Favor to both.
 - Hold the keep for all 10 rounds without it being breached: +3 Favor to all defenders (shared).
 
 ## Hazards and Terrain
@@ -65,7 +65,7 @@ created: 2025-11-21
 ## GM Tips
 - Track ladder status on a simple diagram; call out which ladders have climbers.
 - Let PCs shout commands to each other; reward tactical positioning (focus fire, covering flanks).
-- If a PC falls, have the crowd groan or cheer depending on [[crowds_favor_mechanic|Crowd's Favor]] levels.
+- If a PC falls, have the crowd groan or cheer depending on [[crowds_favor|Crowd's Favor]] levels.
 - Encourage creative use of environment: dropping rocks, pouring oil, collapsing walkways.
 - If pacing drags, have the announcer shout a "rally cry" that grants inspiration to one PC (crowd's whim).
 

@@ -53,7 +53,7 @@ created: 2025-11-24
 - **Roper:** Tendrils grapple PCs (reach 50 feet), reeling them toward pit edge; targets PCs on isolated Stable tiles.
 
 ## Crowd Favor Hooks
-- Successfully jump across a 2-tile gap (20 feet) mid-combat: +2 [[crowds_favor_mechanic|Favor]].
+- Successfully jump across a 2-tile gap (20 feet) mid-combat: +2 [[crowds_favor|Favor]].
 - Save an ally from falling (reaction grapple, DC 15 Strength/Dex): +2 Favor for heroism.
 - Defeat an enemy by collapsing the tile beneath them: +2 Favor for environmental mastery.
 - Survive standing on a Collapsing tile when it falls (by jumping away as reaction): +1 Favor for reflexes.

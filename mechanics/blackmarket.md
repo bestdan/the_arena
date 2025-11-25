@@ -2,6 +2,7 @@
 tags: [arena, mechanics, homebrew, economics]
 mechanic_type: reward
 complexity: simple
+visibility: public
 status: active
 created: 2025-11-21
 updated: 2025-11-21

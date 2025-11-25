@@ -45,7 +45,7 @@ This encounter is designed to kill the party. Scale enemy power to ensure no PC 
 
 ## Objectives (Inverted)
 - **Primary:** Die gloriously. Each PC should trigger [[last_stand]] and use that final turn to maximize spectacle.
-- **Secondary:** Accumulate as much [[crowds_favor_mechanic]] as possible before death.
+- **Secondary:** Accumulate as much [[crowds_favor]] as possible before death.
 - **Hidden:** The more collective Favor the party earns, the better their resurrection and the rewards that follow.
 
 ## Crowd Favor Hooks (Enhanced for Glory)
@@ -56,7 +56,7 @@ This encounter is designed to kill the party. Scale enemy power to ensure no PC 
 - Fighting on while surrounded or isolated: +1 Favor per round
 - Igniting the oil channels dramatically: +2 Favor
 - Landing a hit on the Chimera or Pit Champion: +2 Favor each
-- Using [[panache_mechanics]] during Last Stand: +2 Favor on success (stacks with normal Panache Favor)
+- Using [[panache]] during Last Stand: +2 Favor on success (stacks with normal Panache Favor)
 - Last PC standing: +5 Favor bonus for carrying hope to the bitter end
 - Party wipe achieved with combined 15+ Favor: The crowd's roaring approval echoes for weeks
 
