@@ -34,6 +34,9 @@ def check_dependencies():
     """
     Check that all required dependencies are available.
     Raises RuntimeError if critical dependencies are missing.
+    
+    This function is designed to be extensible - add new dependency
+    checks here as the build script requirements grow.
     """
     missing_deps = []
     
@@ -49,8 +52,11 @@ def check_dependencies():
         print("=" * 60)
         for dep in missing_deps:
             print(f"  ✗ {dep}")
-        print("\nPlease install missing dependencies:")
+        print("\nInstall all dependencies with:")
         print("  pip install -r requirements.txt")
+        print("\nOr install specific missing packages:")
+        if "Pillow" in str(missing_deps):
+            print("  pip install Pillow==11.0.0")
         print("=" * 60 + "\n")
         raise RuntimeError("Missing required dependencies. Cannot proceed with build.")
 
@@ -483,15 +489,9 @@ and showmanship matters as much as steel.
             favicon_192.save(DOCS_DIR / "favicon-192x192.png", optimize=True)
             print("✓ Created: favicon-192x192.png")
 
-        except ImportError:
-            # This should never happen since we check dependencies at start
-            print("\n" + "=" * 60)
-            print("CRITICAL ERROR: PIL/Pillow import failed!")
-            print("=" * 60)
-            print("Pillow should have been checked in dependency validation.")
-            print("Please install Pillow: pip install Pillow")
-            print("=" * 60 + "\n")
-            raise RuntimeError("PIL/Pillow not available - cannot generate required favicon files")
+        except ImportError as e:
+            # This should never happen since we validate dependencies at build start
+            raise RuntimeError(f"PIL/Pillow import failed unexpectedly: {e}")
         except Exception as e:
             print(f"\n✗ Error optimizing favicon: {e}")
             raise RuntimeError(f"Failed to process favicon: {e}")
