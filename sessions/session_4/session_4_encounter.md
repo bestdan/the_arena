@@ -352,7 +352,7 @@ For the **seven who return**:
 The character with lowest Favor does not resurrect. Their body is removed from the arena by attendants in black robes. The Grand Master offers no words for them.
 
 **Consequences:**
-- Player rolls new character OR brings in backup PC from roster
+- Player rolls new character OR rotates in a different PC from their roster (campaign uses active roster system with ~6 PCs, typically 4 per session)
 - In-game: Other gladiators whisper about them as a cautionary tale
 - Snak is furious about losing an investment
 - Their belongings are distributed among survivors (GM discretion)
@@ -446,7 +446,7 @@ The character with lowest Favor does not resurrect. Their body is removed from t
 
 "SEVEN have proved WORTHY!"
 
-[Six bodies rise—one remains]
+[Seven bodies rise—one remains still and dark]
 
 "Seven return to fight again! HAIL THE PHOENIX-BLESSED!"
 
