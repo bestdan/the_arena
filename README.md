@@ -2,6 +2,7 @@
 tags: [arena, documentation, readme]
 content_type: readme
 audience: all
+visibility: public
 created: 2025-11-21
 updated: 2025-11-23
 ---
