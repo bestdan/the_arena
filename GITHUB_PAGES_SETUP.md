@@ -35,6 +35,26 @@ If you want to use a custom domain:
    - CNAME record pointing to `bestdan.github.io`
 3. GitHub will automatically provision SSL certificate
 
+## CI/CD Workflows
+
+The repository includes two GitHub Actions workflows for documentation:
+
+### Deploy Public Documentation
+- **Trigger:** Push to `main` branch
+- **Purpose:** Build and deploy documentation to GitHub Pages
+- **File:** `.github/workflows/deploy-docs.yml`
+
+### Test Documentation Build
+- **Trigger:** Pull requests to `main` branch
+- **Purpose:** Validate that PRs don't break the website build
+- **File:** `.github/workflows/test-docs-build.yml`
+- **What it checks:**
+  - Documentation build script runs successfully
+  - MkDocs builds without errors (strict mode)
+  - Site artifacts are properly generated
+
+All PRs must pass the build test before merging to ensure the documentation site remains functional.
+
 ## Troubleshooting
 
 ### Workflow fails
