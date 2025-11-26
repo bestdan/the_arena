@@ -3,6 +3,7 @@ tags: [arena, session-notes, session-4]
 session_number: 4
 party_level: 3
 status: planned
+visibility: private
 created: 2025-11-25
 updated: 2025-11-25
 ---
@@ -83,14 +84,6 @@ updated: 2025-11-25
    - Crowd reaction:
    - Favor earned from Last Stand:
 
-### The One Who Stayed Dead
-**Name:** _____________  
-**Final Favor:** ___  
-**Why they had lowest favor:**
-
-**Player reaction:**
-
-**Party reaction:**
 
 ---
 
@@ -221,107 +214,14 @@ updated: 2025-11-25
 - Relationship with PCs:
 - Future hooks:
 
-**[[snak|Snak]]:**
-- Reaction to results:
-- New opportunities offered:
-- Investment changes:
 
 ---
 
-## Between-Session Developments
-
-### Patron Meetings Scheduled
-1. 
-2. 
-3. 
-
-### Merchant Opportunities
-- 
-- 
 
 ### Temple Priestess Investigation
 - Questions asked:
 - PC responses:
 - Future implications:
-
-### Rival Gladiator Tensions
-- Who's jealous:
-- Who's impressed:
-- Potential conflicts:
-
-### The Dead One's Legacy
-- Family contact: Yes / No
-- If yes:
-  - Who approached:
-  - What they want:
-  - How party responded:
-
-### Grand Master's Notice
-- Special summons: Yes / No
-- If yes:
-  - Message:
-  - Implications:
-
----
-
-## Player Feedback
-
-**What worked well:**
-- 
-- 
-- 
-
-**What could be improved:**
-- 
-- 
-
-**Favorite moments:**
-- 
-- 
-- 
-
-**Least favorite moments:**
-- 
-- 
-
-**Understanding of mechanics:**
-- [[panache|Panache]]: Clear / Unclear
-- [[crowds_favor|Crowd's Favor]]: Clear / Unclear
-- [[last_stand|Last Stand]]: Clear / Unclear
-- Permanent death consequence: Expected / Surprising
-
----
-
-## GM Notes
-
-**Pacing:**
-- Too fast / Just right / Too slow
-
-**Difficulty:**
-- Too easy / Appropriate / Too hard
-
-**Favor distribution:**
-- Well spread / Some fell behind / One person dominated
-
-**Last Stand moments:**
-- All PCs got opportunity: Yes / No
-- Most dramatic Last Stand:
-- Most mechanically effective Last Stand:
-
-**Death that stuck:**
-- Felt fair: Yes / No
-- Felt earned (narratively): Yes / No
-- Player took it well: Yes / No
-
-**Adjustments made during session:**
-- 
-- 
-- 
-
-**What to change for next time:**
-- 
-- 
-- 
 
 ---
 
@@ -375,19 +275,3 @@ updated: 2025-11-25
 
 ### Fame Levels
 - Update based on performance and Favor
-
----
-
-## Seeds for Session 5
-
-1. 
-2. 
-3. 
-4. 
-5. 
-
-**Most urgent plot thread:**
-
-**Most interested patron:**
-
-**Biggest character development:**

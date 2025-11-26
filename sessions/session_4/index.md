@@ -3,7 +3,7 @@ tags: [arena, session, index, session-4]
 session_number: 4
 party_level: 3
 status: planned
-visibility: public
+visibility: private
 created: 2025-11-25
 updated: 2025-11-25
 ---
@@ -43,38 +43,6 @@ Three arena veterans join the party for this bout:
 
 These NPCs understand the Arena, know how [[crowds_favor|Crowd's Favor]] works, and will teach PCs through example.
 
-## Key Mechanics
-
-- **[[last_stand|Last Stand]]** - Every combatant should activate this for dramatic final moments
-- **[[crowds_favor|Crowd's Favor]]** - Accumulation is the real victory condition
-- **[[panache|Panache]]** - Showmanship matters more than ever
-- **Permanent Death** - Lowest Favor doesn't resurrect
-
-## Stakes and Lessons
-
-**What This Session Teaches:**
-- Death is real and can be permanent
-- [[crowds_favor|Crowd's Favor]] has mechanical consequences, not just narrative ones
-- [[last_stand|Last Stand]] is incredibly powerful and should be used dramatically
-- Teamwork and spotlight-sharing keep everyone alive (literally)
-- Showboating alone or hogging glory puts you at risk
-- The Arena rewards performance as much as combat prowess
-
-**Aftermath:**
-- Surviving PCs gain "Phoenix-Blessed" reputation
-- Patron and sponsor interest increases
-- NPCs who survive may become recurring allies
-- One player may need to roll a new character or activate a backup PC
-
-## Expected Outcome
-
-- 8 combatants enter
-- All 8 die over the course of 8-12 rounds
-- 7 resurrect with rewards based on final Favor
-- 1 stays dead permanently (lowest Favor)
-- Party learns the game has real consequences
-- Future sessions will see increased focus on Favor accumulation
-
 ## GM Preparation Notes
 
 - Track Favor visibly and loudly throughout combat
@@ -84,7 +52,3 @@ These NPCs understand the Arena, know how [[crowds_favor|Crowd's Favor]] works, 
 - The permanent death should feel like consequence of choices, not random chance
 - Have backup character options ready for affected player
 - Prepare patron/sponsor NPCs for aftermath meetings
-
----
-
-*Based on encounter idea: [ideas/glorious_end.md](../../ideas/glorious_end.md)*

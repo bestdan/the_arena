@@ -5,6 +5,7 @@ party_level: 3
 difficulty: deadly
 mechanics: [crowds-favor, panache, last-stand]
 status: planned
+visibility: private
 created: 2025-11-25
 updated: 2025-11-25
 ---

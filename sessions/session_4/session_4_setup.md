@@ -3,7 +3,7 @@ tags: [arena, session, setup, session-4]
 session_number: 4
 party_level: 3
 status: planned
-visibility: public
+visibility: private
 created: 2025-11-25
 updated: 2025-11-25
 ---
@@ -80,7 +80,7 @@ Three new fighters appear in the pens. Not raw recruits—these are gladiators w
 
 [His jaw tightens]
 
-> "But Tovo, Dec, and Lira are safe. They were moved yesterday. Snak kept her word."
+> "But Tovo, Dec, and Lira are safe. They were moved. Snak kept her word."
 
 [He looks at each of you]
 
@@ -126,7 +126,7 @@ Fennec adds:
 
 Zara grins:
 
-> "And when [[last_stand|Last Stand]] triggers? Make it _legendary_."
+> "And when you feel like you have nothing left? Make sure of it. Make it _legendary_."
 
 The bugle sounds.
 
