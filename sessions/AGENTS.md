@@ -31,8 +31,6 @@ Use this guide when drafting or revising session notes. Keep the Arena theatrica
 
 ### Announcer Block Example
 ```
-[Crowd rises, banners snapping]
-
 "Welcome back to the blood-soaked sands!"
 
 [Trumpets blare; nobles lean forward]
@@ -45,5 +43,6 @@ Use this guide when drafting or revising session notes. Keep the Arena theatrica
 - Link named NPCs, locations, and mechanics using Obsidian wiki-link syntax.
 - Aim for concise headings and bullets where it helps scanning; otherwise flow with narrative prose.
 
-**Note on visibility**
-Never link to files which do not have `visibility: public` in their front matter. 
+**Important **
+- By default, new sessions should have `visibility: private` in front matter.
+- Never link to files which do not have `visibility: public` in their front matter. 
