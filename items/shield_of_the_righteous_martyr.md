@@ -2,6 +2,7 @@
 tags: [arena, items, homebrew]
 created: 2025-11-21
 updated: 2025-11-21
+visibility: public
 ---
 
 # **Shield of the Righteous Martyr**
