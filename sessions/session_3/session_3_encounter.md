@@ -3,6 +3,7 @@ tags: [arena, encounter]
 created: 2025-11-15
 session_number: 3
 party_level: 2
+visibility: public
 created: 2025-11-21
 updated: 2025-11-21
 ---

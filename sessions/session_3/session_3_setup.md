@@ -82,6 +82,8 @@ She pulls a shield out of a burlap sack. It's covered in grime and mud. Intentio
 
 She hands the shield to Gladiator.
 
+> If he dies, I'll reward whoever lives if you bring that shield back. 
+
 
 ## Ten minutes before match, the Armory
 Rohm, Tovo, Dec and Lira enter. They look surprisingly better, sharp eyed. They glance at you, then move to the weapons. Lira picks up two daggers, flips them. The two boys pick up spears, obviously quite comfortable with them. THey are resolved. And resigned.
@@ -100,8 +102,7 @@ The bugle sounds. The announcer begins.
 
 > "LADIES and GENTLEMEN! Welcome back to the Arena of Tarsus, where yesterday's survivors become today's entertainment!"
 
-
-> "Last week, we saw this fresh blood face fang and scale. They survived — _barely_. But surviving is just the _start_ of the story, isn't it?"
+> "Last week, we saw this fresh blood face fang and scale. They survived... but surviving is just the _start_ of the story"
 
 > "Today? Today we separate the _lucky_ from the _lethal_."
 
@@ -111,12 +112,10 @@ The bugle sounds. The announcer begins.
 
 > "That's right! From the holding pens of the east gate, we present: THE BUTCHER'S BLOCK!"
 
-> "And facing them? Our returning champions—IF you can call them that yet—plus a few… _new additions_ to keep things interesting."
-
-> "Combatants! The sands… are WAITING!"
 ```
-
+ 
 The bugle sounds. You walk up into the blinding light once again. To an arena very different to the one you left. 
+
 
 Roll initiative please. 
 

@@ -15,7 +15,7 @@ When a combatant attempts an attack, check, or similar action, they may declare 
 
 They should briefly describe their flashy or daring maneuver.
 
-If they succeed, they are likely to win the [Crowds Favor](crowds_favor.md)
+If they succeed, they are likely to win the [Crowds Favor](crowds_favor.md). If they fail spectactularly, they lose crowds favor. 
 
 ### **Rolling with Panache**
 
@@ -23,4 +23,5 @@ If they succeed, they are likely to win the [Crowds Favor](crowds_favor.md)
 - Use the die **farther from 10** (distance = |roll – 10|).
 - If the action already has **advantage**, roll 3d20 and **drop the lowest** before resolving Panache.
 - If it has **disadvantage**, roll 3d20 and **drop the highest** before resolving Panache.
+- If you roll a 5 or below, you lose 1 Crows Favor. 
 
