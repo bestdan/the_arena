@@ -9,7 +9,6 @@ updated: 2025-11-25
 ---
 
 # Session 3: The Butcher's Block
+The motley crew survive.... but Merryn and one of Rhom's brothers (Tovo) dies. 
 
-*Status: Planned*
-
-[Session Setup](session_3_setup.md) | [Session Encounter]() | [Session Notes]()
+[Session Setup](session_3_setup.md) | [Session Encounter](session_3_encounter.md) | [Session Notes](session_3_notes.md)
