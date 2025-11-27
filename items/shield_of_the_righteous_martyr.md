@@ -11,7 +11,8 @@ visibility: public
 A heavy, scarred shield engraved with the names of those who have died carrying it. There are 5 names. There's an open slot should you want to join them...
 
 ## Properties
-**• +2 bonus to AC.**
+- +2 bonus to AC (in addition to usual +1 shield bonus)
+
 **• Protective Aura:**  
 Allies within **5 feet** of you gain a **+1 bonus to AC**.  
 
@@ -22,6 +23,5 @@ Allies within **5 feet** of you gain a **+1 bonus to AC**.
 **• Martyr’s Intervention (5/day):**  
 When an ally within 10 ft takes damage, you can use your reaction to reduce that damage by **1d10 + your proficiency bonus**.  
 You take **2 points** of unavoidable damage when you do this.
-\
 
 
