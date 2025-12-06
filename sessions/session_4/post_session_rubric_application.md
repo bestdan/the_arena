@@ -17,7 +17,9 @@ To calculate Drama Scores retroactively, you need to know for each gladiator:
 
 1. **Total Favor Earned** during the session
 2. **Total Favor Spent** during the session
-3. **Final Favor Retained** at death
+3. **Retained Favor** (amount remaining at death)
+
+**Note:** "Retained Favor" is also called "Final Favor" or "Current Favor at death" - these terms are interchangeable.
 
 If you tracked Favor normally during play, you should have columns showing current Favor throughout combat. You'll need to reconstruct the "Spent" column.
 
@@ -26,7 +28,7 @@ If you tracked Favor normally during play, you should have columns showing curre
 ### If You Have Session Notes
 
 Look through your session notes for each time a gladiator spent Favor:
-- Search for Crowd's Favor abilities used (see [[crowds_favor|Crowd's Favor options]])
+- Search for [[crowds_favor|Crowd's Favor]] abilities used
 - Note the cost of each ability
 - Tally total spent per gladiator
 

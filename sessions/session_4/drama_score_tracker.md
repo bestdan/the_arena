@@ -11,6 +11,8 @@ updated: 2025-12-06
 
 **Quick Reference:** Drama Score = (Spent Favor × 2) + Retained Favor
 
+**Terminology Note:** "Retained Favor" is the Favor remaining at death (also called "Final Favor" or "Current Favor at death").
+
 Use this sheet to track both current and spent Favor throughout combat.
 
 ## Live Tracking Table

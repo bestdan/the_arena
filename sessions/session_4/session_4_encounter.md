@@ -231,6 +231,7 @@ Each PC should get opportunity to activate Last Stand. Pace damage to allow it. 
 **Critical:** Resurrection is determined by [[phoenix_resurrection_rubric|Drama Score]], not just final Favor. The person with LOWEST Drama stays dead permanently.
 
 **Drama Score = (Spent Favor × 2) + Retained Favor**
+*(where Spent Favor = total used during combat, Retained Favor = amount remaining at death)*
 
 This rewards engagement and spectacle over hoarding. See [[phoenix_resurrection_rubric|Phoenix Resurrection Rubric]] for full details.
 

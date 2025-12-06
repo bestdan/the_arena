@@ -62,18 +62,20 @@ This ensures:
 If multiple gladiators tie for lowest:
 1. **Dramatic Choice (Recommended):** The Phoenix demands a choice. The Grand Master, Snak, or a patron must choose who lives. This creates RP opportunity and consequences.
 2. **Random Selection:** Roll dice among tied gladiators.
-3. **All Stay Dead:** If only 2-3 gladiators tied at lowest, both/all stay dead (harsh but memorable).
+3. **Multiple Deaths (Harsh):** If only 2-3 gladiators tied at lowest, both/all may stay dead (harsh but memorable).
+
+**Important:** Session 4 expects exactly 7 survivors out of 8. If using option 3, ensure total deaths don't exceed 1-2, or be prepared to adjust the narrative expectations.
 
 **Suspiciously Low Drama Across the Board:**
-If **no one** reaches the minimum engagement threshold (see below), it indicates the group didn't engage with the mechanics:
-- At least **one** still resurrects (most dramatic death, GM choice)
+If **no one** reaches the minimum engagement threshold (Drama below 15 for everyone), it indicates the group didn't engage with the mechanics:
+- At least **one** still resurrects (most dramatic death, GM choice) to maintain the "7 out of 8" expectation
 - Others may resurrect with severe consequences (exhaustion, stat damage, debt)
 - Snak and patrons are disappointed
 
 **Everyone High Drama:**
-If all gladiators score well (20+ Drama each):
-- Still, lowest score stays dead (Phoenix is absolute)
-- OR: GM may allow all to resurrect if Drama scores are exceptionally close (within 3 points) and all above 25
+If all gladiators score well (25+ Drama each):
+- Default: Still, lowest score stays dead (Phoenix is absolute) to maintain exactly 7 survivors
+- OR: GM may allow all to resurrect if Drama scores are exceptionally close (within 3 points) and all above 30, adjusting Session 4 narrative to "all 8 return"
 - This should be rare—combat is designed to create separation
 
 ## Thresholds and Benchmarks
