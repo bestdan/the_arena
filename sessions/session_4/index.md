@@ -18,20 +18,27 @@ A special exhibition where eight gladiators face impossible odds knowing death i
 
 - **Type:** Guaranteed TPK encounter with resurrection
 - **Party Size:** 8 combatants (4-5 PCs + 3 NPC allies + [[merryn|Merryn]] + [[rohm|Rohm]])
-- **Stakes:** Death is expected. Resurrection is guaranteed. **Except for whoever has the lowest [[crowds_favor|Crowd's Favor]].**
-- **Purpose:** "Pop the death cherry" and teach players that [[crowds_favor|Favor]] is literal life insurance
+- **Stakes:** Death is expected. Resurrection is guaranteed. **Except for whoever has the lowest [[phoenix_resurrection_rubric|Drama Score]].**
+- **Purpose:** "Pop the death cherry" and teach players that [[crowds_favor|Favor]] usage and showmanship ensure resurrection
 
 ## Key Concept
 
-This session introduces the reality of death while minimizing campaign disruption. Everyone knows they'll die—it's about dying *gloriously*. The real competition isn't survival, it's accumulating enough Favor to ensure resurrection.
+This session introduces the reality of death while minimizing campaign disruption. Everyone knows they'll die—it's about dying *gloriously*. The real competition isn't survival, it's accumulating and **spending** enough [[crowds_favor|Favor]] to maximize your [[phoenix_resurrection_rubric|Drama Score]].
 
-The twist: one person doesn't come back. Permanent death for the gladiator with lowest Favor creates real stakes while teaching the importance of teamwork, showmanship, and crowd engagement.
+The twist: one person doesn't come back. Permanent death for the gladiator with lowest Drama Score creates real stakes while teaching the importance of teamwork, showmanship, and active crowd engagement. **Spending Favor counts for more than hoarding it.**
 
 ## Session Files
 
 - **[Setup](session_4_setup.md)** - Pre-game interactions, NPC introductions, briefing
 - **[Encounter](session_4_encounter.md)** - Four escalating combat stages, mechanics, favor tracking
 - **[Notes](session_4_notes.md)** - Session log and outcomes (to be filled during play)
+- **[Drama Score Tracker](drama_score_tracker.md)** - GM tracking sheet for Favor and Drama calculations
+
+## Key Mechanics
+
+- **[[phoenix_resurrection_rubric|Phoenix Resurrection Rubric]]** - How resurrection is determined
+- **[[crowds_favor|Crowd's Favor]]** - Core mechanic for earning and spending Favor
+- **[[last_stand|Last Stand]]** - Dramatic final actions before death
 
 ## New Characters
 
@@ -45,10 +52,12 @@ These NPCs understand the Arena, know how [[crowds_favor|Crowd's Favor]] works, 
 
 ## GM Preparation Notes
 
-- Track Favor visibly and loudly throughout combat
+- **Track Drama Score:** Use the [Drama Score Tracker](drama_score_tracker.md) to track both Current Favor AND Spent Favor
+- **Announce Drama regularly:** Players need to know their standings to make informed decisions
+- **Encourage spending:** Spending Favor is worth 2× hoarding in resurrection calculations
 - Pace enemy waves to allow all PCs opportunity for [[last_stand|Last Stand]]
 - Emphasize teamwork and favor-sharing in pre-combat briefing
 - Make each death dramatic and give it spotlight
-- The permanent death should feel like consequence of choices, not random chance
+- The permanent death should feel like consequence of choices (hoarding vs. spending), not random chance
 - Have backup character options ready for affected player
 - Prepare patron/sponsor NPCs for aftermath meetings

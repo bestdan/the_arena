@@ -228,28 +228,37 @@ Each PC should get opportunity to activate Last Stand. Pace damage to allow it. 
 
 ## Tracking Favor
 
-**Critical:** The person with LOWEST favor at end of combat stays dead permanently.
+**Critical:** Resurrection is determined by [[phoenix_resurrection_rubric|Drama Score]], not just final Favor. The person with LOWEST Drama stays dead permanently.
+
+**Drama Score = (Spent Favor × 2) + Retained Favor**
+
+This rewards engagement and spectacle over hoarding. See [[phoenix_resurrection_rubric|Phoenix Resurrection Rubric]] for full details.
 
 ### GM Responsibilities
-- Track Favor visibly (use index cards, tokens, or tally marks)
+- Track **both** Current Favor AND Total Spent Favor visibly (use index cards, tokens, or tally marks)
+- Calculate and announce Drama Scores periodically ("Kael has 26 Drama—12 spent, 8 retained!")
 - Remind players frequently about Favor opportunities
+- Encourage spending Favor—it's worth MORE than hoarding in this event
 - Encourage spreading spotlight—teamwork prevents permanent death
 - Call out Favor gains loud and clear: "That ignite gives you +1 Favor!"
-- Warn if someone is falling behind: "You're at 2 Favor—everyone else is 5+"
+- Warn if someone is falling behind in Drama: "You've only spent 4 Favor—that's just 14 Drama total!"
 
-### Expected Favor Range
-By end of combat, most should have 12-20 Favor if playing smart:
-- Stage 1 kills/actions: 3-5 Favor
-- Stage 2 beast fighting: 3-5 Favor
-- Stage 3 surviving Champion: 3-5 Favor
-- Last Stand activation: 3+ Favor
-- Last Stand actions: 3-8 Favor
-- Environmental/team play: 2-4 Favor
+### Expected Drama Score Range
+By end of combat, most should have 15-30 Drama if playing smart:
+- Stage 1 kills/actions: 3-5 Favor earned
+- Stage 2 beast fighting: 3-5 Favor earned
+- Stage 3 surviving Champion: 3-5 Favor earned
+- Last Stand activation: 3+ Favor earned
+- Last Stand actions: 3-8 Favor earned
+- Environmental/team play: 2-4 Favor earned
+- **Spending throughout:** Multiply spent × 2 for Drama
 
-### Lowest Favor Consequence
-Whoever ends with lowest Favor does not resurrect. If tied for lowest, **both** stay dead (or roll off, GM choice based on drama).
+Players should spend 40-60% of earned Favor to maximize Drama Score.
 
-This should feel earned—if someone hogged spotlight, showboated alone, or ignored team play, they're at risk.
+### Lowest Drama Consequence
+Whoever ends with lowest Drama Score does not resurrect. See [[phoenix_resurrection_rubric|Phoenix Resurrection Rubric]] for tie-breakers and edge cases.
+
+This should feel earned—if someone hoarded Favor without spending it to create spectacle, or ignored team play, they're at risk.
 
 ---
 
@@ -313,44 +322,49 @@ Once all eight combatants are dead:
 
 > "One has fallen SHORT. The Phoenix does not grant mercy—only justice."
 
-### Resurrection Quality (Based on Final Favor)
+### Resurrection Quality (Based on Drama Score)
 
-For the **seven who return**:
+For the **seven who return**, quality is determined by [[phoenix_resurrection_rubric|Drama Score]]:
 
-**0-5 Favor:** 
+**0-15 Drama:**
 - Basic resurrection
 - Return with 1 level of exhaustion (lasts until next long rest)
 - Equipment intact but damaged (cosmetic)
+- "The Phoenix grants you return... barely."
 
-**6-10 Favor:**
+**16-24 Drama:**
 - Clean resurrection
 - Full HP, no exhaustion
 - Equipment repaired and polished
+- "The Phoenix acknowledges your efforts."
 
-**11-15 Favor:**
+**25-35 Drama:**
 - Resurrection with vigor
 - Full HP, no exhaustion
 - Advantage on first attack or save next session
 - Equipment enhanced (minor cosmetic upgrade)
+- "The Phoenix rewards those who embrace the spectacle!"
 
-**16-20 Favor:**
+**36-45 Drama:**
 - Phoenix blessing
-- Full HP, no exhaustion  
+- Full HP, no exhaustion
 - Choose one permanent boon:
   - +1 to a single skill proficiency
   - +5 max HP
   - Phoenix Trinket (grants 1 reroll per long rest)
 - Equipment blessed (glows faintly in firelight)
+- "The Phoenix marks you as worthy!"
 
-**21+ Favor:**
+**46+ Drama:**
 - Champion of the Phoenix
-- All benefits of 16-20 tier
+- All benefits of 36-45 tier
 - Phoenix Mark (visible tattoo/brand that grants advantage on Intimidation or Performance checks when visible)
 - The crowd knows your name—+2 to all future Favor gains for next three sessions
+- "BEHOLD! A CHAMPION REBORN!"
 
 ### The One Who Stays Dead
 
-The character with lowest Favor does not resurrect. Their body is removed from the arena by attendants in black robes. The Grand Master offers no words for them.
+The character with lowest [[phoenix_resurrection_rubric|Drama Score]] does not resurrect. Their body is removed from the arena by attendants in black robes. The Grand Master offers no words for them.
 
 **Consequences:**
 - Player rolls new character OR rotates in a different PC from their roster (campaign uses active roster system with ~6 PCs, typically 4 per session)

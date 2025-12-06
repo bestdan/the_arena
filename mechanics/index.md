@@ -60,6 +60,19 @@ Weekly rotating inventory of consumables, gear, and shady services available to 
 - Training & recovery items
 - Shady services
 
+---
+
+## Special Event Mechanics
+
+### [Phoenix Resurrection Rubric →](phoenix_resurrection_rubric.md)
+Scoring system for selective resurrection in guaranteed-death events like the Rite of Phoenix Flames.
+
+**Key Features:**
+
+- Drama Score calculation (spent + retained Favor)
+- Rewards engagement over hoarding
+- Scaled resurrection quality
+- Clear edge case handling
 
 ---
 
