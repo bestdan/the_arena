@@ -96,4 +96,5 @@ Potential Last Stand moment:
 - His protection-focused combat style pairs well with aggressive PCs
 - His debt to the party is genuine—he's a reliable ally
 - If he dies permanently (lowest Favor in Session 4), it should impact the kids' story
-- If he survives Session 4, he becomes recurring ally and potential patron connection
+- If he survives Session 4, he becomes an occasoinal ally and potential patron connection
+- Do not assume he is present in any given session unless directed

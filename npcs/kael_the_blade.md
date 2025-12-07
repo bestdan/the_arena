@@ -1,7 +1,7 @@
 ---
 tags: [arena, npc, gladiator, ally]
 npc_type: gladiator
-status: active
+status: dead
 first_appearance: session-4
 relationship: ally
 created: 2025-11-25
@@ -44,3 +44,7 @@ Three seasons fighting. Knows how the Arena works. Understands [[crowds_favor|Cr
 
 ## Favor Philosophy
 "The crowd wants a show, but corpses can't bow. Win first, flourish second."
+
+
+## Status
+Died in session 4. Was not revived.

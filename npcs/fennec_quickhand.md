@@ -1,7 +1,7 @@
 ---
 tags: [arena, npc, gladiator, ally]
 npc_type: gladiator
-status: active
+status: dead
 first_appearance: session-4
 relationship: ally
 created: 2025-11-25
@@ -51,3 +51,7 @@ Former pickpocket from Tarsus's lower districts. Got caught stealing from the wr
 - Works best with allies to enable flanking
 - Will use Fast Hands creatively (throwing sand, dropping caltrops, etc.)
 - Survives by being annoying and untouchable
+
+
+## Status
+Died in session 4. Was not revived.

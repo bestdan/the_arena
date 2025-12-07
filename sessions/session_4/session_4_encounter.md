@@ -1,7 +1,7 @@
 ---
 tags: [arena, encounter, session-4, last-stand, heroic-death]
 session_number: 4
-party_level: 3
+party_level: 2
 difficulty: deadly
 mechanics: [crowds-favor, panache, last-stand]
 status: planned
@@ -31,10 +31,6 @@ A 100-foot circular arena ringed by towering obsidian pillars carved with resurr
 - Grants high ground (+2 to ranged attacks from platform)
 - Makes you a visible target (enemies prioritize)
 - Climbing: DC 10 Athletics, 10 ft movement cost
-
-**Weapon Racks** (4 total, at cardinal points)
-- Action to grab: shortsword, spear, handaxe, or javelin
-- Emergency backup if disarmed
 
 **Blessed Oil Channels** (4 total, running from center to edge)
 - 5 feet wide, 30 feet long
@@ -133,75 +129,6 @@ This encounter is designed to kill everyone. Scale enemy power to ensure it. Dea
 
 ---
 
-## Stage 3: The Executioner (Round 6 or when Chimera bloodied)
-**"THE PIT CHAMPION! WITNESS MASTERY!"**
-
-### Entrance
-- Arena floor splits open
-- Pit Champion rises on platform
-- Crowd chants "FINISH THEM! FINISH THEM!"
-- This is where people start dying
-
-### Enemy
-
-**1 Pit Champion** (Assassin stat block, CR 8 - scaled for party level 3)
-- **HP:** 78
-- **AC:** 15 (studded leather)
-- **Speed:** 30 ft
-- **Multiattack:** 2 shortsword attacks
-- **Attack:** Poisoned Shortsword +6 to hit, 1d6+4 piercing + 7d6 poison damage (DC 15 Con save for half poison)
-- **Sneak Attack:** +4d6 damage (once per turn)
-- **Assassinate:** Advantage on attacks against anyone who hasn't acted yet in combat
-- **Evasion:** Dex saves take half damage, no damage on success
-- **Cunning Action:** Bonus action Dash/Disengage/Hide
-
-**Special Equipment:**
-- **Net:** +6 to hit, range 5/15, target is restrained (DC 10 Str to break)
-- **Tactics:** Uses net to deny escape, focuses on wounded PCs, tries to prevent [[last_stand|Last Stand]] activations by isolating targets
-
-### Tactics
-- Waits for PCs to show weakness
-- Uses net on anyone who looks like they're about to activate Last Stand
-- Poison damage forces Constitution saves—drains resources
-- Targets whoever has highest Favor (wants to deny the resurrection insurance)
-- Highly mobile, hard to pin down
-
-### Crowd Favor Opportunities
-- Surviving a hit from Pit Champion: +2 Favor
-- Breaking free of net: +1 Favor
-- Landing a hit on Pit Champion: +3 Favor
-- Protecting ally from execution: +3 Favor
-- Dueling the Champion one-on-one: +2 Favor per round
-
----
-
-## Stage 4: The Endless Tide (Round 8+)
-**"THEY REFUSE TO FALL! SEND MORE!"**
-
-### Reinforcements
-Every 2 rounds after Stage 3 begins:
-- **2 Arena Thugs** (Thug stat block, CR 1/2 each)
-- **HP:** 32 each
-- **AC:** 11 (leather)
-- **Speed:** 30 ft
-- **Multiattack:** 2 mace attacks
-- **Attack:** Mace +4 to hit, 1d6+2 bludgeoning
-- **Pack Tactics:** Advantage when ally is within 5 ft of target
-
-### Purpose
-- Ensures eventual defeat even if party is winning
-- Creates pressure to trigger [[last_stand|Last Stand]]
-- Adds more targets for final dramatic moments
-- Shows that resistance is futile—this is about glory, not victory
-
-### Crowd Favor Opportunities
-- Fighting while outnumbered 2-to-1: +1 Favor per round
-- Killing reinforcements efficiently: +1 Favor
-- Refusing to surrender: +1 Favor per round standing
-- Last PC standing: +5 Favor bonus
-
----
-
 ## Last Stand Mechanics for This Encounter
 
 When a PC drops to 0 HP, they should activate [[last_stand|Last Stand]]. This is what the crowd came to see.
@@ -221,8 +148,6 @@ Each PC should get opportunity to activate Last Stand. Pace damage to allow it. 
 - **Zara:** Frenzy rage, charges the Chimera, dual handaxe whirlwind
 - **Fennec:** Backflip onto Pit Champion's shoulders, dual dagger stab, theatrical collapse
 - **Kael:** Shields three allies with Rally, takes killing blow meant for them
-- **Merryn:** Impossible trickshot through two enemies, winks at crowd before falling
-- **Rohm:** Spear throw that pins Beast Handler to pillar, dies standing
 
 ---
 

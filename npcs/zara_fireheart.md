@@ -49,3 +49,6 @@ Came to the Arena seeking glory. Her clan believes death in combat is honorableâ
 - Pairs well with healing/support
 - High risk, high reward playstyle
 - Will go down swinging if [[last_stand|Last Stand]] triggers
+
+## Status
+Died in session 4. Was revived.
