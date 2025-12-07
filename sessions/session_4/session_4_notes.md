@@ -3,7 +3,7 @@ tags: [arena, session-notes, session-4]
 session_number: 4
 party_level: 3
 status: planned
-visibility: private
+visibility: public
 created: 2025-11-25
 updated: 2025-11-25
 ---

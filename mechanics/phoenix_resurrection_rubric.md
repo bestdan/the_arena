@@ -199,7 +199,7 @@ Some players may choose to hoard—respect that. The consequences (potential per
 
 ## Integration with Session 4
 
-In [[sessions/session_4/session_4_encounter|Session 4: The Rite of Phoenix Flames]], this rubric replaces the simple "lowest Favor" rule mentioned in the original encounter notes.
+In [[session_4_encounter|Session 4: The Rite of Phoenix Flames]], this rubric replaces the simple "lowest Favor" rule mentioned in the original encounter notes.
 
 **Key Change:**
 - OLD: "Whoever ends with lowest Favor does not resurrect"

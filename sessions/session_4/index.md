@@ -3,7 +3,7 @@ tags: [arena, session, index, session-4]
 session_number: 4
 party_level: 3
 status: planned
-visibility: private
+visibility: public
 created: 2025-11-25
 updated: 2025-11-25
 ---
@@ -17,7 +17,6 @@ A special exhibition where eight gladiators face impossible odds knowing death i
 ## Overview
 
 - **Type:** Guaranteed TPK encounter with resurrection
-- **Party Size:** 8 combatants (4-5 PCs + 3 NPC allies + [[merryn|Merryn]] + [[rohm|Rohm]])
 - **Stakes:** Death is expected. Resurrection is guaranteed. **Except for whoever has the lowest [[phoenix_resurrection_rubric|Drama Score]].**
 - **Purpose:** "Pop the death cherry" and teach players that [[crowds_favor|Favor]] usage and showmanship ensure resurrection
 
@@ -33,12 +32,6 @@ The twist: one person doesn't come back. Permanent death for the gladiator with 
 - **[Encounter](session_4_encounter.md)** - Four escalating combat stages, mechanics, favor tracking
 - **[Notes](session_4_notes.md)** - Session log and outcomes (to be filled during play)
 - **[Drama Score Tracker](drama_score_tracker.md)** - GM tracking sheet for Favor and Drama calculations
-
-## Key Mechanics
-
-- **[[phoenix_resurrection_rubric|Phoenix Resurrection Rubric]]** - How resurrection is determined
-- **[[crowds_favor|Crowd's Favor]]** - Core mechanic for earning and spending Favor
-- **[[last_stand|Last Stand]]** - Dramatic final actions before death
 
 ## New Characters
 

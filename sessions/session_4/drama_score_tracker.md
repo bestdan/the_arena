@@ -2,7 +2,7 @@
 tags: [arena, session-4, tracking, gm-tool]
 session_number: 4
 content_type: tracking-sheet
-visibility: private
+visibility: public
 created: 2025-12-06
 updated: 2025-12-06
 ---
