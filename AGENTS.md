@@ -18,7 +18,7 @@ LLM operators start here. Keep edits inside `The_Arena/`. Favor writing to Markd
 - When editing a folder, check its local `AGENTS.md` for scoped instructions.
 
 ## Campaign Snapshot (for light-weight context)
-- Premise: D&D 5e "core rules", a repeating gladiatorial saga that blends spectacle with lethal advancement.
+- Premise: D&D 2024 5e "core rules", a repeating gladiatorial saga that blends spectacle with lethal advancement.
 - Active roster rotates ~6 PCs, usually 4 per session.
 - Themes: showmanship shapes fate; teamwork vs. solo glory; real stakes; fame and patronage as path to freedom.
 - Tone: high-drama combat, announcer flair, crowd as character.

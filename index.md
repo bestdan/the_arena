@@ -9,7 +9,7 @@ updated: 2025-11-23
 
 # The Arena ![](favicon-32x32.png)
 
-A D&D 5e gladiatorial campaign set in Tarsus, where spectacle shapes survival and showmanship matters as much as steel.
+A D&D 2024 5e gladiatorial campaign set in Tarsus, where spectacle shapes survival and showmanship matters as much as steel.
 
 ## Campaign Overview
 

@@ -17,7 +17,7 @@ Use this when creating or tuning homebrew rules. Keep mechanics punchy, lethal, 
 
 ## Writing Rules
 - Prioritize clarity: state trigger, effect, resolution steps, and tracking needs.
-- Keep balance anchored in 5e core; lean risky but avoid opaque math.
+- Keep balance anchored in 2024 5e core; lean risky but avoid opaque math.
 - Add short usage examples or callouts when edge cases exist.
 - Show when crowd reaction or style matters; flag Panache/Crowd Favor hooks explicitly.
 - Cross-link other rules and sessions using Obsidian wiki-link syntax; avoid duplicating text across files.

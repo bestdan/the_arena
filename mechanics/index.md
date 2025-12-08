@@ -85,4 +85,4 @@ These mechanics ensure that **how** you fight matters as much as whether you win
 - **Consequence Management**: Real stakes with dramatic payoffs
 - **Showmanship Incentives**: Style and spectacle are mechanically rewarded
 
-All mechanics are designed to work seamlessly with D&D 5e core rules while emphasizing the campaign's theatrical, gladiatorial tone.
+All mechanics are designed to work seamlessly with D&D 2024 5e core rules while emphasizing the campaign's theatrical, gladiatorial tone.
