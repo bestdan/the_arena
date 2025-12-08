@@ -17,10 +17,13 @@ Use this guide when drafting or revising session notes. Keep the Arena theatrica
 - Inspect the notes from the previous session, `session_x_notes.md` for deaths, plot points etc
 
 ## Organization
-- create 3 files per session: 
-  - `session_x_pregame.md` which holds pre-session info
+- create 4 files per session: 
+  - `session_x_setup_players.md` which holds pre-session setup to be shared with the players - Snak's explanation of the session, advice. 
+  - `session_x_setup_gm.md` which holds pre-session info for the game master. 
   - `session_x_game.md` holds details of how to run the sessions: npcs, enemies, environment changes etc
   - `session_x_notes.md` holds notes from the played session, actions taken favor granted, items taken, plot lines developed etc
+  - `index.md` should just be links to each of the files, if they are public
+  - `.pages` for the github index page to render correctly, just the 
 
 
 ## Session Format (keep consistent)
@@ -30,17 +33,11 @@ Use this guide when drafting or revising session notes. Keep the Arena theatrica
 4. Post-combat aftermath: rewards, patron interest, reputation shifts, injuries or deaths.
 5. Between-session events: downtime that seeds the next setup.
 
-### Announcer Block Example
-```
-"Welcome back to the blood-soaked sands!"
-
-[Trumpets blare; nobles lean forward]
-```
 
 ## Writing Rules
 - Keep the crowd and announcer present to reinforce spectacle.
 - Call out when custom mechanics apply ([[panache|Panache]], [[crowds_favor|Crowd Favor]], [[last_stand|Last Stand]]).
-- Track consequences and continuity (wounds, debts, patron favors).
+- Track consequences and continuity (wounds, debts, patron favors). Consult previous sessions notes.
 - Link named NPCs, locations, and mechanics using Obsidian wiki-link syntax.
 - Aim for concise headings and bullets where it helps scanning; otherwise flow with narrative prose.
 
