@@ -1,0 +1,24 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("ideas")
+        - "!level_range.isEmpty()"
+    groupBy:
+      property: level_range
+      direction: ASC
+    order:
+      - file.name
+      - level_range
+    sort:
+      - property: level_range
+        direction: ASC
+  - type: list
+    name: View
+    groupBy:
+      property: level_range
+      direction: ASC
+    order:
+      - file.name
+      - level_range

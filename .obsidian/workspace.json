@@ -11,14 +11,13 @@
             "id": "d22c5c26e7fec3fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "meta_history/recommendations.md",
-                "mode": "source",
-                "source": false
+                "file": "ideas/01_ideas_index.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "recommendations"
+              "icon": "lucide-table",
+              "title": "01_ideas_index"
             }
           }
         ]
@@ -183,13 +182,32 @@
       "bases:Create new base": false
     }
   },
-  "active": "d22c5c26e7fec3fa",
+  "active": "293ca4e82b494b97",
   "lastOpenFiles": [
+    "ideas/hide_and_seek.md",
+    "ideas/01_ideas_index.base",
+    "ideas/Untitled.base",
+    "ideas/aerial_ascension.md",
+    "meta_history/recommendations.md",
+    "ideas/beast_and_masters.md",
+    "Untitled.md",
+    "sessions/session_4/post_session_rubric_application.md",
+    "sessions/session_4/drama_score_validation.md",
+    "sessions/session_4/drama_score_tracker.md",
+    "sessions/session_4/QUICK_REFERENCE.md",
+    "sessions/session_4/IMPLEMENTATION_SUMMARY.md",
+    "mechanics/phoenix_resurrection_rubric.md",
+    "ideas/shared_spark.md",
+    "ideas/mirror_worlds.md",
+    "ideas/linked_fate.md",
+    "ideas/giants_and_mice.md",
+    "ideas/eyes_and_hands.md",
+    "ideas/burden_relay.md",
+    "ideas/COLLABORATION_INDEX.md",
     "environment/the_arena.md",
     "environment/the_empire.md",
     "README.md",
     "mechanics/crowds_favor.md",
-    "ideas/aerial_ascension.md",
     "players/orion.md",
     "players/father_crow.md",
     "npcs/Snak.md",
