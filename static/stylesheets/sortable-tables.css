@@ -125,6 +125,11 @@
   color: var(--md-default-fg-color--light);
 }
 
+/* Hide status icons on navigation items */
+.md-status {
+  display: none !important;
+}
+
 @media (max-width: 768px) {
   .filter-row {
     flex-direction: column;
