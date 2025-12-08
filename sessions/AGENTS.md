@@ -13,13 +13,14 @@ Use this guide when drafting or revising session notes. Keep the Arena theatrica
 ## Load This Context First
 - `AGENTS.md` and `environment/the_empire.md` for world framing.
 - Mechanics: `mechanics/panache.md`, `mechanics/crowds_favor.md`, `mechanics/last_stand.md`.
-- Current cast: `players/characters.md`; add relevant `npcs/*.md` for featured characters.
+- Current cast: `players/characters.md`; add relevant `npcs/*.md` for featured characters. Pay attention to `status` of NPCs and do not include dead NPCs.
+- Inspect the notes from the previous session, `session_x_notes.md` for deaths, plot points etc
 
 ## Organization
 - create 3 files per session: 
   - `session_x_pregame.md` which holds pre-session info
   - `session_x_game.md` holds details of how to run the sessions: npcs, enemies, environment changes etc
-  -  `session_x_notes.md` holds notes from the played session, actions taken favor granted, items taken, plot lines developed etc
+  - `session_x_notes.md` holds notes from the played session, actions taken favor granted, items taken, plot lines developed etc
 
 
 ## Session Format (keep consistent)

@@ -16,6 +16,7 @@ Use this to update or add NPC profiles. Keep each entry playable at the table an
 
 ## Profile Expectations
 - Include role, look/voice cues, motives, and leverage with the Arena (patrons, crews, debts).
+- Include status of active / dead / other
 - Track relationships to PCs and other NPCs; note promises, grudges, and favors owed.
 - Record consequences from sessions (injuries, public opinions, rewards).
 - Keep stat-level detail light unless it is a combatant; focus on hooks that matter in play.
