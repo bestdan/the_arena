@@ -1,5 +1,6 @@
 ---
 tags: [arena, items, shop, session-5]
+content_type: index
 created: 2025-12-07
 updated: 2025-12-07
 visibility: public
