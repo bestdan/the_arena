@@ -3,7 +3,7 @@ tags: [arena, session-notes, session-4]
 session_number: 4
 party_level: 3
 status: planned
-visibility: private
+visibility: public
 created: 2025-11-25
 updated: 2025-11-25
 ---
@@ -163,8 +163,6 @@ updated: 2025-11-25
 | PC 3      |             |             |                  |
 | PC 4      |             |             |                  |
 | PC 5      |             |             |                  |
-| Merryn    |             |             |                  |
-| Rohm      |             |             |                  |
 | Kael      |             |             |                  |
 | Zara      |             |             |                  |
 | Fennec    |             |             |                  |
@@ -270,8 +268,8 @@ updated: 2025-11-25
 ### Reputation Changes
 - All surviving PCs: Phoenix-Blessed (known in arena community)
 - Specific PCs with enhanced reputation:
-  - 
-  - 
+- 
+- 
 
 ### Fame Levels
 - Update based on performance and Favor
