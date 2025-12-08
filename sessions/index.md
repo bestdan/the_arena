@@ -10,14 +10,14 @@ updated: 2025-11-25
 
 ---
 
-## Session 0: Orientation
+## Session 0: Orientation 🧭
 Character creation and campaign setup for the Arena.
 
 [View Session](session_0/index.md)
 
 ---
 
-## Session 1: First Blood
+## Session 1: First Blood 🩸
 The new bloods face their first trial in the Arena—wild boars followed by lizard princes. Ten gladiators enter, but three die in the brutal combat. Survivors receive their first rewards and introduction to arena life with Snak.
 
 [View Session](session_1/index.md)
@@ -37,3 +37,17 @@ Days later, four prisoners of war arrive: Rohm and three young teenage herders. 
 [View Session](session_3/index.md) 
 
 
+---
+
+## Session 3: The First Glorious End 🪦
+Death is guaranteed. Revivial is not.  The Rite of the Phoenix involves the players dying gloriously... but only 3 of the are revived. After a brutal battle against the Brutes across the ziplines, a Chimera tried to finish them off. 
+
+[View Session](session_4/index.md) 
+
+---
+
+## Session 5: Hide and Seek 🤫
+
+To be played...
+
+[View Session](session_5/index.md) 

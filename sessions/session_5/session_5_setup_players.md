@@ -12,25 +12,25 @@ updated: 2025-12-07
 
 *3 Days Before the Match*
 
-The three survivors—[[imwe|Imwe]], [[torgana|Torgana]], and [[father_crow|Father Crow]]—sit in the recovery area. Phoenix-Blessed, they're called now. Resurrected. Marked. Changed.
+The three survivors—[[imwe|Imwe]], [[torgana|Torgana]], and [[father_crow|Father Crow]]—sit in the recovery area.  The others bunks are empty.
 
-The others bunks are empty.
+Two new faces appear in the pens. Not new to the arena, but new to you.
 
-Two new faces appear in the pens. Fresh blood.
+[Snak appears]
 
-*Snak appears, coin purse heavy with new patronage money:*
-
-> "Alright, 'Phoenix-Blessed'. Time to earn those fancy titles. You three pulled off something special—died, came back, got the crowd chanting your names. You made it out of the amateur league. Don't get cocky."
-
-She tosses each of the three a pouch. Theres 50GP in each. 
-
-> "That's from your new admirers. Temple priestess. Merchant guild. Some noble whose name I can't pronounce. They want to see what you do NEXT. I'm guessing you'll need it. Survival won't be free any more."
+> “Alright, ‘Phoenix-Blessed’. Time to earn those fancy titles. You three pulled off something special—died, came back, got the crowd chanting your names. You made it out of the amateur league. Don’t get cocky.”
 
 She gestures to the two newcomers.
 
-> "These are your new teammates for the next bout. Learn how to work together, yeah? Or don't. Natural selection works too."
+> “These are your new teammates for the next bout. Learn how to work together, yeah? Or don’t. Natural selection works just fine too.”
 
-> "I'm hearing rumors about the next match - it's gonna be different somehow. They're always getting 'creative'. I'm gonna try to find out what you'll be up against."
+She tosses each of the three survivors a pouch. Theres `50GP` in each.
+
+> “That’s from your new admirers. Temple priestess. Merchant guild. Some noble whose name I can’t pronounce. They want to see what you do NEXT. I’m guessing you’ll need it. Survival won’t be free any more.”
+
+> “I’m hearing rumors about the next match - it’s gonna be different somehow. They’re always getting ‘creative’. I’m can try to find out what you’ll be up against, but this time it’ll cost you. I know a guy, but he don’t work for free.`25 GP`. Take it or leave it.”
+
+> “Or, let me know if you want anything from the shop. Best prices you’ll get. (Only prices you’ll get.)”
 
 
 *The Night Before The Hunt*
