@@ -2,6 +2,10 @@
 /docs/
 /site/
 
+# Obsidian
+.obsidian
+.obsdian/workspace.json
+
 # Python
 __pycache__/
 *.py[cod]

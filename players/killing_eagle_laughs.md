@@ -1,12 +1,12 @@
 ---
 tags: [arena, pc, gladiator]
-character_name: Torgana
-Race: Orc
-class: Barbarian
+character_name: Killing Eagle Laughs
+race: Goliath
+class: Ranger
 level: 3
-visibility: public
 status: active
-first_session: 1
+visibility: public
+first_session: 5
 created: 2025-11-21
 updated: 2025-11-23
 ---
