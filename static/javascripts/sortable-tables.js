@@ -41,6 +41,7 @@ function enhanceTable(table) {
         <option value="mobility">Mobility</option>
         <option value="control">Control</option>
         <option value="support">Support</option>
+        <option value="stealth">Stealth</option>
         <option value="signature">Signature</option>
       </select>
       <select id="action-filter" class="favor-filter">
