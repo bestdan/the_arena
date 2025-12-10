@@ -13,12 +13,12 @@ updated: 2025-12-07
 ## Pre-Session Summary
 
 **Surviving PCs from Session 4:**
-- [[imwe|Imwe]] (Fighter, level 3, Phoenix-Blessed)
-- [[torgana|Torgana]] (Barbarian, level 3, Phoenix-Blessed)
-- [[father_crow|Father Crow]] (Cleric, level 3, Phoenix-Blessed)
+- [[imwe|Imwe]] (Fighter, level 3, Phoenix-Blessed) 50gp
+- [[torgana|Torgana]] (Barbarian, level 3, Phoenix-Blessed) 50gp
+- [[father_crow|Father Crow]] (Cleric, level 3, Phoenix-Blessed) 50gp
 
 **New PCs for Session 5:**
-- [PC Name 1] (Class, level 3)
+- [[killing_eagle_laughs|Killing Eagle Laughs]] (Ranger, level 3) 35 GP (paid for Snak info)
 - [PC Name 2] (Class, level 3)
 
 **Party Size:** 5 PCs, all level 3
