@@ -187,3 +187,45 @@ options:
     category: signature
     action: free
     effect: "For 3 rounds: all Panache rolls gain advantage; if you drop to 0 HP, drop to 1 instead (once)"
+
+  - cost: 1
+    name: Crowd Whispers
+    category: stealth
+    action: free
+    effect: When an enemy makes a Perception check to find you, the crowd's murmurs create confusion. Impose disadvantage on their Perception check.
+
+  - cost: 2
+    name: Shadow Slip
+    category: stealth
+    action: free
+    effect: After making a Stealth check, add +1d6 to the result. The crowd's attention shifts, creating deeper shadows around you.
+
+  - cost: 1
+    name: Sprint Through Shadows
+    category: mobility
+    action: bonus
+    effect: Until the end of your turn, your movement speed increases by 10 feet and you don't leave tracks or scent trails that can be followed by creatures tracking you.
+
+  - cost: 1
+    name: Crowd Distraction
+    category: control
+    action: reaction
+    effect: When an enemy you can see begins moving, the crowd's shouts distract them. They must succeed on a Wisdom save (DC = 8 + your proficiency + your Charisma modifier) or lose 10 feet of movement this turn as they look around confused.
+
+  - cost: 2
+    name: Misdirection
+    category: control
+    action: bonus
+    effect: Choose a creature within 30 ft. The crowd creates a distraction. The creature must make an Intelligence save (DC = 8 + your proficiency + your Charisma modifier) or waste their action this turn as they react to false information from the crowd.
+
+  - cost: 2
+    name: Crowd's Eyes
+    category: control
+    action: bonus
+    effect: The scrying-watching crowd hints at nearby danger. Learn the direction and approximate distance (near/far) of the closest enemy to you.
+
+  - cost: 3
+    name: False Name
+    category: control
+    action: free
+    effect: When an enemy attempts to call you out or target you by name, you can cause the crowd to shout conflicting names. The enemy must make a Wisdom save (DC = 8 + your proficiency + your Charisma modifier). On a failure, their action is wasted as confusion overwhelms them. Usable once per encounter.

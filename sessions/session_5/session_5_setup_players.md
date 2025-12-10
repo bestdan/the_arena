@@ -10,7 +10,7 @@ updated: 2025-12-07
 
 # Session 5 Setup: Hide and Seek Night Game
 
-*3 Days Before the Match*
+## 3 Days Before the Match*
 
 The three survivors—[[imwe|Imwe]], [[torgana|Torgana]], and [[father_crow|Father Crow]]—sit in the recovery area.  The others bunks are empty.
 
@@ -32,18 +32,19 @@ She tosses each of the three survivors a pouch. Theres `50GP` in each.
 
 > “Or, let me know if you want anything from the shop. Best prices you’ll get. (Only prices you’ll get.)”
 
+## The Night Before The Hunt
 
-*The Night Before The Hunt*
+> "Alright knob-jobs. You all should thank Bald-and-Beautiful over here - this one's gonna be different.  No slugfest. No beast to kill. You're the PREY now. And that changes how you play."
 
-> "Alright nob-heads. This one's gonna be different.  No slugfest. No beast to kill. You're the PREY now. And you change how you play."
+> "First off, it's gonna be a night game - if you dont' see in the dark, you'll either want a torch, a good friend who does, or a prayer. The crowd can still see you - fancy scrying magic."
 
-> "They're really stepping it up for you. First off, it's gonna be a night game - if you dont' see in the dark, you'll either want a torch, a good friend who does, or a prayer."
+> "Second, it's gonna be Hide and Seek. There are Naming Pillars at the four compass points in the arena. If a hunter activates the pillar and shouts your name with the memory of your face fresh, you'll be in for a ton of hurt. Seriously, you don't want to let that happen."
 
-> "Second, it's gonna be Hide and Seek. There are Naming Pillars at the four compass points in the arena. If a hunter touches the pillar and shouts your name with the memory of your face fresh, you'll be in for a ton of hurt. Seriously, you don't want that."
+> "Fancy Phoenix-touched boys- the hunters know your game—they've watched you fight. They've heard your names. So you're at a disadvantage. Here's the trick: they have to SEE you first. Recently. Within a few rounds. So you hide, you move, you stay QUIET. Don't shout each other's names like idiots. Use signals. Gestures. Whatever."
 
-> "Phoenix-touched fancy boys- the hunters know your game—they've watched you fight. They've heard your names. So you're at a disadvantage. Here's the trick: they have to SEE you first. Recently. Within a few rounds. So you hide, you move, you stay QUIET. Don't shout each other's names like idiots. Use signals. Gestures. Whatever."
+> "If you are seen.. either kill them or slow them down before they get to a pillar."
 
-> "Or..." She grins wider. "...you go loud. Destroy the pillars. Can't announce you if there's nowhere TO announce. But that's noisy work. Brings every hunter running."
+> "Or..." She grins wider. "...you go loud. Destroy the pillars - they aren't made of stone. Can't announce you if there's nowhere TO announce. But that's noisy work. Brings every hunter running."
 
 > "Either way—stealth, destruction, or some brilliant combination—make it fun. The crowd's watching via scrying magic, they'll see everythign. Give them a scary show in the dark."
 
@@ -51,18 +52,17 @@ She tosses each of the three survivors a pouch. Theres `50GP` in each.
 
 [[../../items/snak_shop_session_5|Snak Shop for Session 5]]
 
-
 She tosses a small vial on the bunk.
 
-> "Darkvision potion. One dose. Choose wisely who drinks it. Or don't—chaos is entertaining too."
+> "My gift to you. Darkvision potion. One dose. Choose wisely who drinks it. Or don't—chaos is entertaining too."
 
 ---
 
-*An hour before the match in the Armory*
+## An hour before the match in the Armory
 
 Snak walks in holding a pouch at arms length, like it's a venemous snake. She tosses it to Father Crow: 
 
-> "Hey altar-boy - some religious weirdos just dropped this off for you. Said to get it to you ASAP. Man, I flipping hate religious types, give me the heebies."
+> "Hey altar-boy - some culty weirdos just dropped this off for you. Said to get it to you ASAP."
 
 In the pouch is an necklace with a dried eye and two dried ears on it. The ears have fur, like a wolfs. There is a scrap of paper that just says "Use me."
 
