@@ -14,7 +14,7 @@ updated: 2025-12-07
 
 ## The Nighttime Hunt
 
-**Party:** 5 PCs, level 3 (3 Phoenix-Blessed survivors + 2 new gladiators)
+**Party:** 4 PCs, level 3 (3 Phoenix-Blessed survivors + 1 new gladiator)
 **Objective:** Survive 10 rounds without being "announced" by hunters
 **Expected Outcome:** High-tension survival challenge; some PCs may be announced and must make critical saves
 
@@ -87,11 +87,11 @@ When a PC is announced:
 
 Hunters are trained assassins who **prioritize reaching pillars over direct combat**. They'll disengage and dash to announce rather than fight to the death.
 
-### 5 PC Party Composition
+### 4 PC Party Composition
 
-**4 Shadow Stalkers**
+**3 Shadow Stalkers**
 - Use **Assassin** stat block (CR 8), modified:
-  - **HP:** 60 (reduced from 78)
+  - **HP:** 55 (reduced from 78)
   - **AC:** 15 (studded leather)
   - **Speed:** 35 ft
   - **Skills:** Stealth +9 (expertise)
@@ -110,7 +110,7 @@ Hunters are trained assassins who **prioritize reaching pillars over direct comb
 
 **2 Shadow Hounds**
 - Use **Dire Wolf** stat block with modifications:
-  - **HP:** 37
+  - **HP:** 32 (reduced from 37)
   - **AC:** 14
   - **Speed:** 50 ft
   - **Darkvision:** 120 ft
@@ -180,7 +180,7 @@ If PCs survive to the **end of Round 10**, the hourglass shatters, hunters flee,
 ## Objectives and Rewards
 
 ### Primary Objective: Survive
-All 5 PCs survive 10 rounds without being announced and killed.
+All 4 PCs survive 10 rounds without being announced and killed.
 
 **Reward:** 100 gp each, +2 base [[crowds_favor|Favor]], crowd respect
 
@@ -190,7 +190,7 @@ Eliminate all four Announcement Pillars (risky but decisive).
 **Reward:** +2 additional Favor per PC, bonus loot (see below)
 
 ### Tertiary Objective: Kill Hunters
-Kill at least half the hunters (4+ enemies).
+Kill at least half the hunters (3+ Shadow Stalkers or 4+ total enemies).
 
 **Reward:** +1 additional Favor per PC, reputation as aggressive fighters
 
@@ -468,15 +468,15 @@ Each destroyed Announcement Pillar yields 1 **Arcane Resonance Crystal**:
 ## Scaling Options
 
 ### Too Easy?
-- Add 1 more Shadow Stalker (5 total)
-- Increase Stalker HP to 70 each
+- Add 1 more Shadow Stalker (4 total)
+- Increase Stalker HP to 65 each
 - Hunters gain +10 movement starting at Round 4 (instead of Round 6)
-- Hounds have 50 HP instead of 37
+- Hounds have 40 HP instead of 32
 - Scrying callouts happen every round (more frequent hunter intel)
 
 ### Too Hard?
-- Reduce Shadow Stalkers to 3 total
-- Lower Stalker HP to 50 each
+- Reduce Shadow Stalkers to 2 total
+- Lower Stalker HP to 45 each
 - Remove Round 9-10 advantage on attacks/Stealth
 - Give party 2 darkvision potions instead of 1
 - Pillars have 60 HP instead of 75 (easier to destroy)
@@ -499,18 +499,18 @@ Each destroyed Announcement Pillar yields 1 **Arcane Resonance Crystal**:
 
 **Minimum Success:**
 - At least 3 PCs survive all 10 rounds
-- No more than 2 PCs killed via announcement
+- No more than 1 PC killed via announcement
 - Hunters forced to retreat or eliminated
 - Party learns value of stealth and coordination
 
 **Optimal Success:**
-- All 5 PCs survive all 10 rounds
+- All 4 PCs survive all 10 rounds
 - At least 2 pillars destroyed (showing aggression)
-- At least 4 hunters killed (showing combat prowess)
+- At least 3 hunters killed (showing combat prowess)
 - High Favor accumulation (15+ per PC)
 - Memorable dramatic moments (rescues, close calls, clever tactics)
 - Crowd thoroughly entertained
-- New PCs prove themselves; Phoenix-Blessed lead effectively
+- New PC proves themselves; Phoenix-Blessed lead effectively
 
 **This Session's Purpose:**
 - Change combat dynamics: stealth and survival over direct confrontation
