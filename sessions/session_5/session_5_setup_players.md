@@ -12,17 +12,17 @@ updated: 2025-12-07
 
 ## 3 Days Before the Match*
 
-The three survivors—[[imwe|Imwe]], [[torgana|Torgana]], and [[father_crow|Father Crow]]—sit in the recovery area.  The others bunks are empty.
+The three survivors—[[imwe|Imwe]], [[torgana|Torgana]], and [[father_crow|Father Crow]]—sit in the recovery area. The other bunks are empty.
 
-Two new faces appear in the pens. Not new to the arena, but new to you.
+One new face appears in the pens. Not new to the arena, but new to you.
 
 [Snak appears]
 
 > “Alright, ‘Phoenix-Blessed’. Time to earn those fancy titles. You three pulled off something special—died, came back, got the crowd chanting your names. You made it out of the amateur league. Don’t get cocky.”
 
-She gestures to the two newcomers.
+She gestures to the newcomer.
 
-> “These are your new teammates for the next bout. Learn how to work together, yeah? Or don’t. Natural selection works just fine too.”
+> "This is your new teammate for the next bout. Learn how to work together, yeah? Or don't. Natural selection works just fine too."
 
 She tosses each of the three survivors a pouch. Theres `50GP` in each.
 
@@ -34,17 +34,19 @@ She tosses each of the three survivors a pouch. Theres `50GP` in each.
 
 ## The Night Before The Hunt
 
-> "Alright knob-jobs. You all should thank Bald-and-Beautiful over here - this one's gonna be different.  No slugfest. No beast to kill. You're the PREY now. And that changes how you play."
+> "Alright knob-jobs. You all should thank Bald-and-Beautiful over here - the intel is well worth the coin. 
 
-> "First off, it's gonna be a night game - if you dont' see in the dark, you'll either want a torch, a good friend who does, or a prayer. The crowd can still see you - fancy scrying magic."
+> This one's gonna be different.  No slugfest. No beast to kill. You're the prey."
 
-> "Second, it's gonna be Hide and Seek. There are Naming Pillars at the four compass points in the arena. If a hunter activates the pillar and shouts your name with the memory of your face fresh, you'll be in for a ton of hurt. Seriously, you don't want to let that happen."
+> "First off, it's a night game. If you don't see in the dark, you'll either want a torch, a good friend who does, or a prayer. The crowd can still see you - fancy scrying magic."
 
-> "Fancy Phoenix-touched boys- the hunters know your game—they've watched you fight. They've heard your names. So you're at a disadvantage. Here's the trick: they have to SEE you first. Recently. Within a few rounds. So you hide, you move, you stay QUIET. Don't shout each other's names like idiots. Use signals. Gestures. Whatever."
+> "Second, it's a game of Hide and Seek. There are Naming Pillars at the four compass points in the arena. If a hunter activates the pillar and shouts your name with the memory of your face fresh, you'll be in for a ton of hurt. Seriously, you don't want to let that happen."
+
+> "And the hunters know your game—they've watched you fight. They've heard your names. So you're at a disadvantage. Here's the trick: they have to SEE you first. Recently. Within a few rounds. So you hide, you move, you stay QUIET. Don't shout each other's names like idiots. Use signals. Gestures. Whatever."
 
 > "If you are seen.. either kill them or slow them down before they get to a pillar."
 
-> "Or..." She grins wider. "...you go loud. Destroy the pillars - they aren't made of stone. Can't announce you if there's nowhere TO announce. But that's noisy work. Brings every hunter running."
+> "Or..." She grins wider. "...you go loud. Destroy the pillars - they aren't unbreakable. Can't announce you if there's nowhere TO announce. But that's noisy work. Brings every hunter running."
 
 > "Either way—stealth, destruction, or some brilliant combination—make it fun. The crowd's watching via scrying magic, they'll see everythign. Give them a scary show in the dark."
 
