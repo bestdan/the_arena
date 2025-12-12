@@ -32,19 +32,19 @@ Each door bears a symbol and cryptic verse etched in Common:
 
 ### Central Hub Features
 
-- Stone pedestal in the center with four colored gemstones (red, blue, green, yellow)—**clue mechanism** (see below).
+- Stone pedestal in the center with four colored gemstones matching the doors (red for North/Serpent, orange for East/Flame, green for South/Crown, silver for West/Scale)—**clue mechanism** (see below).
 - Floor tiles form a circular pattern with symbols matching the four doors.
 - Scrying orbs above broadcast to the crowd (PCs see faint reflections of crowd reactions).
-- **Time Pressure:** Every 3 rounds, the hub's walls contract 5 feet inward (starts at 40-foot diameter, becomes 35, then 30, etc.). After Round 12, the chamber crushes any remaining occupants (10d10 bludgeoning damage, Dex save DC 18 for half).
+- **Time Pressure:** Every 3 rounds, the hub's walls contract 5 feet inward (starts at 40-foot diameter: Round 3=35ft, Round 6=30ft, Round 9=25ft, Round 12=20ft). At the start of Round 13, the chamber becomes too cramped for safety (all creatures take 10d10 bludgeoning damage, Dex save DC 18 for half) and continues crushing each round thereafter.
 
 ## Gemstone Clue System
 
 The central pedestal has four gemstones. When a PC touches a gemstone and succeeds on an Arcana check (DC 12), it projects a vision:
 
 - **Red Gem (North/Serpent):** Vision shows a serpent devouring its tail—endless cycle, no escape.
-- **Blue Gem (East/Flame):** Vision shows a fire consuming a map—knowledge destroyed.
+- **Orange Gem (East/Flame):** Vision shows a fire consuming a map—knowledge destroyed.
 - **Green Gem (South/Crown):** Vision shows a crown shattered by a hammer—freedom through defiance. (**Correct hint**)
-- **Yellow Gem (West/Scale):** Vision shows scales tipping toward a dark void—balance lost to chaos.
+- **Silver Gem (West/Scale):** Vision shows scales tipping toward a dark void—balance lost to chaos.
 
 **Insight DC 14** after seeing all four visions reveals the pattern: the South Door (Crown/mutiny) represents breaking free from imposed authority—the only path to true escape.
 

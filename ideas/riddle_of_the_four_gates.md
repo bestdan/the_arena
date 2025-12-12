@@ -145,7 +145,7 @@ PCs can attempt gates in any order. Entering a gate teleports the PC(s) to its s
 
 ## Time Pressure
 
-- **Round 6:** The Central Plaza begins to **sink slowly** into the arena floor (1 foot per round). By Round 15, it's 10 feet below the gates, making re-entry difficult (requires climbing, Athletics DC 13).
+- **Round 5:** The Central Plaza begins to **sink slowly** into the arena floor (1 foot per round). By Round 15 (10 feet deep), it's 10 feet below the gates, making re-entry difficult (requires climbing, Athletics DC 13).
 - **Round 10:** If no correct gate has been opened, a **Xorn** (CR 5) burrows up through the Central Plaza floor, attacking indiscriminately.
 - **Round 12:** All false gates begin to **seal permanently**—if PCs are still in a false chamber, they have 2 rounds to escape or be trapped (teleport out or break the gate, AC 15, 100 HP).
 

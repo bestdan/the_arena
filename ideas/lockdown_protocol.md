@@ -28,7 +28,7 @@ created: 2025-12-12
 - **Round 1:** Countdown begins. Cell door unlocks automatically. Alarm sounds: "CONTAINMENT BREACH. INITIATING LOCKDOWN PROTOCOL."
 - **Round 5:** First warning. Automated voice: "10 rounds to final lockdown." Gas begins venting (lightly obscured, no damage yet).
 - **Round 10:** Second warning. "5 rounds to final lockdown." Gas thickens (heavily obscured, Constitution save DC 12 or poisoned for 1 round).
-- **Round 15:** Final lockdown. All doors seal. Poison gas fills all chambers (4d6 poison damage per round, no save). Emergency Exit locks permanently unless all three keycards are already inserted.
+- **Round 15:** Final lockdown. All doors seal. Poison gas fills all chambers (4d6 poison damage per round, no save). If keycards are not yet in position at the Emergency Exit, the door locks permanently and cannot be opened.
 
 **Survival:** PCs must reach the Emergency Exit and insert all three keycards before Round 15, or find a way to disable the lockdown system.
 
@@ -57,7 +57,7 @@ The control panel displays a riddle:
 Located in a **locked strongbox** embedded in the wall near the Vault Door (Thieves' Tools DC 14 to pick, or AC 15, 30 HP to smash).
 
 ### Vault Door Password
-The control panel also shows symbols: ⚔️🛡️🔥💀. The password is hidden in the Starting Cell (written on the wall in small text): **"STEEL FLAME DEATH SHIELD"** (rearranged order: 🛡️🔥💀⚔️). PCs must return to input it, or recall it if they noted it earlier (Investigation DC 12 in Starting Cell reveals the writing).
+The control panel also shows four symbols: ⚔️ (sword), 🛡️ (shield), 🔥 (flame), 💀 (skull). The password is hidden in the Starting Cell (written on the wall in small text): **"Sword Shield Flame Skull"** (enter symbols in this order: ⚔️🛡️🔥💀). PCs must return to input it, or recall it if they noted it earlier (Investigation DC 12 in Starting Cell reveals the writing).
 
 **Opening the Vault Door:** Insert Red Keycard + enter correct password = door opens, revealing Chamber 2.
 
