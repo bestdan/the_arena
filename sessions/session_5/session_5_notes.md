@@ -10,6 +10,8 @@ updated: 2025-12-07
 
 # Session 5 Notes: Hide and Seek
 
+Father Crow is given the [[../../items/werewolf_sense_necklace]]. 
+
 ## Critical Moments Log
 Multiple times the PCs are able to slow or prevent the Hunters from using a pillar. In the last round, Torgana is named, and hit with a huge dose of necrotic energy, but as barbarian bounces back with 1HP. He is then killed again in the next round, but since it is the last round, he does not roll enough death saving throws to actually die. The mercenary heals him
 
@@ -35,7 +37,7 @@ ALl PCs close to death except Killing Eagle, Torgana making death saves
 ## Rewards and Consequences
 
 - Togana receives a 'profit share' from the masked assassin who named him twice - 50GP extra.
-- After a brief message to [[the_arena/players/father_crow]], the [[werewolf_sense_necklace]] becomes inanimate. 
+- After a brief message to [[../../players/father_crow]], the [[werewolf_sense_necklace]] becomes inanimate. 
 
 > Splendid working with you Father Crow. Unfortunately, mine is an temporary existence, so I must now leave you. This has been a boon granted by Beneficent Interspecies Transformative Canid Harmony Encouragement Society. 
 
