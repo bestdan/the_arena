@@ -88,9 +88,9 @@ A magical creature combining the iridescent beauty of a hummingbird with the mis
 - **Fragile:** Taking 10+ damage in a single hit kills it (even if under 15 total HP)
 
 ### Movement Pattern
-- **Rounds 1-4:** Roll 1d8 each round—Hummingwym darts toward that compass direction (N, NE, E, SE, S, SW, W, NW) at full speed. If it hits a wall, it ricochets in a new random direction (1d8 again)
-- **Rounds 5-8:** Accelerates to 80 feet per turn, still predictable (1d8 direction)
-- **Rounds 9-12:** Moves 100 feet per turn, zigzags wildly (roll 1d8 twice, moves in both directions sequentially)
+- **Rounds 1-3:** Roll 1d8 each round—Hummingwym darts toward that compass direction (N, NE, E, SE, S, SW, W, NW) at full speed. If it hits a wall, it ricochets in a new random direction (1d8 again)
+- **Rounds 4-6:** Accelerates to 80 feet per turn, still predictable (1d8 direction)
+- **Rounds 7-8:** Moves 100 feet per turn, zigzags wildly (roll 1d8 twice, moves in both directions sequentially)
 
 ### Detection
 - Glows faintly with iridescent shimmer
@@ -143,40 +143,40 @@ The rival team wants to catch the Hummingwym too. They'll fight PCs AND chase th
 
 ---
 
-## Round Timer: 12 Rounds
+## Round Timer: 8 Rounds
 
-The hunt has a strict time limit. Whoever holds the Hummingwym at the **end of Round 12** wins.
+The hunt has a strict time limit. Whoever holds the Hummingwym at the **end of Round 8** wins.
 
 ### Round Progression
 
-**Rounds 1-4: The Chase Begins**
+**Rounds 1-3: The Chase Begins**
 - Hummingwym moves 60 feet (1d8 direction)
 - Crowd murmurs with excitement
 - Rivals and PCs race to locate the special net
 - First attempts to catch begin
 
-**Rounds 5-8: Acceleration**
+**Rounds 4-6: Acceleration**
 - Hummingwym moves 80 feet (1d8 direction)
 - Announcer hypes the increasing speed
 - Possession likely changes hands multiple times
 - Thorn bush casualties mount
 
-**Rounds 9-11: Wild Flight**
+**Rounds 7-8: Wild Flight & Final Sprint**
 - Hummingwym moves 100 feet (1d8 rolled twice for zigzag pattern)
 - Crowd chants countdown
 - Desperate attempts to secure possession
+- Everyone becomes VERY careful (no one wants the death curse)
 - High risk of accidentally killing the creature
 
-**Round 12: Final Countdown**
+**Round 8: Final Round**
 - Last chance to secure the Hummingwym
-- Everyone becomes VERY careful (no one wants the death curse)
 - Tactical positioning crucial
-- **End of Round 12:** Whoever holds the Hummingwym (or whose team member holds it) WINS
+- **End of Round 8:** Whoever holds the Hummingwym (or whose team member holds it) WINS
 
 ### Victory Conditions
-- **PC Victory:** At least one PC holds the Hummingwym at end of Round 12
-- **Rival Victory:** A rival gladiator holds it at end of Round 12
-- **Draw (Everyone Loses):** Hummingwym is free/uncaught at end of Round 12—crowd boos, no rewards
+- **PC Victory:** At least one PC holds the Hummingwym at end of Round 8
+- **Rival Victory:** A rival gladiator holds it at end of Round 8
+- **Draw (Everyone Loses):** Hummingwym is free/uncaught at end of Round 8—crowd boos, no rewards
 
 ---
 
@@ -239,7 +239,7 @@ Multiple methods to catch the delicate creature. **Be careful—killing it means
 ## Objectives and Rewards
 
 ### Primary Objective: Hold the Hummingwym at End
-Hold the Hummingwym (or have a team member hold it) when Round 12 ends.
+Hold the Hummingwym (or have a team member hold it) when Round 8 ends.
 
 **Reward:** 150 gp each, +3 base [[crowds_favor|Crowd Favor]], Hummingwym becomes ally (see Aftermath)
 
@@ -262,7 +262,7 @@ Complete the hunt without any PC deaths (curse or combat).
 - Catch Hummingwym with the special net: **+3 Favor**
 - Catch Hummingwym with grapple check (safest method): **+2 Favor**
 - Successful Animal Handling prediction (DC 15+) that leads to catch: **+2 Favor**
-- Catch Hummingwym in final round (Round 12): **+4 Favor** (clutch timing)
+- Catch Hummingwym in final round (Round 8): **+4 Favor** (clutch timing)
 - Pass Hummingwym between allies successfully 3+ times: **+2 Favor** (teamwork)
 
 ### Combat and Defense
@@ -338,7 +338,7 @@ Complete the hunt without any PC deaths (curse or combat).
 
 [Rival gladiators enter from opposite gate]
 
-"Twelve rounds! Catch it! Hold it! But remember—if it DIES in your hands..."
+"Eight rounds! Catch it! Hold it! But remember—if it DIES in your hands..."
 
 [Dramatic pause]
 
@@ -406,7 +406,7 @@ OR
 [Crowd stamps feet rhythmically]
 ```
 
-### Round 10: Desperation
+### Round 6: Desperation
 ```
 "THREE ROUNDS LEFT! Who will hold the prize when time EXPIRES?!"
 
@@ -415,6 +415,17 @@ OR
 "It moves like LIGHTNING! Every second counts!"
 
 [Intense crowd reactions]
+```
+
+### Round 7: Penultimate Moment
+```
+"TWO ROUNDS! The Hummingwym dances on the wind!"
+
+[Frantic scrambling]
+
+"Who has the SPEED? Who has the SKILL?"
+
+[Crowd stamping feet rhythmically]
 ```
 
 ### Death Curse Triggered (If Happens)
@@ -432,9 +443,9 @@ OR
 "The hunt turns DEADLY!"
 ```
 
-### Round 12: Final Round
+### Round 8: Final Round
 ```
-"FINAL ROUND! Twelve seconds on the clock!"
+"FINAL ROUND! Eight seconds on the clock!"
 
 [Crowd counts down]
 
@@ -452,7 +463,7 @@ OR
 
 "ONE!"
 
-[Horn blast—end of Round 12]
+[Horn blast—end of Round 8]
 ```
 
 ### Victory: PC Team
@@ -518,7 +529,7 @@ Create a simple movement tracker. Each round, roll 1d8 for direction:
 
 Mark on map where it moves. If it hits wall, reroll immediately.
 
-**Rounds 9-12:** Roll twice for zigzag pattern.
+**Rounds 7-8:** Roll twice for zigzag pattern.
 
 ### Death Curse Warnings
 Make it VERY clear to players:
@@ -559,9 +570,9 @@ Encourage environmental use:
 Track bleeding separately—1 damage per round until treated.
 
 ### Pacing the Hunt
-**Early rounds (1-4):** Learning phase, exploring arena, finding net
-**Mid rounds (5-8):** Active possession changes, combat heats up
-**Late rounds (9-12):** Desperate scramble, careful handling, tactical positioning
+**Early rounds (1-3):** Learning phase, exploring arena, finding net
+**Mid rounds (4-6):** Active possession changes, combat heats up
+**Late rounds (7-8):** Desperate scramble, careful handling, tactical positioning
 
 ### Passing the Hummingwym
 Allies can pass the creature as a free action:
@@ -623,6 +634,22 @@ The PC who claimed the special net can keep it as loot.
 - Can be thrown (20/60 range) or used in melee
 - Worth 75 gp if sold
 
+### Windstep Boots (For Imwe)
+As a special reward for exceptional mobility and pursuit during the hunt, [[../../players/imwe|Imwe]] is awarded the **[[../../items/windstep_boots|Windstep Boots]]**.
+
+**Mechanical Item:**
+- **Windstep Boots** (uncommon, requires attunement)
+- +10 ft walking speed
+- Bonus action to Dash
+- Advantage on Acrobatics checks (jumping, balance)
+- **Windstep Surge** (3/day): Gain +30 ft speed, ignore difficult terrain, move through enemies, +2 AC for 1 minute
+- **Risk:** DC 12 Dex save when moving 40+ feet or overshoot by 10 feet; collision damage 1d6
+
+**Presentation:**
+- Arena Master presents the boots personally
+- "For the swiftest feet in the chase—may they carry you to glory!"
+- Crowd cheers for Imwe's impressive performance
+
 ### Patron Interest: Beast Trainer
 A noble patron who breeds exotic creatures is impressed.
 
@@ -662,7 +689,7 @@ If a PC triggered the curse but survived (made the save):
 - Add 1 more Rival Gladiator (5 total rivals)
 - Increase rival HP by 10 each
 - Hummingwym moves faster (70/90/110 feet instead of 60/80/100)
-- Reduce timer to 10 rounds
+- Reduce timer to 6 rounds
 - Add more thorn bushes (7 instead of 5)
 - Rivals more aggressive in protecting their holder
 
@@ -670,7 +697,7 @@ If a PC triggered the curse but survived (made the save):
 - Reduce Rival Gladiators to 3 total
 - Lower rival HP by 10 each
 - Hummingwym moves slower (50/70/90 feet)
-- Increase timer to 15 rounds
+- Increase timer to 10 rounds
 - Special net easier to find (DC 10 Investigation)
 - Reduce Hummingwym's AC to 15
 - Death curse: easier save (DC 13)
@@ -698,17 +725,17 @@ If a PC triggered the curse but survived (made the save):
 ## Victory Conditions
 
 **Minimum Success:**
-- At least one PC holds Hummingwym at end of Round 12
+- At least one PC holds Hummingwym at end of Round 8
 - Hummingwym survives
 - No PCs killed by death curse
 - Rivals defeated or surrendered
 
 **Optimal Success:**
-- PC holds Hummingwym at end of Round 12
+- PC holds Hummingwym at end of Round 8
 - Special net claimed and used effectively
 - Hummingwym never caught by rivals (dominant control)
 - All 5 PCs survive without death curse triggers
-- High Favor accumulation (12+ per PC)
+- High Favor accumulation (10+ per PC)
 - Creative environmental use (thorns, fountain tactics)
 - Memorable dramatic moments (close calls, clutch catches, teamwork)
 - Crowd thoroughly entertained

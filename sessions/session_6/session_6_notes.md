@@ -14,7 +14,7 @@ updated: 2025-12-13
 **Party Playing:** 
 - Father Crow (Cleric, level 3)
 - Torgana (Barbarian, level 3)
-- Imwe (Monk, level 3)
+- Imwe (Fighter, level 3)
 - Killing Eagle Laughs (Ranger, level 3)
 - [Fifth PC name] ([Class], level 3)
 
@@ -23,7 +23,7 @@ updated: 2025-12-13
 ## Session Objectives
 
 ### Primary Goal
-Hold the Hummingwym at the end of Round 12
+Hold the Hummingwym at the end of Round 8
 
 ### Secondary Goals
 - Find and claim the special net
@@ -37,7 +37,7 @@ Hold the Hummingwym at the end of Round 12
 
 ### Hummingwym Stats
 - AC 17, HP 15
-- Speed: 60 ft (Rounds 1-4), 80 ft (Rounds 5-8), 100 ft (Rounds 9-12)
+- Speed: 60 ft (Rounds 1-3), 80 ft (Rounds 4-6), 100 ft (Rounds 7-8)
 - Movement: Random (1d8 direction each round)
 - Death Curse: Wisdom save DC 15 or drop to 0 HP if it dies in your possession
 - Fragile: Critical hits kill it, 10+ damage in one hit kills it
@@ -66,10 +66,6 @@ Hold the Hummingwym at the end of Round 12
 | 6 | | | |
 | 7 | | | |
 | 8 | | | |
-| 9 | | | |
-| 10 | | | |
-| 11 | | | |
-| 12 | | | |
 
 ---
 
@@ -88,7 +84,7 @@ Hold the Hummingwym at the end of Round 12
 - Catch with special net: +3
 - Catch with grapple: +2
 - Animal Handling prediction (DC 15+) leading to catch: +2
-- Catch in Round 12: +4
+- Catch in Round 8: +4
 - Pass Hummingwym 3+ times successfully: +2
 - Defeat rival with Panache near Hummingwym: +2
 - Defend Hummingwym holder: +2
@@ -134,14 +130,6 @@ Hold the Hummingwym at the end of Round 12
 
 **Round 8:**
 
-**Round 9:**
-
-**Round 10:**
-
-**Round 11:**
-
-**Round 12:**
-
 ### Key Dramatic Moments
 - 
 - 
@@ -162,9 +150,9 @@ Hold the Hummingwym at the end of Round 12
 ## Post-Session Summary
 
 ### Outcome
-- [ ] PC Victory: PC held Hummingwym at end of Round 12
-- [ ] Rival Victory: Rival held Hummingwym at end of Round 12
-- [ ] Draw: No one held Hummingwym at end of Round 12
+- [ ] PC Victory: PC held Hummingwym at end of Round 8
+- [ ] Rival Victory: Rival held Hummingwym at end of Round 8
+- [ ] Draw: No one held Hummingwym at end of Round 8
 
 ### Winner Details
 **Hummingwym held by:** [PC/Rival name]
@@ -230,6 +218,7 @@ Hold the Hummingwym at the end of Round 12
 - Hummingwym integration into party dynamics
 - Rival gladiators' reaction (grudge match possibility?)
 - Patron opportunities (beast handler's guild, exotic creature hunts)
+- Imwe's Windstep Boots integration and risks
 - 
 
 ### PC Development

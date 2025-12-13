@@ -30,7 +30,7 @@ Snak arrives with his usual smirk and a leather scroll case.
 
 He unrolls a crude map of the arena—circular, with marked features.
 
-> "The rules are simple: Catch it. Hold it until the timer runs out. Twelve rounds. Whoever's holding it at the end wins."
+> "The rules are simple: Catch it. Hold it until the timer runs out. Eight rounds. Whoever's holding it at the end wins."
 
 He pauses, his expression darkening.
 
@@ -48,13 +48,13 @@ He taps the map, indicating various features.
 
 > "The Hummingwym has AC 17, only 15 hit points, but it's FRAGILE. Critical hits kill it. Ten damage in one hit kills it. Use grapple checks—DC 16 Athletics or Acrobatics—much safer. Or subdue it with careful attacks."
 
-> "Moves 60 feet per turn for the first four rounds, 80 feet rounds five through eight, then 100 feet with wild zigzags in the final rounds. Random directions, rolled each round. You can use Animal Handling checks to predict where it's going—DC 12 for general direction, DC 15 for exact, DC 18 and you can ready an action with advantage."
+> "Moves 60 feet per turn for the first three rounds, 80 feet rounds four through six, then 100 feet with wild zigzags in the final two rounds. Random directions, rolled each round. You can use Animal Handling checks to predict where it's going—DC 12 for general direction, DC 15 for exact, DC 18 and you can ready an action with advantage."
 
 > "You're not alone. Rival gladiators—four tough fighters and a Beast Handler. They'll chase the Hummingwym AND fight you. They know about the net too. Expect them to split their focus: some chasing, some blocking you."
 
 > "Once someone catches it, it struggles. DC 13 Animal Handling at the start of your turn or it escapes. You can pass it to allies as a free action if they're adjacent. If you take ten or more damage while holding it, make a Concentration check DC 12 or drop it."
 
-> "Win condition: Be holding the Hummingwym when Round 12 ends. If the rivals hold it, they win. If no one holds it, everyone loses and the crowd boos."
+> "Win condition: Be holding the Hummingwym when Round 8 ends. If the rivals hold it, they win. If no one holds it, everyone loses and the crowd boos."
 
 He rolls up the map.
 
@@ -99,7 +99,7 @@ The announcer's voice booms across the stands:
 
 [The creature hovers, rainbow scales catching the light]
 
-"Twelve rounds! Whoever holds the prize when time expires claims VICTORY!"
+"Eight rounds! Whoever holds the prize when time expires claims VICTORY!"
 
 [From the opposite gate, five rival gladiators enter, weapons ready]
 
@@ -119,7 +119,7 @@ The hunt is on.
 ## Key Reminders for Players
 
 **Objective:**
-- Hold the Hummingwym at end of Round 12 to win
+- Hold the Hummingwym at end of Round 8 to win
 
 **Death Curse:**
 - If Hummingwym dies while you're holding it: Wisdom save DC 15 or drop to 0 HP instantly
@@ -155,6 +155,6 @@ The hunt is on.
 - **Pass it between allies** (share the burden)
 - **Use thorns tactically** (shove enemies in, use for cover)
 - **Don't get isolated** (rivals will swarm lone PCs)
-- **Watch the timer** (only 12 rounds—positioning matters in final rounds)
+- **Watch the timer** (only 8 rounds—positioning matters in final rounds)
 
 Good hunting!

@@ -16,7 +16,7 @@ updated: 2025-12-13
 - 5 PCs, level 3
 - Father Crow (Cleric)
 - Torgana (Barbarian)
-- Imwe (Monk)
+- Imwe (Fighter)
 - Killing Eagle Laughs (Ranger)
 - [Fifth PC - new or existing]
 
@@ -87,9 +87,9 @@ This is a unique hunt—crowd loves it:
 - Gasps when someone gets close to catching
 - Cheers when net is found
 - Roars when someone is shoved into thorns
-- Chants countdown in final three rounds
+- Chants countdown in final two rounds
 - Goes silent when death curse triggers (if it does)
-- Erupts when Hummingwym is caught in Round 12
+- Erupts when Hummingwym is caught in Round 8
 
 ---
 
@@ -108,7 +108,7 @@ This is a unique hunt—crowd loves it:
 - Highlight environmental features
 - Let players explore arena without immediate combat
 
-### Early Chase (Rounds 3-5)
+### Early Chase (Rounds 3)
 - Rivals engage PCs (2 chase Hummingwym, 2 block PCs)
 - First combat exchanges begin
 - Beast Handler (Finn) shouts predictions
@@ -121,7 +121,7 @@ This is a unique hunt—crowd loves it:
 - Rivals use shove actions to push PCs into thorns
 - Describe near-misses dramatically: "Your hand closes inches from its tail!"
 
-### Mid-Hunt (Rounds 6-8)
+### Mid-Hunt (Rounds 4-6)
 - Hummingwym accelerates to 80 feet
 - Possession likely changes hands (caught, stolen, escaped)
 - Thorn bush casualties mount (bleeding effects)
@@ -134,7 +134,7 @@ This is a unique hunt—crowd loves it:
 - Describe Hummingwym struggling in holder's grasp
 - Call for Animal Handling checks to maintain grip
 
-### Late Hunt (Rounds 9-11)
+### Late Hunt (Rounds 7-8)
 - Hummingwym zigzags (roll 1d8 twice per round, 100 feet total)
 - Desperate scramble for possession
 - Everyone becomes cautious (no one wants death curse)
@@ -144,9 +144,9 @@ This is a unique hunt—crowd loves it:
 - Emphasize speed and chaos ("It's a blur of iridescent light!")
 - Remind about death curse if someone gets reckless with damage
 - Rival behavior shifts—more defensive if they're holding it
-- Count down rounds audibly: "THREE rounds left!"
+- Count down rounds audibly: "TWO rounds left!" then "FINAL ROUND!"
 
-### Final Round (Round 12)
+### Final Round (Round 8)
 - Last chance positioning
 - Holder tries to defend/evade
 - Non-holders try to steal or protect
@@ -156,7 +156,7 @@ This is a unique hunt—crowd loves it:
 - Build tension ("This is IT!")
 - Describe every action dramatically
 - Crowd counts down with you: "TEN! NINE! EIGHT!"
-- Freeze moment when horn blasts (end of Round 12)
+- Freeze moment when horn blasts (end of Round 8)
 - Zoom in on whoever holds the Hummingwym
 
 ---
@@ -285,26 +285,28 @@ This is a unique hunt—crowd loves it:
 - Lira: Flanks, tries to catch Hummingwym
 - Finn: Stays back, shouts predictions (helps his team)
 
-**Rounds 3-5: Engagement**
+**Rounds 3: Engagement**
 - 2 rivals chase Hummingwym, 2 fight PCs
 - Finn continues predictions
 - If rival catches Hummingwym: others form protective circle
 - Use javelins to harass PCs from range
 
-**Rounds 6-8: Desperation**
+**Rounds 4-6: Desperation**
 - Aggressive shoves into thorn bushes
 - Attempts to steal net if PCs have it
 - If losing (3+ rivals down), remaining ones go all-in on Hummingwym
+- Hummingwym speeds up to 80 feet
 
-**Rounds 9-12: Final Push**
+**Rounds 7-8: Final Push**
 - Extreme caution if holding Hummingwym (no big damage attacks)
 - Defensive positioning around holder
 - Surrender if 4+ rivals down
+- Hummingwym at maximum speed (100 feet, zigzagging)
 
 ### Surrender Conditions
 **Rivals surrender if:**
 - 4 or 5 rivals reduced to 0 HP
-- Round 10+ and they have no hope of getting Hummingwym
+- Round 6+ and they have no hope of getting Hummingwym
 - Karn's HP below 20 and at least 2 others down
 
 **Surrender Dialogue:**
@@ -316,14 +318,14 @@ This is a unique hunt—crowd loves it:
 
 ## Session Pacing
 
-**Target Duration:** 3-4 hours
+**Target Duration:** 2.5-3.5 hours
 
 **Time Breakdown:**
 - Pre-session roleplay (Snak, armory): 20-30 minutes
 - Arena entrance, announcer intro: 10 minutes
-- Rounds 1-4 (exploration, first catches): 60 minutes
-- Rounds 5-8 (mid-hunt chaos): 60-90 minutes
-- Rounds 9-12 (final scramble): 45-60 minutes
+- Rounds 1-3 (exploration, first catches): 40-50 minutes
+- Rounds 4-6 (mid-hunt chaos): 50-70 minutes
+- Rounds 7-8 (final scramble): 30-40 minutes
 - Post-hunt aftermath, rewards: 15-20 minutes
 
 **Pacing Tips:**
@@ -339,9 +341,19 @@ This is a unique hunt—crowd loves it:
 
 ### If PCs Win
 - **Gold:** 150 gp each
-- **Favor:** +3 base, plus individual achievements (likely 12-15 total per PC)
+- **Favor:** +3 base, plus individual achievements (likely 10-15 total per PC)
 - **Hummingwym Ally:** Bonds with party, acts as Familiar (see Aftermath)
 - **Special Net:** PC who claimed it keeps it (Hunter's Net, uncommon item)
+- **Windstep Boots:** Awarded to [[../../players/imwe|Imwe]] for exceptional mobility (see below)
+
+**Windstep Boots Award:**
+- Arena Master presents boots personally to Imwe
+- "For the swiftest feet in the chase—may they carry you to glory!"
+- Uncommon magic item, requires attunement
+- +10 ft speed, bonus action Dash, advantage on Acrobatics
+- Windstep Surge ability (3/day): +30 ft speed, ignore difficult terrain, +2 AC
+- **Risk:** Must make DC 12 Dex save when moving 40+ feet or overshoot by 10 feet
+- See [[../../items/windstep_boots|Windstep Boots]] for full details
 
 ### If PCs Lose (Rivals Win)
 - **Gold:** 50 gp each (participation)

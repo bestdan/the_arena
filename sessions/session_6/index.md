@@ -17,7 +17,7 @@ A high-stakes chase where gladiators must capture and hold a magical Hummingwymâ
 
 ## Quick Summary
 
-**Objective:** Catch and hold the Hummingwym until Round 12 ends. Don't kill itâ€”or you die.
+**Objective:** Catch and hold the Hummingwym until Round 8 ends. Don't kill itâ€”or you die.
 
 **Party:** 5 PCs, level 3
 
@@ -27,7 +27,7 @@ A high-stakes chase where gladiators must capture and hold a magical Hummingwymâ
 - Special net hidden in arena (grants advantage)
 - Environmental hazards (thorn bushes, sand pits)
 - Rival gladiator team (4 fighters + beast handler)
-- 12-round timer
+- 8-round timer
 
 **Unique Mechanics:**
 - Animal Handling to predict movement
@@ -36,4 +36,6 @@ A high-stakes chase where gladiators must capture and hold a magical Hummingwymâ
 - Bleeding damage from thorns
 - Concentration checks to maintain grip
 
-**Reward:** Hummingwym bonds with party as familiar/ally
+**Rewards:** 
+- Hummingwym bonds with party as familiar/ally
+- Windstep Boots awarded to Imwe (mobility item with risks)
