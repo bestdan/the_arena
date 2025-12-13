@@ -12,13 +12,15 @@ LLM operators start here. Keep edits inside `The_Arena/`. Favor writing to Markd
 
 ## Quickstart Context
 - Baseline lore about the world can be found in `environment/the_empire.md` 
+- Theme and Flavor in  `environment/flavor.md` 
 - Mechanics to keep handy: `mechanics/panache.md`, `mechanics/crowds_favor.md`, `mechanics/last_stand.md`.
 - for details about the physical arena itself, see `environment/the_arena.md`
 - Cast snapshot: `players/characters.md`; key NPC sheets live in `npcs/`.
 - When editing a folder, check its local `AGENTS.md` for scoped instructions.
 
 ## Campaign Snapshot (for light-weight context)
-- Premise: D&D 2024 5e "core rules", a repeating gladiatorial saga that blends spectacle with lethal advancement.
+- Premise: D&D 2024 5e "core rules", 
+- A repeating gladiatorial saga that blends spectacle with lethal advancement.
 - Active roster rotates ~6 PCs, usually 4 per session.
 - Themes: showmanship shapes fate; teamwork vs. solo glory; real stakes; fame and patronage as path to freedom.
 - Tone: high-drama combat, announcer flair, crowd as character.
