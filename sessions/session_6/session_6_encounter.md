@@ -406,7 +406,18 @@ OR
 [Crowd stamps feet rhythmically]
 ```
 
-### Round 6: Desperation
+### Round 6: Acceleration Continues
+```
+"THREE ROUNDS LEFT! The Hummingwym ACCELERATES!"
+
+[Hummingwym moves 80 feet]
+
+"It moves FASTER! Can they keep pace?!"
+
+[Crowd excitement building]
+```
+
+### Round 7: Penultimate Moment
 ```
 "TWO ROUNDS LEFT! Who will hold the prize when time EXPIRES?!"
 
@@ -414,18 +425,20 @@ OR
 
 "It moves like LIGHTNING! Every second counts!"
 
-[Intense crowd reactions]
+[Intense crowd reactions, stamping feet]
 ```
 
-### Round 7: Penultimate Moment
+### Round 8: Final Countdown
 ```
-"TWO ROUNDS! The Hummingwym dances on the wind!"
+"FINAL ROUND! This is IT!"
 
-[Frantic scrambling]
+[Crowd roars]
 
-"Who has the SPEED? Who has the SKILL?"
+"Who holds the Hummingwym when the horn BLASTS?!"
 
-[Crowd stamping feet rhythmically]
+[Frantic action on the sands]
+
+"The moment of TRUTH!"
 ```
 
 ### Death Curse Triggered (If Happens)
@@ -445,7 +458,7 @@ OR
 
 ### Round 8: Final Round
 ```
-"FINAL ROUND! Eight seconds on the clock!"
+"FINAL ROUND! The last chance for GLORY!"
 
 [Crowd counts down]
 
