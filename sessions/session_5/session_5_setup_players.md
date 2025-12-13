@@ -78,3 +78,12 @@ In the pouch is an necklace with a dried eye and two dried ears on it. The ears 
 
 In the center, a massive magical hourglass floats—ten segments of sand, each representing one round.
 
+--
+
+## Above-the-table points
+Level 3, long reset
+Talk about token movement, use keyboard
+setup tokens
+Dark vision potion use
+New Crowds Favor stuff for steath & control
+Everyone starts with 6 Crowds Favor

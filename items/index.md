@@ -6,7 +6,7 @@ created: 2025-12-08
 updated: 2025-12-08
 ---
 
-# Iteams
+# Items
 
 [[shield_of_the_righteous_martyr|Shield of the Righeous Martyr]]
 
