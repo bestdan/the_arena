@@ -11,3 +11,5 @@ updated: 2025-12-08
 [[shield_of_the_righteous_martyr|Shield of the Righeous Martyr]]
 
 [[snak_shop_session_5|Snak Shop for Session 5]]
+
+[[werewolf_sense_necklace|Werewolf Sense Necklace]]
