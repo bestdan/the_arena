@@ -168,9 +168,14 @@ The hunt has a strict time limit. Whoever holds the Hummingwym at the **end of R
 - Everyone becomes VERY careful (no one wants the death curse)
 - High risk of accidentally killing the creature
 
-**Round 8: Final Round**
+**Round 7 Specifically:**
+- Zigzag movement begins (100 feet total)
+- Tactical positioning becomes crucial
+- Rivals may attempt final shove tactics
+
+**Round 8 - Final Round:**
 - Last chance to secure the Hummingwym
-- Tactical positioning crucial
+- Extreme caution with damage
 - **End of Round 8:** Whoever holds the Hummingwym (or whose team member holds it) WINS
 
 ### Victory Conditions
