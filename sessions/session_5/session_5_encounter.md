@@ -19,7 +19,7 @@ updated: 2025-12-07
 **Expected Outcome:** High-tension survival challenge; some PCs may be announced and must make critical saves
 
 ---
-
+`
 ## Arena Layout
 
 Sprawling nighttime arena (120x120 feet) lit only by four **Announcement Pillars** and ambient moonlight.
