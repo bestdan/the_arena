@@ -408,7 +408,7 @@ OR
 
 ### Round 6: Desperation
 ```
-"THREE ROUNDS LEFT! Who will hold the prize when time EXPIRES?!"
+"TWO ROUNDS LEFT! Who will hold the prize when time EXPIRES?!"
 
 [Hummingwym zigzags wildly, 100 feet per turn]
 

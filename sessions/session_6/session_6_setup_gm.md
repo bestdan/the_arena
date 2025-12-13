@@ -87,7 +87,7 @@ This is a unique hunt—crowd loves it:
 - Gasps when someone gets close to catching
 - Cheers when net is found
 - Roars when someone is shoved into thorns
-- Chants countdown in final two rounds
+- Chants countdown in rounds 7-8
 - Goes silent when death curse triggers (if it does)
 - Erupts when Hummingwym is caught in Round 8
 
@@ -95,7 +95,7 @@ This is a unique hunt—crowd loves it:
 
 ## Combat Flow Suggestions
 
-### Opening (Rounds 1-2)
+### Opening (Rounds 1-3)
 - Hummingwym emerges from fountain, hovers briefly
 - Roll 1d8 for direction, moves 60 feet
 - PCs and rivals both react—some chase, some search for net
@@ -108,7 +108,7 @@ This is a unique hunt—crowd loves it:
 - Highlight environmental features
 - Let players explore arena without immediate combat
 
-### Early Chase (Rounds 3)
+### Early Chase (Round 3)
 - Rivals engage PCs (2 chase Hummingwym, 2 block PCs)
 - First combat exchanges begin
 - Beast Handler (Finn) shouts predictions

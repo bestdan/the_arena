@@ -26,7 +26,7 @@ While attuned:
 ### Windstep Surge (3/day)
 
 As a bonus action, you can activate a **Windstep Surge** to gain enhanced mobility for 1 minute:
-- Your walking speed increases by an additional **20 feet** (total +30 ft)
+- Your walking speed increases by an additional **20 feet** (stacks with base bonus for total +30 ft from your original speed)
 - You can **move through enemy spaces** without provoking opportunity attacks
 - You ignore **difficult terrain**
 - You gain a **+2 bonus to AC** from enhanced speed and unpredictability
