@@ -8,7 +8,7 @@ created: 2025-12-13
 updated: 2025-12-13
 ---
 
-# Session 6 Notes: Hunt the Hummingwym
+# Session 6 Notes: Hunt the Hummingwyrm
 
 ## Pre-Session Summary
 **Party Playing:** 
@@ -23,7 +23,7 @@ updated: 2025-12-13
 ## Session Objectives
 
 ### Primary Goal
-Hold the Hummingwym at the end of Round 8
+Hold the Hummingwyrm at the end of Round 8
 
 ### Secondary Goals
 - Find and claim the special net
@@ -35,7 +35,7 @@ Hold the Hummingwym at the end of Round 8
 
 ## Key Mechanics
 
-### Hummingwym Stats
+### Hummingwyrm Stats
 - AC 17, HP 15
 - Speed: 60 ft (Rounds 1-3), 80 ft (Rounds 4-6), 100 ft (Rounds 7-8)
 - Movement: Random (1d8 direction each round)
@@ -56,38 +56,38 @@ Hold the Hummingwym at the end of Round 8
 
 ### Status Tracker
 
-| Round | Hummingwym Location | Held By | Notes |
-|-------|-------------------|---------|-------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
+| Round | Hummingwyrm Location | Held By | Notes |
+| ----- | -------------------- | ------- | ----- |
+| 1     |                      |         |       |
+| 2     |                      |         |       |
+| 3     |                      |         |       |
+| 4     |                      |         |       |
+| 5     |                      |         |       |
+| 6     |                      |         |       |
+| 7     |                      |         |       |
+| 8     |                      |         |       |
 
 ---
 
 ## Crowd Favor Tracking
 
-| PC Name | Favor Earned | Favor Spent | Current Favor | Notable Actions |
-|---------|--------------|-------------|---------------|-----------------|
-| Father Crow | | | | |
-| Torgana | | | | |
-| Imwe | | | | |
-| Killing Eagle Laughs | | | | |
-| [Fifth PC] | | | | |
+| PC Name              | Favor Earned | Favor Spent | Current Favor | Notable Actions |
+| -------------------- | ------------ | ----------- | ------------- | --------------- |
+| Father Crow          |              |             |               |                 |
+| Torgana              |              |             |               |                 |
+| Imwe                 |              |             |               |                 |
+| Killing Eagle Laughs |              |             |               |                 |
+| [Fifth PC]           |              |             |               |                 |
 
 ### Favor Opportunities (Quick Reference)
-- First within 5 feet of Hummingwym: +1
+- First within 5 feet of Hummingwyrm: +1
 - Catch with special net: +3
 - Catch with grapple: +2
 - Animal Handling prediction (DC 15+) leading to catch: +2
 - Catch in Round 8: +4
-- Pass Hummingwym 3+ times successfully: +2
-- Defeat rival with Panache near Hummingwym: +2
-- Defend Hummingwym holder: +2
+- Pass Hummingwyrm 3+ times successfully: +2
+- Defeat rival with Panache near Hummingwyrm: +2
+- Defend Hummingwyrm holder: +2
 - Steal special net from rival: +2
 - Shove rival into thorns: +1
 - Hold for 3+ rounds without escape: +2
@@ -100,13 +100,13 @@ Hold the Hummingwym at the end of Round 8
 
 ### Rival Gladiators
 
-| Name | Role | HP | AC | Status | Notes |
-|------|------|----|----|--------|-------|
-| Karn | Lead Gladiator | 65 | 15 | | |
-| Vessa | Gladiator | 65 | 15 | | |
-| Tormund | Gladiator | 65 | 15 | | |
-| Lira | Gladiator | 65 | 15 | | |
-| Finn | Beast Handler | 16 | 13 | | |
+| Name    | Role           | HP  | AC  | Status | Notes |
+| ------- | -------------- | --- | --- | ------ | ----- |
+| Karn    | Lead Gladiator | 65  | 15  |        |       |
+| Vessa   | Gladiator      | 65  | 15  |        |       |
+| Tormund | Gladiator      | 65  | 15  |        |       |
+| Lira    | Gladiator      | 65  | 15  |        |       |
+| Finn    | Beast Handler  | 16  | 13  |        |       |
 
 ---
 
@@ -150,24 +150,24 @@ Hold the Hummingwym at the end of Round 8
 ## Post-Session Summary
 
 ### Outcome
-- [ ] PC Victory: PC held Hummingwym at end of Round 8
-- [ ] Rival Victory: Rival held Hummingwym at end of Round 8
-- [ ] Draw: No one held Hummingwym at end of Round 8
+- [ ] PC Victory: PC held Hummingwyrm at end of Round 8
+- [ ] Rival Victory: Rival held Hummingwyrm at end of Round 8
+- [ ] Draw: No one held Hummingwyrm at end of Round 8
 
 ### Winner Details
-**Hummingwym held by:** [PC/Rival name]
+**Hummingwyrm held by:** [PC/Rival name]
 **Round caught on:** [Round number]
 **Method:** [Grapple/Attack/Net/etc.]
 
 ### PC Status After Session
 
-| PC Name | Status | HP Remaining | Final Favor | Special Conditions | Level Up? |
-|---------|--------|--------------|-------------|-------------------|-----------|
-| Father Crow | | | | | |
-| Torgana | | | | | |
-| Imwe | | | | | |
-| Killing Eagle Laughs | | | | | |
-| [Fifth PC] | | | | | |
+| PC Name              | Status | HP Remaining | Final Favor | Special Conditions | Level Up? |
+| -------------------- | ------ | ------------ | ----------- | ------------------ | --------- |
+| Father Crow          |        |              |             |                    |           |
+| Torgana              |        |              |             |                    |           |
+| Imwe                 |        |              |             |                    |           |
+| Killing Eagle Laughs |        |              |             |                    |           |
+| [Fifth PC]           |        |              |             |                    |           |
 
 ### Rival Gladiator Outcomes
 - Karn: [Defeated/Surrendered/Survived]
@@ -186,7 +186,7 @@ Hold the Hummingwym at the end of Round 8
 - Rival Equipment: [Armor, weapons, etc.]
 - Other: [Miscellaneous items]
 
-### Hummingwym Bonding (if PCs won)
+### Hummingwyrm Bonding (if PCs won)
 **Bonded to:** [PC name or "the party"]
 **Personality traits observed:**
 - 
@@ -215,7 +215,7 @@ Hold the Hummingwym at the end of Round 8
 ## Notes for Next Session
 
 ### Plot Threads
-- Hummingwym integration into party dynamics
+- Hummingwyrm integration into party dynamics
 - Rival gladiators' reaction (grudge match possibility?)
 - Patron opportunities (beast handler's guild, exotic creature hunts)
 - Imwe's Windstep Boots integration and risks
@@ -234,7 +234,7 @@ Hold the Hummingwym at the end of Round 8
 - 
 
 ### DM Reminders
-- Track Hummingwym's personality and preferences
+- Track Hummingwyrm's personality and preferences
 - Note any PCs with thorn scarring (temporary Charisma effects)
 - Remember death curse mark if anyone survived it
 - Follow up on special net ownership

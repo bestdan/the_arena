@@ -8,7 +8,7 @@ created: 2025-12-13
 updated: 2025-12-13
 ---
 
-# Session 6 Setup: Hunt the Hummingwym
+# Session 6 Setup: Hunt the Hummingwyrm
 
 ### 3 Days After Session 5
 
@@ -26,7 +26,7 @@ He tosses a small purse to Torgana.
 
 Snak arrives with his usual smirk and a leather scroll case.
 
-> "Right then. Tomorrow's bout: 'Hunt the Hummingwym.' Ever seen one? No? Picture a hummingbird mated with a pseudodragon. Tiny, fast, glows like a rainbow, and smarter than it looks."
+> "Right then. Tomorrow's bout: 'Hunt the Hummingwyrm.' Ever seen one? No? Picture a hummingbird mated with a pseudodragon. Tiny, fast, glows like a rainbow, and smarter than it looks."
 
 He unrolls a crude map of the arena—circular, with marked features.
 
@@ -34,7 +34,7 @@ He unrolls a crude map of the arena—circular, with marked features.
 
 He pauses, his expression darkening.
 
-> "Here's the catch—literally. If the Hummingwym dies while you're holding it, YOU die. Curse of the hunt. Instant. No death saves. So don't squeeze too hard, don't critical-hit the bloody thing, and for the love of all that's holy, don't let it take more than ten damage in one go."
+> "Here's the catch—literally. If the Hummingwyrm dies while you're holding it, YOU die. Curse of the hunt. Instant. No death saves. So don't squeeze too hard, don't critical-hit the bloody thing, and for the love of all that's holy, don't let it take more than ten damage in one go."
 
 He taps the map, indicating various features.
 
@@ -42,19 +42,19 @@ He taps the map, indicating various features.
 
 **If PCs paid for Snak's intel (50 gp), he provides additional details:**
 
-> "The net's hanging from the East archway. Investigation check, DC 14, or DC 10 if you look specifically at the archways. One person can use it—grants advantage on grapple checks and attack rolls against the Hummingwym."
+> "The net's hanging from the East archway. Investigation check, DC 14, or DC 10 if you look specifically at the archways. One person can use it—grants advantage on grapple checks and attack rolls against the Hummingwyrm."
 
 > "Five thorn bushes scattered around. Dex save DC 12 or take 1d6 piercing when you enter or start your turn inside. Fail by five or more, you also take poison damage and start bleeding. Medicine check DC 10 to stop the bleeding, or any magical healing works. Use the fountain to wash off poison if needed."
 
-> "The Hummingwym has AC 17, only 15 hit points, but it's FRAGILE. Critical hits kill it. Ten damage in one hit kills it. Use grapple checks—DC 16 Athletics or Acrobatics—much safer. Or subdue it with careful attacks."
+> "The Hummingwyrm has AC 17, only 15 hit points, but it's FRAGILE. Critical hits kill it. Ten damage in one hit kills it. Use grapple checks—DC 16 Athletics or Acrobatics—much safer. Or subdue it with careful attacks."
 
 > "Moves 60 feet per turn for the first three rounds, 80 feet rounds four through six, then 100 feet with wild zigzags in the final two rounds. Random directions, rolled each round. You can use Animal Handling checks to predict where it's going—DC 12 for general direction, DC 15 for exact, DC 18 and you can ready an action with advantage."
 
-> "You're not alone. Rival gladiators—four tough fighters and a Beast Handler. They'll chase the Hummingwym AND fight you. They know about the net too. Expect them to split their focus: some chasing, some blocking you."
+> "You're not alone. Rival gladiators—four tough fighters and a Beast Handler. They'll chase the Hummingwyrm AND fight you. They know about the net too. Expect them to split their focus: some chasing, some blocking you."
 
 > "Once someone catches it, it struggles. DC 13 Animal Handling at the start of your turn or it escapes. You can pass it to allies as a free action if they're adjacent. If you take ten or more damage while holding it, make a Concentration check DC 12 or drop it."
 
-> "Win condition: Be holding the Hummingwym when Round 8 ends. If the rivals hold it, they win. If no one holds it, everyone loses and the crowd boos."
+> "Win condition: Be holding the Hummingwyrm when Round 8 ends. If the rivals hold it, they win. If no one holds it, everyone loses and the crowd boos."
 
 He rolls up the map.
 
@@ -62,7 +62,7 @@ He rolls up the map.
 
 **Without intel purchase, Snak keeps it brief:**
 
-> "Beyond that, you're on your own. Figure out the arena, find any advantages you can, and don't kill the Hummingwym. Good luck."
+> "Beyond that, you're on your own. Figure out the arena, find any advantages you can, and don't kill the Hummingwyrm. Good luck."
 
 ### An Hour Before the Match in the Armory
 
@@ -93,9 +93,9 @@ The announcer's voice booms across the stands:
 
 "Five gladiators! One enchanted prey! And a DEADLY curse for those too careless!"
 
-[A shimmering portal opens above the fountain. The Hummingwym appears—tiny, iridescent, wings humming]
+[A shimmering portal opens above the fountain. The Hummingwyrm appears—tiny, iridescent, wings humming]
 
-"Behold—the HUMMINGWYM! Swift as lightning! Delicate as glass! Catch it—HOLD it—but do NOT kill it!"
+"Behold—the HUMMINGwyrm! Swift as lightning! Delicate as glass! Catch it—HOLD it—but do NOT kill it!"
 
 [The creature hovers, rainbow scales catching the light]
 
@@ -109,7 +109,7 @@ The announcer's voice booms across the stands:
 
 "Hunt begins... NOW!"
 
-[A horn blast echoes. The Hummingwym darts from the fountain in a random direction. The rivals charge forward.]
+[A horn blast echoes. The Hummingwyrm darts from the fountain in a random direction. The rivals charge forward.]
 ```
 
 The hunt is on.
@@ -119,10 +119,10 @@ The hunt is on.
 ## Key Reminders for Players
 
 **Objective:**
-- Hold the Hummingwym at end of Round 8 to win
+- Hold the Hummingwyrm at end of Round 8 to win
 
 **Death Curse:**
-- If Hummingwym dies while you're holding it: Wisdom save DC 15 or drop to 0 HP instantly
+- If Hummingwyrm dies while you're holding it: Wisdom save DC 15 or drop to 0 HP instantly
 - Critical hits kill it
 - 10+ damage in one hit kills it
 - **Use grapple checks (DC 16) instead of attacks—much safer!**
@@ -132,7 +132,7 @@ The hunt is on.
 - Grants advantage on catching attempts
 - Only one person can use it
 
-**Holding the Hummingwym:**
+**Holding the Hummingwyrm:**
 - DC 13 Animal Handling check at start of your turn or it escapes
 - Can pass to adjacent ally as free action
 - If you take 10+ damage, make DC 12 Concentration check or drop it

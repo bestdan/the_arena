@@ -12,7 +12,7 @@ Lightweight boots crafted from shimmering blue leather, with faint runes etched 
 
 *"Swift as the wind, but wild as the storm."*
 
-A prize awarded from Session 6: Hunt the Hummingwym.
+A prize awarded from Session 6: Hunt the Hummingwyrm.
 
 ## Benefits
 
@@ -53,7 +53,7 @@ The boots amplify movement but make it harder to stop precisely. While attuned t
 **Strengths:**
 - Exceptional mobility for positioning
 - Great for hit-and-run tactics
-- Excellent for chasing fast targets (like the Hummingwym!)
+- Excellent for chasing fast targets (like the Hummingwyrm!)
 - Bonus action Dash is action-economy efficient
 
 **Weaknesses:**

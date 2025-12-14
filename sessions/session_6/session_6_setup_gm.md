@@ -8,7 +8,7 @@ created: 2025-12-13
 updated: 2025-12-13
 ---
 
-# Session 6 GM Setup: Hunt the Hummingwym
+# Session 6 GM Setup: Hunt the Hummingwyrm
 
 ## Pre-Session Checklist
 
@@ -29,7 +29,7 @@ updated: 2025-12-13
 - Death saves (if curse triggers)
 
 **Key Resources:**
-- Hummingwym movement tracker (1d8 per round for direction)
+- Hummingwyrm movement tracker (1d8 per round for direction)
 - Thorn bush damage tracker (who's bleeding?)
 - Round timer (visible to players—use countdown)
 - Rival gladiator HP and status tracking
@@ -40,7 +40,7 @@ updated: 2025-12-13
 - Emphasize consequences (death curse for careless handling)
 - Reward tactical play and Animal Handling usage
 - Create memorable moments (clutch catches, thorn bush shoves, teamwork)
-- Establish Hummingwym as future ally/companion
+- Establish Hummingwyrm as future ally/companion
 
 ---
 
@@ -59,7 +59,7 @@ Tone: Helpful but sardonic. He wants them to succeed (he's bet on them), but won
 Give the rivals some character:
 - **Lead Gladiator (Karn):** Gruff, experienced, respects skill. Won't kill unnecessarily.
 - **Second Gladiator (Vessa):** Aggressive, wants glory, will shove PCs into thorns.
-- **Third Gladiator (Tormund):** Cautious, focuses on defense when holding Hummingwym.
+- **Third Gladiator (Tormund):** Cautious, focuses on defense when holding Hummingwyrm.
 - **Fourth Gladiator (Lira):** Quick, tries to steal net if she spots it.
 - **Beast Handler (Finn):** Young, nervous, shouts predictions loudly (helps everyone, including PCs).
 
@@ -69,7 +69,7 @@ Give the rivals some character:
 - Finn shouts predictions: "It's heading east! No, wait—southeast!"
 - If losing badly, Karn calls surrender: "Enough! You've won!"
 
-### Hummingwym Personality
+### Hummingwyrm Personality
 The creature has personality:
 - Playful but skittish
 - Intelligent enough to recognize patterns
@@ -89,40 +89,40 @@ This is a unique hunt—crowd loves it:
 - Roars when someone is shoved into thorns
 - Chants countdown in rounds 7-8
 - Goes silent when death curse triggers (if it does)
-- Erupts when Hummingwym is caught in Round 8
+- Erupts when Hummingwyrm is caught in Round 8
 
 ---
 
 ## Combat Flow Suggestions
 
 ### Opening (Rounds 1-3)
-- Hummingwym emerges from fountain, hovers briefly
+- Hummingwyrm emerges from fountain, hovers briefly
 - Roll 1d8 for direction, moves 60 feet
 - PCs and rivals both react—some chase, some search for net
 - First Investigation checks for net (East archway, DC 14)
 - Establish terrain—point out thorn bushes, sand pits, pillars
 
 **GM Focus:**
-- Describe Hummingwym's beauty and speed
+- Describe Hummingwyrm's beauty and speed
 - Emphasize fragility ("It's so small, so delicate...")
 - Highlight environmental features
 - Let players explore arena without immediate combat
 
 ### Early Chase (Round 3)
-- Rivals engage PCs (2 chase Hummingwym, 2 block PCs)
+- Rivals engage PCs (2 chase Hummingwyrm, 2 block PCs)
 - First combat exchanges begin
 - Beast Handler (Finn) shouts predictions
-- First attempts to catch Hummingwym (likely failures—AC 17 is tough)
+- First attempts to catch Hummingwyrm (likely failures—AC 17 is tough)
 - Possible net discovery and claim
 
 **GM Focus:**
-- Track initiative carefully (Hummingwym moves on initiative count 20)
+- Track initiative carefully (Hummingwyrm moves on initiative count 20)
 - Encourage Animal Handling checks ("You can study its pattern with an action")
 - Rivals use shove actions to push PCs into thorns
 - Describe near-misses dramatically: "Your hand closes inches from its tail!"
 
 ### Mid-Hunt (Rounds 4-6)
-- Hummingwym accelerates to 80 feet
+- Hummingwyrm accelerates to 80 feet
 - Possession likely changes hands (caught, stolen, escaped)
 - Thorn bush casualties mount (bleeding effects)
 - Combat intensifies—rivals get desperate
@@ -130,12 +130,12 @@ This is a unique hunt—crowd loves it:
 **GM Focus:**
 - Track bleeding damage (1 per round until treated)
 - Encourage fountain use (washing poison)
-- Highlight teamwork opportunities (passing Hummingwym, protecting holder)
-- Describe Hummingwym struggling in holder's grasp
+- Highlight teamwork opportunities (passing Hummingwyrm, protecting holder)
+- Describe Hummingwyrm struggling in holder's grasp
 - Call for Animal Handling checks to maintain grip
 
 ### Late Hunt (Rounds 7-8)
-- Hummingwym zigzags (roll 1d8 twice per round, 100 feet total)
+- Hummingwyrm zigzags (roll 1d8 twice per round, 100 feet total)
 - Desperate scramble for possession
 - Everyone becomes cautious (no one wants death curse)
 - Tactical positioning crucial
@@ -157,15 +157,15 @@ This is a unique hunt—crowd loves it:
 - Describe every action dramatically
 - Crowd counts down with you: "TEN! NINE! EIGHT!"
 - Freeze moment when horn blasts (end of Round 8)
-- Zoom in on whoever holds the Hummingwym
+- Zoom in on whoever holds the Hummingwyrm
 
 ---
 
 ## Important Mechanics Reminders
 
-### Hummingwym Death Trigger
+### Hummingwyrm Death Trigger
 **Only triggers if:**
-1. Hummingwym reduced to 0 HP or killed
+1. Hummingwyrm reduced to 0 HP or killed
 2. PC is holding it OR was last to touch it (within 5 feet)
 
 **Effect:**
@@ -194,7 +194,7 @@ This is a unique hunt—crowd loves it:
 
 ### Animal Handling to Predict Movement
 **Action economy trade-off:**
-- Spend action to study Hummingwym
+- Spend action to study Hummingwyrm
 - Make Animal Handling check
 - **DC 12:** "It seems to be favoring the eastern side" (quadrant)
 - **DC 15:** "It's going to dart northeast next" (exact 1d8 result)
@@ -207,7 +207,7 @@ This is a unique hunt—crowd loves it:
 ### Concentration Check for Dropping
 **When holder takes 10+ damage in one hit:**
 - DC 12 Concentration check (or half damage, whichever is higher)
-- Failure: Hummingwym escapes, moves randomly
+- Failure: Hummingwyrm escapes, moves randomly
 
 **Note:** War Caster feat or similar abilities apply
 
@@ -253,11 +253,11 @@ This is a unique hunt—crowd loves it:
 **Mechanics:**
 - Difficult terrain (2 feet of movement per 1 foot traveled)
 - No save, just slows movement
-- Hummingwym unaffected (flies over)
+- Hummingwyrm unaffected (flies over)
 
 **Tactical Impact:**
 - Slows pursuit
-- Disadvantage if trying to catch Hummingwym while in sand
+- Disadvantage if trying to catch Hummingwyrm while in sand
 - Describe: "Loose sand shifts under your feet, slowing your sprint"
 
 ### Pillars (6 total)
@@ -265,7 +265,7 @@ This is a unique hunt—crowd loves it:
 - 10 feet tall, 5 feet diameter
 - Full cover if behind
 - Can climb (Athletics DC 12)
-- Hummingwym uses to break line of sight
+- Hummingwyrm uses to break line of sight
 
 **Tactical Use:**
 - Cover from ranged attacks (javelins, thrown nets)
@@ -280,33 +280,33 @@ This is a unique hunt—crowd loves it:
 
 **Rounds 1-2: Positioning**
 - Karn: Searches for net (if he finds it first, claims it)
-- Vessa: Chases Hummingwym aggressively
+- Vessa: Chases Hummingwyrm aggressively
 - Tormund: Engages nearest PC (blocking)
-- Lira: Flanks, tries to catch Hummingwym
+- Lira: Flanks, tries to catch Hummingwyrm
 - Finn: Stays back, shouts predictions (helps his team)
 
 **Rounds 3: Engagement**
-- 2 rivals chase Hummingwym, 2 fight PCs
+- 2 rivals chase Hummingwyrm, 2 fight PCs
 - Finn continues predictions
-- If rival catches Hummingwym: others form protective circle
+- If rival catches Hummingwyrm: others form protective circle
 - Use javelins to harass PCs from range
 
 **Rounds 4-6: Desperation**
 - Aggressive shoves into thorn bushes
 - Attempts to steal net if PCs have it
-- If losing (3+ rivals down), remaining ones go all-in on Hummingwym
-- Hummingwym speeds up to 80 feet
+- If losing (3+ rivals down), remaining ones go all-in on Hummingwyrm
+- Hummingwyrm speeds up to 80 feet
 
 **Rounds 7-8: Final Push**
-- Extreme caution if holding Hummingwym (no big damage attacks)
+- Extreme caution if holding Hummingwyrm (no big damage attacks)
 - Defensive positioning around holder
 - Surrender if 4+ rivals down
-- Hummingwym at maximum speed (100 feet, zigzagging)
+- Hummingwyrm at maximum speed (100 feet, zigzagging)
 
 ### Surrender Conditions
 **Rivals surrender if:**
 - 4 or 5 rivals reduced to 0 HP
-- Round 6+ and they have no hope of getting Hummingwym
+- Round 6+ and they have no hope of getting Hummingwyrm
 - Karn's HP below 20 and at least 2 others down
 
 **Surrender Dialogue:**
@@ -331,7 +331,7 @@ This is a unique hunt—crowd loves it:
 **Pacing Tips:**
 - Don't let rounds drag—keep timer visible
 - Skip trivial movement ("You move to pillar. Next?")
-- Describe Hummingwym movement quickly (roll, announce, move token)
+- Describe Hummingwyrm movement quickly (roll, announce, move token)
 - Encourage quick decisions ("You have 30 seconds to declare action")
 - Use announcer beats to break up combat (every 2-3 rounds)
 
@@ -342,7 +342,7 @@ This is a unique hunt—crowd loves it:
 ### If PCs Win
 - **Gold:** 150 gp each
 - **Favor:** +3 base, plus individual achievements (likely 10-15 total per PC)
-- **Hummingwym Ally:** Bonds with party, acts as Familiar (see Aftermath)
+- **Hummingwyrm Ally:** Bonds with party, acts as Familiar (see Aftermath)
 - **Special Net:** PC who claimed it keeps it (Hunter's Net, uncommon item)
 - **Windstep Boots:** Awarded to [[../../players/imwe|Imwe]] for exceptional mobility (see below)
 
@@ -358,7 +358,7 @@ This is a unique hunt—crowd loves it:
 ### If PCs Lose (Rivals Win)
 - **Gold:** 50 gp each (participation)
 - **Favor:** +1 base, plus individual achievements (likely 5-8 total)
-- **No Hummingwym:** Rivals take it
+- **No Hummingwyrm:** Rivals take it
 - **Grudge Hook:** Rematch possible in future session
 
 ### If Draw (No One Holds It)
@@ -382,11 +382,11 @@ This is a unique hunt—crowd loves it:
 - Patron might cover cost (if they have one)
 - Creates dramatic tension
 
-### If Hummingwym Killed Early (Round 3-6)
+### If Hummingwyrm Killed Early (Round 3-6)
 - Immediate death curse check
 - If PC dies, moment of silence
 - Arena Master announces: "The hunt continues—FIND ANOTHER!"
-- Second Hummingwym released (same stats)
+- Second Hummingwyrm released (same stats)
 - Restart chase, but timer continues
 
 ### If PCs Dominate Too Easily
@@ -398,7 +398,7 @@ This is a unique hunt—crowd loves it:
 ### If PCs Struggle Too Much
 - Reduce rival HP by 10 each (secretly)
 - Have Finn (Beast Handler) make a "mistake" in prediction that helps PCs
-- Reduce Hummingwym DC by 2 (AC 15, grapple DC 14)
+- Reduce Hummingwyrm DC by 2 (AC 15, grapple DC 14)
 
 ---
 
@@ -410,9 +410,9 @@ This is a unique hunt—crowd loves it:
 4. **Thorns are tactical**—encourage environmental use
 5. **Animal Handling matters**—reward skill use
 6. **Timer creates urgency**—visible countdown crucial
-7. **Teamwork wins**—passing Hummingwym, protecting holder
+7. **Teamwork wins**—passing Hummingwyrm, protecting holder
 8. **Rivals surrender**—don't force fight to death
-9. **Hummingwym bonds**—make it memorable at end
+9. **Hummingwyrm bonds**—make it memorable at end
 10. **Have fun**—this is a chase, not a grind
 
 Good luck, GM!
