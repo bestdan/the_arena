@@ -30,6 +30,9 @@ Snak arrives with her usual smirk and a leather scroll case.
 
 > "Right then. Tomorrow's bout: 'Hunt the Hummingwyrm.' Ever seen one? No? Picture a hummingbird mated with a baby wyvern. Tiny, fast, glows like a rainbow, and smarter than it looks."
 
+![[pygmy_wyvern.jpg]]
+
+
 She unrolls a crude map of the arena—circular, with marked features.
 
 > "The rules are simple: Catch it. Hold it until the timer runs out. Eight rounds. Whoever's holding it at the end wins."
