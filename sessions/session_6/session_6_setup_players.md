@@ -18,25 +18,30 @@ The arena is still buzzing about the night hunt. Father Crow's group survived th
 
 > "Good news! You lot have earned a reputation—'hard to kill.' The bookies hate you, which means the Grand Master loves you. Also, Torgana, the masked assassin sends his regards and 50 gold pieces. Professional courtesy."
 
-He tosses a small purse to Torgana.
+She tosses a small purse to Torgana.
 
-> "Session Six is in three days. Something different this time—a hunt. Not you being hunted, for once. You'll be doing the hunting."
+> "Session Six is in three days. Something different this time—a hunt. Not you being hunted, for once. You'll be doing the hunting. 
+
+> "I'll be honest, I don't know much about this... right now. Some coin could help with that. 25GP for the basics, 50GP for a deep dive. Let me know now so I can get working."
 
 ### The Night Before the Match
 
-Snak arrives with his usual smirk and a leather scroll case.
+Snak arrives with her usual smirk and a leather scroll case.
 
-> "Right then. Tomorrow's bout: 'Hunt the Hummingwyrm.' Ever seen one? No? Picture a hummingbird mated with a pseudodragon. Tiny, fast, glows like a rainbow, and smarter than it looks."
+> "Right then. Tomorrow's bout: 'Hunt the Hummingwyrm.' Ever seen one? No? Picture a hummingbird mated with a baby wyvern. Tiny, fast, glows like a rainbow, and smarter than it looks."
 
-He unrolls a crude map of the arena—circular, with marked features.
+![[pygmy_wyvern.jpg]]
+
+
+She unrolls a crude map of the arena—circular, with marked features.
 
 > "The rules are simple: Catch it. Hold it until the timer runs out. Eight rounds. Whoever's holding it at the end wins."
 
-He pauses, his expression darkening.
+She pauses, his expression darkening.
 
 > "Here's the catch—literally. If the Hummingwyrm dies while you're holding it, YOU die. Curse of the hunt. Instant. No death saves. So don't squeeze too hard, don't critical-hit the bloody thing, and for the love of all that's holy, don't let it take more than ten damage in one go."
 
-He taps the map, indicating various features.
+She taps the map, indicating various features.
 
 > "Arena's a garden maze of sorts. Stone pillars, thorn bushes—nasty ones, poison and bleeding if you're careless—sand pits for difficult terrain. Central fountain where it starts. Oh, and there's a special net hidden somewhere. First to find it gets advantage on catching the creature."
 
@@ -56,13 +61,15 @@ He taps the map, indicating various features.
 
 > "Win condition: Be holding the Hummingwyrm when Round 8 ends. If the rivals hold it, they win. If no one holds it, everyone loses and the crowd boos."
 
-He rolls up the map.
+She rolls up the map.
 
 > "Strategy? Find that net early. Use Animal Handling to predict its movement. Grapple it—don't attack unless you're very confident. Coordinate with your team—pass it around if needed. Watch out for the thorns; the rivals will shove you into them. And whatever you do, DON'T. KILL. IT."
 
 **Without intel purchase, Snak keeps it brief:**
 
-> "Beyond that, you're on your own. Figure out the arena, find any advantages you can, and don't kill the Hummingwyrm. Good luck."
+> " Want something? My shop is open. Beyond that, you're on your own. Figure out the arena, find any advantages you can, and don't kill the Hummingwyrm. Good luck."
+
+[[../../snak_shop_session_6]]
 
 ### An Hour Before the Match in the Armory
 
