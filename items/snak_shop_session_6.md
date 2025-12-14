@@ -293,7 +293,7 @@ visibility: public
 ---
 
 ### Dust of Dryness (3 pellets) - 100 GP
-*"Absorbs water. Each pellet soaks up 15-foot cube of water. Or use it to dry off after washing thorn poison at the fountain."*
+*"Absorbs water. Each pellet soaks up 15-foot cube of water. Or use it to dry off quickly—sometimes getting wet is tactical."*
 
 **Effect:**
 - Wondrous item (consumable)
