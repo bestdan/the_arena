@@ -48,6 +48,15 @@ Death is guaranteed. Revivial is not.  The Rite of the Phoenix involves the play
 
 ## Session 5: Hide and Seek 🤫
 
-To be played...
+A night game where being seen is deadly.
 
 [View Session](session_5/index.md) 
+
+
+---
+
+## Session 6: Pygmy Wyvern Hunt 🐦‍🔥
+
+To be played...
+
+[View Session](session_6/index.md) 

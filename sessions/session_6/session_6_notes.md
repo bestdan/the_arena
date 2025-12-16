@@ -8,7 +8,7 @@ created: 2025-12-13
 updated: 2025-12-13
 ---
 
-# Session 6 Notes: Hunt the Hummingwyrm
+# Session 6 Notes: Hunt the Pygmy Wyvern
 
 ## Pre-Session Summary
 **Party Playing:** 
@@ -23,7 +23,7 @@ updated: 2025-12-13
 ## Session Objectives
 
 ### Primary Goal
-Hold the Hummingwyrm at the end of Round 8
+Hold the Pygmy Wyvern at the end of Round 8
 
 ### Secondary Goals
 - Find and claim the special net
@@ -35,7 +35,7 @@ Hold the Hummingwyrm at the end of Round 8
 
 ## Key Mechanics
 
-### Hummingwyrm Stats
+### Pygmy Wyvern Stats
 - AC 17, HP 15
 - Speed: 60 ft (Rounds 1-3), 80 ft (Rounds 4-6), 100 ft (Rounds 7-8)
 - Movement: Random (1d8 direction each round)
@@ -56,16 +56,16 @@ Hold the Hummingwyrm at the end of Round 8
 
 ### Status Tracker
 
-| Round | Hummingwyrm Location | Held By | Notes |
-| ----- | -------------------- | ------- | ----- |
-| 1     |                      |         |       |
-| 2     |                      |         |       |
-| 3     |                      |         |       |
-| 4     |                      |         |       |
-| 5     |                      |         |       |
-| 6     |                      |         |       |
-| 7     |                      |         |       |
-| 8     |                      |         |       |
+| Round | Pygmy Wyvern Location | Held By | Notes |
+| ----- | --------------------- | ------- | ----- |
+| 1     |                       |         |       |
+| 2     |                       |         |       |
+| 3     |                       |         |       |
+| 4     |                       |         |       |
+| 5     |                       |         |       |
+| 6     |                       |         |       |
+| 7     |                       |         |       |
+| 8     |                       |         |       |
 
 ---
 
@@ -80,14 +80,14 @@ Hold the Hummingwyrm at the end of Round 8
 | [Fifth PC]           |              |             |               |                 |
 
 ### Favor Opportunities (Quick Reference)
-- First within 5 feet of Hummingwyrm: +1
+- First within 5 feet of Pygmy Wyvern: +1
 - Catch with special net: +3
 - Catch with grapple: +2
 - Animal Handling prediction (DC 15+) leading to catch: +2
 - Catch in Round 8: +4
-- Pass Hummingwyrm 3+ times successfully: +2
-- Defeat rival with Panache near Hummingwyrm: +2
-- Defend Hummingwyrm holder: +2
+- Pass Pygmy Wyvern 3+ times successfully: +2
+- Defeat rival with Panache near Pygmy Wyvern: +2
+- Defend Pygmy Wyvern holder: +2
 - Steal special net from rival: +2
 - Shove rival into thorns: +1
 - Hold for 3+ rounds without escape: +2
@@ -150,12 +150,12 @@ Hold the Hummingwyrm at the end of Round 8
 ## Post-Session Summary
 
 ### Outcome
-- [ ] PC Victory: PC held Hummingwyrm at end of Round 8
-- [ ] Rival Victory: Rival held Hummingwyrm at end of Round 8
-- [ ] Draw: No one held Hummingwyrm at end of Round 8
+- [ ] PC Victory: PC held Pygmy Wyvern at end of Round 8
+- [ ] Rival Victory: Rival held Pygmy Wyvern at end of Round 8
+- [ ] Draw: No one held Pygmy Wyvern at end of Round 8
 
 ### Winner Details
-**Hummingwyrm held by:** [PC/Rival name]
+**Pygmy Wyvern held by:** [PC/Rival name]
 **Round caught on:** [Round number]
 **Method:** [Grapple/Attack/Net/etc.]
 
@@ -186,7 +186,7 @@ Hold the Hummingwyrm at the end of Round 8
 - Rival Equipment: [Armor, weapons, etc.]
 - Other: [Miscellaneous items]
 
-### Hummingwyrm Bonding (if PCs won)
+### Pygmy Wyvern Bonding (if PCs won)
 **Bonded to:** [PC name or "the party"]
 **Personality traits observed:**
 - 
@@ -215,7 +215,7 @@ Hold the Hummingwyrm at the end of Round 8
 ## Notes for Next Session
 
 ### Plot Threads
-- Hummingwyrm integration into party dynamics
+- Pygmy Wyvern integration into party dynamics
 - Rival gladiators' reaction (grudge match possibility?)
 - Patron opportunities (beast handler's guild, exotic creature hunts)
 - Imwe's Windstep Boots integration and risks
@@ -234,7 +234,7 @@ Hold the Hummingwyrm at the end of Round 8
 - 
 
 ### DM Reminders
-- Track Hummingwyrm's personality and preferences
+- Track Pygmy Wyvern's personality and preferences
 - Note any PCs with thorn scarring (temporary Charisma effects)
 - Remember death curse mark if anyone survived it
 - Follow up on special net ownership
