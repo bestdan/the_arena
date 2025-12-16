@@ -4,9 +4,9 @@ session_number: 6
 visibility: public
 ---
 
-# Session 6: Hunt the Hummingwyrm
+# Session 6: Hunt the Pygmy Wyvern
 
-A high-stakes chase where gladiators must capture and hold a magical Hummingwyrm—but killing it means death!
+A high-stakes chase where gladiators must capture and hold a magical Pygmy Wyvern—but killing it means death!
 
 ## Session Files
 
