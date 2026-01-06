@@ -59,8 +59,8 @@ Instead of (or in addition to) the Arcana check, the arena's announcer or mystic
    - *Answer:* Clockwise/sunwise/right (depending on orientation)
    - *Reveals:* All shadows move 30 feet clockwise from current positions.
 
-5. **"Three moons you see, but four there be. The hidden one casts shadows three. Count the dark spots, find the ghost—which shadow comes from nowhere's host?"**
-   - *Answer:* None/trick question (only 4 moon-stones, each casts 1 shadow) OR the overlapping shadow
+5. **"Four dancers spin, their partners meet. When two dark daughters share the street, where will their embrace be sweet?"**
+   - *Answer:* Where shadows overlap/where two shadows meet
    - *Reveals:* Shows where two shadows will overlap next round, creating a larger safe zone.
 
 6. **"When fire above and dancers high complete their turn beneath the sky, the shadow you seek won't stay or flee—it moves the distance of how many of thee?"**
