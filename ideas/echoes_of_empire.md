@@ -48,7 +48,7 @@ created: 2026-01-06
 - Central tower has ladder inside (climable to top, overlooks entire battlefield).
 - Two gates on opposite walls (can be closed with portcullis—Athletics DC 15 to lift).
 - Murder holes provide three-quarters cover for ranged attackers.
-- Oil pots on walls (can be tipped to create 10-foot square flaming hazard, 3d6 fire damage).
+- Oil pots on walls (bonus action to tip if adjacent to wall; creates 10-foot square flaming hazard for 3 rounds, 3d6 fire damage on entry).
 
 ### Shipbreaker's Cove (Rounds 5-6, 11-12, 17-18)
 **"Coastal battlefield where naval forces clashed in shallow water"**

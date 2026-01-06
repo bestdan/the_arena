@@ -61,7 +61,7 @@ created: 2026-01-06
 
 ### How It Works:
 - Each enemy exists in **all three timelines simultaneously** (treat as three separate creatures with shared identity).
-- **Action Economy:** Each enemy instance acts independently in its timeline (gets own initiative turn), but all instances share HP pool.
+- **Action Economy:** All instances of the same enemy act on one shared initiative count, but take separate turns in their respective timelines (e.g., Temporal Knight rolls initiative once; acts in Past on round 1, Present on round 3, Future on round 5, etc.).
 - **Temporal HP Pool:** When an enemy takes damage in ANY timeline, its HP reduces across ALL timelines.
 - **Timeline Death:** If an enemy reaches 0 HP in a timeline, it dies in THAT timeline only.
 - **Temporal Erasure:** If an enemy dies in the PAST timeline, it is erased from PRESENT and FUTURE (all instances vanish immediately).
@@ -140,7 +140,11 @@ created: 2026-01-06
 - **Timeline Tokens:** Use different colored tokens/borders for same enemy in different timelines (Past = sepia, Present = full color, Future = bright/gleaming).
 - **Erasure Drama:** When enemy killed in Past, remove all tokens dramatically—"They fade from existence in Present and Future—never existed!"
 - **Player Education:** First round, have NPC announcer or Chrono Mage taunt: "Fool! You damage me in the future—but I still exist in the past! Kill me there, or I endure!"
-- **Temporal Carryover:** Track environmental changes (collapsed columns, lit braziers) across timelines visibly.
+- **Temporal Carryover:** Track environmental changes across timelines visibly:
+  - **Collapsed Column (Past):** Becomes rubble pile (Present), cleared debris (Future—no column).
+  - **Lit Braziers (Past):** Remain lit in Present, enhance chandelier light in Future.
+  - **Created Pit (Past):** Becomes construction hazard (Present), patched floor (Future—DC 12 Perception to notice repair).
+  - **Blood Spilled:** Dries darker in Present, cleaned/invisible in Future (but ghosts might appear).
 - **Complexity Management:** This is an ADVANCED puzzle—ensure players understand shared HP mechanic by round 3. Use diagrams if needed.
 - **Pacing:** Encourage strategic discussion during timeline shifts (12-second warning gives planning window).
 

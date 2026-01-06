@@ -63,7 +63,11 @@ created: 2026-01-06
 - **Transition Effect (1 round warning):** At initiative count 10 the round BEFORE shift, announcer shouts warning: "The planes TURN! Brace yourselves!"
 - **Positioning Matters:** PCs near lava when shifting to Water = safe. PCs in water when shifting to Air = fall from platform.
 - **Enemy Adaptation:** Enemies gain plane-specific buffs (see below).
-- **Environmental Carryover:** Some conditions persist briefly (on fire = still burning in Water for 1 round, then extinguishes).
+- **Environmental Carryover:** Some conditions persist briefly between shifts:
+  - **On Fire:** Persists into Water plane for 1 round (then extinguishes), persists into Earth/Air normally.
+  - **Restrained (Earth):** Restraints crumble when shifting to other planes (freed automatically).
+  - **Prone in Water:** Becomes prone on ground in Earth/Fire, or falls 10 feet in Air (Dex DC 13 or take 1d6 bludgeoning).
+  - **Drowning (Water):** Gasps for air when shifted to other planes (no longer drowning, but exhausted—disadvantage on next attack).
 
 ## Enemies (planar-touched mercenaries, 4 cycles through all planes)
 
