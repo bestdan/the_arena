@@ -74,8 +74,8 @@ created: 2026-01-06
 ### Example:
 - **Round 1 (Past):** Temporal Knight has 100 HP. Party deals 40 damage. Knight now at 60 HP across all timelines.
 - **Round 3 (Present):** Same Temporal Knight has 60 HP. Party deals 30 more damage. Now at 30 HP across all timelines.
-- **Round 5 (Future):** Same Temporal Knight has 30 HP. Party deals 50 damage, killing it in Future. Knight vanishes in Future, but still exists in Past and Present at 0 HP (dead in Future only).
-- **Round 7 (Past returns):** Knight reappears in Past with 30 HP remaining (shared pool). If killed NOW, vanishes from all timelines retroactively.
+- **Round 5 (Future):** Same Temporal Knight has 30 HP. Party deals 20 damage (reducing to 10 HP shared), then moves away. Knight still exists in all timelines at 10 HP.
+- **Round 7 (Past returns):** Knight reappears in Past with 10 HP remaining (shared pool). If killed NOW in Past, vanishes from all timelines retroactively.
 
 ## Enemies (Temporal Guardians, exist across all timelines)
 
@@ -148,7 +148,7 @@ created: 2026-01-06
 - **Patron Interest:** Time-obsessed wizard impressed by "temporal stability"—offers contract to retrieve artifact from past era (time travel mission, extremely dangerous).
 - **Rumor:** The arena's temporal magic damaged Tarsus's timeline—people report "echoes" of themselves from alternate timelines (doppelgangers with different life choices appearing).
 - **Downtime:** Chrono Mage's staff can be claimed—allows wielder to cast *haste* 1/day, but ages them 1 year per use (cosmetic aging, no mechanical effect until extreme overuse).
-- **Injury:** PC who was "erased" in Past (died but resurrected by ally) develops "Temporal Instability"—occasionally phases translucent for 1d4 seconds (cosmetic, unsettling).
+- **Injury:** PC who died in Present or Future timeline (but not Past—those are permanent erasures) develops "Temporal Instability" after resurrection—occasionally phases translucent for 1d4 seconds (cosmetic, unsettling reminder of their brush with temporal erasure).
 - **Legendary Moment:** If PCs killed all enemies in Past timeline (perfect temporal strategy), time scholars request interview for paradox study—gain feat: "Temporal Intuition" (+1 Initiative, advantage on Perception checks to detect time magic).
 - **Political:** Arena's time magic violates Tarsus chronomancy laws (forbidden by empire after "The Unraveling" 200 years ago)—magistrates investigate, arena risks closure, PCs subpoenaed as witnesses.
 - **Loot:** Temporal Knight's sword exists in all three timelines simultaneously—grants +1 longsword that deals extra 1d6 force damage (temporal strike), once per day can "rewind" attack (reroll attack roll, take better result).
