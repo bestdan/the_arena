@@ -63,7 +63,7 @@ created: 2026-01-06
 
 ### Festering Swamp (Rounds 9-10, 19-20, 29-30)
 **"Murky water and diseased air"**
-- **Disease Miasma:** All creatures make Constitution DC 14 save at start of each turn; fail = contract "Swamp Rot" (onset 1 hour, 1d6 necrotic damage every 8 hours until cured with *lesser restoration*).
+- **Disease Miasma:** All creatures make Constitution DC 14 save at start of each turn; fail = contract "Swamp Rot" (no immediate effect during combat; onset 1 hour post-battle, then 1d6 necrotic damage every 8 hours until cured with *lesser restoration*).
 - **Terrain:** Murky water waist-deep (difficult terrain, heavily obscured below water), 4 cypress trees (20 feet tall, roots provide half cover).
 - **Quicksand Patches:** 3 hidden 10-foot-square patches (DC 15 Perception to spot, Strength DC 14 or sink—restrained, 5 feet deeper each round until submerged).
 - **Leeches:** Entering water requires Constitution DC 12 save; fail = 1d4 piercing damage per turn from leeches (action to remove, DC 10 Medicine).

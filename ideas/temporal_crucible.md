@@ -61,6 +61,7 @@ created: 2026-01-06
 
 ### How It Works:
 - Each enemy exists in **all three timelines simultaneously** (treat as three separate creatures with shared identity).
+- **Action Economy:** Each enemy instance acts independently in its timeline (gets own initiative turn), but all instances share HP pool.
 - **Temporal HP Pool:** When an enemy takes damage in ANY timeline, its HP reduces across ALL timelines.
 - **Timeline Death:** If an enemy reaches 0 HP in a timeline, it dies in THAT timeline only.
 - **Temporal Erasure:** If an enemy dies in the PAST timeline, it is erased from PRESENT and FUTURE (all instances vanish immediately).

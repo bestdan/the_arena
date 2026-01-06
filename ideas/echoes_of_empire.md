@@ -166,7 +166,7 @@ created: 2026-01-06
 ## Aftermath Seeds
 - **Historical Recognition:** PCs who won on all three battlefields gain "Battlefield Legend" title—recognized by military veterans across Tarsus, advantage on Charisma checks with soldiers.
 - **Patron Interest:** Imperial war college impressed by "tactical flexibility"; offers military contract to quell rebellion (high pay, high risk).
-- **Rumor:** The battlefields were powered by ghostly echoes of actual soldiers—binding souls to arena is illegal necromancy. Investigation?
+- **Rumor:** The battlefields were powered by ghostly echoes of actual soldiers—binding souls to arena is illegal necromancy. PCs might be approached by authorities investigating these claims, or by families seeking closure.
 - **Downtime:** Historical weapons from each battlefield can be claimed: Red Hussar Lance (+1 lance), Ironwall Shield (+1 shield with *wall of stone* 1/day), Sea Reaver Harpoon (+1 trident with pull effect).
 - **Injury:** PC knocked unconscious on Shipbreaker's Cove develops lingering "sea sickness"—disadvantage on saves vs. nausea/poison for 1d4 days.
 - **Legendary Moment:** If PCs adapted tactics perfectly to each battlefield, military scholars request interview for tactical manual (fame bonus: +1 to Charisma checks in Tarsus).
