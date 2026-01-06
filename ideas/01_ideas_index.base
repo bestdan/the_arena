@@ -5,6 +5,7 @@ views:
       and:
         - file.inFolder("ideas")
         - "!level_range.isEmpty()"
+        - status != "completed"
     groupBy:
       property: level_range
       direction: ASC

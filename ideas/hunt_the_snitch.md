@@ -1,11 +1,19 @@
 ---
-tags: [arena, encounter-idea, timed, chase, objective, beasts]
+tags:
+  - arena
+  - encounter-idea
+  - timed
+  - chase
+  - objective
+  - beasts
 encounter_type: objective
-party_size: "3-6"
-level_range: "3-8"
+party_size: 3-6
+level_range: 3-8
 difficulty: hard
-mechanics: [crowds-favor, panache]
-status: ready
+mechanics:
+  - crowds-favor
+  - panache
+status: completed
 created: 2025-11-24
 ---
 # Hunt the Snitch
