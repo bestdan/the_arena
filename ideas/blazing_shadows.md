@@ -22,7 +22,7 @@ created: 2025-11-24
   - **Brother (Small):** 15-foot diameter sphere, casts 20-foot diameter shadow, starts at South position
   - **Sister (Small):** 15-foot diameter sphere, casts 20-foot diameter shadow, starts at West position
 - **Shadow Movement:** At initiative count 20 (losing ties), all moon-stones rotate 30 feet clockwise around the arena center. Shadows move with them. Use compass directions to track positions (North, East, South, West, and intermediary positions).
-- **Shadow Coverage:** Shadows overlap occasionally. Every 4 rounds, all four shadows converge at a focal point, creating a 50-foot diameter zone of complete shadow safety.
+- **Shadow Coverage:** Shadows overlap occasionally. Every 4 rounds, all four shadows converge at the arena center focal point, creating a 50-foot diameter zone of complete shadow safety.
 
 ## Burning Sun Mechanic
 - **Sunlight Damage:** Any creature starting its turn in direct sunlight takes 2d6 fire damage (no save).
@@ -36,7 +36,7 @@ created: 2025-11-24
 - PCs can predict shadow movement with Intelligence (Arcana) check DC 12 to know where one specific shadow will be next round.
 - **Alternative: Shadow Riddles** (see below for dramatic prediction mechanic).
 - Movement between shadows requires careful planning—too slow and you burn.
-- **Focal Point Convergence:** Every 4 rounds, all shadows meet at a central location. Track this cycle clearly.
+- **Focal Point Convergence:** Every 4 rounds, all shadows meet at the arena center. Track this cycle clearly.
 
 ## Shadow Riddles (Optional Mechanic)
 Instead of (or in addition to) the Arcana check, the arena's announcer or mystical voice can pose riddles to the combatants. Solving a riddle correctly grants perfect knowledge of where ONE specific moon-stone's shadow will move on the next round. This adds theatrical flair and rewards clever thinking.
@@ -58,7 +58,7 @@ Instead of (or in addition to) the Arcana check, the arena's announcer or mystic
    - *Reveals:* Father's shadow will move from North toward East (clockwise 30 feet).
 
 2. **"The family gathers in shadow's embrace. Four become one in a darkened space. When next will this reunion take place?"**
-   - *Answer:* In [X] rounds (count from current position in cycle)
+   - *Answer:* A number (e.g., "3" or "1" or "Now")
    - *Reveals:* Exactly when all four shadows will converge at the focal point (every 4 rounds).
 
 3. **"Two small, one medium, one grand. Which casts the widest net on the sand?"**
@@ -70,8 +70,8 @@ Instead of (or in addition to) the Arcana check, the arena's announcer or mystic
    - *Reveals:* Mother's shadow moves 30 feet clockwise from current position.
 
 5. **"Brother and Sister run as one, their shadows flee the burning sun. Together they move, their path is clear—where will their darkness next appear?"**
-   - *Answer:* Clockwise/East (or opposite direction from Sister's current position)
-   - *Reveals:* Both Brother and Sister's shadows next positions (they're opposite each other).
+   - *Answer:* Clockwise (or next compass positions for both)
+   - *Reveals:* Both Brother and Sister's shadows next positions (they start opposite: Brother at South, Sister at West).
 
 **Shouted Riddles (requires Amplifying Stone, information shared with all):**
 
@@ -133,7 +133,7 @@ Instead of (or in addition to) the Arcana check, the arena's announcer or mystic
 ## Hazards and Environment
 - **Sunlight Damage:** Constant threat; positioning is survival.
 - **Shadow Overlap:** Father's large shadow (40-foot) frequently overlaps with smaller shadows, creating tactical safe zones.
-- **Focal Point Convergence:** Every 4 rounds, all shadows converge in a 50-foot zone—both PCs and enemies race for this sanctuary.
+- **Focal Point Convergence:** Every 4 rounds, all shadows converge at the arena center in a 50-foot zone—both PCs and enemies race for this sanctuary.
 - **Amplifying Stones:** 3 scattered stones (DC 12 Perception); using one reveals information to enemies too—tactical risk.
 - **Heat Metal:** Salamanders force PCs to drop weapons/armor or suffer ongoing damage in addition to sunlight.
 - **Wall of Fire:** Efreeti blocks escape routes; Dex save DC 16 or take 5d8 fire damage crossing.
