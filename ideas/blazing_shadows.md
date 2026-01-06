@@ -29,7 +29,55 @@ created: 2025-11-24
 ## Shadow Tracking
 - GM marks shadow positions at start of each round (or uses tokens/templates on battle map).
 - PCs can predict shadow movement with Intelligence (Arcana) check DC 12 to know where shadows will be next round.
+- **Alternative: Shadow Riddles** (see below for dramatic prediction mechanic).
 - Movement between shadows requires careful planning—too slow and you burn.
+
+## Shadow Riddles (Optional Mechanic)
+Instead of (or in addition to) the Arcana check, the arena's announcer or mystical voice can pose riddles to the combatants. Solving a riddle correctly grants perfect knowledge of where ONE specific moon-stone's shadow will move on the next round. This adds theatrical flair and rewards clever thinking.
+
+**Riddle Mechanic:**
+- At initiative count 20 (when shadows move), any PC can attempt to solve a riddle as a bonus action.
+- GM poses one riddle from the list below (or creates a new one).
+- Correct answer reveals exactly where one moon-stone's shadow will be next round.
+- Each riddle can only be used once per encounter.
+- Wrong answers grant no information but don't waste the attempt.
+
+**Sample Riddles:**
+1. **"I follow behind you by day, but vanish when clouds come to play. What am I?"**
+   - *Answer:* A shadow (or your shadow)
+   - *Reveals:* The moon-stone directly behind the party's current position will cast its shadow 30 feet clockwise.
+
+2. **"Four sisters dance in circles round, their dark daughters touch the ground. The eldest leads, the youngest trails. Which daughter will save you when the sun assails?"**
+   - *Answer:* The first/eldest (or the leading moon-stone's shadow)
+   - *Reveals:* The frontmost moon-stone in the rotation will cast its shadow in the direction of movement.
+
+3. **"Light and dark are partners bound, one flees while one pursues around. If darkness moves where light has been, where will safety next be seen?"**
+   - *Answer:* Where the light currently is (or following the current sunlight/clockwise)
+   - *Reveals:* Shadows move into areas currently in sunlight, rotating clockwise.
+
+4. **"The sphere that rides highest catches first the flame, its child below seeks refuge just the same. Name the direction, win the game."**
+   - *Answer:* Clockwise/sunwise/right (depending on orientation)
+   - *Reveals:* All shadows move 30 feet clockwise from current positions.
+
+5. **"Three moons you see, but four there be. The hidden one casts shadows three. Count the dark spots, find the ghost—which shadow comes from nowhere's host?"**
+   - *Answer:* None/trick question (only 4 moon-stones, each casts 1 shadow) OR the overlapping shadow
+   - *Reveals:* Shows where two shadows will overlap next round, creating a larger safe zone.
+
+6. **"When fire above and dancers high complete their turn beneath the sky, the shadow you seek won't stay or flee—it moves the distance of how many of thee?"**
+   - *Answer:* One (30 feet, roughly one creature's dash distance)
+   - *Reveals:* Exact distance shadows move (30 feet) and confirms clockwise direction.
+
+7. **"The sun's eye never blinks or turns, yet what it sees still shifts and burns. To know your haven one step hence, look where darkness is most dense."**
+   - *Answer:* Where shadows overlap/the darkest spot
+   - *Reveals:* Shows the position where shadows will overlap next round.
+
+**GM Tips for Riddles:**
+- Present riddles in dramatic announcer voice or as mystical whispers from the moon-stones.
+- Accept creative answers that demonstrate understanding of the shadow mechanic.
+- For groups struggling, offer hints after one round: "The answer lies in what you've already seen!"
+- Reward especially clever or dramatic answers with +1 [[crowds_favor|Favor]].
+- Mix riddles with standard Arcana checks so players have multiple paths to prediction.
+- If players solve riddles too easily, the announcer can mock enemies: "Even the condemned know the dance better than you, Efreeti!"
 
 ## Enemies (heat-adapted hunters)
 - 3 Fire Elementals (CR 5 each; immune to fire, thrive in sunlight, actively push PCs into sun).
