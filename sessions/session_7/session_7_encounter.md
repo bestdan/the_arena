@@ -15,7 +15,7 @@ updated: 2026-01-06
 ## The Dance of Fire and Shadow
 
 **Party:** 5 PCs, level 4
-**Objective:** Defeat all fire-born enemies while surviving the Scorching Sun's deadly radiation. Use the moving shadows cast by four orbiting moon-stones to avoid constant fire damage.
+**Objective:** Defeat all fire-born enemies while surviving the Scorching Sun's deadly radiation. Use the moving shadows cast by three orbiting moon-stones to avoid constant fire damage.
 **Expected Outcome:** High-tension positional combat where prediction and planning matter more than raw damage. Multiple PC knockdowns expected, but deaths should feel heroic, not cheap.
 
 ---
@@ -33,13 +33,12 @@ Circular arena (120-foot diameter) with packed dirt floor. The defining feature 
 - Illuminates everything (no darkness/invisibility)
 - Source of environmental damage
 
-**Moon-Stones** (4 total, orbiting at 40 feet height)
+**Moon-Stones** (3 total, orbiting at 40 feet height)
 - **Father (North start):** Huge sphere (30-foot diameter), casts 40-foot diameter shadow
 - **Mother (East start):** Large sphere (20-foot diameter), casts 30-foot diameter shadow
-- **Brother (South start):** Small sphere (15-foot diameter), casts 20-foot diameter shadow
-- **Sister (West start):** Small sphere (15-foot diameter), casts 20-foot diameter shadow
-- Orbit clockwise around arena center at Initiative count 20
-- Move 30 feet per round (one compass position)
+- **Child (South start):** Medium sphere (18-foot diameter), casts 25-foot diameter shadow
+- Follow pre-programmed movement pattern at Initiative count 20 (see Movement Schedule below)
+- Movements appear random but follow specific pattern each round
 - Cannot be climbed, attacked, or interacted with
 
 **Arena Center** (Focal Point)
@@ -76,13 +75,32 @@ Circular arena (120-foot diameter) with packed dirt floor. The defining feature 
 
 **Shadow Movement:**
 - At Initiative count 20 (losing ties to other effects on 20)
-- All four moon-stones rotate 30 feet clockwise simultaneously
-- Use compass directions: N → NE → E → SE → S → SW → W → NW → N
+- All three moon-stones move to new positions following pre-programmed pattern
+- Movements appear random but follow specific schedule (see Movement Schedule below)
+- Use compass directions: N, NE, E, SE, S, SW, W, NW, CENTER
 - Shadows overlap occasionally (safe zones become larger)
 
+**Movement Schedule (Pre-Programmed Pattern):**
+
+| Round | Start Positions | End Positions | Notes |
+|-------|----------------|---------------|-------|
+| 1 | Father=N, Mother=E, Child=S | Father→NE, Mother→SE, Child→W | Initial spread |
+| 2 | Father=NE, Mother=SE, Child=W | Father→S, Mother→N, Child→NE | Cross-pattern |
+| 3 | Father=S, Mother=N, Child=NE | Father→W, Mother→NW, Child→E | Converging |
+| 4 | Father=W, Mother=NW, Child=E | **All→CENTER** | **FOCAL POINT** |
+| 5 | All at CENTER | Father→E, Mother→SW, Child→N | Dispersing |
+| 6 | Father=E, Mother=SW, Child=N | Father→NW, Mother→S, Child→SE | Spread pattern |
+| 7 | Father=NW, Mother=S, Child=SE | Father→SE, Mother→NE, Child→SW | Triangle rotation |
+| 8 | Father=SE, Mother=NE, Child=SW | **All→CENTER** | **FOCAL POINT** |
+| 9 | All at CENTER | Father→N, Mother→W, Child→E | Dispersing |
+| 10 | Father=N, Mother=W, Child=E | Father→SW, Mother→NE, Child→NW | Complex weave |
+| 11 | Father=SW, Mother=NE, Child=NW | Father→E, Mother→SE, Child→N | Converging |
+| 12 | Father=E, Mother=SE, Child=N | **All→CENTER** | **FOCAL POINT** |
+| 13+ | Pattern repeats from Round 5 onward | | Continues cycling |
+
 **Focal Point Convergence:**
-- Rounds 4, 8, 12, 16, etc.
-- All four shadows converge at arena center
+- Rounds 4, 8, 12, 16, etc. (every 4 rounds)
+- All three shadows converge at arena center
 - Creates 50-foot diameter zone of complete safety
 - Both PCs and enemies will fight for this position
 - Track countdown openly to build tension
@@ -107,25 +125,87 @@ Instead of (or in addition to) Intelligence (Arcana) checks to predict shadow mo
 - Each riddle can only be used once per encounter
 - Wrong answers grant no information but don't penalize
 
-**Two Types of Riddles:**
+**Round-Specific Riddles:**
 
-**Silent Riddles (5 total):**
-- Solver learns information privately (whisper or pass note)
-- Typical reveals: Specific moon-stone's next position, focal point timing, which shadows will overlap
-- Examples:
-  1. "I follow behind you by day, but vanish when clouds come to play. What am I?" → Father's next position
-  2. "The family gathers in shadow's embrace. Four become one in a darkened space. When next will this reunion take place?" → Focal point countdown
-  3. "Two small, one medium, one grand. Which casts the widest net on the sand?" → Father's current and next position
+Each riddle below corresponds to a specific round's movement. GM should pose these in order, or mix with generic riddles.
 
-**Shouted Riddles (5 total):**
-- Require Amplifying Stone (bonus action to use stone, then shout answer)
-- Information revealed to ALL combatants (PCs AND enemies)
-- Enemies react to shouted information (Fire Elementals race toward announced positions)
-- Tactical risk: Help allies but alert enemies
-- Examples:
-  1. "NORTH! SOUTH! EAST! WEST! Which direction serves you best?" → All shadows' next positions
-  2. "The eldest leads the family dance! Name the guardian's advance!" → Father's next position (must shout "FATHER MOVES [DIRECTION]!")
-  3. "When four paths cross and darkness grows, THE FOCAL POINT—where safety flows! Shout the count of rounds until convergence shows!" → Focal point countdown (must shout number)
+**Round 1 Riddle (Silent):**
+"From north to sun's first light, from east to sun's last sight, from south to moon's dark night. Where do they take flight?"
+- *Answer:* Northeast, Southeast, West (or describing the three movements)
+- *Reveals:* Father→NE, Mother→SE, Child→W
+
+**Round 2 Riddle (Shouted):**
+"The giant falls to sunset's gate! The matron rises to dawn's fate! The young one climbs where sun and moon both wait! SHOUT their paths before too late!"
+- *Answer to shout:* "FATHER SOUTH! MOTHER NORTH! CHILD NORTHEAST!" (or describing movements)
+- *Reveals to all:* Father→S, Mother→N, Child→NE
+
+**Round 3 Riddle (Silent):**
+"When the eldest seeks the west wind's call, and mother chases sunset's fall, the child runs east where shadows sprawl. Name where each shall be, and tell it all."
+- *Answer:* West, Northwest, East
+- *Reveals:* Father→W, Mother→NW, Child→E
+
+**Round 4 Riddle (Shouted):**
+"THREE PATHS CONVERGE WHERE DARKNESS GROWS! The family reunites where safety flows! Shout the word that every warrior knows!"
+- *Answer to shout:* "CENTER!" or "FOCAL POINT!" or "NOW!"
+- *Reveals to all:* All shadows converge at arena center (Focal Point)
+
+**Round 5 Riddle (Silent):**
+"After unity comes the scatter. Father seeks dawn, Mother dusk, Child midnight. Three shadows shatter."
+- *Answer:* East, Southwest, North
+- *Reveals:* Father→E, Mother→SW, Child→N
+
+**Round 6 Riddle (Shouted):**
+"The giant strides to shadow's corner where night meets north! Mother holds the southern edge! The child guards where sun and earth are fourth! SHOUT WHERE THEY PLEDGE!"
+- *Answer to shout:* "NORTHWEST! SOUTH! SOUTHEAST!" (or describing positions)
+- *Reveals to all:* Father→NW, Mother→S, Child→SE
+
+**Round 7 Riddle (Silent):**
+"A triangle of three: The strongest seeks where sun descends and south meets east. The gentlest finds where dawn begins and north seeks feast. The youngest flies where west meets south, at least."
+- *Answer:* Southeast, Northeast, Southwest
+- *Reveals:* Father→SE, Mother→NE, Child→SW
+
+**Round 8 Riddle (Shouted):**
+"AGAIN THE DANCE COMPLETES ITS TURN! Three become one where shadows yearn! Shout the count until they meet and converge and burn!"
+- *Answer to shout:* "CENTER!" or "NOW!" or "FOCAL POINT!"
+- *Reveals to all:* All shadows converge at center again (Focal Point)
+
+**Round 9 Riddle (Silent):**
+"From the heart, three paths diverge: north pole, west wind, eastern surge."
+- *Answer:* North, West, East
+- *Reveals:* Father→N, Mother→W, Child→E
+
+**Round 10 Riddle (Shouted):**
+"FATHER FALLS TO SUNSET'S EMBRACE! MOTHER CLIMBS TO SUNRISE'S GRACE! THE CHILD FINDS SHADOW'S NORTHERN SPACE! SHOUT THEIR RACE!"
+- *Answer to shout:* "SOUTHWEST! NORTHEAST! NORTHWEST!" (or similar)
+- *Reveals to all:* Father→SW, Mother→NE, Child→NW
+
+**Generic Silent Riddles (use any round):**
+
+1. "I follow behind you by day, but vanish when clouds come to play. What am I?"
+   - *Answer:* A shadow
+   - *Reveals:* Current positions of all three shadows (GM chooses one to reveal next position)
+
+2. "Three dancers waltz in patterned time. Which casts the widest net sublime?"
+   - *Answer:* Father (or the largest/Huge)
+   - *Reveals:* Father's shadow (40-foot diameter) current and next position
+
+3. "The family gathers in shadow's embrace. Three become one in a darkened space. When next will this reunion take place?"
+   - *Answer:* Number of rounds until next focal point (count from current round)
+   - *Reveals:* Exactly when all three shadows will converge at the focal point
+
+**Generic Shouted Riddles (use any round):**
+
+1. "THE ELDEST LEADS THE FAMILY DANCE! Name the guardian's advance!"
+   - *Answer to shout:* "FATHER MOVES [DIRECTION]!" (current round's Father movement)
+   - *Reveals to all:* Father's next position
+
+2. "THE MOTHER'S GRACE SHIFTS LIKE THE TIDE! Where does her shadow slide?"
+   - *Answer to shout:* "[DIRECTION]!" (current round's Mother movement)
+   - *Reveals to all:* Mother's next position
+
+3. "THE CHILD RUNS SWIFT ON DANCING FEET! Shout where the smallest shadow meets!"
+   - *Answer to shout:* "[DIRECTION]!" (current round's Child movement)
+   - *Reveals to all:* Child's next position
 
 **Alternative: Arcana Check:**
 - Action to study shadow movement
@@ -530,17 +610,17 @@ Individual PC achievements:
 > 
 > [The crowd roars]
 > 
-> "Five gladiators! One burning sun! Four moon-stones casting the only sanctuary!"
+> "Five gladiators! One burning sun! Three moon-stones casting the only sanctuary!"
 > 
 > [The Scorching Sun pulses brighter]
 > 
-> "Behold the family: FATHER, MOTHER, BROTHER, and SISTER! Their shadows dance clockwise, turning every moment! Chase them—or BURN!"
+> "Behold the family: FATHER, MOTHER, and CHILD! Their shadows dance in mystery, shifting in patterns only the wise can foresee! Chase them—or BURN!"
 
 ### First Sunlight Damage
 > "FLESH SIZZLES! Smoke rises from [PC name]! The sun shows NO MERCY! Will they retreat to shadow—or burn like the heroes they claim to be?!"
 
 ### Shadow Chase (Round 2-3)
-> "The moon-stones TURN! Father's shadow sweeps EAST! The shadows shift! RUN! Run or feel the sun's WRATH!"
+> "The moon-stones SHIFT! Father's shadow leaps to unexpected ground! The shadows move in hidden patterns! RUN! Run or feel the sun's WRATH!"
 
 ### First Amplifying Stone Used
 > "THEY'VE FOUND THE STONE! Listen—the answer ECHOES through the arena! The [PC name] shouts '[answer]'—even the flames hear their secret now!"
@@ -555,7 +635,7 @@ Individual PC achievements:
 > "The Salamander screams! It thought itself master of flame—but the sun knows NO MASTER! Even fire bows to the Scorching Sun!"
 
 ### Riddle Solved Dramatically
-> "Brilliant! The gladiator shouts 'SOUTH!' and Sister's shadow reveals her path! The crowd ROARS! The enemies know the secret now—will they reach it first?!"
+> "Brilliant! The gladiator shouts 'NORTHEAST!' and Mother's shadow reveals her path! The crowd ROARS! The enemies know the secret now—will they reach it first?!"
 
 ### Creative Kill
 > "ICE MEETS INFERNO! The Efreeti's eyes widen—impossible! Frozen death through pure flame! The crowd goes MAD with delight!"
@@ -568,12 +648,12 @@ Individual PC achievements:
 ## GM Tips
 
 ### Shadow Tracking Setup
-- Use 4 different sized tokens/templates on battle map
-- Mark compass directions clearly (N/NE/E/SE/S/SW/W/NW)
+- Use 3 different sized tokens/templates on battle map
+- Mark compass directions clearly (N/NE/E/SE/S/SW/W/NW plus CENTER)
+- **Keep Movement Schedule visible** to GM (reference table from above)
 - Track focal point countdown openly (write on board: "Convergence in 2 rounds")
-- Move shadows simultaneously at Initiative 20 (announce: "The moon-stones TURN!")
-
-### Narrating Environmental Damage
+- Move shadows simultaneously at Initiative 20 (announce: "The moon-stones SHIFT!")
+- Emphasize the unpredictable pattern—it's not simple clockwise### Narrating Environmental Damage
 Make sunlight damage feel threatening:
 - "Your exposed skin blisters instantly"
 - "The metal of your armor becomes almost too hot to touch"
@@ -595,10 +675,11 @@ Make sunlight damage feel threatening:
 
 ### Pacing
 - Keep rounds moving (use timer between rounds)
-- Skip trivial movement ("You dash to Sister's shadow—you make it, next?")
+- Skip trivial movement ("You dash to Child's shadow—you make it, next?")
 - Pose riddles during enemy turns (keeps PCs engaged)
 - Use announcer beats every 2-3 rounds (break up combat)
 - Build tension before focal points (count down last 3 rounds)
+- **Emphasize the mystery** of shadow movement—PCs don't know the pattern without solving riddles
 
 ### Handling PC Deaths
 - Sunlight + damage can cause quick knockdowns

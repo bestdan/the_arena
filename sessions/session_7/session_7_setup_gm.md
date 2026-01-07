@@ -26,11 +26,12 @@ updated: 2026-01-06
 - Exhaustion conditions and effects
 
 **Key Resources:**
-- Shadow tracking tokens (4 different sizes for Father/Mother/Brother/Sister)
-- Compass direction markers (N/NE/E/SE/S/SW/W/NW on battle map)
+- Shadow tracking tokens (3 different sizes for Father/Mother/Child)
+- Compass direction markers (N/NE/E/SE/S/SW/W/NW plus CENTER on battle map)
+- **Movement Schedule reference** (keep the pre-programmed pattern table handy)
 - Focal point cycle tracker (mark rounds 4, 8, 12, etc.)
 - Amplifying Stone tokens (3 total, DC 12 Perception)
-- Riddle reference cards (10 riddles ready)
+- Round-specific riddle reference cards
 - Round counter (visible to players for tension)
 - Initiative tracker with shadow movement at count 20
 
@@ -103,7 +104,7 @@ The riddles should be delivered in an otherworldly, echoing voice—not the anno
 
 ### Pre-Combat (Round 0)
 - PCs enter arena, see Scorching Sun overhead
-- Four moon-stones visible at North, East, South, West positions
+- Three moon-stones visible at North, East, South positions
 - Enemies enter from opposite gate
 - Announcer delivers opening speech
 - **First mystical riddle posed BEFORE initiative**
@@ -125,9 +126,9 @@ The riddles should be delivered in an otherworldly, echoing voice—not the anno
 - Mephits advance toward PC clusters
 
 **Shadow Movement Pattern (Rounds 1-3):**
-- Round 1: Father→NE, Mother→SE, Brother→SW, Sister→NW (30 feet clockwise each)
-- Round 2: Father→E, Mother→S, Brother→W, Sister→N
-- Round 3: Father→SE, Mother→SW, Brother→NW, Sister→NE
+- Round 1: Father(N)→NE, Mother(E)→SE, Child(S)→W
+- Round 2: Father(NE)→S, Mother(SE)→N, Child(W)→NE  
+- Round 3: Father(S)→W, Mother(N)→NW, Child(NE)→E
 
 **GM Focus:**
 - Narrate heat viscerally on first sunlight damage
@@ -146,9 +147,9 @@ The riddles should be delivered in an otherworldly, echoing voice—not the anno
 
 **Shadow Movement Pattern (Rounds 4-7):**
 - Round 4: ALL at CENTER (convergence)
-- Round 5: Father→S, Mother→W, Brother→N, Sister→E (dispersing)
-- Round 6: Father→SW, Mother→NW, Brother→NE, Sister→SE
-- Round 7: Father→W, Mother→N, Brother→E, Sister→S
+- Round 5: Father→E, Mother→SW, Child→N (dispersing)
+- Round 6: Father→NW, Mother→S, Child→SE
+- Round 7: Father→SE, Mother→NE, Child→SW
 
 **GM Focus:**
 - Build tension before Round 4: "One more round until CONVERGENCE!"
@@ -177,21 +178,24 @@ The riddles should be delivered in an otherworldly, echoing voice—not the anno
 ## Shadow Tracking System
 
 ### Physical Setup
-Use 4 different sized tokens:
+Use 3 different sized tokens:
 - **Father:** Large token (40ft shadow template or marker)
 - **Mother:** Medium token (30ft shadow template)
-- **Brother:** Small token (20ft shadow template)
-- **Sister:** Small token (20ft shadow template)
+- **Child:** Medium-small token (25ft shadow template)
 
-Mark compass directions clearly on battle map: N, NE, E, SE, S, SW, W, NW
+Mark compass directions clearly on battle map: N, NE, E, SE, S, SW, W, NW, plus CENTER
+
+**Keep Movement Schedule handy** - reference the pre-programmed pattern from the encounter document
 
 ### Movement Tracking
 At initiative count 20 each round:
-1. Announce: "The moon-stones turn!"
-2. Move each token 30 feet clockwise (one compass position)
-3. Update shadow positions on map
-4. Ask if anyone's caught in sunlight now
-5. Resolve sunlight damage for those starting turns in sun
+1. Announce: "The moon-stones SHIFT!"
+2. Consult Movement Schedule for current round
+3. Move each token to new position as specified in pattern
+4. Update shadow positions on map
+5. Ask if anyone's caught in sunlight now
+6. Resolve sunlight damage for those starting turns in sun
+7. **Emphasize the unpredictable pattern** - it's not simple clockwise
 
 ### Focal Point Cycle
 Track openly:
@@ -217,8 +221,9 @@ Track openly:
 2. Any PC can attempt to solve as bonus action
 3. PC states their answer out loud (at table)
 4. GM judges if answer is correct or reasonably close
-5. If correct: Reveal shadow movement information
+5. If correct: Reveal shadow movement information **from Movement Schedule**
 6. If shouted riddle: Enemies also benefit from information
+7. **Use round-specific riddles when appropriate** (see encounter document)
 
 **Acceptance Criteria:**
 - Exact answers always work
@@ -230,12 +235,12 @@ Track openly:
 - Shouted riddles: State loudly for all (including enemies)
 
 ### Sample Riddle Sequence
-1. **Round 1 (Silent):** "I follow behind you by day..." → Reveals Father's next position
-2. **Round 2 (Shouted):** "NORTH! SOUTH! EAST! WEST!..." → PC shouts "EAST!" revealing all shadows move clockwise
-3. **Round 3 (Silent):** "The family gathers in shadow's embrace..." → Reveals convergence timing (1 round away)
-4. **Round 5 (Silent):** "Light and dark are partners bound..." → Reveals Mother's next position
-5. **Round 6 (Shouted):** "The eldest leads the family dance!..." → PC shouts "FATHER MOVES NORTH!" revealing Father
-6. **Round 8 (Shouted):** "When four paths cross and darkness grows..." → PC shouts "NOW!" revealing convergence
+Use round-specific riddles from encounter document when possible:
+1. **Round 1 (Silent):** "From north to sun's first light..." → Reveals Round 1 movements (Father→NE, Mother→SE, Child→W)
+2. **Round 2 (Shouted):** "The giant falls to sunset's gate!..." → PC shouts movements for Round 2
+3. **Round 3 (Silent):** "When the eldest seeks the west wind's call..." → Reveals Round 3 movements
+4. **Round 4 (Shouted):** "THREE PATHS CONVERGE..." → PC shouts "CENTER!" revealing focal point
+5. **Round 5+ (Generic):** Use generic riddles as needed, revealing information from Movement Schedule
 
 ---
 
@@ -439,7 +444,7 @@ Keep public tally:
 - **Use round timer:** Count down between rounds to maintain urgency
 - **Pose riddles during enemy turns:** Keeps PCs engaged
 - **Describe shadow movement dramatically:** "Father's shadow sweeps EAST!"
-- **Skip trivial movement:** "You dash 30 feet to Sister's shadow—you make it. Next?"
+- **Skip trivial movement:** "You dash 30 feet to Child's shadow—you make it. Next?"
 - **Use announcer beats:** Every 2-3 rounds for excitement
 - **Track focal point countdown openly:** Creates anticipation
 

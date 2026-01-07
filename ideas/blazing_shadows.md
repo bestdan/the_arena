@@ -16,13 +16,12 @@ created: 2025-11-24
 ## Arena Layout
 - Circular arena (120-foot diameter) with packed dirt floor.
 - **The Scorching Sun:** Magical orb suspended 80 feet overhead radiates intense heat and light.
-- **Moon-Stones:** 4 floating spheres of varying sizes orbit slowly around the arena at 40-foot height:
+- **Moon-Stones:** 3 floating spheres of varying sizes orbit slowly around the arena at 40-foot height:
   - **Father (Huge):** 30-foot diameter sphere, casts 40-foot diameter shadow, starts at North position
   - **Mother (Large):** 20-foot diameter sphere, casts 30-foot diameter shadow, starts at East position
-  - **Brother (Small):** 15-foot diameter sphere, casts 20-foot diameter shadow, starts at South position
-  - **Sister (Small):** 15-foot diameter sphere, casts 20-foot diameter shadow, starts at West position
-- **Shadow Movement:** At initiative count 20 (losing ties), all moon-stones rotate 30 feet clockwise around the arena center. Shadows move with them. Use compass directions to track positions (North, East, South, West, and intermediary positions).
-- **Shadow Coverage:** Shadows overlap occasionally. Every 4 rounds, all four shadows converge at the arena center focal point, creating a 50-foot diameter zone of complete shadow safety.
+  - **Child (Medium):** 18-foot diameter sphere, casts 25-foot diameter shadow, starts at South position
+- **Shadow Movement:** At initiative count 20 (losing ties), all moon-stones move to new positions following a pre-programmed pattern that appears random. Shadows move with them. Use compass directions to track positions (North, East, South, West, and intermediary positions, plus CENTER).
+- **Shadow Coverage:** Shadows overlap occasionally. Every 4 rounds, all three shadows converge at the arena center focal point, creating a 50-foot diameter zone of complete shadow safety.
 
 ## Burning Sun Mechanic
 - **Sunlight Damage:** Any creature starting its turn in direct sunlight takes 2d6 fire damage (no save).
@@ -31,12 +30,13 @@ created: 2025-11-24
 - **Heat Exhaustion:** After 5 rounds in direct sunlight (cumulative, not consecutive), creature gains 1 level of exhaustion (max 2 from this effect).
 
 ## Shadow Tracking
-- GM marks shadow positions at start of each round using compass directions (N, NE, E, SE, S, SW, W, NW).
-- Use distinct tokens for Father (largest), Mother (medium), Brother & Sister (smallest) to track positions.
+- GM marks shadow positions at start of each round using compass directions (N, NE, E, SE, S, SW, W, NW, CENTER).
+- Use distinct tokens for Father (largest), Mother (medium), Child (medium-small) to track positions.
 - PCs can predict shadow movement with Intelligence (Arcana) check DC 12 to know where one specific shadow will be next round.
 - **Alternative: Shadow Riddles** (see below for dramatic prediction mechanic).
 - Movement between shadows requires careful planning—too slow and you burn.
 - **Focal Point Convergence:** Every 4 rounds, all shadows meet at the arena center. Track this cycle clearly.
+- **Pattern appears random but follows pre-programmed sequence** - riddles help reveal the pattern
 
 ## Shadow Riddles (Optional Mechanic)
 Instead of (or in addition to) the Arcana check, the arena's announcer or mystical voice can pose riddles to the combatants. Solving a riddle correctly grants perfect knowledge of where ONE specific moon-stone's shadow will move on the next round. This adds theatrical flair and rewards clever thinking.
@@ -57,11 +57,11 @@ Instead of (or in addition to) the Arcana check, the arena's announcer or mystic
    - *Answer:* A shadow (or your shadow)
    - *Reveals:* Father's shadow will move from North toward East (clockwise 30 feet).
 
-2. **"The family gathers in shadow's embrace. Four become one in a darkened space. When next will this reunion take place?"**
+2. **"The family gathers in shadow's embrace. Three become one in a darkened space. When next will this reunion take place?"**
    - *Answer:* A number (e.g., "3" or "1" or "Now")
-   - *Reveals:* Exactly when all four shadows will converge at the focal point (every 4 rounds).
+   - *Reveals:* Exactly when all three shadows will converge at the focal point (every 4 rounds).
 
-3. **"Two small, one medium, one grand. Which casts the widest net on the sand?"**
+3. **"Three dancers waltz, one casts widest. Which shadow offers the grandest sanctuary?"**
    - *Answer:* Father (or the largest/Huge)
    - *Reveals:* Father's shadow (40-foot diameter) current and next position.
 
@@ -69,9 +69,9 @@ Instead of (or in addition to) the Arcana check, the arena's announcer or mystic
    - *Answer:* East (or the next compass position clockwise from her current position)
    - *Reveals:* Mother's shadow moves 30 feet clockwise from current position.
 
-5. **"Brother and Sister run as one, their shadows flee the burning sun. Together they move, their path is clear—where will their darkness next appear?"**
-   - *Answer:* Clockwise (or next compass positions for both)
-   - *Reveals:* Both Brother and Sister's shadows next positions (they start opposite: Brother at South, Sister at West).
+5. **"The youngest runs on dancing feet, swift and small where shadows meet. Name the child's destination sweet!"**
+   - *Answer:* Compass direction or next position
+   - *Reveals:* Child's shadow next position.
 
 **Shouted Riddles (requires Amplifying Stone, information shared with all):**
 
@@ -83,13 +83,13 @@ Instead of (or in addition to) the Arcana check, the arena's announcer or mystic
    - *Answer to shout:* "FATHER!" followed by direction (e.g., "FATHER MOVES EAST!")
    - *Reveals to all:* Father's shadow next position. Enemy fire elementals may contest for Father's large shadow.
 
-8. **"When four paths cross and darkness grows, THE FOCAL POINT—where safety flows! Shout the count of rounds until convergence shows!"**
+8. **"When three paths cross and darkness grows, THE FOCAL POINT—where safety flows! Shout the count of rounds until convergence shows!"**
    - *Answer to shout:* "[Number]!" (e.g., "THREE!" or "NOW!")
    - *Reveals to all:* Rounds until focal point convergence. Allies and enemies both rush toward the position.
 
-9. **"Sister's shade moves swift and small! Name her destination—shout it to all!"**
+9. **"THE CHILD'S SHADOW LEAPS AND BOUNDS! Name where the smallest refuge grounds!"**
    - *Answer to shout:* [Cardinal/intermediary direction] (e.g., "NORTHWEST!" or "SOUTH!")
-   - *Reveals to all:* Sister's shadow next position. Information aids everyone in combat.
+   - *Reveals to all:* Child's shadow next position. Information aids everyone in combat.
 
 10. **"The sphere that rides highest catches first the flame! Shout its direction—win the game!"**
     - *Answer to shout:* [Direction] (e.g., "CLOCKWISE!" or "EAST!")
@@ -140,22 +140,23 @@ Instead of (or in addition to) the Arcana check, the arena's announcer or mystic
 - **Exhaustion:** Prolonged sun exposure weakens PCs (disadvantage on checks, reduced speed).
 
 ## Announcer Beats
-- Opening: "The sun rises over Tarsus! But this is no gentle dawn—this is the BLAZING JUDGMENT! Watch as Father, Mother, Brother, and Sister dance their deadly circle! Dance with the shadows or BURN!"
+- Opening: "The sun rises over Tarsus! But this is no gentle dawn—this is the BLAZING JUDGMENT! Watch as Father, Mother, and Child dance their mysterious circle! Chase them—or BURN!"
 - First sunlight damage: "Flesh sizzles! Smoke rises! The gladiator stumbles into the light—WILL THEY RETREAT?!"
 - Shadow chase: "Father's shadow moves EAST! The moons turn! Run! RUN! The sun shows no mercy!"
 - First Amplifying Stone used: "They've found the stone! The answer ECHOES through the arena! Even the Efreeti hears their secret!"
 - Focal point warning: "Two rounds until CONVERGENCE! All shadows become ONE! Will they reach the sanctuary?!"
 - Focal point convergence: "THERE! The family reunites! Darkness devours the light! Fight for the FOCAL POINT!"
 - Enemy dragged into sunlight: "The Salamander screams! Its own element betrays—NO! It thrives! But the human BURNS!"
-- Riddle solved dramatically: "The gladiator shouts 'SOUTH!' and Sister's shadow reveals her path! The crowd knows the secret now!"
+- Riddle solved dramatically: "The gladiator shouts 'NORTHEAST!' and Mother's shadow reveals her path! The crowd knows the secret now!"
 - Creative kill: "FROZEN BLADE THROUGH FLAME! The Efreeti's eyes widen—impossible! The crowd ROARS!"
 - Victory: "They stand in Father's shadow, triumphant! The sun sets on their enemies! Tarsus has witnessed the dance of survival!"
 
 ## GM Tips
 - Use physical templates or tokens to show shadow positions clearly with compass directions marked on the map.
-- **Use different sized tokens** for Father (largest), Mother (medium), Brother & Sister (smallest) to make tracking intuitive.
+- **Use different sized tokens** for Father (largest), Mother (medium), Child (medium-small) to make tracking intuitive.
 - Give PCs one free "shadow position prediction" at start of combat to help them understand the mechanic.
 - **Track the focal point cycle visibly**—count down rounds until convergence to build tension.
+- **Keep Movement Pattern reference** handy - the pattern is pre-programmed, not simple clockwise
 - Place 3 Amplifying Stones in visible but risky positions (in sunlight or near enemies).
 - Narrate heat viscerally: "Your skin blisters," "The air shimmers with killing heat," "Your hair singes."
 - When PCs use Amplifying Stones, have enemies react immediately: "The Efreeti turns its head at your shout!"
