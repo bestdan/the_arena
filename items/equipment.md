@@ -22,31 +22,50 @@ Everything you carry into a match is **standard issue** or **purchased** from Sn
 Every gladiator receives baseline equipment before each match. Choose within these limits:
 
 ### Weapons
-Pick any combination you're proficient in, **up to 50 gp total value**:
 
-**Common Choices:** 
+#### Simple Weapons (Always Free)
+Any **Simple** weapons you're proficient in are provided at **no cost**:
 
-- Longsword (15 gp) + Shield (10 gp) = 25 gp ✓
-- Greatsword (50 gp) = 50 gp ✓
-- Rapier (25 gp) + Dagger (2 gp) = 27 gp ✓
-- Light Crossbow (25 gp) + Shortsword (10 gp) = 35 gp ✓
-- Two Shortswords (10 gp each) = 20 gp ✓
-- Quarterstaff (2 sp) + component pouch = ✓
+**Simple Melee:**
+- Club, Dagger, Greatclub, Handaxe, Javelin, Light Hammer, Mace, Quarterstaff, Sickle, Spear
 
-**Requires Purchasing:**
+**Simple Ranged:**
+- Light Crossbow, Dart, Shortbow, Sling
 
-- Heavy Crossbow (50 gp alone, no backup weapon)
-- Lance (10 gp, but Arena doesn't usually issue them)
-- Nets (1 gp, but considered "specialty"; buy from Black Market)
-- Whips (2 gp, but considered "specialty"; buy from Black Market)
+**Free Combinations:**
+- Quarterstaff + Shield = Free ✓
+- Spear + Shield = Free ✓
+- Dagger + Sling = Free ✓
+- Light Crossbow + Dagger = Free ✓
+
+#### Martial Weapons (Require Payment)
+**Martial** weapons must be purchased or earned. The Arena charges **double standard cost** for Martial weapons per bout:
+
+**Martial Melee:**
+- Longsword (30 gp), Shortsword (20 gp), Rapier (50 gp), Greatsword (100 gp)
+- Battleaxe (20 gp), Greataxe (60 gp), Flail (20 gp), Glaive (40 gp)
+- Halberd (40 gp), Lance (20 gp), Maul (20 gp), Morningstar (30 gp)
+- Pike (10 gp), Scimitar (50 gp), Trident (10 gp), War Pick (10 gp), Warhammer (30 gp)
+
+**Martial Ranged:**
+- Heavy Crossbow (100 gp), Hand Crossbow (150 gp), Longbow (100 gp)
+
+**Specialty (Purchase from Black Market):**
+- Nets, Whips, Blowguns - not standard Arena issue
+
+**Example Martial Loadouts (Must Purchase):**
+- Longsword (30 gp) + Shield (10 gp) = 40 gp
+- Greatsword (100 gp) = 100 gp
+- Rapier (50 gp) = 50 gp
+- Two Shortswords (20 gp each) = 40 gp
 
 ### Ammunition
 
 - **Standard arrows or bolts** are unlimited
 - **Specialty ammunition** (barbed, marked, etc.) must be purchased/given and are limited
 
-### Armor
-Pick **one armor type you're proficient in** up to 50GP without paying extra.
+### Armor & Shields
+Pick **one armor type you're proficient in** up to 50 gp value without paying extra. Shields (10 gp) are included in this allowance.
 
 **Light Armor:**
 
@@ -129,7 +148,8 @@ Eventually, successful gladiators may earn the privilege of personal armories. T
 ## Combat Clarifications
 
 ### Broken Equipment
-- Standard issue weapons/armor that break are replaced next bout
+- **Simple weapons** that break are replaced next bout at no cost
+- **Martial weapons** (purchased) that break are **gone unless repaired**
 - Purchased/gifted items that break are **gone unless repaired**
 - Black Market offers "Risky Weapon Sharpening" and similar services
 
@@ -143,11 +163,13 @@ If an enemy drops a better weapon and you have a free hand:
 
 ## Philosophy
 
-The Arena wants **good fights**, not fair ones. Standard issue ensures every gladiator can fight effectively, but scarcity creates:
-- **Tactical choices** - Do you save gold for healing potions or upgrade armor?
-- **Risk/reward** - Do you use that expensive consumable now or save it?
+The Arena wants **good fights**, not fair ones. All gladiators can access Simple weapons freely to ensure basic combat capability, but Martial weapons carry premium fees—forcing tactical choices:
+
+- **Resource Management** - Save gold for Martial weapon upgrades, healing potions, or better armor?
+- **Build Diversity** - Simple weapon users save gold; Martial weapon specialists pay for power
+- **Risk/reward** - Using expensive consumables or premium weapons creates tension
 - **Drama** - Looting an enemy's flaming sword mid-fight is pure spectacle
-- **Progression** - Premium gear feels earned, not given
+- **Progression** - Premium Martial weapons and magic items feel earned, not given
 
 You're not adventurers with backpacks full of rope and rations. You're gladiators. Every advantage is temporary, every victory costs something, and every piece of gear is a privilege, not a right.
 
