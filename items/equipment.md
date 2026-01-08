@@ -69,6 +69,7 @@ Pick **one armor type you're proficient in** up to 50GP without paying extra.
 - **NO Splint or Plate** - must be earned/gifted by patrons
 
 ### Essential Gear
+
 You automatically have basics that don't impact combat:
 - Waterskin
 - Component pouch (spellcasters)
@@ -82,6 +83,7 @@ You automatically have basics that don't impact combat:
 If your character build absolutely requires something not listed (thieves' tools for Rogue, musical instrument for Bard, etc.), you can request it from Arena quartermasters. They'll usually grant it if it's under 25 gp and non-combat.
 
 **Examples:**
+
 - Thieves' Tools (25 gp) - ✓ granted
 - Disguise Kit (25 gp) - ✓ granted
 - Healer's Kit (5 gp) - ✓ granted
@@ -97,10 +99,10 @@ If your character build absolutely requires something not listed (thieves' tools
 ### How to Get Better Equipment
 
 1. **Purchase from [[blackmarket|Black Market]]** - consumables, specialty ammo, protective gear
-2. **Purchase from [[Snak|Snak's Shop]]** - weird, situational, sometimes magical items
+2. **Purchase from [[Snak|Snak's Shop]]** - session-specific, weird, situational, sometimes magical items
 3. **Earn from Patrons** - wealthy benefactors may gift equipment after impressive performances
 4. **Crowd's Favor** - some Favor abilities grant temporary gear or weapons mid-fight
-5. **Loot the Fallen** - if the Arena Master allows it, you might claim an opponent's weapon for that bout only
+5. **Loot the Fallen** - you might claim an opponent's weapon for that bout only
 
 ### What Premium Gear Looks Like
 - **Plate Armor** (1,500 gp, AC 18) - patron gift or major reward
