@@ -39,25 +39,25 @@ Any **Simple** weapons you're proficient in are provided at **no cost**:
 - Light Crossbow + Dagger = Free ✓
 
 #### Martial Weapons (Require Payment)
-**Martial** weapons must be purchased or earned. The Arena charges **double standard cost** for Martial weapons per bout:
+**Martial** weapons must be purchased or earned. The Arena charges **1.5x standard cost** for Martial weapons per bout:
 
 **Martial Melee:**
-- Longsword (30 gp), Shortsword (20 gp), Rapier (50 gp), Greatsword (100 gp)
-- Battleaxe (20 gp), Greataxe (60 gp), Flail (20 gp), Glaive (40 gp)
-- Halberd (40 gp), Lance (20 gp), Maul (20 gp), Morningstar (30 gp)
-- Pike (10 gp), Scimitar (50 gp), Trident (10 gp), War Pick (10 gp), Warhammer (30 gp)
+- Longsword (23 gp), Shortsword (15 gp), Rapier (38 gp), Greatsword (75 gp)
+- Battleaxe (15 gp), Greataxe (45 gp), Flail (15 gp), Glaive (30 gp)
+- Halberd (30 gp), Lance (15 gp), Maul (15 gp), Morningstar (23 gp)
+- Pike (8 gp), Scimitar (38 gp), Trident (8 gp), War Pick (8 gp), Warhammer (23 gp)
 
 **Martial Ranged:**
-- Heavy Crossbow (100 gp), Hand Crossbow (150 gp), Longbow (100 gp)
+- Heavy Crossbow (75 gp), Hand Crossbow (113 gp), Longbow (75 gp)
 
 **Specialty (Purchase from Black Market):**
 - Nets, Whips, Blowguns - not standard Arena issue
 
 **Example Martial Loadouts (Must Purchase):**
-- Longsword (30 gp) + Shield (10 gp) = 40 gp
-- Greatsword (100 gp) = 100 gp
-- Rapier (50 gp) = 50 gp
-- Two Shortswords (20 gp each) = 40 gp
+- Longsword (23 gp) + Shield (10 gp) = 33 gp
+- Greatsword (75 gp) = 75 gp
+- Rapier (38 gp) = 38 gp
+- Two Shortswords (15 gp each) = 30 gp
 
 ### Ammunition
 
