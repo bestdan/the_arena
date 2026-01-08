@@ -3,9 +3,9 @@ tags: [arena, session-notes, session-5]
 session_number: {{Session Number}}
 party_level: {{Party Level}}
 status: planned
-visibility: public
-created: 
-updated: 
+visibility: private
+created:
+updated:
 ---
 
 # Session {{Session Number}} Notes: {{Session Name}}

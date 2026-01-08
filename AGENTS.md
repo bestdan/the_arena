@@ -6,6 +6,7 @@ created: 2025-11-21
 updated: 2025-11-23
 ---
 
+
 # AGENTS: The Arena
 
 LLM operators start here. Keep edits inside `The_Arena/`. Favor writing to Markdown files, linking with Obsidian wiki-link syntax, and preserving the campaign's theatrical, consequences-matter tone.
@@ -35,7 +36,7 @@ LLM operators start here. Keep edits inside `The_Arena/`. Favor writing to Markd
 ## Working Rules for All Agents
 - Stay in-universe: crowd reactions, announcer interludes, and consequences should show up in scenes.
 - Keep mechanics visible when they matter (Panache, Crowd’s Favor, Last Stand).
-- Default to concise prose; add minimal headings and bullets for clarity.
+- Default to concise prose; add minimal headings and bullets for clarity
 
 ## When to Use Claude Code Skill
 - Multi-file rewrites or structural edits (session flow, mechanics refactors, link audits).
