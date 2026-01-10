@@ -1,11 +1,17 @@
 ---
-tags: [arena, encounter-idea, stealth, survival, timed]
+tags:
+  - arena
+  - encounter-idea
+  - stealth
+  - survival
+  - timed
 encounter_type: mixed
-party_size: "4-6"
-level_range: "3-5"
+party_size: 4-6
+level_range: 3-5
 difficulty: hard
-mechanics: [crowds-favor]
-status: ready
+mechanics:
+  - crowds-favor
+status: completed
 created: 2025-11-21
 ---
 # Hide and Seek
