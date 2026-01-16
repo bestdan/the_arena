@@ -8,7 +8,7 @@ created: 2026-01-10
 updated: 2026-01-10
 ---
 
-# Session 8 Notes: The Burden Relay
+# Session 8 Notes: The Burden Shared
 
 ## Pre-Session Summary
 **Party Playing:** 
@@ -28,7 +28,7 @@ updated: 2026-01-10
 ## Session Objectives
 
 ### Primary Goal
-Transport Obelisk Shard from West Gate (0 feet) to East Gate (120 feet) while defending against continuous enemy waves.
+Transport Burden Stone from West Gate (0 feet) to East Gate (120 feet) while defending against continuous enemy waves.
 
 ### Secondary Goals
 - Execute clean swaps with no damage during handoffs
@@ -214,7 +214,7 @@ Transport Obelisk Shard from West Gate (0 feet) to East Gate (120 feet) while de
 
 ### Special Rewards
 - Relay Champion's Token: [Awarded to PC Name]
-- Obelisk Shard Fragment: [Cosmetic trophy distributed]
+- Burden Stone Fragment: [Cosmetic trophy distributed]
 
 ### Injuries/Conditions
 - 

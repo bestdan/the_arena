@@ -10,7 +10,7 @@ visibility: public
 
 ## Snak's Recommendations
 
-*"Burden Relay, eh? This isn't about killing fast—it's about surviving while half your team can't fight back. Let me show you what might keep the crystal intact and your carriers alive."*
+*"Burden Shared, eh? This isn't about killing fast—it's about surviving while half your team can't fight back. Let me show you what might keep the crystal intact and your carriers alive."*
 
 "Look, I'll be straight with you. This bout's about three things: **teamwork**, **endurance**, and **Shard protection**."
 
