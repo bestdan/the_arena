@@ -13,4 +13,4 @@ An ancient gladiatorial tradition returns—four champions must carry the Burden
 
 ## Session Files
 
-[Player Setup](session_8_setup_players.md) | [GM Setup](session_8_setup_gm.md) | [Encounter Details](session_8_encounter.md) | [Session Notes](session_8_notes.md)
+[Player Setup](session_8_setup_players.md)
