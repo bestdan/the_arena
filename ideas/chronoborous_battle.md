@@ -10,40 +10,41 @@ created: 2026-01-06
 ---
 # Chrono-boros
 
-- **Hook:** "PAST AND FUTURE COLLIDE!" The arena shifts between two time periods every 3 rounds—ancient battleground (past) and gleaming temporal sanctum (future). Two enemies locked in a temporal ouroboros: the mighty Temporal Knight travels backward through time to protect his younger, weaker mage-self in the Past, while the ascended Chrono-Mage in the Future creates and shields a young, inexperienced knight-self who serves him there. The crowd watches both timelines on arcane displays, placing bets on which era falls first.
+- **Hook:** "PAST AND FUTURE COLLIDE!" The arena shifts between two time periods every 3 rounds—ancient battleground (past) and gleaming temporal sanctum (future). Two enemies locked in a temporal ouroboros: the mighty Temporal Knight travels backward through time to protect the younger, weaker mage in the Past, while the ascended Chrono-Mage in the Future invests in and shields a young, inexperienced knight to protect him in the past. The crowd watches both timelines on arcane displays, placing bets on which era falls first.
 - **Party:** 5 PCs, level 5. Tests strategic thinking, temporal coordination, and exploiting asymmetric power dynamics across timelines.
 
 ## Opening Presentation
 - Before combat, arena chronomancer demonstrates the two timelines:
-  - **"Behold the ANCIENT PAST—where the knight's legend was forged 1,000 years ago!"** (war-torn battlefield, weapon racks, blood-stained stones)
-  - **"And the DISTANT FUTURE—where the mage ascends to temporal mastery!"** (pristine sanctum, floating crystals, arcane circles)
+  - **"Behold the PAST—where the knight dominates the field"** (war-torn battlefield, weapon racks, blood-stained stones)
+  - **"And the FUTURE—where the mage has ascended to temporal mastery!"** (pristine sanctum, floating crystals, arcane circles)
 - Two arcane hourglasses above arena show which timeline is active (sand flows through active one).
 - PCs learn rotation: Future → Past → Future, shifting every 3 rounds.
-- **CRITICAL:** "In the Future, the ASCENDED MAGE shields his young, untested knight-self! In the Past, the mighty KNIGHT protects his younger mage-self! A perfect ouroboros of temporal guardianship!"
-- **Puzzle Hint:** "Break the cycle by exploiting the weak when the strong cannot defend them!"
+- **CRITICAL:** "In the Future, the ASCENDED MAGE shields his young, untested knight! In the Past, the mighty KNIGHT protects his younger mage! A perfect ouroboros of temporal guardianship!"
 
-## Timeline Rotation (100-foot square, shifts every 3 rounds)
+
+## Timeline Rotation: shifts every 3 rounds
 
 ### Temporal Sanctum - The Future (Rounds 1-3, 7-9, 13-15)
-**"War-torn battlefield where the Knight earned his legend"**
-- **Terrain:** Blood-stained cobblestones (normal movement), cracked and broken in places (scattered difficult terrain patches).
-- **Weapon Racks:** Four old weapon racks at corners (contain rusted longswords, spears—can be grabbed as improvised weapons or toppled for half cover).
-- **War Banners:** Three tattered banners on 20-foot poles (Athletics DC 12 to climb, can be cut down to create 15-foot-radius obscurement).
-- **Ancient Braziers:** Two iron braziers with dying embers (bonus action to stoke—creates 10-foot bright light, can be tipped as action for 2d6 fire damage in 10-foot cone, DC 13 Dex save).
-- **Bloodstained Altar:** Central stone altar covered in old battle scars (provides full cover, can be used for Last Stand positioning).
-- **Temporal Note:** The "origin" timeline for the Knight—his power is strongest here.
-
-### Ancient Battleground - The Past (Rounds 4-6, 10-12, 16-18)
+The "destination" timeline for the Mage—his power is strongest here.
 **"Gleaming arcane chamber where the Mage achieved temporal mastery"**
 - **Terrain:** Smooth crystal floors (normal movement, pristine footing).
 - **Floating Crystals:** Six levitating temporal crystals orbiting the chamber at 10 feet height (AC 15, 20 HP each—if destroyed, explodes for 2d8 force damage in 10-foot radius, DC 14 Dex save).
-- **Arcane Circles:** Three glowing ritual circles etched into floor (15-foot diameter each—standing in one grants advantage on saves vs. time magic but disadvantage on weapon attacks).
+- **Arcane Circles:** Three glowing ritual circles etched into floor (15-foot diameter each. Standing in one grants advantage on saves vs. time magic but disadvantage on weapon attacks).
 - **Temporal Mirrors:** Four standing mirrors along walls (15 feet tall—can be shattered to create difficult terrain, or used to reflect spell effects with clever positioning).
 - **Central Orrery:** Massive clockwork device in center (20 feet across, provides full cover, constantly rotating—can be sabotaged with DC 15 Arcana check to impose disadvantage on mage's concentration checks for 1 minute).
-- **Temporal Note:** The "destination" timeline for the Mage—his power is strongest here.
+
+
+### Ancient Battleground - The Past (Rounds 4-6, 10-12, 16-18)
+The "origin" timeline for the Knight—his power is strongest here.
+**"War-torn battlefield where the Knight earned his legend"**
+- **Terrain:** Blood-stained cobblestones (normal movement), cracked and broken in places (scattered difficult terrain patches).
+- **Weapon Racks:** Four old weapon racks at corners (contain rusted longswords, spears—can be grabbed as improvised weapons or toppled for half cover).
+- **Ancient Braziers:** Two iron braziers with dying embers (bonus action to stoke—creates 10-foot bright light, can be tipped as action for 2d6 fire damage in 10-foot cone, DC 13 Dex save).
+- **Bloodstained Altar:** Central stone altar covered in old battle scars (provides full cover, can be used for Last Stand positioning).
+
 
 ## Temporal Shift Mechanic
-- **At Initiative Count 20, end of Round 3 (and every 3 rounds after):** Reality flickers—time shifts between Past and Future.
+- **At the end of Round 3 (and every 3 rounds after):** Reality flickers—time shifts between Past and Future.
 - **Warning:** At initiative 12 the round BEFORE shift, hourglass sand accelerates visibly—announcer shouts: "TIME SHIFTS! The [next era] approaches!"
 - **Positional Translation:**
   - Weapon rack (Past) ↔ floating crystal (Future) — similar corner positions
@@ -148,24 +149,6 @@ If the encounter reaches Round 8 or later, lair actions escalate in power. Use t
 
 ---
 
-### Temporal Storm (Major Escalation, Round 8+ Only)
-
-**Trigger Condition:** If BOTH weak targets (Apprentice Mage AND Young Knight) are still alive at the start of Round 8 or later, the temporal loop becomes dangerously unstable.
-
-**Effect:** The Temporal Storm replaces the normal lair action. The entire arena becomes temporally chaotic. Every creature in the arena (including enemies) must roll a d20:
-- **1-7:** Caught in temporal vortex—take **3d10 force damage** (no save)
-- **8-14:** Moving through thick time—speed reduced by **10 feet** until the end of their next turn
-- **15-20:** Riding the temporal wave—gain **advantage on next attack roll or saving throw** (creature's choice)
-
-**Flavor:** "The ouroboros grows UNSTABLE! Past and future COLLIDE catastrophically! Time itself TEARS at reality! The loop cannot hold!"
-
-**Frequency:** Can occur once every 2 rounds (Rounds 8, 10, 12, etc.) while both weak targets remain alive.
-
-**Warning (Round 7, Initiative 12):** "The temporal loop STRAINS! If the weak survive much longer, the STORM will come!"
-
-**Tactical Purpose:** Heavily punishes the party for not focusing weak targets. Creates dramatic urgency. Average party damage: ~45 HP total if all roll poorly (5 × 3d10 avg 16.5). This is a significant pressure spike designed to force tactical adjustment.
-
----
 
 ### Lair Action Selection Guide
 
@@ -341,96 +324,10 @@ At Initiative Count 20 of Round 3 (during the Future timeline), the central orre
 
 ---
 
-## Arena's Mercy (Crowd Healing Mechanic)
-
-The crowd's bloodlust has limits—they came for drama and spectacle, not a one-sided massacre. When the heroes bleed too heavily, the citizens of Tarsus may intervene.
-
-### Trigger Condition
-- **Check at the end of each round:** If the party's total HP drops to or below 125 HP (approximately 50% of their ~250 HP pool), the Arena's Mercy may trigger.
-- **Frequency:** Can only occur **once per combat**.
-- **Already Triggered:** If Arena's Mercy has already occurred this combat, this mechanic is exhausted.
-
-### The Crowd's Intervention
-
-**Announcer's Call (Dramatic Pause):**
-> "The heroes BLEED! They STRUGGLE against the ouroboros! Their strength WANES!"
->
-> "TARSUS—what say you?! Shall we show MERCY to the brave?!"
-
-**Crowd Response (90% chance they vote yes):**
-The crowd roars approval—they want a *competitive* fight, not an execution. The announcer grins and gestures dramatically.
-
-> "The CROWD has SPOKEN! MERCY is granted! Citizens—throw your healing draughts to the arena floor! Let the heroes CATCH them!"
-
-### Mechanical Effect
-
-**1d4 Healing Potions** (roll to determine how many, 1-4 potions) land in the arena at various locations.
-
-**Potion Properties:**
-- Each potion restores **2d4+2 HP** when consumed (average 7 HP, range 4-10 HP)
-- **To Drink:** Bonus action (standard potion rules)
-- **To Retrieve:** If not in your square, costs 5 feet of movement as part of your move (free object interaction to pick up)
-
-**Total Healing Potential:** 1d4 potions × 7 HP average = approximately 21-28 HP total healing across the party (7 HP if 1 potion, 28 HP if 4 potions).
-
-### Landing Locations (Tactical Randomness)
-
-Roll separately for each potion to determine where it lands:
-
-| d10 Roll | Location | Description |
-|----------|----------|-------------|
-| 1-3 | **Frontline (30%)** | Lands within 10 feet of melee combatants (Barbarian/Fighter). Easy pickup for frontline, requires movement for backline. |
-| 4-7 | **Mid-Arena (40%)** | Lands near central terrain feature—altar (Past) or orrery (Future). Contested space, both PCs and enemies nearby. |
-| 8-9 | **Backline (20%)** | Lands near Rangers/Cleric (backline position). Safe pickup for ranged characters. |
-| 10 | **Near Enemies (10%)** | Lands within 10 feet of Knight Prime or Ascendant Mage. Risky retrieval—opportunity attacks or danger zone. |
-
-**GM Tip:** Place tokens or mark locations on map. PCs can see where potions landed and must decide whether to risk movement to retrieve them.
-
-### Tactical Decisions Created
-
-- **Risk vs. Reward:** Do you spend movement/actions to retrieve potions, or continue attacking weak targets?
-- **Contested Potions:** Mid-arena potions create tactical tension. Do you dash to grab it before enemies position to block?
-- **Dangerous Potions:** Potions near enemies (10% chance) reward brave PCs. A Barbarian with Rage resistance might risk opportunity attack to grab potion for backline ally.
-- **Action Economy:** Drinking potion costs bonus action. Rangers using Hunter's Mark (bonus action) or Fighter planning Action Surge must choose.
-
-### Enemy Response
-
-- **Enemies do NOT pick up or drink potions** (not honorable enough, or "beneath them" thematically).
-- **Enemies MAY position to prevent PC retrieval:** Knight Prime might stand on a potion location to block access, forcing PCs to Shove or bypass him.
-- **Ascendant Mage might use Dimension Door** to reposition near a contested potion, creating danger zone.
-
-### Crowd's Favor Integration
-
-**Bonus Favor Opportunities:**
-- **Risky Retrieval:** PC who retrieves a potion from "Near Enemies" location (within 10 feet of enemy) while under threat gains **+1 [[crowds_favor|Favor]]** for bravery.
-- **Dramatic Catch:** PC who catches potion with Athletics check (GM discretion, if potion arc lands awkwardly) and succeeds gains **+1 Favor** for style points.
-- **Selfless Act:** PC who retrieves potion in danger but gives it to wounded ally (instead of drinking self) gains **+1 Favor** for heroism.
-
-### Flavor and Roleplay
-
-**Visual Description:**
-"From the stands above, small vials with glowing azure liquid arc downward—citizens throwing their personal healing draughts into the arena! The glass vials land with delicate *tink* sounds, rolling slightly on the cobblestones/crystal floor. You see [number] potions scattered across the arena!"
-
-**Announcer Follow-Up (if PCs retrieve potions successfully):**
-> "They catch the gifts of Tarsus! The crowd LOVES them! FIGHT ON!"
-
-**Announcer Follow-Up (if PCs ignore potions):**
-> "They REFUSE the crowd's mercy! Such PRIDE! Such DETERMINATION!"
-
-### Why This Design Works
-
-1. **Clear, Measurable Trigger:** 125 HP (50% of party HP) is easy to track. No ambiguity.
-2. **One-Time Only:** Can't be exploited. Happens at most once, creates dramatic "turning point" moment.
-3. **Balanced Healing:** 21-28 HP total is meaningful (10% of party HP pool) but not encounter-breaking. Extends fight by 1-2 rounds.
-4. **Tactical Randomness:** Landing locations create micro-decisions. Not "free" healing—requires movement, positioning, action economy.
-5. **Theatrical Integration:** Announcer involvement, crowd vote, dramatic stakes. Fits Arena's patronage theme (like Hunger Games sponsors).
-6. **Crowd's Favor Synergy:** Creates new Favor-earning opportunities (risky retrieval, selfless acts).
-7. **Doesn't Break Pacing:** If party is struggling badly, this gives them breathing room without invalidating enemies' pressure. If party is doing fine, this mechanic never triggers.
-
 ## Crowd Favor Hooks
 
 **Core Objectives:**
-- Kill the Apprentice Mage in the Past within first 3 rounds (before first timeline shift): +4 [[crowds_favor|Favor]] for aggressive play and breaking the ouroboros early.
+- Kill the Apprentice Mage in the Past within first 3 rounds (before first timeline shift): +4 [[../crowds_favor|Favor]] for aggressive play and breaking the ouroboros early.
 - Kill the Young Knight in the Future within first 6 rounds: +3 Favor for exploiting inexperience.
 - Kill BOTH weak versions before Round 10 (efficient victory): +5 Favor for tactical genius.
 
@@ -446,7 +343,7 @@ Roll separately for each potion to determine where it lands:
 - Push enemy into environmental hazard using Temporal Fracture (lair action) timing: +2 Favor for opportunism.
 
 **Dramatic Timing:**
-- [[panache|Panache]] strike that kills either weak version right as timeline shifts: +4 Favor for perfect dramatic timing.
+- [[../panache|Panache]] strike that kills either weak version right as timeline shifts: +4 Favor for perfect dramatic timing.
 - Land killing blow on Temporal Echo while it's using Phase Step (mid-teleport): +2 Favor for precision.
 - Drink healing potion from Arena's Mercy while surrounded by enemies: +2 Favor for defiance.
 
@@ -589,36 +486,7 @@ Roll separately for each potion to determine where it lands:
 - **GM Notes:** If Apprentice already killed in Rounds 4-6, Knight is enraged (advantage on attacks, resistance to all damage). If Apprentice still alive, Knight desperately defends using all legendary actions. Knight's last stand is brutal but beatable.
 - **Victory:** Likely by Round 11-12 if PCs played tactically. If combat reaches Round 13+, remaining strong version offers conditional surrender: "You have broken the cycle... I yield." (Partial victory, reduced rewards).
 
-### Escalation and Adjustment Triggers
-
-**If PCs Dominating (Amp Up Difficulty):**
-- **Trigger:** Both weak targets still alive at Round 8
-- **Response:** Temporal Storm activates (major damage spike)
-- **Trigger:** PCs above 75% HP at Round 6+
-- **Response:** Lair actions target more aggressively, spawn 3 Echoes instead of 2
-- **Trigger:** Both strong enemies below 50% HP before Round 9
-- **Response:** Lair actions favor healing (Temporal Rewind spam), strong enemies fight more aggressively (Knight grapples PCs, Ascendant uses Disintegrate early)
-
-**If PCs Struggling (Provide Relief):**
-- **Trigger:** Party HP drops below 125 (50% of ~250 total)
-- **Response:** Arena's Mercy activates (1d4 healing potions land, see section above)
-- **Trigger:** 2+ PCs unconscious before Round 9
-- **Response:** Enemies make tactical mistakes (Ascendant wastes Disintegrate on high-HP Barbarian, Knight uses Temporal Slash instead of Protective Parry, Echoes don't use Phase Step optimally)
-- **Trigger:** Combat drags past Round 14 with PCs struggling
-- **Response:** Strong versions offer conditional surrender (honorable defeat, PCs survive but reduced rewards)
-
 ### Environmental Interactions and Persistence
-
-**Track Changes Across Timelines:**
-- **Tipped Brazier (Past):** Remains tipped when Past returns (scorch marks persist). Brazier no longer functional.
-- **Destroyed Floating Crystals (Future):** Remain destroyed when Future returns (crystal debris scattered). Reduces future environmental hazards.
-- **Sabotaged Orrery (Future, DC 15 Arcana check):** Stays sabotaged, imposes disadvantage on Ascendant's concentration checks for rest of combat.
-- **Blood Spilled:** Show continuity—blood stains remain on cobblestones (Past) or shimmer on crystal floor (Future).
-
-**Environmental Synergy with Lair Actions:**
-- **Temporal Fracture** can push PCs into braziers (Past, 2d6 fire + DC 13 Dex) or floating crystals (Future, 2d8 force + DC 14 Dex)
-- **Accelerate Time** allows enemies to reach weapon racks (Past) or orrery cover (Future) faster
-- **Causality Cascade** punishes PCs who tipped braziers for damage (counts as "dealing damage")
 
 ### When Weak Targets Die Early or Late
 
@@ -651,42 +519,6 @@ Roll separately for each potion to determine where it lands:
 - Temporal Storm deals ~45 HP total to party each time (5 PCs × avg 9 HP)
 - **Lesson:** Focus weak targets early or suffer consequences
 
-### Minion Management (Temporal Echoes)
-
-**Spawn Timing:** Round 6, Initiative Count 20 (instead of normal lair action)
-
-**Tactical Impact:**
-- Before Echoes: Backline can "stand and shoot" safely
-- After Echoes: Rangers/Cleric must reposition, use movement defensively
-
-**Action Economy:**
-- 2-3 Echoes = 4-6 extra attacks per round against backline
-- Forces defensive reactions (Dodge, Disengage, healing)
-- Reduces party offensive output—extends encounter by 2-3 rounds naturally
-
-**Kill Priority:**
-- Echoes have 27 HP each—Ranger with Hunter's Mark (1d6+3 bonus) + 2 attacks = ~25 damage, can drop one in 1-2 rounds
-- If ignored, Echoes whittle down backline HP (Life Cleric becomes priority target)
-- Use Phase Step aggressively—Echoes know they're squishy, avoid being pinned
-
-**Phase Step Counters:**
-- Grapple an Echo before it acts (it can't Phase Step while grappled)
-- Ready actions to attack Echo "when it finishes Phase Step" (melee range)
-- Area effects (if PCs have any) hit multiple Echoes if clustered
-
-### Arena's Mercy Timing
-
-**Track Party HP Total:** At end of each round, calculate sum of all PC current HP.
-
-**Trigger:** If total ≤ 125 HP (50% of ~250 pool), Arena's Mercy activates (once only).
-
-**Most Likely Timing:** End of Round 5 or 6 (after Ascendant's Slow + Momentary Stasis + minion spawn).
-
-**GM Discretion:** If party at 127 HP (close to threshold) and taking heavy hits, can trigger early for drama.
-
-**Potion Landing:** Roll d10 for each potion (1d4 total potions) to determine location. Place tokens visibly—PCs must decide risk vs. reward.
-
-**Enemy Positioning:** Enemies MAY block potion access but don't pick them up. Knight might stand on potion to force Shove contest. Ascendant might Dimension Door near contested potion.
 
 ### Balancing on the Fly
 
@@ -701,42 +533,3 @@ Roll separately for each potion to determine where it lands:
 - Knight grapples PCs trying to reach Apprentice (contested Athletics, advantage from Guardian's Oath)
 - Echoes coordinate Phase Step timing (all three Phase Step same turn, surround Cleric)
 - Use escalated lair actions earlier (Round 7 instead of Round 8)
-
-**Victory Conditions:**
-- **Optimal:** Both weak targets dead by Round 10, party above 100 HP total, no PCs unconscious. **Full victory + Arena title.**
-- **Standard:** Both weak targets dead by Round 12, party 50-100 HP total, 0-1 PCs unconscious. **Standard victory.**
-- **Pyrrhic:** Both weak targets dead by Round 14+, party below 50 HP total, 2+ PCs unconscious. **Victory with heavy cost.**
-- **Conditional:** Strong versions surrender Round 13+, PCs struggling. **Partial victory, reduced rewards.**
-
-## Aftermath Seeds
-
-**Character Development:**
-- **Temporal Scars:** PCs who survived both timelines gain "Chrono-Touched" trait—occasionally experience moments in "wrong" order (déjà vu or premonition). DM gives cryptic hints about future events 1/session.
-- **Injury - Temporal Lag:** PC who was hit by *Momentary Stasis* or *slow* repeatedly develops "Temporal Lag"—1/day, DM can declare they act last in initiative order that round (as if stuck in slow time). Cosmetic curse, unsettling. Can be removed with *greater restoration* or 1 week of rest.
-- **Injury - Echo Trauma:** PC who killed their own Temporal Echo develops "Identity Crisis"—occasionally sees their reflection move independently or hears their own voice from empty rooms. Cosmetic, unsettling. Fades after 1d4 weeks.
-- **Injury - Storm Survivor:** PC who survived Temporal Storm (rolled 1-7, took 3d10 damage) develops "Temporal Instability"—hair grays prematurely by 1d10 years' worth, or fingertips occasionally flicker translucent for 1d4 seconds. Cosmetic only.
-
-**Rewards & Recognition:**
-- **Legendary Moment:** If PCs killed BOTH weak versions before Round 10 (fast victory), gain Arena title: **"Ouroboros Breakers."** Time mages across Tarsus hear the name. +2 [[crowds_favor|Favor]] to starting Favor in future fights.
-- **Efficient Victory:** If PCs killed both weak versions without either strong version using their resurrection ability (Temporal Anchor, Master's Will), gain bonus title: **"Temporal Surgeons."** Recognized for precise targeting.
-- **Survival Achievement:** If PCs survived Temporal Storm AND killed both weak targets same combat, gain title: **"Storm Walkers."** Known for endurance against temporal chaos.
-
-**Political Consequences:**
-- **Political - Chronomancy Investigation:** Arena's use of "self-sustaining temporal loop" may violate Tarsus's chronomancy laws (forbidden after "The Unraveling" 200 years ago). Imperial magistrates investigate. Arena master needs PCs to testify that fight was "theatrical illusion, not true time magic" (perjury). Refusing earns magistrate's respect but Arena master's ire. Lying earns Arena master's favor but guilt.
-- **Political - Temporal Scholar Interest:** A temporal scholar impressed by PCs' ability to "break an ouroboros" offers contract to investigate temporal anomaly in the Wastes—well-paid (500 gp) but dangerous time magic research expedition.
-
-**World Impact:**
-- **Rumor - Temporal Ripples:** Breaking the temporal loop caused ripples—some Tarsus citizens report seeing "ghost" versions of themselves from slightly different timelines (their past or future selves bleeding through). Occurs in 10-foot radius around PCs for 1d4 days. Unsettling but harmless.
-- **Rumor - Arena Damage:** The arena floor (Past cobblestones or Future crystals) now has a permanent "scar"—a 5-foot-diameter spiral pattern where the ouroboros collapsed. Glows faintly under moonlight. Becomes minor tourist attraction.
-
-**Loot Options:**
-- **Temporal Knight's Longsword (Past version, +1 longsword, rare):** Deals extra 1d6 force damage. Once per day, after making an attack roll, can "rewind" and reroll, taking better result. **Quirk:** Blade sometimes "remembers" enemies it killed in past timelines—when drawn near undead or constructs, hums and deals +1d4 radiant damage to those creature types (echoes of past battles).
-- **Apprentice's Temporal Focus (amulet, uncommon):** Grants bearer ability to cast *shield* 3/day (no spell slot required). Bearer ages 1 day per use (cosmetic, no mechanical effect unless extreme overuse over months—after 365 uses, gain 1 year of aging).
-- **Chrono-Mage's Temporal Robes (robes, rare):** Grants advantage on saves vs. time magic (*slow*, *haste*, *time stop*, etc.). Once per day, when hit by an attack, can use reaction to "phase" briefly—attacker rerolls with disadvantage. AC 12 + Dex (up to +3).
-- **Young Knight's Training Shield (+1 shield, uncommon):** When bearer uses the Help action in combat, the helped ally gains +1d4 to their roll (enthusiastic support). Once per day, bearer can use a reaction when an ally within 5 feet is hit to grant them +2 AC against that attack (eager protection).
-- **Temporal Echo Residue (consumable, uncommon, 1d3 pieces):** Small crystalline shards left when Temporal Echoes die. Can be crushed as a bonus action to cast *blink* on self (no spell slot, lasts 1 minute). Single use. Worth 50 gp each to collectors.
-- **Orrery Gear (miscellaneous, rare):** If PCs sabotaged the orrery, can claim a gear from the mechanism. Acts as an Arcane Focus that grants +1 to spell attack rolls when casting spells with "time" or "speed" effects (*haste*, *slow*, *expeditious retreat*, etc.). Worth 200 gp to artificers.
-
-**Downtime Activities:**
-- **Downtime - Spellbook Study:** Chrono-Mage Ascendant's spellbook can be claimed—contains *slow*, *haste*, and two Chronurgy spells (*gift of alacrity*, *fortune's favor*). Wizard PCs can copy them (standard rules: 50 gp and 2 hours per spell level). Also contains research notes on "temporal immortality through self-protection paradox" (lore hook for future adventures).
-- **Downtime - Arena Meditation:** PCs can return to the arena and meditate where the ouroboros collapsed (the spiral scar). DC 15 Arcana check. On success, gain insight: "You see fleeting visions of yourself in the fight—but different. You made different choices. The timelines that ALMOST were." Philosophical moment.
