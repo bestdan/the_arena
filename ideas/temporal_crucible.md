@@ -78,6 +78,31 @@ created: 2026-01-06
 - **Round 5 (Future):** Same Temporal Knight has 30 HP. Party deals 20 damage (reducing to 10 HP shared), then moves away. Knight still exists in all timelines at 10 HP.
 - **Round 7 (Past returns):** Knight reappears in Past with 10 HP remaining (shared pool). If killed NOW in Past, vanishes from all timelines retroactively.
 
+## Asymmetric Temporal Puzzle (ADVANCED)
+**"Some enemies must be avoided; others must be pursued."**
+
+When including **Chrono-Spawn** and/or **Echo Revenant**, players face a multi-layered strategic puzzle:
+
+### The Core Dilemma:
+- **Chrono-Spawn:** A *ticking time bomb*—vulnerable in Past, deadly in Future. Players must prioritize killing it EARLY or face an overwhelming threat later.
+- **Echo Revenant:** A *patient hunt*—invulnerable in Past, vulnerable in Future. Players must RESIST attacking it early and wait for the right moment.
+
+### Strategic Tension:
+- **Action Economy:** Should players spend actions in Past (vulnerable Chrono-Spawn) or save resources for other threats?
+- **Timeline Pressure:** Chrono-Spawn forces urgency in Past rounds; Echo Revenant rewards patience until Future rounds.
+- **Resource Management:** Wasting attacks on invulnerable Echo Revenant (Past) or resistant Chrono-Spawn (Future) depletes party resources.
+- **Enemy Coordination:** Standard temporal enemies may protect Chrono-Spawn in Past or bait PCs into attacking Echo Revenant.
+
+### Victory Conditions:
+- **Optimal Strategy:** Kill Chrono-Spawn in Past timeline before it matures; ignore Echo Revenant until Future timeline when vulnerable.
+- **Risky Strategy:** Allow Chrono-Spawn to reach Future (crowd loves this!) but allocate massive resources to bring down its resistant form.
+- **Failed Recognition:** Not identifying the asymmetry leads to wasted actions (attacking invulnerable Echo Revenant) and overwhelming threats (mature Chrono-Spawn).
+
+### Teaching the Puzzle:
+- Announcer gives hints: "The spawn GROWS with time!" or "The phantom hasn't DIED yet!"
+- First attacks on Echo Revenant (Past) should be described dramatically: "Your blade passes through—this is only a MEMORY!"
+- Chrono-Spawn's evolution should be viscerally described: "The embryo SWELLS, bones cracking as it GROWS before your eyes!"
+
 ## Enemies (Temporal Guardians, exist across all timelines)
 
 ### Core Enemies (share HP pool across timelines)
@@ -101,7 +126,23 @@ created: 2026-01-06
   - **Present:** Standard stats, mobile (Dash as bonus action).
   - **Future:** Advanced bows, +1 to attack rolls, +10 feet range.
 
-**Flex:** For 4 PCs, remove 1 Temporal Archer and reduce Paradox Beast HP to 90. For 6 PCs, add 1 Time Elemental (CR 5, 80 HP shared, temporal distortion aura causes slow effect).
+### Asymmetric Temporal Enemies (NEW: Strategic Priority Targets)
+
+- **Chrono-Spawn** (CR 6; 90 HP shared; multiattack, temporal evolution).
+  - **CRITICAL MECHANIC:** Growing threat—vulnerable in Past, near-invulnerable in Future.
+  - **Past:** Embryonic form—AC 12, vulnerable to all damage (takes double damage), slow (20 ft. speed), weak slam attack (1d6).
+  - **Present:** Adolescent form—AC 15, standard HP, multiattack (2 claws, 1d8+3 each), 30 ft. speed.
+  - **Future:** Fully Matured—AC 18, **resistance to all damage**, regeneration 10 HP/round, multiattack (2 claws, 2d8+4 each), 40 ft. speed, frightful presence (DC 15 Wis save or frightened).
+  - **Strategic Implication:** MUST be killed in Past timeline when vulnerable. If it reaches Future, becomes nearly unkillable boss.
+
+- **Echo Revenant** (CR 5; 80 HP shared; spectral attacks, temporal phasing).
+  - **CRITICAL MECHANIC:** Fading spirit—invulnerable in Past, vulnerable in Future.
+  - **Past:** Not yet dead—**completely immune to all damage** (spectral, intangible), can't attack but repositions freely, moves through walls, 50 ft. fly speed. Taunts: "I have not yet fallen! You fight a memory!"
+  - **Present:** Death throes—AC 14, **resistance to physical damage**, can attack (spectral touch 2d8+3 necrotic, DC 14 Con save or frightened), 40 ft. fly speed, begins to manifest.
+  - **Future:** Fully corporeal ghost—AC 13, **no resistances/immunities** (vulnerable state), full attacks (spectral touch 2d10+4 necrotic, life drain), 30 ft. fly speed, anchored to timeline (can't phase).
+  - **Strategic Implication:** IGNORE in Past (wastes actions), optionally damage in Present, MUST kill in Future when fully vulnerable.
+
+**Flex:** For 4 PCs, remove 1 Temporal Archer and reduce Paradox Beast HP to 90. For 6 PCs, add both Chrono-Spawn and Echo Revenant. For standard 5-6 PCs, include ONE of the asymmetric enemies (Chrono-Spawn for aggressive puzzle, Echo Revenant for patience puzzle).
 
 ## Enemy Temporal Tactics
 - **Strategic Timeline Defense:** Enemies prioritize defending Past timeline (prevents erasure).
@@ -114,6 +155,12 @@ created: 2026-01-06
   - Chrono Mage uses *blink* in Future to evade damage.
   - Paradox Beast taunts PCs: "You waste time in this timeline! We are eternal!"
 
+- **Asymmetric Enemy Tactics (if included):**
+  - **Chrono-Spawn Protection:** Other enemies guard the Chrono-Spawn in Past timeline, knowing it's vulnerable there. Temporal Knight interposes; Chrono Mage casts *sanctuary* on it in Past.
+  - **Chrono-Spawn Aggression:** In Future, fully matured Chrono-Spawn becomes primary threat—charges PCs aggressively, uses frightful presence to lock down party.
+  - **Echo Revenant Bait:** In Past, intangible Echo Revenant positions itself provocatively to bait PC attacks (wastes actions). Taunts: "Strike me! Your blades pass through time itself!"
+  - **Echo Revenant Delay:** In Future, Echo Revenant tries to survive—uses life drain to sustain itself, flies away from PCs, hides behind columns, hoping to outlast PCs' resources.
+
 ## Crowd Favor Hooks
 - Kill an enemy in the Past (causing erasure across all timelines): +3 [[crowds_favor|Favor]] for temporal mastery.
 - Damage the same enemy in all three timelines in consecutive rounds: +2 Favor for persistence.
@@ -122,6 +169,10 @@ created: 2026-01-06
 - [[panache|Panache]] strike that kills enemy in Past right as timeline shifts: +4 Favor for perfect timing.
 - Deduce temporal echo mechanic within first 3 rounds (player insight): +2 Favor for intelligence.
 - Light all 3 braziers in Past altar (unlocks bonus—Future chandeliers explode dealing 4d6 radiant in 20-foot radius to enemies): +3 Favor for puzzle-solving.
+- **Kill Chrono-Spawn in Past timeline** (before it matures): +4 Favor for strategic wisdom—"They slew the INFANT horror before it could EVOLVE!"
+- **Refuse to attack invulnerable Echo Revenant in Past** (recognizing the trap): +2 Favor for tactical restraint—"They understand! Some battles are won by WAITING!"
+- **Kill Echo Revenant in Future timeline** (when finally vulnerable): +3 Favor for patience rewarded—"They waited for TIME to make their enemy MORTAL!"
+- **Allow Chrono-Spawn to reach Future** (and defeat it anyway): +5 Favor for dramatic challenge—"MADNESS! They let the beast MATURE—and STILL brought it down!"
 
 ## Announcer Beats
 - **Opening:** "TEMPORAL CRUCIBLE! One battle! Three timelines! Can they grasp the paradox—or be lost in TIME?!"
@@ -132,6 +183,12 @@ created: 2026-01-06
 - **Shared damage reveal:** "WAIT! The wound in the present appears in the future! Time BLEEDS through!"
 - **Paradox Beast phase:** "It flees through TIME ITSELF! Chase it across eras!"
 - **Puzzle solve (braziers):** "The ancient fires IGNITE! The future chandeliers EXPLODE with light! BRILLIANT!"
+- **Chrono-Spawn evolution (Past → Present):** "The SPAWN grows! What was WEAK becomes DANGEROUS!"
+- **Chrono-Spawn evolution (Present → Future):** "WITNESS THE FINAL FORM! The creature COMPLETES itself—near INVINCIBLE!"
+- **Chrono-Spawn killed in Past:** "GENIUS! They struck when it was VULNERABLE—before time could make it a GOD!"
+- **Echo Revenant in Past (PC attacks futilely):** "FUTILE! Their blades pass through MEMORY! It hasn't died YET!"
+- **Echo Revenant in Future (becoming solid):** "THERE! The ghost becomes FLESH! Time has made it MORTAL at last!"
+- **Echo Revenant killed in Future:** "PATIENCE REWARDED! They waited for TIME to grant them their kill!"
 - **Victory:** "They've conquered TIME! Past, present, future—all FALL! The arena witnesses ETERNITY bent!"
 
 ## GM Tips
@@ -140,6 +197,12 @@ created: 2026-01-06
 - **Timeline Tokens:** Use different colored tokens/borders for same enemy in different timelines (Past = sepia, Present = full color, Future = bright/gleaming).
 - **Erasure Drama:** When enemy killed in Past, remove all tokens dramatically—"They fade from existence in Present and Future—never existed!"
 - **Player Education:** First round, have NPC announcer or Chrono Mage taunt: "Fool! You damage me in the future—but I still exist in the past! Kill me there, or I endure!"
+- **Asymmetric Enemy Tracking (if included):**
+  - **Chrono-Spawn Visual:** Use progressively larger tokens—small (Past), medium (Present), large (Future). Mark Future version with "REGEN 10" reminder.
+  - **Chrono-Spawn Vulnerability:** Put "VULNERABLE—DOUBLE DAMAGE" note on Past token; "RESISTANCE ALL" on Future token. Make it visually obvious.
+  - **Echo Revenant Visual:** Use transparent/ghostly token in Past (can't be targeted), semi-transparent in Present, solid in Future.
+  - **Echo Revenant Immunity:** Put "IMMUNE—CAN'T DAMAGE" on Past token. When PCs inevitably try to attack it, narrate dramatically: "Your blade passes through empty air—this is only a memory of what will die."
+  - **Strategic Hints:** If players struggle, have announcer drop hints: "The spawn grows stronger with each era—strike it while YOUNG!" or "The phantom has not yet fallen—wait for its DEATH in the future!"
 - **Temporal Carryover:** Track environmental changes across timelines visibly:
   - **Collapsed Column (Past):** Becomes rubble pile (Present), cleared debris (Future—no column).
   - **Lit Braziers (Past):** Remain lit in Present, enhance chandelier light in Future.
