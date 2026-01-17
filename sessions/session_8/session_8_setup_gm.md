@@ -534,7 +534,7 @@ Keep public tally on board:
 ---
 
 ## Session Pacing
-
+`
 **Target Duration:** 3-4 hours
 
 **Time Breakdown:**
