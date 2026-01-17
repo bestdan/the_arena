@@ -1,11 +1,19 @@
 ---
-tags: [arena, encounter-idea, environmental, movement, heat, hazard]
+tags:
+  - arena
+  - encounter-idea
+  - environmental
+  - movement
+  - heat
+  - hazard
 encounter_type: environmental
-party_size: "4-6"
-level_range: "5-7"
+party_size: 4-6
+level_range: 5-7
 difficulty: hard
-mechanics: [crowds-favor, panache]
-status: ready
+mechanics:
+  - crowds-favor
+  - panache
+status: completed
 created: 2025-11-24
 ---
 # Blazing Shadows
