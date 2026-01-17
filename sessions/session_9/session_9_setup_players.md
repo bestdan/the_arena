@@ -98,7 +98,7 @@ She closes her notes.
 
 > "Want gear? Shop's open. And talk through your strategy—this puzzle requires coordination."
 
-[[../../items/snak_shop_session_9|Snak's Shop]] (if you need to create this)
+[[../../items/snak_shop_session_9|Snak's Shop]]
 
 ### As You Walk Into the Arena
 
