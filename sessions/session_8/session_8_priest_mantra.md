@@ -1,6 +1,6 @@
 "Flesh lies. Iron speaks truth.
-You are weak—the hilt does not lie about this.
-You are breakable—the stone does not pretend otherwise.
+if You are weak—the hilt does not lie about this.
+if You are breakable—the stone does not pretend otherwise.
 In the soft world, you hide behind words, behind comfort, behind excuses.
 Here, under the weight, there is only what you can bear and what crushes you.
 
