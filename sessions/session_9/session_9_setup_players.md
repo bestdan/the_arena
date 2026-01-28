@@ -10,26 +10,10 @@ updated: 2026-01-10
 
 # Session 9 Setup: The Chrono-boros
 
+### Teaser
+[Teaser](session_9_teaser.md)
+
 ### 3 Days After Session 8
-
-Snak arrives with a puzzled and frustrated look on her face. 
-
-> "Alright, champions. 
-
-She stops to reflect on her automatically chosen words....
-
-> Actually, yeah, the name is starting to fit you. Unironically. Anyways.. 
-
-> Next match is.... I dunno. I don't get it. It's some kind of `time trial` thing, but not like a race or nothing. Some wizard from outside the Arena is coming in, they're working on some kind of joint venture. No-one knows what the challenge will be, what the layout will be. It's not exactly hush hush, just most of the normal talkers don't know what's happening. 
-
-> "I keep hearing 100GP words about it: "Chrono-boros". "Time trial". "The Unresolved Paradox". Weird fucking shit. I get the impression someone is trying to show off, and you're the example. 
->
-> 
-
-
- Past and future colliding. There's even a third element—alternate-timeline versions of yourselves spawn mid-fight. Echoes from timelines where you never made it this far. They'll harass you while you deal with the main threats."
-
-> "Intel costs the usual. 50 gold for the full tactical breakdown. Your call. But I'll say this—this one's a puzzle. You can't just hit things until they die. You need to think about which timeline to prioritize, how to bypass the strong defenders, when to shift focus."
 
 ### The Night Before the Match
 
