@@ -12,33 +12,22 @@ updated: 2026-01-10
 
 ### 3 Days After Session 8
 
-You've proven yourselves time and again. The crowd knows your names. Your reputation grows.
+Snak arrives with a puzzled and frustrated look on her face. 
 
-[[../../npcs/Snak|Snak]] arrives with an unusual scroll case—ancient, inscribed with temporal runes.
+> "Alright, champions. 
 
-> "Alright, champions. The Grand Master's pulling out something rare for you. Expensive magic. Temporal combat."
+She stops to reflect on her automatically chosen words....
 
-She unrolls the scroll, showing two overlapping arenas.
+> Actually, yeah, the name is starting to fit you. Unironically. Anyways.. 
 
-> "Ever heard of a temporal ouroboros? No? It's a time loop—a paradox where past and future protect each other. Two warriors locked in this cycle: a legendary knight from the past, and a master mage from the future. Each protects their younger self in the opposite timeline."
+> Next match is.... I dunno. I don't get it. It's some kind of `time trial` thing, but not like a race or nothing. Some wizard from outside the Arena is coming in, they're working on some kind of joint venture. No-one knows what the challenge will be, what the layout will be. It's not exactly hush hush, just most of the normal talkers don't know what's happening. 
 
-She taps the scroll.
+> "I keep hearing 100GP words about it: "Chrono-boros". "Time trial". "The Unresolved Paradox". Weird fucking shit. I get the impression someone is trying to show off, and you're the example. 
+>
+> 
 
-> "You'll fight in two arenas that shift back and forth. The arena transforms every three rounds—past becomes future, future becomes past. The environment changes completely, and different versions of your enemies appear."
 
-Her expression grows serious.
-
-> "In the PAST, you face a legendary knight in his prime protecting a weak apprentice mage. The knight is powerful—plate armor, multiattack, legendary actions when defending his younger self. The apprentice is vulnerable—low HP, basic spells, relies completely on the knight."
-
-> "In the FUTURE, you face that same apprentice after he's achieved mastery, now a powerful chronomancer. He protects a young, inexperienced knight—the past version of the legendary warrior. The mage has time magic—*slow*, *counterspell*, *disintegrate*. The young knight is enhanced by the mage's *haste* but still just learning."
-
-She points to the victory condition.
-
-> "Here's the trick: you have to kill BOTH weak versions—the apprentice in the past AND the young knight in the future. Kill just one and the strong survivor resurrects them after the fight ends. Break both links in the cycle or you'll be fighting them again."
-
-She rolls up the scroll.
-
-> "The crowd's calling it the Chrono-boros. Past and future colliding. There's even a third element—alternate-timeline versions of yourselves spawn mid-fight. Echoes from timelines where you never made it this far. They'll harass you while you deal with the main threats."
+ Past and future colliding. There's even a third element—alternate-timeline versions of yourselves spawn mid-fight. Echoes from timelines where you never made it this far. They'll harass you while you deal with the main threats."
 
 > "Intel costs the usual. 50 gold for the full tactical breakdown. Your call. But I'll say this—this one's a puzzle. You can't just hit things until they die. You need to think about which timeline to prioritize, how to bypass the strong defenders, when to shift focus."
 
