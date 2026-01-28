@@ -151,11 +151,17 @@ Most enemies are hired thugs—they shout tactical calls:
 - Priest will heal wounded enemies
 
 **Round 7:**
-- Carriers at ~90 feet, mid-Killing Field
-- **At count 15: 2 Thugs spawn** (fresh reinforcements)
-- **Announce: "Time for second swap!"**
-- Thugs use Pack Tactics with existing enemies
-- Multiple spike pits still threatening
+- Carriers at ~90-100 feet, mid-Killing Field
+- **At count 15: KAELEN THE GRAVITY PALADIN SPAWNS** (CR 4) + 1 Thug
+- **DRAMATIC ENTRANCE:** Kaelen emerges from west tunnel at 100-foot mark carrying massive Atlas Bar overhead
+- **Announcer Beat:** "From the depths! THE IRON BURDEN! Kaelen the Unyielding! Can they move the stone when GRAVITY ITSELF opposes them?!"
+- Kaelen plants himself in center of corridor, assumes perfect weightlifting stance
+- **CRITICAL MECHANIC:** Gravity Well aura (10-foot radius) + Killing Field difficult terrain = carriers move only 5 feet/round through his area!
+- **Announce: "Time for second swap!"** (carriers at 3 rounds)
+- Kaelen's goal: Block carrier progress, grapple carriers, never retreat
+- This is a major bottleneck—PCs must defeat him, bypass (costly movement), or push through slowly
+- 1 Thug reinforcement uses Pack Tactics with existing enemies
+- See "Running Kaelen the Gravity Paladin" section below for detailed tactics
 
 **Round 8:**
 - **No spawns** (brief respite)
@@ -326,8 +332,15 @@ At **initiative count 15** each round, new enemies spawn from side tunnels
 **Round 6:** 1 Priest (CR 2)
 - HP: 27, AC 13—*hold person* (DC 13), heals wounded enemies
 
-**Round 7:** 2 Thugs (CR 1/2)
-- Fresh melee reinforcements
+**Round 7:** 1 Kaelen the Gravity Paladin (CR 4) + 1 Thug (CR 1/2)
+- **Kaelen:** HP 70, AC 15—Movement denial specialist, see [[../../../npcs/kaelen_gravity_paladin|full stat block]]
+  - Gravity Well aura (10-foot radius treats area as difficult terrain)
+  - Crushing Grip (grapple as bonus action after hitting, +8 Athletics with advantage)
+  - Weight of the World (attacks reduce speed by 10 feet)
+  - Unbreakable Form (cannot be forcibly moved, immune to prone)
+  - Priority: Position at 100-foot mark, grapple carriers, hold center
+  - Speaks weight-training mantras during combat
+- **Thug:** HP 32, AC 11—Pack Tactics
 
 **Round 8:** No spawn (respite)
 
@@ -368,6 +381,128 @@ At **initiative count 15** each round, new enemies spawn from side tunnels
 - Enemies within 30 feet ready attacks for when swap begins
 - "I attack when they start swapping!"
 - Punish poor swap timing/positioning
+
+---
+
+## Running Kaelen the Gravity Paladin
+
+Kaelen is a CR 4 movement-denial specialist who spawns in Round 7 at the 100-foot mark (center of Killing Field). He is NOT a damage dealer—he's an obstacle, a bottleneck, an immovable object testing the carriers' unstoppable will.
+
+### Core Concept
+Kaelen treats combat as another form of weight training. He speaks terse mantras about burden, strength, and truth. He moves with perfect, controlled form, never rushed or emotional. His goal is to prevent the carriers from making progress, not to rack up kills.
+
+### Entry and Positioning
+**Round 7, Initiative Count 15:**
+1. West tunnel gate SLAMS open at 100-foot mark
+2. Kaelen emerges slowly, carrying the Atlas Bar (massive barbell) overhead in perfect military press form
+3. He lowers it to combat position (10-foot reach, held in both hands like a quarterstaff)
+4. Plants himself in the CENTER of the corridor
+5. Assumes weightlifting stance: feet wide, back straight, eyes forward
+6. **Announcer:** "From the depths! THE IRON BURDEN! Kaelen the Unyielding! Can they move the stone when GRAVITY ITSELF opposes them?!"
+
+**Opening Statement (when PCs approach):**
+> "You carry a stone. I *am* the stone. Put down your burden or be buried by mine."
+
+### The Gravity Well Mechanic (CRITICAL)
+Kaelen's passive aura is his most devastating ability:
+- **10-foot radius around him treats area as difficult terrain**
+- This aura MOVES with him
+- In Killing Field (already difficult terrain): Carriers move only **5 feet per round** through his aura instead of 10 feet
+- **Impact:** If carriers must pass through his area, they're slowed by 4-5 rounds minimum (20-25 feet at 5 feet/round)
+- This creates a massive bottleneck—PCs must decide: defeat him, bypass him (costs movement to go around), or push through slowly
+
+**Narration:**
+> "As you approach Kaelen, the air feels HEAVIER. Every step forward takes immense effort. The Burden Stone seems to weigh TWICE as much. You're moving through molasses."
+
+### Combat Tactics
+
+**Round-by-Round Priority:**
+
+**Turn 1 (Round 7):**
+- Hold position at 100-foot mark (don't advance)
+- Attack nearest carrier with Atlas Bar (reach 10 feet)
+- If hit: Immediately use Crushing Grip (bonus action grapple, +8 Athletics with advantage)
+- Speak mantra: "The stone you carry is nothing. I carry mountains daily."
+
+**Turn 2+:**
+- Maintain center position (never chase defenders)
+- Attack carriers if in range (prioritize whoever is carrying)
+- Use Crushing Grip after every successful hit
+- If carriers try to go around, shift 10-15 feet to re-intercept (but don't pursue)
+- Speak mantras every 2-3 rounds:
+  - When grappling: "Feel the weight. This is what you chose. Bear it or break."
+  - When taking damage: "Pain is the iron speaking. I listen."
+  - When bloodied (below 35 HP): "Heavier. Good. The true test begins now."
+
+**If Grappling a Carrier:**
+- Grappled carrier's speed becomes 0 (cannot move Shard)
+- Other carrier forced to stop or drop Shard (can't carry alone)
+- Defenders must intervene: break grapple (contested Athletics) or kill Kaelen
+- Hold the grapple—don't attack while grappling (use action to maintain/drag)
+- Try to drag carrier away from partner (>10 feet = Shard drops)
+
+**Defensive:**
+- Use Unbreakable Form (cannot be forcibly moved—contested STR check with disadvantage for shover)
+- Never retreat or flee, even when bloodied
+- Immune to prone while wielding Atlas Bar
+- Resistance to force damage (magical pushing/pulling)
+- Advantage on saves vs frightened/charmed/paralyzed
+
+**When Defeated:**
+- Final words: "The weight... finally... won..."
+- Collapses forward, Atlas Bar landing with thunderous crash
+- **Announcer:** "The immovable... has FALLEN! But what a STAND he made! Remember the Gravity Paladin! Remember his STRENGTH!"
+
+### Synergy with Other Enemies
+Kaelen pairs EXCELLENTLY with:
+- **Scouts (archers):** They fire from platforms while he locks carriers down in melee
+- **Priest:** Heals Kaelen, making him enduring obstacle (Cure Wounds brings him back from bloodied)
+- **Veteran/Berserker:** They attack Shard directly while carriers are grappled
+- **Thugs:** Use Pack Tactics around Kaelen's area, flanking defenders
+
+### Counterplay (For Players)
+Smart PCs can overcome Kaelen through:
+1. **Control Spells:** Hold Person, Entangle, etc. (he has advantage on saves but can still fail)
+2. **Ranged Attacks:** Fire from outside his 10-foot aura (avoids Gravity Well entirely)
+3. **Burst Damage:** 70 HP is tough but achievable—focus fire from all 4 PCs
+4. **Bypass:** Go around him (costs 10-15 extra feet of movement, adds 1-2 rounds)
+5. **Break Grapple:** Carriers can use Athletics to escape (+4-5 modifier for most PCs)
+
+### GM Mistakes to Avoid
+**DON'T:**
+- Chase defenders (he holds position)
+- Use him as primary damage dealer (he's support/control)
+- Have him attack Shard (he targets carriers, not crystal)
+- Forget his mantras (they're half his character)
+- Make him retreat when bloodied (he NEVER backs down)
+
+**DO:**
+- Position him centrally, forcing PCs to deal with him
+- Use Crushing Grip aggressively (it's his signature move)
+- Speak mantras in flat, certain tone (never rushed or emotional)
+- Describe his perfect form: every swing like a deadlift rep, measured and powerful
+- Make Gravity Well feel oppressive: "The weight DOUBLES. Every step is AGONY."
+- Track his HP publicly: "Kaelen at 42 HP. He's bloodied but UNMOVED."
+
+### Crowd Appeal and Favor
+Kaelen's stoic discipline creates interesting moments:
+- Crowd appreciates his philosophical stance ("The bar does not lie!")
+- His refusal to retreat earns respect
+- "Immovable object vs unstoppable progress" narrative plays well
+- If he stops carriers for 2+ rounds, crowd cheers his strength
+
+**Favor Opportunities:**
+- Defeat Kaelen in 1v1 melee: +2 Favor (impressive feat of strength)
+- Pin him with his own Atlas Bar after defeat: +1 Favor (poetic justice, theatrical)
+- Use his mantras against him in combat banter: +1 Favor (crowd loves philosophical duels)
+- Bypass him creatively without fighting: +1 Favor (tactical genius)
+
+### Impact on Session Flow
+**Without Kaelen:** Carriers cross Killing Field in ~7 rounds (70 feet at 10 feet/round)
+**With Kaelen:** If they push through his aura, adds 2-3 rounds minimum (5 feet/round through 10-20 feet of his zone)
+**Expected Outcome:** PCs will likely spend 2-3 rounds defeating him or 1-2 rounds bypassing, then continue
+
+He's balanced to be threatening but not encounter-ending. Smart teams can handle him. Reckless teams will get locked down and overwhelmed by reinforcements.
 
 ---
 
