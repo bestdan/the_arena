@@ -13,63 +13,61 @@ updated: 2026-01-10
 ### Teaser
 [Teaser](session_9_teaser.md)
 
-### 3 Days After Session 8
-
 ### The Night Before the Match
 
-If you paid for intel, Snak returns with detailed notes.
+If you paid for intel, Snak returns late—later than usual. She's got a half-empty bottle in one hand and a crumpled piece of parchment in the other. She doesn't look happy.
 
-> "Right. Chrono-boros tactical breakdown."
+> "Alright. I got what I got. Fair warning: this is stitched together from a nervous grounds worker and a game-runner's assistant who wouldn't look me in the eye. Bits and pieces. Not my usual standard."
 
-> "Five of you, level 5. You're facing effectively four enemies—each warrior exists in both timelines with their own HP pool. Past Knight, Future Knight, Past Mage, Future Mage. Plus minions that spawn mid-fight."
+She smooths out the parchment.
 
-She spreads out her notes.
+> "Let's start with what Marko—the grounds guy—saw them build."
 
-> "**Timeline rotation:** Every three rounds, the arena shifts. You start in the FUTURE—gleaming crystal sanctum. Round 4 shifts to PAST—war-torn ancient battleground. Round 7 back to FUTURE. Keeps alternating. You'll know it's coming—hourglass above arena speeds up, announcer warns you one round before shift."
+She sketches as she talks, rough lines on the table.
 
-> "**Future Timeline—Temporal Sanctum:** Smooth crystal floors, floating temporal crystals orbiting at 10 feet height, central clockwork orrery, arcane circles on floor, temporal mirrors on walls. The crystals can be destroyed—AC 15, 20 HP, explode for 2d8 force in 10-foot radius. The orrery provides full cover—the mage hides behind it. The circles give advantage on saves against time magic but disadvantage on weapon attacks—good for casters, bad for warriors."
+> "Two arenas. Same space, but... layered. One's this crystal sanctum—smooth floors, big spinning clockwork thing in the middle, floating crystals orbiting around, weird circles painted on the ground. Mirrors on the walls. The other's ancient, like a battlefield from a history book. Cobblestones, old weapon racks, stone altar, iron braziers. He says they built them *on top of each other* somehow. The wizard's people kept talking about 'phase transitions' and making the workers leave when they activated it."
 
-> "**Past Timeline—Ancient Battleground:** Blood-stained cobblestones, weapon racks at corners, ancient braziers with dying embers, central stone altar, war banners on walls. The braziers can be tipped for 2d6 fire damage in a cone. The altar provides full cover—the knight uses it for last stands."
+> "The floating crystals? Marko says they're unstable. One of the installers dropped his hammer on one by accident and it cracked—blew him across the room. Something to keep in mind. He also said the circles on the floor made his head feel backwards when he stood in them, like his thoughts were moving the wrong way. The mages seemed to like standing in them, though."
 
-She flips to enemy stats.
+She takes a drink.
 
-> "**Future enemies—Rounds 1-3, 7-9, etc.:**"
+> "The clockwork thing—orrery, they called it—is big. Solid brass and steel. You could hide behind it easy. Same with the altar in the old battlefield version. Good cover if you need it."
 
-> "**Chrono-Mage Ascendant:** The big threat. 78 HP, AC 16, master wizard. Opens with *slow*—DC 17 Wisdom save, targets 4-5 of you. That's HARD. Expect 2-3 to fail. *Slow* is brutal: speed halved, -2 AC and Dex saves, can't use reactions or bonus actions. He also has *counterspell*, *Momentary Stasis* to incapacitate someone, *dimension door* to escape, and *disintegrate* for execution. Stays behind the orrery for full cover. Has a familiar—a temporal mote that hovers nearby, occasionally helps him. It's weak, 5 HP, mostly atmospheric."
+> "Now. The game-runner's assistant. Kid named Dalla. She handles the announcer's script and the promotional material."
 
-> "**Young Squire:** The weak link. 55 HP, AC 16, inexperienced fighter. Enhanced by the mage's *haste*—AC 18, extra attack per turn, 40-foot speed. Rushes forward enthusiastically but fights predictably. If you reduce him to 0 HP, he can make a DC 12 Con save to drop to 1 HP instead—once. If he actually dies, the mage can revive him as a reaction—once. So you might have to 'kill' him twice."
+Snak pulls out another piece of parchment—this one with cleaner handwriting.
 
-> "**Temporal Echoes:** Round 3, 2-3 minions spawn from the orrery. They're alternate-timeline versions of you—27 HP each, AC 14, teleport 15 feet as bonus action, make two attacks for 1d8+3 force each. They build up bonuses against whoever they focus—cumulative +1 per hit, max +3. They also have a stun cone—DC 13 Wis save, 15-foot cone. They'll Phase Step to your backline immediately. Kill them fast before they stack bonuses."
+> "The *official* pitch is 'The Chrono-boros: An Ouroboros of Time.' Two warriors who exist across two eras. A knight and a mage. But here's the twist—they're the *same people*, young and old. In the 'past' timeline, the knight's in his prime, a legendary warrior. The mage is just a kid, an apprentice. In the 'future' timeline, the mage has become a master chronomancer, and the knight is old—or dead—replaced by a young squire the mage is training."
 
-> "**Past enemies—Rounds 4-6, 10-12, etc.:**"
+> "Each one protects their younger self. That's the ouroboros. The knight guards the apprentice mage. The mage guards the young squire. Cycle of guardianship, snake eating its tail, all that wizard poetry."
 
-> "**Temporal Knight Prime:** The legendary warrior. 112 HP, AC 18—AC 20 when within 10 feet of the apprentice. Plate armor, shield. Multiattack—three longsword attacks per turn at +7, each dealing 1d8+4 slashing plus 1d6 force. He also has legendary actions—3 per round—can impose disadvantage on attacks against the apprentice, move toward apprentice without provoking, or make an extra attack. If the apprentice dies and he can't save him, he enters RAGE—advantage on all attacks, resistance to all damage, but loses legendary actions."
+She taps the parchment.
 
-> "**Chrono-Mage Apprentice:** The weak link. 35 HP, AC 15 with *mage armor*. Young, learning, vulnerable. Has *hold person* (DC 13 Wis save), *magic missile* for damage, *shield* reaction for +5 AC, *misty step* to escape. Stays behind the knight constantly. If reduced to 0 HP, he freezes in time for 1 round—the knight can reach him and stabilize at 1 HP. If the knight doesn't reach him in time, he dies."
+> "Dalla says the arena *shifts* between these two eras. She didn't know exactly when—something about hourglasses and 'phase intervals'—but the script mentions the announcer warning the crowd before it happens. When it shifts, the *whole arena* changes. Different terrain. Different enemies. Whoever you were fighting vanishes and their counterparts from the other era appear."
 
-She taps the victory condition.
+> "Here's the part Dalla seemed nervous about. The win condition isn't just 'kill them.' The promotional copy says—and she quoted this from the wizard's notes—'To break the ouroboros, sever both origins.' 
 
-> "**Kill both weak versions.** Apprentice in Past. Young Knight in Future. If you only kill one, the strong survivor brings them back after the fight. You have to break the entire cycle."
+Snak leans back.
 
-> "**Lair actions:** At initiative count 20 every round, the arena does something. Temporal Fracture—area damage and push. Chronal Anchor—locks someone in time, speed 0, no reactions. Temporal Rewind—heals enemies. Mirror of Ages—messes with your coordination. Accelerate Time—speeds up enemies. Causality Cascade—punishes you for attacking a lot. Round 8 onward, these get stronger—more damage, higher DCs, better effects."
+> "What she *didn't* have is specifics on these warriors. The knight in his prime is supposed to be legendary—the word 'unbreakable' came up in the script. The master mage is described as 'a force that bends time itself.' Lot of dramatic language, not a lot of numbers. The young ones—the squire and the apprentice—are called 'eager but untested' and 'fragile but protected.' Make of that what you will."
 
-She looks at each of you.
+> "One more thing from Dalla. The script mentions something called 'Echoes.' Alternate timeline versions of... someone. She thinks they might be versions of *you*—gladiators who never made it, or who made different choices. They manifest partway through the fight. The promotional angle is 'face what you might have become.' Could be bullshit. Could be another wave of enemies you'll have to deal with."
 
-> "**Strategy suggestions:** Start in Future—focus Young Squire while managing Ascendant's control magic. He'll *slow* most of you Round 1. Stand in arcane circles if you're making saves against his magic—advantage helps. Don't waste resources on the Ascendant unless you can burst him—he's not the win condition. Kill Young Squire by Round 6 if possible."
+She folds the parchment.
 
-> "When timeline shifts to Past, focus Apprentice. The Knight Prime will defend him with everything—legendary actions, positioning, shield bashes. You need to bypass, grapple, or crowd-control the knight while others kill the apprentice. Don't try to outdamage the knight—112 HP and AC 20 is a waste of time. Kill the apprentice and move on."
+> "From what Marko overheard, the arena itself does things. The whole chamber is basically a giant magical trap."
 
-> "Temporal Echoes spawn Round 3—they'll teleport to your backline. Kill them fast before they stack bonuses on someone. 27 HP means focused fire drops them in 1-2 rounds."
+> "And the master mage—Marko saw him practicing. Said he moved his hands once and three of the workers just *stopped*. Stood there frozen while he walked around them, examining them like insects. Then he snapped his fingers and they all stumbled like they'd lost a few seconds. Control magic. The bad kind.."
 
-> "Environmental: Destroy floating crystals near Ascendant to hit him with explosions. Tip braziers on clustered enemies in Past. Use orrery and altar for cover—they provide full cover. Sabotage the orrery with a DC 15 Arcana check to give the Ascendant disadvantage on concentration."
+She stands up, stretching.
 
-> "Timeline shifts: You'll get one round warning before shift. Use that time to burst down weak targets. Don't get caught mid-damage-race when the timeline shifts—damage persists, but your target might vanish for 3 rounds."
+> "It's a tactical battle. The wizard didn't build this to watch you trade blows until someone falls over. He built it to see if you can figure out the trick. My advice? Don't get distracted by the big threats. Find the weak links and cut them."
 
-She closes her notes.
+She heads for the door, then pauses.
 
-> "This one rewards thinking over brute force. Strong enemies are obstacles, not victory conditions. Weak enemies are the goal. Coordinate, focus fire, and break both links in the ouroboros before they can resurrect each other."
+> "Oh—and Marko said the whole setup felt like it was meant to be *interacted with*. Breakable things, tippable things, cover that matters. The wizard wants a show, not just a slaughter. Give him one."
 
-> "Want gear? Shop's open. And talk through your strategy—this puzzle requires coordination."
+> "Shop's still open if you need gear. And for fuck's sake, *talk to each other* before you walk in there. This one needs a plan."
 
 [[../../items/snak_shop_session_9|Snak's Shop]]
 

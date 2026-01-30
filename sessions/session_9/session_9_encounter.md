@@ -254,6 +254,9 @@ The Apprentice's future self, having achieved temporal mastery. Commands time it
 #### Temporal Knight - Young Squire (Weak Version, CR 2)
 **The Novice**
 
+> **D&D Beyond Base:** [Knight](https://www.dndbeyond.com/monsters/16938-knight) (MM p347)
+> **Modifications:** AC 16 (chain mail + shield, not plate), single attack (extra via haste), HP 55
+
 The Knight's past self, still learning. Enhanced by the Ascendant's magic but inexperienced.
 
 **Stats:**
@@ -303,6 +306,9 @@ The Knight's past self, still learning. Enhanced by the Ascendant's magic but in
 
 #### Temporal Knight Prime (Strong Version, CR 5)
 **The Legend**
+
+> **D&D Beyond Base:** [Gladiator](https://www.dndbeyond.com/monsters/16905-gladiator) (MM p346)
+> **Modifications:** AC 18 (plate + shield), longsword + 1d6 force instead of spear/shield bash, add legendary actions and Guardian's Oath
 
 The Knight in his legendary prime, decades of battle experience. Protects the Apprentice with deadly efficiency.
 
@@ -413,6 +419,9 @@ The Ascendant's past self, still learning magic. Vulnerable but supported by the
 Displaced versions of party members pulled from alternate timelines. Spectral, hostile, deeply unsettling—PCs see their own faces twisted with different experiences.
 
 ### Temporal Echo Statblock (CR 2 each)
+
+> **D&D Beyond Base:** [Phase Spider](https://www.dndbeyond.com/monsters/16979-phase-spider) (MM p334) for teleport mechanic, or [Spy](https://www.dndbeyond.com/monsters/17021-spy) for exact HP
+> **Modifications:** HP 27, AC 14, replace bite/poison with Echo Strike (1d8+3 force), Ethereal Jaunt becomes Phase Step (15 ft bonus action teleport), add Temporal Mimicry
 
 **Number:** 2-3 spawn (use 2 for standard difficulty, 3 if PCs dominating)
 
