@@ -4,18 +4,21 @@
  */
 
 document.addEventListener('DOMContentLoaded', function() {
-  // Find tables in the crowds_favor page
-  if (window.location.pathname.includes('crowds_favor')) {
+  // Find tables in the crowds_favor page or snak_shop pages
+  if (window.location.pathname.includes('crowds_favor') || window.location.pathname.includes('snak_shop')) {
     const tables = document.querySelectorAll('.md-content table');
     tables.forEach(table => {
       // Add the favor-table class
       table.classList.add('favor-table');
-      enhanceTable(table);
+
+      // Determine if this is a shop table or favor table
+      const isShopTable = window.location.pathname.includes('snak_shop');
+      enhanceTable(table, isShopTable);
     });
   }
 });
 
-function enhanceTable(table) {
+function enhanceTable(table, isShopTable = false) {
   const wrapper = document.createElement('div');
   wrapper.className = 'favor-table-wrapper';
   table.parentNode.insertBefore(wrapper, table);
@@ -23,40 +26,88 @@ function enhanceTable(table) {
 
   const controls = document.createElement('div');
   controls.className = 'favor-table-controls';
-  controls.innerHTML = `
-    <div class="filter-row">
-      <input type="text" id="favor-search" placeholder="🔍 Search abilities..." class="favor-search">
-      <select id="cost-filter" class="favor-filter">
-        <option value="">All Costs</option>
-        <option value="1">Cost 1</option>
-        <option value="2">Cost 2</option>
-        <option value="3">Cost 3</option>
-        <option value="5">Cost 5</option>
-        <option value="6">Cost 6</option>
-      </select>
-      <select id="category-filter" class="favor-filter">
-        <option value="">All Categories</option>
-        <option value="offense">Offense</option>
-        <option value="defense">Defense</option>
-        <option value="mobility">Mobility</option>
-        <option value="control">Control</option>
-        <option value="support">Support</option>
-        <option value="stealth">Stealth</option>
-        <option value="signature">Signature</option>
-      </select>
-      <select id="action-filter" class="favor-filter">
-        <option value="">All Actions</option>
-        <option value="free">Free</option>
-        <option value="bonus">Bonus</option>
-        <option value="reaction">Reaction</option>
-        <option value="declared">Declared</option>
-      </select>
-      <button id="clear-filters" class="clear-btn">Clear</button>
-    </div>
-    <div class="results-info">
-      <span id="results-count"></span>
-    </div>
-  `;
+
+  if (isShopTable) {
+    // Shop-specific filters
+    controls.innerHTML = `
+      <div class="filter-row">
+        <input type="text" id="favor-search" placeholder="🔍 Search items..." class="favor-search">
+        <select id="cost-filter" class="favor-filter">
+          <option value="">All Prices</option>
+          <option value="5">5 GP</option>
+          <option value="10">10 GP</option>
+          <option value="15">15 GP</option>
+          <option value="20">20 GP</option>
+          <option value="25">25 GP</option>
+          <option value="30">30 GP</option>
+          <option value="40">40 GP</option>
+          <option value="50">50 GP</option>
+          <option value="60">60 GP</option>
+          <option value="80">80 GP</option>
+          <option value="90">90 GP</option>
+          <option value="100">100 GP</option>
+          <option value="120">120 GP</option>
+          <option value="130">130 GP</option>
+          <option value="150">150 GP</option>
+          <option value="180">180 GP</option>
+          <option value="200">200 GP</option>
+        </select>
+        <select id="category-filter" class="favor-filter">
+          <option value="">All Categories</option>
+          <option value="consumable">Consumable</option>
+          <option value="equipment">Equipment</option>
+          <option value="magic">Magic</option>
+          <option value="service">Service</option>
+        </select>
+        <select id="action-filter" class="favor-filter">
+          <option value="">All Actions</option>
+          <option value="action">Action</option>
+          <option value="worn">Worn</option>
+          <option value="pre-match">Pre-Match</option>
+        </select>
+        <button id="clear-filters" class="clear-btn">Clear</button>
+      </div>
+      <div class="results-info">
+        <span id="results-count"></span>
+      </div>
+    `;
+  } else {
+    // Favor-specific filters
+    controls.innerHTML = `
+      <div class="filter-row">
+        <input type="text" id="favor-search" placeholder="🔍 Search abilities..." class="favor-search">
+        <select id="cost-filter" class="favor-filter">
+          <option value="">All Costs</option>
+          <option value="1">Cost 1</option>
+          <option value="2">Cost 2</option>
+          <option value="3">Cost 3</option>
+          <option value="5">Cost 5</option>
+          <option value="6">Cost 6</option>
+        </select>
+        <select id="category-filter" class="favor-filter">
+          <option value="">All Categories</option>
+          <option value="offense">Offense</option>
+          <option value="defense">Defense</option>
+          <option value="mobility">Mobility</option>
+          <option value="control">Control</option>
+          <option value="support">Support</option>
+          <option value="stealth">Stealth</option>
+          <option value="signature">Signature</option>
+        </select>
+        <select id="action-filter" class="favor-filter">
+          <option value="">All Actions</option>
+          <option value="free">Free</option>
+          <option value="bonus">Bonus</option>
+          <option value="reaction">Reaction</option>
+          <option value="declared">Declared</option>
+        </select>
+        <button id="clear-filters" class="clear-btn">Clear</button>
+      </div>
+      <div class="results-info">
+        <span id="results-count"></span>
+      </div>
+    `;
+  }
   wrapper.insertBefore(controls, table);
 
   const headers = table.querySelectorAll('thead th');
@@ -89,8 +140,9 @@ function enhanceTable(table) {
       const category = cells[2].textContent.toLowerCase();
       const action = cells[3].textContent.toLowerCase();
       const effect = cells[4].textContent.toLowerCase();
+      const pitch = cells[5] ? cells[5].textContent.toLowerCase() : '';
 
-      const matchesSearch = searchTerm === '' || name.includes(searchTerm) || effect.includes(searchTerm) || category.includes(searchTerm);
+      const matchesSearch = searchTerm === '' || name.includes(searchTerm) || effect.includes(searchTerm) || category.includes(searchTerm) || pitch.includes(searchTerm);
       const matchesCost = costValue === '' || cost === costValue;
       const matchesCategory = categoryValue === '' || category === categoryValue;
       const matchesAction = actionValue === '' || action === actionValue;
@@ -103,7 +155,8 @@ function enhanceTable(table) {
       }
     });
 
-    document.getElementById('results-count').textContent = `Showing ${visibleCount} of ${rows.length} abilities`;
+    const itemType = isShopTable ? 'items' : 'abilities';
+    document.getElementById('results-count').textContent = `Showing ${visibleCount} of ${rows.length} ${itemType}`;
   }
 
   searchInput.addEventListener('input', applyFilters);

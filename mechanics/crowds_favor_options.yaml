@@ -225,7 +225,43 @@ options:
     effect: The scrying-watching crowd hints at nearby danger. Learn the direction and approximate distance (near/far) of the closest enemy to you.
 
   - cost: 3
+    name: Arena's Aegis
+    category: defense
+    action: reaction
+    effect: When you are targeted by a spell or in the area of a spell, gain advantage on the saving throw against that spell.
+
+  - cost: 3
+    name: Concentration Breaker
+    category: control
+    action: reaction
+    effect: When you see a creature within 60 ft. maintaining concentration on a spell, the crowd's thunderous chant assaults their focus. The creature must make a Constitution saving throw (DC 15) or lose concentration.
+
+  - cost: 3
     name: False Name
     category: control
     action: free
     effect: When an enemy attempts to call you out or target you by name, you can cause the crowd to shout conflicting names. The enemy must make a Wisdom save (DC = 8 + your proficiency + your Charisma modifier). On a failure, their action is wasted as confusion overwhelms them. Usable once per encounter.
+
+  - cost: 4
+    name: Spellbreaker's Chant
+    category: control
+    action: reaction
+    effect: When a creature within 60 ft. casts a spell of 2nd level or lower, the crowd's discordant chanting disrupts the weave. The spell fails and has no effect. The caster's spell slot is still expended.
+
+  - cost: 4
+    name: Spotlight Blind
+    category: control
+    action: bonus
+    effect: Choose a creature within 30 ft. Until the end of its next turn, the arena's magical lights blaze in its eyes. The creature has disadvantage on spell attack rolls, and other creatures have advantage on saving throws against its spells.
+
+  - cost: 5
+    name: The Crowd's Denial
+    category: control
+    action: reaction
+    effect: When a creature you can see within 60 ft. casts a spell of 3rd level or lower, the crowd's collective will rejects the magic. The spell fails and has no effect. The caster's spell slot is still expended.
+
+  - cost: 6
+    name: Silencing Ovation
+    category: control
+    action: bonus
+    effect: Choose a point within 60 ft. The crowd's thunderous cheering creates a 20-foot radius zone of magical interference centered on that point. The zone lasts until the start of your next turn. While in the zone, creatures cannot cast spells with verbal components, and concentration checks are made with disadvantage.

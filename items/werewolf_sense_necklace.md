@@ -2,7 +2,7 @@
 tags: [arena, items, homebrew]
 created: 2025-12-08
 updated: 2025-12-08
-visibility: private
+visibility: public
 ---
 
 # Werewolf Sense Necklace
@@ -14,23 +14,24 @@ When attuned, your senses are heightenend - you can hear, smell and see better t
 
 *"The wolf sees, the wolf hears, the wolf hungers."*
 
+A boon granted by `Beneficent Interspecies Transformative Canid Harmony Encouragement Society`. 
+
 ## Benefits
+
 While attuned:
 - **Darkvision 60 ft** (if you already have darkvision, extend range by 30 ft)
 - **Advantage on Perception checks** (hearing, sight, and smell)
 - You can track creatures by scent (advantage on Survival checks to track)
 
 ### Gift of the Rabid
-At the **beginning of your turn in combat**, if the necklace judges you are in danger or need help, it offers its **Gift**. You feel the wolf's hunger pulse through the necklace—a hot, urgent sensation.
+
+At the **beginning of your turn in combat**, if the necklace judges you are in danger or need help, it offers its **Gift**. You feel the a hunger pulse through the necklace—a hot, urgent sensation.
 
 You may **accept or refuse** the Gift:
 
 **If you ACCEPT:**
 - Roll a Wisdom save and report it to the DM
 - Gain **+10 ft movement** and **advantage on your next attack roll** this turn
-
-DM Notes: 
-- Each use of the Gift adds one **Wolf Token** to your total (use a die or token to track)
 
 ### The Price:
 At the **end of your turn**

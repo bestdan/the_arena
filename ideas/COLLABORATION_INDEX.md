@@ -28,6 +28,21 @@ Sessions where different PCs gain different capabilities requiring cooperation:
 
 - **[[giants_and_mice]]** (Levels 6-9) - Half grow to giant size, half shrink to mouse size. Each size solves different problems.
 - **[[mirror_worlds]]** (Levels 5-8) - Party split across parallel dimensions. Cross-dimensional coordination required.
+- **[[the_ascending_abyss]]** (Levels 5-7) - Half have climbing gear, half don't. Vertical combat with rising water requires hauling teammates.
+- **[[the_crown_of_tyrants]]** (Levels 5-8) - Corrupting crown must rotate between PCs every 3 rounds. Power shared, curse managed together.
+
+### Communication and Trust
+Sessions where coordination through communication is essential:
+
+- **[[the_blind_orchestra]]** (Levels 4-7) - All PCs blinded, must coordinate through sound to play musical puzzle while fighting.
+- **[[the_living_labyrinth]]** (Levels 5-7) - Shifting maze with riddle clues. Memory and verbal coordination essential.
+- **[[the_memory_crucible]]** (Levels 4-7) - Team must share memory of expanding symbol patterns to damage enemies.
+- **[[the_assassins_masquerade]]** (Levels 5-8) - Imposters mimic PCs. Trust verification through questions, codes, and behavior.
+
+### Sacrifice and Choice
+Sessions where team must make collective decisions with consequences:
+
+- **[[the_sacrifice_altar]]** (Levels 5-8) - Five altars demand sacrifices (HP, skills, gold, aging, friendship). Team decides who pays what price.
 
 ## By Difficulty
 
@@ -35,22 +50,36 @@ Sessions where different PCs gain different capabilities requiring cooperation:
 - **[[linked_fate]]** (Levels 4-7) - Paired combat with shared HP
 - **[[eyes_and_hands]]** (Levels 4-7) - Sensory deprivation cooperation
 - **[[giants_and_mice]]** (Levels 6-9) - Size asymmetry puzzles
+- **[[the_blind_orchestra]]** (Levels 4-7) - Darkness + musical puzzle + echolocation combat
+- **[[the_ascending_abyss]]** (Levels 5-7) - Vertical climbing with rising water pressure
+- **[[the_memory_crucible]]** (Levels 4-7) - Pattern memory under combat pressure
 
 ### Deadly (Brutal Without Perfect Teamwork)
 - **[[mirror_worlds]]** (Levels 5-8) - Dimensional split coordination
 - **[[burden_relay]]** (Levels 5-8) - Timed rotation under assault
 - **[[shared_spark]]** (Levels 6-9) - Shared resource management
+- **[[the_living_labyrinth]]** (Levels 5-7) - Maze with crushing walls and riddles
+- **[[the_crown_of_tyrants]]** (Levels 5-8) - Corruption management with rotation timing
+- **[[the_assassins_masquerade]]** (Levels 5-8) - Social deduction under attack
+- **[[the_sacrifice_altar]]** (Levels 5-8) - Moral choices scale boss difficulty
 
 ## Recommended Progression
 
 For groups new to tight collaboration mechanics:
 
-1. **[[linked_fate]]** - Introduces paired mechanics with clear benefits
-2. **[[eyes_and_hands]]** - Builds trust through sensory limitations
-3. **[[giants_and_mice]]** - Adds asymmetry and creative problem-solving
-4. **[[burden_relay]]** - Introduces timed rotations and role-swapping
-5. **[[mirror_worlds]]** - Advanced coordination across barriers
-6. **[[shared_spark]]** - Ultimate team-wide resource management
+1. **[[the_memory_crucible]]** - Simple cooperation: share pattern memory, coordinate attacks
+2. **[[linked_fate]]** - Introduces paired mechanics with clear benefits
+3. **[[the_blind_orchestra]]** - Sensory deprivation + puzzle solving requires constant communication
+4. **[[eyes_and_hands]]** - Builds trust through sensory limitations and guidance
+5. **[[the_ascending_abyss]]** - Asymmetric resources require helping each other climb
+6. **[[giants_and_mice]]** - Adds asymmetry and creative problem-solving
+7. **[[the_living_labyrinth]]** - Memory + positioning + riddles under pressure
+8. **[[the_crown_of_tyrants]]** - Timed rotations with corruption management
+9. **[[burden_relay]]** - Introduces timed rotations and role-swapping
+10. **[[the_assassins_masquerade]]** - Trust verification and paranoia management
+11. **[[mirror_worlds]]** - Advanced coordination across barriers
+12. **[[the_sacrifice_altar]]** - Moral team decisions with permanent consequences
+13. **[[shared_spark]]** - Ultimate team-wide resource management
 
 ## Design Notes
 

@@ -17,13 +17,14 @@ Use this guide when drafting or revising session notes. Keep the Arena theatrica
 - Inspect the notes from the previous session, `session_x_notes.md` for deaths, plot points etc
 
 ## Organization
-- create 4 files per session using the templates available at `@templates/`
+- create 5 files per session using the templates available at `@templates/`
   - `session_x_setup_players.md` which holds pre-session setup to be shared with the players - Snak's explanation of the session, advice. 
   - `session_x_setup_gm.md` which holds pre-session info for the game master. 
   - `session_x_game.md` holds details of how to run the sessions: npcs, enemies, environment changes etc
   - `session_x_notes.md` holds notes from the played session, actions taken favor granted, items taken, plot lines developed etc
-  - `index.md` should just be links to each of the files, if they are public
-  - `.pages` for the github index page to render correctly, just the 
+  - `index.md` should just be links to each of the files, if they are public. Not summary.
+  - `.pages` for the github index page to render correctly, just put the index, nothing more
+  - `session_x_snak_shop.md`: follow the advices in @items/AGENTS.md
 Within each template file, look for lua braces `{{}}` for content to fill in 
 
 
@@ -41,6 +42,8 @@ Within each template file, look for lua braces `{{}}` for content to fill in
 - Track consequences and continuity (wounds, debts, patron favors). Consult previous sessions notes.
 - Link named NPCs, locations, and mechanics using Obsidian wiki-link syntax.
 - Aim for concise headings and bullets where it helps scanning; otherwise flow with narrative prose.
+
+When writing NPC dialog, follow the rules in /sessions/npc_writing_rules.md
 
 **Important **
 - By default, new sessions should have `visibility: private` in front matter.

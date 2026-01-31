@@ -1,11 +1,18 @@
 ---
-tags: [arena, encounter-idea, darkness, survival, horror]
+tags:
+  - arena
+  - encounter-idea
+  - darkness
+  - survival
+  - horror
 encounter_type: environmental
-party_size: "4-6"
-level_range: "4-6"
+party_size: 4-6
+level_range: 4-6
 difficulty: hard
-mechanics: [crowds-favor, panache]
-status: ready
+mechanics:
+  - crowds-favor
+  - panache
+status: completed
 created: 2025-11-21
 ---
 # Night Game
