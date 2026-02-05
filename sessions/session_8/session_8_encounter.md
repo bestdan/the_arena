@@ -311,11 +311,21 @@ Enemies spawn at **initiative count 15** each round from side tunnels. Spawn loc
   - Uses *Cure Wounds* on wounded enemies (priority: Veteran)
   - Spawn from north tunnel at 120 feet
 
-### Round 7: Second Wave
-**2 Thugs** (CR 1/2 each)
-- Fresh melee reinforcements
-- Spawn from south tunnel at 135 feet
-- Use Pack Tactics with Priest nearby
+### Round 7: The Iron Burden
+**1 Kaelen the Gravity Paladin** (CR 4) + **1 Thug** (CR 1/2)
+- **Kaelen (Gravity Paladin):** HP 70, AC 15 (unarmored defense)
+  - Multiattack: 2 Atlas Bar attacks (+6, 2d6+3 bludgeoning, reach 10 ft)
+  - **Gravity Well:** 10-foot aura treats area as difficult terrain (carriers move only 5 feet/round in Killing Field!)
+  - **Crushing Grip:** Grapple as bonus action after hitting (advantage, +8 Athletics)
+  - **Weight of the World:** On hit, DC 14 STR save or speed reduced by 10 ft
+  - **Unbreakable Form:** Cannot be forcibly moved, immune to prone
+  - Spawn from west tunnel at 100 feet (center of Killing Field)
+  - **Priority:** Position between carriers and gate, grapple carriers
+  - Speaks weight-training mantras during combat
+  - See [[kaelen_gravity_paladin]] for full stat block
+- **Thug:** HP 32, AC 11, Multiattack (2 mace attacks +4, 1d6+2 each)
+  - Spawn from south tunnel at 135 feet
+  - Use Pack Tactics with Priest and Kaelen nearby
 
 ### Round 8: Respite
 **No spawn** (brief respite for second swap around Round 7-8)
@@ -370,9 +380,11 @@ Enemies spawn at **initiative count 15** each round from side tunnels. Spawn loc
 - Pressure to finish quickly
 
 ### Total Enemy Count
-- Rounds 1-13: Approximately 15-16 enemies
+- Rounds 1-13: Approximately 15-16 enemies (including Kaelen CR 4 mini-boss)
 - Round 14+: Additional 1 per round
-- **Total XP:** ~4,800 XP (Hard-to-Deadly encounter for 4 level 4 PCs)
+- **Total XP:** ~5,900 XP (Deadly encounter for 4 level 4 PCs)
+  - Kaelen adds 1,100 XP (CR 4)
+  - Strong movement-denial specialist creates unique tactical challenge
 - **Expected Duration:** 12-16 rounds (with 2 defenders only, combat is more challenging)
 
 ---
@@ -392,6 +404,22 @@ Enemies spawn at **initiative count 15** each round from side tunnels. Spawn loc
   - Other carrier cannot move Shard alone—progress halts
   - Must break grapple or have defender shove enemy off
 - Drag grappled carrier away from partner (separate >10 feet = drop Shard)
+
+### Kaelen (Gravity Paladin) Special Tactics
+- **Movement Denial Specialist:** Primary goal is to slow/stop carrier progress, not deal damage
+- **Positioning:** Plant himself in middle of corridor at 100-foot mark (Killing Field center)
+- **Gravity Well Aura:** His 10-foot radius treats area as difficult terrain
+  - In Killing Field (already difficult terrain): Carriers move only 5 feet/round through his aura (devastating!)
+  - Forces carriers to either defeat him, bypass him (costly movement), or push through slowly
+- **Crushing Grip Priority:** After hitting a carrier with Atlas Bar, immediately grapple as bonus action
+  - +8 Athletics with advantage (very hard to escape)
+  - Grappled carrier's speed becomes 0 (cannot move Shard)
+  - Other carrier forced to stop or drop Shard
+- **Immovable Object:** Never retreats, holds center position
+  - Uses Unbreakable Form to resist shoves/forced movement
+  - Speaks mantras while fighting ("The stone you carry is nothing. I carry mountains daily.")
+- **Synergy:** Works best with other enemies—archers fire while he locks carriers down
+- **Do NOT:** Chase defenders or break formation—let enemies come to him
 
 ### Priority 3: Kill/Disable Defenders
 - Remove defenders to leave carriers vulnerable
@@ -457,12 +485,16 @@ Enemies spawn at **initiative count 15** each round from side tunnels. Spawn loc
 - Priest will heal wounded enemies, especially Veteran
 - Risk of defender being paralyzed
 
-### Round 7: Second Wave and Second Swap
-- Carriers at ~90 feet, still in difficult terrain
-- 2 Thugs spawn (fresh melee reinforcements)
-- **Announce:** "Time for second swap!"
+### Round 7: The Iron Burden and Second Swap
+- Carriers at ~90-100 feet, still in difficult terrain
+- **Kaelen the Gravity Paladin** spawns at 100 feet (CR 4 movement-denial specialist!)
+- **Announcer:** "From the depths! THE IRON BURDEN! Kaelen the Unyielding! Can they move the stone when GRAVITY ITSELF opposes them?!"
+- 1 Thug spawns (reinforcement)
+- **Critical:** Kaelen's Gravity Well aura + Killing Field = carriers move only 5 feet/round through his area
+- **Second swap due this round or next** (carriers at 3 rounds)
+- Kaelen will try to grapple carriers and hold center position
+- Massive bottleneck—must defeat, bypass, or push through him slowly
 - Existing enemies coordinating (Pack Tactics opportunities)
-- Spike pits still threatening
 
 ### Round 8: Respite
 - No new spawns
@@ -555,7 +587,9 @@ Enemies spawn at **initiative count 15** each round from side tunnels. Spawn loc
 - Kill enemy targeting Shard before it attacks crystal: +3 (clutch save)
 - Shove enemy into spike pit creatively: +2
 - Create perfect swap window (clear 10-foot radius): +2 (split among defenders)
-- Kill Assassin before it reaches carriers: +3
+- Defeat Kaelen the Gravity Paladin in 1v1 melee combat: +2 (impressive feat of strength)
+- Pin Kaelen with his own Atlas Bar after defeating him: +1 (poetic justice, theatrical)
+- Use Kaelen's mantras against him in combat banter: +1 (crowd loves philosophical duels)
 - Unlock East Gate under pressure while enemies attack: +1
 
 ### Team Actions
@@ -603,12 +637,31 @@ Enemies spawn at **initiative count 15** each round from side tunnels. Spawn loc
 "Into the gauntlet's HEART! Spike pits! Archers! Death at every step!"
 ```
 
-### Assassin Arrival (Round 5)
+### Kaelen the Gravity Paladin Arrival (Round 7)
 ```
-"The SHADOW BLADE arrives! Death incarnate! Carriers—BEWARE!"
+"From the depths! THE IRON BURDEN! Kaelen the Unyielding!"
+"Can they move the stone when GRAVITY ITSELF opposes them?!"
 ```
 
-### Entering Final Stretch (Round 7)
+### Kaelen's Gravity Well Slows Carriers
+```
+"They STRUGGLE! Every step a battle against the weight of the WORLD!"
+"The Iron Burden holds them fast! Five feet. FIVE FEET! Can they break through?!"
+```
+
+### Kaelen Grapples a Carrier
+```
+"HELD FAST! The carrier is PINNED under crushing grip!"
+"Movement... STOPPED! This is the power of DISCIPLINE!"
+```
+
+### Kaelen Defeated
+```
+"The immovable... has FALLEN! But what a STAND he made!"
+"Remember the Gravity Paladin! Remember his STRENGTH!"
+```
+
+### Entering Final Stretch (Round 9+)
 ```
 "The gate is IN SIGHT! One last PUSH! But the gauntlet is NOT finished!"
 ```

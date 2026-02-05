@@ -86,7 +86,9 @@ Transport Burden Stone from West Gate (0 feet) to East Gate (120 feet) while def
 - Carrier survives 3 rounds without exhaustion: +2
 - Defender kills enemy targeting Shard: +3
 - Shove enemy into spike pit: +2
-- Kill Assassin before reaching carriers: +3
+- **Defeat Kaelen in 1v1 melee combat: +2** (impressive feat of strength)
+- **Pin Kaelen with his own Atlas Bar after defeat: +1** (poetic justice, theatrical)
+- **Use Kaelen's mantras against him in combat banter: +1** (crowd loves philosophical duels)
 - Carrier shoves enemy while carrying (Panache): +3
 - Complete zone with Shard at full HP: +2 (all)
 - Unlock gate under pressure: +1
@@ -110,24 +112,51 @@ Transport Burden Stone from West Gate (0 feet) to East Gate (120 feet) while def
 - [ ] Scout 2 (HP: 16) - South Platform
 
 ### Round 3 Spawn
-- [ ] Veteran 1 (HP: 58)
-- [ ] Veteran 2 (HP: 58)
-- [ ] Priest (HP: 27)
+- [ ] Scout 1 (HP: 16) - North Platform at 90 feet
+- [ ] Scout 2 (HP: 16) - South Platform at 115 feet
+
+### Round 4 Spawn
+(No spawn - respite for first swap)
 
 ### Round 5 Spawn
-- [ ] Assassin (HP: 78) - BOSS
+- [ ] Veteran 1 (HP: 58) - Spawns at 105 feet
 
 ### Round 6 Spawn
-- [ ] Berserker 1 (HP: 67)
-- [ ] Berserker 2 (HP: 67)
+- [ ] Priest (HP: 27) - Spawns at 120 feet
 
-### Round 7 Spawn
-- [ ] Goblin 1 (HP: 7)
-- [ ] Goblin 2 (HP: 7)
-- [ ] Goblin 3 (HP: 7)
-- [ ] Goblin 4 (HP: 7)
-- [ ] Berserker 3 (HP: 67)
-- [ ] Berserker 4 (HP: 67)
+### Round 7 Spawn - THE IRON BURDEN
+- [ ] **Kaelen the Gravity Paladin (HP: 70, AC: 15)** - CR 4 MINI-BOSS
+  - Multiattack: 2 attacks (+6, 2d6+3 bludgeoning, reach 10 ft)
+  - **Gravity Well:** 10-foot aura (difficult terrain) - carriers move only 5 ft/round in Killing Field!
+  - **Crushing Grip:** Grapple as bonus action after hitting (+8 Athletics, advantage)
+  - **Weight of the World:** On hit, DC 14 STR save or speed reduced by 10 ft
+  - **Unbreakable Form:** Cannot be forcibly moved, immune to prone
+  - Priority: Position at 100-foot mark, grapple carriers, speak mantras
+  - See [[../../../npcs/kaelen_gravity_paladin|full stat block]]
+- [ ] Thug 1 (HP: 32) - Spawns at 135 feet
+
+### Round 8 Spawn
+(No spawn - respite)
+
+### Round 9 Spawn
+- [ ] Gladiator (HP: 112, AC: 16) - CR 5 MINI-BOSS
+  - Multiattack: 3 spear attacks (+7, 1d6+4 or 1d8+4)
+  - Shield Bash, Parry (+3 AC vs one melee attack)
+
+### Round 10 Spawn
+- [ ] Goblin 1 (HP: 7) - Drops from ceiling
+- [ ] Goblin 2 (HP: 7) - Drops from ceiling
+- [ ] Goblin 3 (HP: 7) - Drops from ceiling
+
+### Round 11 Spawn
+- [ ] Berserker 1 (HP: 67) - Spawns at 165 feet
+  - Reckless Attack, Greataxe +5 (1d12+3)
+
+### Round 12 Spawn
+(No spawn - respite)
+
+### Round 13 Spawn
+- [ ] Veteran 2 (HP: 58) - Final major threat at 180 feet
 
 ### Round 8+ Spawn
 - [ ] Berserker 5 (HP: 67)
