@@ -1,4 +1,11 @@
-
+---
+tags: [arena, documentation, meta, ai-support]
+content_type: guide
+audience: gm
+visibility: public
+created: 2025-11-21
+updated: 2026-08-20
+---
 ## AI Support for GMs
 
 This repository is designed to work seamlessly with AI assistants (Claude, GitHub Copilot, etc.) for brainstorming and session management.
