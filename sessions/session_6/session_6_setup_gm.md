@@ -213,29 +213,6 @@ This is a unique hunt—crowd loves it:
 
 ---
 
-## Environmental Hazards Detail
-
-### Thorn Bushes (5 total)
-**Locations (suggested):**
-1. Northwest quadrant (between fountain and north archway)
-2. Northeast quadrant (near east archway—near the net!)
-3. Southeast quadrant
-4. Southwest quadrant
-5. Western edge (between two pillars)
-
-**Mechanics:**
-- Entering or starting turn inside: Dex save DC 12
-- Failure: 1d6 piercing
-- Failure by 5+: Also 1d4 poison + bleeding
-- Bleeding: 1 damage per round (automatic, no save)
-- Treatment: DC 10 Medicine check (action) or magical healing
-
-**Tactical Use:**
-- Shove enemies in (Athletics vs. Athletics/Acrobatics)
-- Half cover if crouching inside (but taking damage)
-- Use to block movement paths
-- Describe vividly: "Wicked thorns as long as daggers, glistening with poison"
-
 ### Fountain
 **Benefits:**
 - Wash poison (action, removes poison damage and bleeding)
@@ -245,11 +222,6 @@ This is a unique hunt—crowd loves it:
 **Describe:** "Cool, clear water bubbles from ancient stone spouts. It looks refreshing."
 
 ### Sand Pits (3 total)
-**Locations (suggested):**
-1. Southern edge
-2. Western quadrant
-3. Eastern quadrant
-
 **Mechanics:**
 - Difficult terrain (2 feet of movement per 1 foot traveled)
 - No save, just slows movement
@@ -260,42 +232,9 @@ This is a unique hunt—crowd loves it:
 - Disadvantage if trying to catch Pygmy Wyvern while in sand
 - Describe: "Loose sand shifts under your feet, slowing your sprint"
 
-### Pillars (6 total)
-**Scattered throughout arena**
-- 10 feet tall, 5 feet diameter
-- Full cover if behind
-- Can climb (Athletics DC 12)
-- Pygmy Wyvern uses to break line of sight
-
-**Tactical Use:**
-- Cover from ranged attacks (javelins, thrown nets)
-- High ground for observation
-- Describe: "Ancient stone columns, weathered but sturdy"
-
 ---
 
 ## Rival Tactics in Detail
-
-### Round-by-Round Rival Behavior
-
-**Rounds 1-2: Positioning**
-- Karn: Searches for net (if he finds it first, claims it)
-- Vessa: Chases Pygmy Wyvern aggressively
-- Tormund: Engages nearest PC (blocking)
-- Lira: Flanks, tries to catch Pygmy Wyvern
-- Finn: Stays back, shouts predictions (helps his team)
-
-**Rounds 3: Engagement**
-- 2 rivals chase Pygmy Wyvern, 2 fight PCs
-- Finn continues predictions
-- If rival catches Pygmy Wyvern: others form protective circle
-- Use javelins to harass PCs from range
-
-**Rounds 4-6: Desperation**
-- Aggressive shoves into thorn bushes
-- Attempts to steal net if PCs have it
-- If losing (3+ rivals down), remaining ones go all-in on Pygmy Wyvern
-- Pygmy Wyvern speeds up to 80 feet
 
 **Rounds 7-8: Final Push**
 - Extreme caution if holding Pygmy Wyvern (no big damage attacks)
@@ -308,11 +247,6 @@ This is a unique hunt—crowd loves it:
 - 4 or 5 rivals reduced to 0 HP
 - Round 6+ and they have no hope of getting Pygmy Wyvern
 - Karn's HP below 20 and at least 2 others down
-
-**Surrender Dialogue:**
-- Karn: "Enough! We yield! The prize is yours!"
-- Drops weapons, backs away
-- Crowd cheers (respects honorable surrender)
 
 ---
 
