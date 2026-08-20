@@ -10,11 +10,10 @@ created: 2025-12-06
 ---
 # Eyes and Hands
 
-- **Hook:** Cursed masks seal half the gladiators' sight while binding the others' arms. The Blinded can fight but cannot see; the Bound can see but cannot attack. Only by pairing Sight with Strength can they navigate the maze, find keys, and defeat enemies. The crowd watches through scrying screens—one shows what the Blinded experience (darkness), the other what the Bound observe (helpless clarity). Ultimate trust or ultimate failure.
+- **Hook:** Cursed masks seal half the gladiators' sight while binding the others' arms. The Blinded can fight but cannot see; the Bound can see but cannot attack. Only by pairing Sight with Strength can they navigate the maze, find keys, and defeat enemies. Ultimate trust or ultimate failure.
 - **Party:** 4-6 PCs. Half are Blinded (masks sealed over eyes), half are Bound (arms magically restrained). Must form mandatory pairs.
 
 ## Arena Layout
-- 80×80-foot labyrinth of 10-foot-wide corridors with shifting walls (rotate every 4 rounds).
 - Three key pedestals scattered throughout: Blinded PCs cannot locate them (Perception auto-fail); Bound PCs can see but cannot retrieve (requires free hands).
 - Central chamber (20×20 feet) houses the Keymaster Boss; locked door requires all three keys simultaneously.
 - Traps triggered by pressure plates (visible only to Bound PCs); Blinded must be guided around them.

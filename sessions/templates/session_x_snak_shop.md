@@ -3,7 +3,7 @@ tags: [arena, items, shop, session-X]
 content_type: index
 created: 
 updated: 
-visibility: public
+visibility: private
 ---
 
 # Snak's Shop - Session X

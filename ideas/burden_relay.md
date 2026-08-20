@@ -8,9 +8,9 @@ mechanics: [crowds-favor, panache]
 status: ready
 created: 2025-12-06
 ---
-# The Burden Relay
+# The Burden Shared
 
-- **Hook:** Ancient gladiatorial tradition returns—champions must carry the Obelisk Shard across a gauntlet while enemies swarm. The Shard is impossibly heavy; only two can bear it at once, and they cannot fight while carrying. The others must defend. Every 3 rounds, bearers MUST swap or collapse from exhaustion. The crowd watches the desperate choreography—can they pass the burden without dropping it?
+- **Hook:** Ancient gladiatorial tradition returns—champions must carry the Burden Stone across a gauntlet while enemies swarm. The Shard is impossibly heavy; only two can bear it at once, and they cannot fight while carrying. The others must defend. Every 3 rounds, bearers MUST swap or collapse from exhaustion. The crowd watches the desperate choreography—can they pass the burden without dropping it?
 - **Party:** 4-6 PCs must work as rotating pairs. Two carry, others defend. Coordination and timing determine survival.
 
 ## Arena Layout
@@ -19,11 +19,11 @@ created: 2025-12-06
 - Scattered obstacles: barricades (provide cover, slow movement), spike pits (10-foot squares, DC 13 Dex or 2d6 damage), and collapsing platforms (Athletics DC 12 to cross before falling).
 - No safe zones; enemies spawn continuously from side tunnels.
 
-## The Obelisk Shard (Core Mechanic)
+## The Burden Stone (Core Mechanic)
 **Carrying Requirements:**
 - Requires EXACTLY 2 PCs carrying simultaneously (each using both hands).
 - Carriers cannot make attacks, cast spells with somatic components, or use items.
-- Carriers can move but speed reduced to 15 feet (shared movement; both must coordinate).
+- Carriers can move but speed reduced by half (shared movement; both must coordinate).
 - Carriers can make Strength (Athletics) checks, shove, or dodge.
 - If only 1 PC attempts to carry alone: auto-failure, Shard drops, combat pauses while they scramble to lift it (loses 1 round).
 
@@ -76,7 +76,7 @@ created: 2025-12-06
 - Enemy ambush: 4 Goblins (CR 1/4) drop from ceiling when carriers enter this zone.
 
 ## Objectives
-- **Primary:** Carry Obelisk Shard from West Gate to East Gate (120 feet) without shattering.
+- **Primary:** Carry Burden Stone from West Gate to East Gate (120 feet) without shattering.
 - **Secondary:** Complete relay with no carrier gaining more than 1 exhaustion level.
 - **Bonus:** Execute 2+ clean swaps (no damage taken during swap round) (+2 [[crowds_favor|Favor]] to team).
 
@@ -102,7 +102,7 @@ created: 2025-12-06
 - Unlock gates, clear hazards, provide healing/buffs to carriers.
 
 ## Announcer Beats
-- Opening: "The Burden Relay! An ancient test of unity! Carry or collapse—there is NO middle ground!"
+- Opening: "The Burden Shared! An ancient test of unity! Carry or collapse—there is NO middle ground!"
 - First swap: "The exchange! Smooth as silk! Can they maintain this pace?!"
 - Enemy targets Shard: "They strike the crystal! Protect the relic!"
 - Exhaustion failure: "Strain takes its toll! The bearer FALTERS! Can they recover?!"
@@ -124,9 +124,9 @@ created: 2025-12-06
 ## Aftermath Seeds
 - **Burden Bearers:** Carriers develop subtle muscle strain injuries; cosmetic reminders of the weight borne.
 - **Patron Interest:** Military commander impressed by relay coordination; offers contract to transport precious cargo through hostile territory (dangerous, lucrative).
-- **Rumor:** The Obelisk Shard was fragment of ancient prison obelisk; its destination (East Gate) was a ritual circle. What were they really transporting?
+- **Rumor:** The Burden Stone was fragment of ancient prison obelisk; its destination (East Gate) was a ritual circle. What were they really transporting?
 - **Legendary Moment:** If team completed with 0 exhaustion and Shard at full HP, crowd commissions relay sculpture: two figures bearing crystal, surrounded by defenders.
-- **Political:** Arena masters plan to make Burden Relay a regular event; rival teams begin training specifically for it.
+- **Political:** Arena masters plan to make Burden Shared a regular event; rival teams begin training specifically for it.
 - **Downtime:** Relay endurance training available; carriers can build resistance to exhaustion in future burden scenarios.
 - **Equipment:** PCs can commission "Carrier's Harness" (expensive, 100gp): grants +2 to Con saves while carrying heavy objects.
 - **Injury:** Defender who saved Shard from destruction develops "Guardian's Instinct": minor PTSD-like hyper-vigilance around fragile objects.

@@ -52,6 +52,8 @@ After **3 consecutive successful** Panache rolls, the crowd becomes **Hot** for 
 | 2 | The Chant Rises | defense | free | Gain advantage on your next saving throw |
 | 2 | Turn the Knife | offense | free | Reroll damage you just rolled |
 | 3 | Arena Acrobatics | mobility | bonus | Until the end of your turn, your movement doesn't provoke opportunity attacks and you can move through enemy spaces |
+| 3 | Arena's Aegis | defense | reaction | When targeted by a spell or in a spell's area, gain advantage on the saving throw. |
+| 3 | Concentration Breaker | control | reaction | When you see a creature within 60 ft. maintaining concentration, force a DC 15 concentration save. |
 | 3 | Crowd Favorite | offense | free | Your next attack that hits deals an additional 2d6 damage |
 | 3 | Crowd Shield | defense | reaction | When you would take damage, reduce it by 2d8 + your Charisma modifier (minimum 1) |
 | 3 | Dramatic Dodge | defense | reaction | When targeted by an attack, impose disadvantage on the attack roll and move up to 10 feet without provoking opportunity attacks |
@@ -62,6 +64,10 @@ After **3 consecutive successful** Panache rolls, the crowd becomes **Hot** for 
 | 3 | Second Wind | defense | bonus | Regain HP equal to 1d10 + your proficiency bonus |
 | 3 | Steal the Show | support | bonus | Grant an ally within 30 ft. advantage on their next attack roll and +1d8 to the damage if it hits |
 | 3 | Tankin' Time | defense | bonus | Give yourself temporary HP = your proficiency bonus × 2 |
+| 4 | Spellbreaker's Chant | control | reaction | When a creature within 60 ft. casts a spell of 2nd level or lower, the spell fails (slot expended). |
+| 4 | Spotlight Blind | control | bonus | Choose a creature within 30 ft. Until end of its next turn, it has disadvantage on spell attacks and targets have advantage on saves vs. its spells. |
 | 5 | Finisher's Spotlight | signature | declared | Declare at start of turn: your attacks deal +10 damage (flat) this turn |
+| 5 | The Crowd's Denial | control | reaction | When a creature within 60 ft. casts a spell of 3rd level or lower, the spell fails (slot expended). |
 | 5 | Turn the Tide | signature | free | Once per encounter: automatically succeed on a death saving throw and stand up with 1 HP |
+| 6 | Silencing Ovation | control | bonus | Choose a point within 60 ft. For 1 round, 20 ft. radius zone blocks verbal component spells; concentration checks have disadvantage. |
 | 6 | The Arena's Blessing | signature | free | For 3 rounds: all Panache rolls gain advantage; if you drop to 0 HP, drop to 1 instead (once) |

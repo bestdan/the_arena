@@ -43,6 +43,8 @@ Within each template file, look for lua braces `{{}}` for content to fill in
 - Link named NPCs, locations, and mechanics using Obsidian wiki-link syntax.
 - Aim for concise headings and bullets where it helps scanning; otherwise flow with narrative prose.
 
+When writing NPC dialog, follow the rules in /sessions/npc_writing_rules.md
+
 **Important **
 - By default, new sessions should have `visibility: private` in front matter.
 - Never link to files which do not have `visibility: public` in their front matter. 
