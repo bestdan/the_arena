@@ -14,9 +14,7 @@ updated: 2025-12-13
 **Party Playing:** 
 - Father Crow (Cleric, level 3)
 - Torgana (Barbarian, level 3)
-- Imwe (Fighter, level 3)
 - Killing Eagle Laughs (Ranger, level 3)
-- [Fifth PC name] ([Class], level 3)
 
 ---
 

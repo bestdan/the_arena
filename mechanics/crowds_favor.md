@@ -40,7 +40,7 @@ After **3 consecutive successful** Panache rolls, the crowd becomes **Hot** for 
 | 1 | Up by your Bootstraps | mobility | bonus | Stand from prone using no movement |
 | 2 | Bold Stance | defense | bonus | Until end of your next turn: can't be pushed or knocked prone; opportunity attacks against you at disadvantage |
 | 2 | Crowd's Eyes | control | bonus | The scrying-watching crowd hints at nearby danger. Learn the direction and approximate distance (near/far) of the closest enemy to you. |
-| 2 | Light in Their Eyes | defense | reaction | After an enemy hits you, force them to reroll the attack |
+| 2 | Light in Their Eyes | defense | reaction | After an enemy hits you or an ally within 20 ft, force them to reroll the attack |
 | 2 | Misdirection | control | bonus | Choose a creature within 30 ft. The crowd creates a distraction. The creature must make an Intelligence save or waste their action this turn as they react to false information from the crowd. |
 | 2 | Moral Support | support | bonus | Take the Help action as a bonus action |
 | 2 | Roaring Momentum | mobility | free | After hitting or succeeding, immediately move up to half your speed without provoking opportunity attacks |
