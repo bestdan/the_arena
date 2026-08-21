@@ -46,6 +46,10 @@ She pushes something across the table — a small chalk-white bead.
 >
 > "Once. That's it. And don't get clever and save it — crowd counts. They see you walk off that sand still holding it, they'll call you a miser and you'll wear that for a season."
 
+She taps the table twice, which is what she does when she is about to say the part that matters.
+
+> "Mind — there's one moment out there where holding onto it is the smart play and everyone watching knows it. You'll know it when you get there. The crowd'll be counting."
+
 > "Oh — and they'll bring the kids down to the gate before the bout. Portraits, the oath, all that. You'll be standing right there with 'em. Sponsors watch who each kid takes a shine to, and the odds move on it. Make of that what you will."
 
 She stands.
@@ -69,6 +73,14 @@ Snak comes back later, and she is pleased with herself in a way that usually cos
 > "You break that plate, that panel stops working. But my fella says there's a charge sitting in the line, and if you smash it, everything that panel had left goes off at once, right then, all of it, on top of you. If you've got soft hands and you take your time you can unpick it quiet instead."
 
 > "Last thing, and I mean it. If you do that, you've taken the show away from ten thousand people who came to see it. They will hate you for it — *unless* you make it the best thing they see all year. There's no middle. Think hard."
+
+She is not finished. She refills, and does not drink it.
+
+> "One more, and this is the bit I'd have told you for free if you hadn't already paid. That box holds nine and only nine. When the last button's gone, there's a remainder, and the box has got nowhere to put it but down."
+
+> "It comes down on the whole floor. All at once, everyone, you and Bassa's lot together. Quick feet help. Nothing else does."
+
+> "That's why the mob counts the buttons off. They're not cheering the kids by then, they're counting down to the *drop*. So — that bead in your hand. That's what it's for, if you've got the nerve to still be holding it. And if you are still holding it when it comes, they'll love you for it. They'll have watched you not spend it for six rounds."
 
 ---
 
@@ -95,6 +107,8 @@ Then the children come down.
 *(The crowd roars. It roars loudest for the third name, and it does not roar kindly, and it does not roar cruelly either. It just roars.)*
 
 > "Nine buttons, my friends. Nine. Not one of them pressed yet. Let's find out what they DO!"
+
+*(And somewhere in the upper tiers, early, far too early, a section of the crowd has already started counting.)*
 
 ---
 

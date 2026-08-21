@@ -64,6 +64,20 @@ Keep this side of the screen. Reshuffle it freely if the party ever plays this b
 
 **Bell into Key.** If Mirror Skins is running when the Shuffle lands — or you can press for it — nobody on the sand knows who anyone is. Identical faces, scrambled positions. Let the table sit in that for a round before anyone swings. It is the best moment the bout has.
 
+## The Empty Box
+The lattice is charged for nine. It is not built to hold what is left over when the ninth is gone.
+
+**Trigger:** at the end of the round in which the **last remaining button** is pressed. Not the ninth press — the last one *available*, so killing a console brings the finale early.
+
+- Every creature on the sand: **DC 15 Dexterity save**. Fail **8d6** force damage, half on a success.
+- Nothing else. No condition, no rider, no lingering terrain. Just the bill.
+- **If a console was smashed** rather than unwired, the surge already bled off part of the charge: **6d6** instead.
+- A **Mote of Refusal** stops it dead. This is the moment the mote is for, and it is the reason not to spend it on something merely frightening.
+
+The crowd knows this is coming. They start counting down the buttons around the fourth one, out loud, and by the last symbol ten thousand people are chanting the number. The fighters can hear them. That is the point: the finale is the only thing in this bout that everybody sees arriving and nobody can move out of the way of.
+
+**Let the party learn it in advance.** Sold as intel, or told by a veteran in the pens. A finale nobody saw coming is a gotcha; a finale everyone watches approach for six rounds while deciding whether to spend their bead is the whole game in miniature.
+
 ## Motes of Refusal
 Every combatant is handed a chalk-white bead at the gate. The betting houses insisted; a bout that is pure noise cannot be wagered on.
 
@@ -95,6 +109,8 @@ The other side has fought this game before. That is the real asymmetry — not t
 - Play to a child directly — bow, salute, throw them a trophy — and land it [[panache|with Panache]]: **+1 Favor**, and that child presses next round no matter what the other two are doing.
 - Turn a Console effect into a kill in the same round it lands: **+2 Favor**.
 - Land a [[panache|Panache]] roll during the Hush, on pure physical flourish with nothing said: **+2 Favor**.
+- Take the Empty Box on the chin — fail the save, stay standing, keep fighting: **+2 Favor**.
+- Refuse the Empty Box with a mote you have visibly held all bout while the crowd counted down: **+2 Favor**. The mob forgives hoarding if the hoard was for this.
 - Spend your mote to survive something the crowd was certain would kill you: **+2 Favor**.
 - Spend your mote early and cheap, then win anyway: **+1 Favor** and the crowd starts the chant.
 - Save an enemy fighter from a Console effect: **+2 Favor**. The mob adores mercy it did not expect.
@@ -111,6 +127,8 @@ The other side has fought this game before. That is the real asymmetry — not t
 - Pip presses late: "The little Ash girl! She waited! She waited until the very last breath and she SAVED HIM!"
 - Ottavan presses on a winner: "And young Master Sceld puts a thumb on the scale — a fine old family tradition!"
 - Console killed: "He's — no. NO. He's gone for the WIRING!"
+- Counting down: "TWO LEFT! Two buttons, Tarsus, and then the dregs — and the dregs are for EVERYBODY!"
+- The Empty Box: "That's nine. That's all nine. Box is EMPTY — and it has to put it somewhere!"
 
 ## GM Tips
 - **Have a real person pick the symbol.** Point at whichever player is not in the scene, or the loudest voice at the table, and say "you're Pip — pick a symbol nobody's pressed." Do not roll it. The chaos should have a face.

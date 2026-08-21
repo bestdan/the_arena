@@ -51,6 +51,14 @@ Strike each symbol as it burns. Record who pressed it and what it did to the fig
 | III — Pip | Coin | Everyone Small | | | |
 | III — Pip | Key | The Shuffle | | | |
 
+### The Empty Box
+
+- Fired at end of round: _______ (after the last available button)
+- Damage tier used: 8d6 / 6d6 (6d6 only if a console was smashed)
+- Who failed:
+- Who spent a mote on it:
+- Who dropped:
+
 ### Mote Tracker
 
 | PC | Spent on | Round | Unspent at end? |
@@ -92,6 +100,8 @@ Strike each symbol as it burns. Record who pressed it and what it did to the fig
 - Play to a child with Panache: +1 (and they press next round)
 - Console effect into a kill, same round: +2
 - Panache during the Hush, nothing said: +2
+- Fail the Empty Box save and stay standing: +2
+- Refuse the Empty Box with a mote held all bout: +2
 - Mote spent on a certain-death moment: +2
 - Mote spent early and cheap, win anyway: +1
 - Save one of Bassa's crew from an effect: +2

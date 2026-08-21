@@ -92,7 +92,8 @@ Full detail in [[session_10_encounter|the encounter doc]]. The shape:
 - **Round 2:** first press. Announce the symbol, resolve loudly, back to initiative.
 - **Round 5:** if nobody has looked at the north wall, hand out the free hint about where the light comes from.
 - **Rounds 6-8:** the good buttons are gone. What is left is what is left.
-- **Round 9-10:** last presses, then finish clean.
+- **Round 9-10:** last presses.
+- **The last button:** the Empty Box fires. DC 15 Dex, 8d6 force, half on a success, everybody on the sand. Then whoever is standing finishes the fight.
 
 **Say out loud in round one that the effects hit everyone**, Bassa's crew included. Otherwise the party spends three rounds treating the Box as an enemy attack, which is both wrong and much less interesting.
 
@@ -109,6 +110,22 @@ It is the hardest effect and the best one. When Pine burns:
 - Everyone on the sand is deafened.
 - Try to hold thirty seconds of real silence in the room. It is worth it.
 - A Panache roll during the Hush has to be pure physical flourish with nothing said: **+2 Favor** if it lands.
+
+---
+
+## Running The Empty Box
+
+The finale fires at the end of the round the **last remaining** button is pressed — not the ninth press, the last one available. If a console got killed, its unused buttons leave the count and the finale comes early. Track this.
+
+- DC 15 Dex, **8d6** force, half on a success. **6d6** if a console was smashed rather than unwired — the surge already bled off part of the charge.
+- A Mote of Refusal stops it dead.
+- Bassa's crew take it too. Bassa spends her mote here if she still has it.
+
+**Count it down out loud.** From about the fourth button, have the crowd start chanting how many are left. By the last symbol ten thousand people are shouting a number and the fighters can hear them. It is the only thing in this bout everyone watches arrive and nobody can dodge.
+
+**Make sure they know it is coming.** It is in Snak's intel, and any veteran in the pens would mention it. Sprung cold it is a gotcha. Seen coming for six rounds while they decide whether to spend the bead, it is the whole session in one decision.
+
+At level 5 an average failure is 28 — half of most of the party's maximum, and lethal for anyone already hurt. That is intended. It is also why the "don't hoard your mote" Favor penalty has an escape hatch: holding the bead specifically for this earns **+2** instead.
 
 ---
 

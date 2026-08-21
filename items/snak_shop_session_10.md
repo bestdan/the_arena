@@ -17,6 +17,7 @@ visibility: public
 > "Three things matter this bout. **Not falling.** **Not needing your voice.** And **knowing which one of you is which** when the floor decides you all look the same."
 
 **Essential:**
+- **What the Counting Is For (40 gp)** — buy this one first. There is a thing that happens at the end of every Kiddie Chaos bout and I would rather you paid me than found out.
 - **Hand-Signal Drills (30 gp)** — one of those buttons kills sound. All of it. Work out now how you tell each other things without saying them, or spend that minute standing around pointing.
 - **Gate Hooks (25 gp)** — when the floor lets go, everything on it goes up. Something to hook onto is worth more than anything you can swing.
 - **Healing Potions** — Bassa's crew have drilled for this and you haven't. Buy accordingly.
@@ -49,6 +50,7 @@ visibility: public
 | 40 | Smokebomb (3 for 40 gp) | consumable | action | Throw 30 ft; heavily obscured 10-ft radius for 1 minute; **Qty:** 3 | "Somewhere to not be. Buy them if you're the one Bassa decides to walk at." |
 | 50 | Potion of Heroism | consumable | action | 10 temporary HP; immunity to the frightened condition for 1 hour | "Steadies the nerve and pads the ribs. Both useful when the ground stops behaving." |
 | 50 | Rented Steel — martial weapon, quality | rental | worn | A well-made non-magical martial weapon of choice for the bout. Returned after | "Better than what's in the rack. It's a rental — bring it back, or bring back what's left of you and we'll discuss it." |
+| 40 | What the Counting Is For | information | pre-match | The Empty Box: when the last available button is spent, the lattice discharges across the whole floor — a Dexterity save for heavy force damage, no exceptions and no cover. Knowing it is coming is the whole value | "Crowd starts counting the buttons off about halfway through and most new bloods think it's cheering. It isn't. When the box runs dry it's got a remainder and nowhere to put it. Ask me what that's worth to know in advance." |
 | 60 | A Word With the Stamp-Cutter | information | pre-match | Exact location of the conduit seam and junction plate, plus the warning that smashing it discharges the console's remaining effects at once. Advantage on the check to spot it | "Fella cuts the stamps for the magisters and drinks like it's a trade. He'll tell you where that box gets its power and what happens to you if you break it in a hurry. Take the word 'hurry' seriously." |
 | 60 | Rented Plate | rental | worn | Non-magical plate armour for the bout. Returned after | "Heavy, hot, and it does not care what the floor is doing this minute." |
 | 80 | Thieves' Tools, Fine (rental) | rental | action | Masterwork picks and probes: +2 to checks made with thieves' tools | "If you're planning to unpick something rather than hit it, do it with these. Hitting it is the loud option and the loud option has consequences." |

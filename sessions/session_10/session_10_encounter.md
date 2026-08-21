@@ -74,6 +74,23 @@ Keep this side of the screen.
 ### Bell into Key
 If Mirror Skins is running when the Shuffle lands, nobody on the sand knows who anyone is — identical faces, scrambled positions. Let the table sit in it for a full round before anyone swings. It is the best moment the bout has. If Pip is yours to steer, steer her here.
 
+### The Empty Box (finale)
+
+The lattice is charged for nine. It is not built to hold what is left over when the ninth is gone.
+
+**Trigger:** end of the round in which the **last remaining button** is pressed. Not the ninth press — the last one *available*. Kill a console and its unused buttons leave the count, so the finale arrives early.
+
+- Every creature on the sand: **DC 15 Dex save. Fail 8d6 force, half on a success.**
+- Nothing else. No condition, no rider, no lingering terrain. Just the bill.
+- **If a console was smashed** rather than unwired, the surge already bled off part of the charge: **6d6** instead.
+- A **Mote of Refusal** stops it dead.
+
+At four level 5, an average failure is 28 — half of most of the party's maximum HP, and lethal for anyone already hurt. It is meant to be the moment the bout is decided. Bassa's crew eat it too, and Bassa will spend her mote here if she still has it.
+
+**The crowd counts it down.** From about the fourth button the stadium starts chanting the number of buttons left, out loud, and the fighters can hear them. This is the only thing in the bout that everybody watches arriving and nobody can step out of the way of.
+
+**The party should know it is coming.** Snak sells it, or a veteran in the pens mentions it. A finale nobody saw coming is a gotcha; a finale they watch approach for six rounds while deciding whether to spend the bead is the whole session in miniature.
+
 ### Who presses, and when
 Do not roll this. Hand it to a player. See the GM setup for how.
 
@@ -139,6 +156,7 @@ The children press at the top of each round. One per round. That is the clock.
 | 5 | If nobody has looked at the north wall yet, give a free hint: an effect resolves and Father Crow (or the most arcane-adjacent PC) notices the light *came from somewhere* — offer the DC 12 trace. |
 | 6-8 | Buttons burn down. The good ones are gone; what is left is what is left. Bassa is still standing. |
 | 9-10 | Last presses. If the party has not engaged the junction plate, they never will — let it go and finish clean. |
+| **Last button** | **The Empty Box.** DC 15 Dex, 8d6 force, half on a success, everyone on the sand. Then whoever is still standing finishes the fight. |
 
 **Do not stack effects into a mush.** One press, resolved clean, described loudly, back to the fight. If a press lands mid-Hush, resolve it in silence and let the table feel how bad that is.
 
@@ -165,6 +183,8 @@ Bassa the Unbothered drops or yields. She yields at 15 HP or lower if the crowd 
 - Play to a child directly — bow, salute, throw them a trophy — landed [[panache|with Panache]]: **+1**, and that child presses next round regardless of the other two.
 - Turn a Console effect into a kill in the same round it lands: **+2**.
 - Land a Panache roll during the Hush, on pure physical flourish with nothing said: **+2**.
+- Take the Empty Box on the chin — fail the save, stay standing, keep fighting: **+2**.
+- Refuse the Empty Box with a mote visibly held all bout while the crowd counted down: **+2**. The mob forgives hoarding if the hoard was for this.
 - Spend your mote to survive something the crowd was certain would kill you: **+2**.
 - Spend your mote early and cheap, then win anyway: **+1**, and the crowd starts the chant.
 - Save one of Bassa's crew from a Console effect: **+2**. The mob adores mercy it did not expect.
@@ -215,6 +235,12 @@ And when it breaks:
 ### Console killed
 > "He's — no. NO. He's gone for the WIRING!"
 
+### Counting down
+> "TWO LEFT! Two buttons, Tarsus, and then the dregs — and the dregs are for EVERYBODY!"
+
+### The Empty Box
+> "That's nine. That's all nine. Box is EMPTY — and it has to put it somewhere!"
+
 ### Victory
 > "Bassa the Unbothered is DOWN, the Box is EMPTY, and three children are going home to three very different houses! Tarsus, we will do this again next year!"
 
@@ -238,7 +264,7 @@ And when it breaks:
 Give Bassa a Mote of Refusal and legendary resistance 1/day. Add two Stall-Rats.
 
 ### Too Hard?
-Cut a Wall-Hugger. Have Bassa's Dodge doctrine cost her the whole round instead of just her attacks. Pip presses early and generously.
+Cut a Wall-Hugger. Have Bassa's Dodge doctrine cost her the whole round instead of just her attacks. Pip presses early and generously. Drop the Empty Box to 6d6 whether or not a console was smashed.
 
 ### Too Little Chaos?
 Two presses in a round, once, at round 6. The announcer calls it a "magisters' gift to the crowd."
