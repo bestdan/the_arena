@@ -13,7 +13,7 @@ updated: 2026-08-20
 
 ## Kiddie Chaos
 
-**Party:** [[imwe|Imwe]] (Fighter 5), [[father_crow|Father Crow]] (Cleric 5), [[torgana|Torgana]] (Barbarian 5), **{{FOURTH PC — name, class}}** (Level 5)
+**Party:** [[imwe|Imwe]] (Fighter 5), [[father_crow|Father Crow]] (Cleric 5), [[torgana|Torgana]] (Barbarian 5), [[silas_vale|Silas Vale]] (Wizard/Necromancer 5)
 **Objective:** Survive the bout and put down Bassa's crew while the Arena is bent nine times by three children you cannot reach, cannot talk to, and cannot blame.
 
 **Source:** `ideas/kiddie_chaos.md`
@@ -189,6 +189,7 @@ Bassa the Unbothered drops or yields. She yields at 15 HP or lower if the crowd 
 - Spend your mote early and cheap, then win anyway: **+1**, and the crowd starts the chant.
 - Save one of Bassa's crew from a Console effect: **+2**. The mob adores mercy it did not expect.
 - Ring the bell in the tower at a moment that lands: **+1**.
+- Raise one of Bassa's fallen crew in front of the crowd, with Panache: **+2** (and if it was a named fighter the crowd liked, **+2 and a problem**).
 - Kill a console: **+3** with Panache, **−3** without.
 - Sulk, freeze, or blame the Box out loud: **−1**. The children are innocent. Say otherwise on the sand and find out.
 - End the bout with an unspent Mote of Refusal: **−1**.
@@ -255,6 +256,7 @@ And when it breaks:
 - Let the party find the junction plate if they look for it. A party that works it out has earned whatever ending they get.
 - The Hush is the hardest effect to run and the best one. Enforce it: no table talk in character, no shouted plans, no verbal spellcasting. Give them thirty seconds of real silence at the table if you can hold it.
 - Four PCs, three children. One PC gets nobody. Do not fix this. Let the announcer notice it out loud.
+- **Silas's risen are creatures on the sand.** Every effect hits them, and they carry no Mote of Refusal. The Empty Box will probably clear them off entirely.
 
 ---
 

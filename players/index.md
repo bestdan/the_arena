@@ -18,3 +18,5 @@ All characters are currently level 2.
 [**Gladiator**](gladiator.md): Human fighter
 
 [**Father Crow**](father_crow.md): Human Cleric
+
+[**Silas Vale**](silas_vale.md): Necromancer

@@ -16,7 +16,7 @@ updated: 2026-08-20
 - [[imwe|Imwe]] — Human Fighter 5
 - [[father_crow|Father Crow]] — Human Cleric 5
 - [[torgana|Torgana]] — Orc Barbarian 5
-- **{{FOURTH PC — name, class}}** — Level 5
+- [[silas_vale|Silas Vale]] — Wizard (Necromancer) 5
 
 **Mechanics to Review:**
 - [[panache|Panache]] — expect heavy use during the Hush, where it is the only way to play to the crowd.
@@ -105,11 +105,34 @@ Full detail in [[session_10_encounter|the encounter doc]]. The shape:
 
 It is the hardest effect and the best one. When Pine burns:
 
-- No verbal spell components. Father Crow loses most of a cleric's kit for a minute. Warn him it exists; do not warn him when.
+- No verbal spell components. **This mutes half the party** — Father Crow loses most of a cleric's kit and Silas loses nearly all of a wizard's. Warn them the effect exists; do not warn them when.
 - No shouted warnings, names, or plans — **including at the table**. Enforce it. Point at people who talk.
 - Everyone on the sand is deafened.
 - Try to hold thirty seconds of real silence in the room. It is worth it.
 - A Panache roll during the Hush has to be pure physical flourish with nothing said: **+2 Favor** if it lands.
+
+---
+
+## Silas Vale, and What a Necromancer Does To This Bout
+
+Worth thinking about before you sit down, because he interacts with almost every button.
+
+**Anything he raises is a creature on the sand.** That means every Console effect hits his minions too — and minions did not get a bead at the gate.
+- **Star** can turn one of his risen into a brown bear. It is still his.
+- **Key** scatters them across the floor, possibly into Bassa's crew, possibly on top of Torgana.
+- **Bell** makes them look exactly like everyone else, including the PCs. Let that land before anyone swings.
+- **Sun / Coin** resize them along with everybody.
+- **The Empty Box** will very likely delete the lot. Say so in advance if he asks — this is the sort of thing Snak's intel covers.
+
+**Two of four PCs go dark in the Hush.** Silas and Father Crow both. That is the single most dangerous minute of the bout for this party, and it is worth making sure Hand-Signal Drills are on the table at the shop so the martials can still be steered.
+
+**The crowd and the raising.** Ten thousand people watching a man stand up something that was lying down is the best show the Arena has had in a season, and the mob's feeling about it is not disgust — it is delight, with an edge. Raising one of Bassa's fallen crew in front of the crowd, [[panache|with Panache]], is **+2 [[crowds_favor|Favor]]**. Raising a *named* fighter the crowd liked is **+2 and a problem** — somebody in the tiers loved that man.
+
+**The children.** This is where the staging-gate scene earns its keep. Give Silas the hard ones:
+- **Vessia:** "How many people have you killed?" — then, after the answer — "Was it on purpose?" She asks everyone. She means it differently to him and she does not know that.
+- **Pip:** "Does it hurt? When it happens?" She has heard what he does. She is not asking about being hit.
+
+Do not let him off either question with a joke. Let the table sit in it.
 
 ---
 

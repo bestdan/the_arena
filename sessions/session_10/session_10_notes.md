@@ -16,7 +16,7 @@ updated: 2026-08-20
 - [[imwe|Imwe]] — Human Fighter 5
 - [[father_crow|Father Crow]] — Human Cleric 5
 - [[torgana|Torgana]] — Orc Barbarian 5
-- **{{FOURTH PC — name, class}}** — Level 5
+- [[silas_vale|Silas Vale]] — Wizard (Necromancer) 5
 
 **Carryover from Session 9:** none recorded — the session 9 notes were never filled in.
 
@@ -66,7 +66,7 @@ Strike each symbol as it burns. Record who pressed it and what it did to the fig
 | Imwe | | | |
 | Father Crow | | | |
 | Torgana | | | |
-| {{FOURTH PC}} | | | |
+| Silas Vale | | | |
 
 ### Which child took to which PC
 
@@ -94,7 +94,7 @@ Strike each symbol as it burns. Record who pressed it and what it did to the fig
 | Imwe | | | | |
 | Father Crow | | | | |
 | Torgana | | | | |
-| {{FOURTH PC}} | | | | |
+| Silas Vale | | | | |
 
 ### Favor Opportunities (Quick Reference)
 - Play to a child with Panache: +1 (and they press next round)
@@ -102,6 +102,7 @@ Strike each symbol as it burns. Record who pressed it and what it did to the fig
 - Panache during the Hush, nothing said: +2
 - Fail the Empty Box save and stay standing: +2
 - Refuse the Empty Box with a mote held all bout: +2
+- Raise one of Bassa's fallen in front of the crowd, with Panache: +2
 - Mote spent on a certain-death moment: +2
 - Mote spent early and cheap, win anyway: +1
 - Save one of Bassa's crew from an effect: +2
@@ -142,7 +143,7 @@ Strike each symbol as it burns. Record who pressed it and what it did to the fig
 | Imwe | | | | |
 | Father Crow | | | | |
 | Torgana | | | | |
-| {{FOURTH PC}} | | | | |
+| Silas Vale | | | | |
 
 ---
 
