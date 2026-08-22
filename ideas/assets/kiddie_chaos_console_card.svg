@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1400" width="1400" height="1400" font-family="Georgia, 'Times New Roman', serif">
+  <defs>
+    <radialGradient id="parch" cx="50%" cy="38%" r="78%">
+      <stop offset="0%" stop-color="#2a2118"/>
+      <stop offset="100%" stop-color="#14100b"/>
+    </radialGradient>
+    <linearGradient id="brass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#e8c477"/>
+      <stop offset="45%" stop-color="#c39a45"/>
+      <stop offset="100%" stop-color="#8a6a26"/>
+    </linearGradient>
+    <g id="glyph-sun">
+      <circle r="20" fill="none" stroke-width="7"/>
+      <g stroke-width="7" stroke-linecap="round">
+        <line x1="0" y1="-30" x2="0" y2="-42"/><line x1="0" y1="30" x2="0" y2="42"/>
+        <line x1="-30" y1="0" x2="-42" y2="0"/><line x1="30" y1="0" x2="42" y2="0"/>
+        <line x1="-21" y1="-21" x2="-30" y2="-30"/><line x1="21" y1="21" x2="30" y2="30"/>
+        <line x1="21" y1="-21" x2="30" y2="-30"/><line x1="-21" y1="21" x2="-30" y2="30"/>
+      </g>
+    </g>
+    <g id="glyph-sheaf" stroke-width="7" stroke-linecap="round" fill="none">
+      <line x1="0" y1="44" x2="0" y2="-30"/>
+      <path d="M0 -30 L-20 -10 M0 -30 L20 -10 M0 -8 L-20 12 M0 -8 L20 12 M0 14 L-20 34 M0 14 L20 34"/>
+    </g>
+    <g id="glyph-crescent">
+      <path d="M14 -38 A40 40 0 1 0 14 38 A32 32 0 1 1 14 -38 Z" stroke-width="6"/>
+    </g>
+    <g id="glyph-anchor" stroke-width="7" stroke-linecap="round" fill="none">
+      <circle cx="0" cy="-32" r="9"/>
+      <line x1="0" y1="-23" x2="0" y2="38"/>
+      <line x1="-22" y1="-12" x2="22" y2="-12"/>
+      <path d="M-30 12 A30 30 0 0 0 30 12"/>
+      <line x1="-30" y1="12" x2="-38" y2="4"/><line x1="30" y1="12" x2="38" y2="4"/>
+    </g>
+    <g id="glyph-wave" stroke-width="7" stroke-linecap="round" fill="none">
+      <path d="M-40 -18 q10 -14 20 0 t20 0 t20 0"/>
+      <path d="M-40 2 q10 -14 20 0 t20 0 t20 0"/>
+      <path d="M-40 22 q10 -14 20 0 t20 0 t20 0"/>
+    </g>
+    <g id="glyph-star">
+      <path d="M0 -42 L11 -13 L42 -13 L17 6 L26 36 L0 18 L-26 36 L-17 6 L-42 -13 L-11 -13 Z" stroke-width="6" stroke-linejoin="round"/>
+    </g>
+    <g id="glyph-bell" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <path d="M-30 20 C-30 -14 -16 -30 0 -30 C16 -30 30 -14 30 20 Z"/>
+      <line x1="-38" y1="20" x2="38" y2="20"/>
+      <circle cx="0" cy="32" r="7"/>
+      <line x1="0" y1="-30" x2="0" y2="-40"/>
+    </g>
+    <g id="glyph-coin">
+      <circle r="34" fill="none" stroke-width="7"/>
+      <circle r="12" fill="none" stroke-width="7"/>
+    </g>
+    <g id="glyph-key" stroke-width="7" stroke-linecap="round" fill="none">
+      <circle cx="-16" cy="-20" r="16"/>
+      <line x1="-5" y1="-9" x2="34" y2="30"/>
+      <line x1="20" y1="16" x2="8" y2="28"/>
+      <line x1="30" y1="26" x2="18" y2="38"/>
+    </g>
+  </defs>
+
+  <rect width="1400" height="1400" fill="url(#parch)"/>
+  <rect x="26" y="26" width="1348" height="1348" fill="none" stroke="#6d5426" stroke-width="3"/>
+  <rect x="38" y="38" width="1324" height="1324" fill="none" stroke="#3d2f16" stroke-width="1.5"/>
+
+  <text x="700" y="146" text-anchor="middle" fill="#e8c477" font-size="60" letter-spacing="12">THE LITTLE BOX</text>
+  <text x="700" y="200" text-anchor="middle" fill="#9c855a" font-size="27" letter-spacing="4" font-style="italic">Three consoles. Nine buttons. One press each.</text>
+  <line x1="330" y1="236" x2="1070" y2="236" stroke="#6d5426" stroke-width="2"/>
+
+  <!-- Console I : Vessia -->
+  <g transform="translate(80,290)">
+    <rect width="392" height="880" rx="16" fill="#1d170f" stroke="#6d5426" stroke-width="2.5"/>
+    <text x="196" y="74" text-anchor="middle" fill="#e8c477" font-size="32" letter-spacing="6">CONSOLE I</text>
+    <text x="196" y="120" text-anchor="middle" fill="#9c855a" font-size="24">Vessia Marn-Doru, 9</text>
+    <line x1="56" y1="150" x2="336" y2="150" stroke="#3d2f16" stroke-width="1.5"/>
+    <g stroke="#14100b" stroke-width="3">
+      <circle cx="196" cy="280" r="78" fill="url(#brass)"/>
+      <circle cx="196" cy="500" r="78" fill="url(#brass)"/>
+      <circle cx="196" cy="720" r="78" fill="url(#brass)"/>
+    </g>
+    <g stroke="#2a1f0c">
+      <use href="#glyph-sun" transform="translate(196,280) scale(1.2)" fill="none"/>
+      <use href="#glyph-sheaf" transform="translate(196,500) scale(1.2)" fill="none"/>
+      <use href="#glyph-crescent" transform="translate(196,720) scale(1.15)" fill="#2a1f0c"/>
+    </g>
+    <g fill="#7c6535" font-size="20" text-anchor="middle" letter-spacing="4">
+      <text x="196" y="398">SUN</text>
+      <text x="196" y="618">PINE</text>
+      <text x="196" y="838">CRESCENT</text>
+    </g>
+  </g>
+
+  <!-- Console II : Ottavan -->
+  <g transform="translate(504,290)">
+    <rect width="392" height="880" rx="16" fill="#1d170f" stroke="#6d5426" stroke-width="2.5"/>
+    <text x="196" y="74" text-anchor="middle" fill="#e8c477" font-size="32" letter-spacing="6">CONSOLE II</text>
+    <text x="196" y="120" text-anchor="middle" fill="#9c855a" font-size="24">Ottavan Sceld, 11</text>
+    <line x1="56" y1="150" x2="336" y2="150" stroke="#3d2f16" stroke-width="1.5"/>
+    <g stroke="#14100b" stroke-width="3">
+      <circle cx="196" cy="280" r="78" fill="url(#brass)"/>
+      <circle cx="196" cy="500" r="78" fill="url(#brass)"/>
+      <circle cx="196" cy="720" r="78" fill="url(#brass)"/>
+    </g>
+    <g stroke="#2a1f0c">
+      <use href="#glyph-anchor" transform="translate(196,280) scale(1.15)" fill="none"/>
+      <use href="#glyph-wave" transform="translate(196,500) scale(1.25)" fill="none"/>
+      <use href="#glyph-star" transform="translate(196,720) scale(1.12)" fill="#2a1f0c"/>
+    </g>
+    <g fill="#7c6535" font-size="20" text-anchor="middle" letter-spacing="4">
+      <text x="196" y="398">ANCHOR</text>
+      <text x="196" y="618">WAVE</text>
+      <text x="196" y="838">STAR</text>
+    </g>
+  </g>
+
+  <!-- Console III : Pip -->
+  <g transform="translate(928,290)">
+    <rect width="392" height="880" rx="16" fill="#1d170f" stroke="#6d5426" stroke-width="2.5"/>
+    <text x="196" y="74" text-anchor="middle" fill="#e8c477" font-size="32" letter-spacing="6">CONSOLE III</text>
+    <text x="196" y="120" text-anchor="middle" fill="#9c855a" font-size="24">Pip Ash, 8</text>
+    <line x1="56" y1="150" x2="336" y2="150" stroke="#3d2f16" stroke-width="1.5"/>
+    <g stroke="#14100b" stroke-width="3">
+      <circle cx="196" cy="280" r="78" fill="url(#brass)"/>
+      <circle cx="196" cy="500" r="78" fill="url(#brass)"/>
+      <circle cx="196" cy="720" r="78" fill="url(#brass)"/>
+    </g>
+    <g stroke="#2a1f0c" fill="none">
+      <use href="#glyph-bell" transform="translate(196,280) scale(1.28)"/>
+      <use href="#glyph-coin" transform="translate(196,500) scale(1.28)"/>
+      <use href="#glyph-key" transform="translate(196,720) scale(1.28)"/>
+    </g>
+    <g fill="#7c6535" font-size="20" text-anchor="middle" letter-spacing="4">
+      <text x="196" y="398">BELL</text>
+      <text x="196" y="618">COIN</text>
+      <text x="196" y="838">KEY</text>
+    </g>
+  </g>
+
+  <line x1="330" y1="1230" x2="1070" y2="1230" stroke="#3d2f16" stroke-width="1.5"/>
+  <text x="700" y="1282" text-anchor="middle" fill="#9c855a" font-size="23" font-style="italic">A pressed button flares on the face of the Box. Strike it off.</text>
+  <text x="700" y="1316" text-anchor="middle" fill="#9c855a" font-size="23" font-style="italic">Nobody out here knows what any of them do.</text>
+  <text x="700" y="1352" text-anchor="middle" fill="#5d4b24" font-size="18" letter-spacing="4">KIDDIE CHAOS &#183; THE ARENA AT TARSUS</text>
+</svg>

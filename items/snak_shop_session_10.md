@@ -3,52 +3,65 @@ tags: [arena, items, shop, session-10]
 content_type: index
 created: 2026-08-20
 updated: 2026-08-20
-visibility: private
+visibility: public
 ---
 
 # Snak's Shop - Session 10
 
-*"They're turning you into animals tomorrow. I asked around, called in a favour with a woman who supplies the colleges, and got you a few things that actually matter. Don't buy the whole stall — buy what fits your plan."*
+*"Kiddie Chaos. Right. You can't buy your way out of this one — nothing I've got stops nine buttons. What you can buy is being ready for the two or three that'll hurt you worst, and a way of talking to each other when talking stops working."*
+
+---
 
 ## Snak's Recommendations
 
-"Three things decide this one: **keeping your own head**, **getting to the mage**, and **breaking those pillars if you decide they've got to go**."
+> "Three things matter this bout. **Not falling.** **Not needing your voice.** And **knowing which one of you is which** when the floor decides you all look the same."
 
 **Essential:**
-- **Mental Fortitude Drill (40 gp):** The shimmer goes for your mind, not your body. Advantage on the first one is worth more than armor.
-- **Healing Potions:** Two each, minimum. You'll be spending rounds unable to pray for yourselves.
+- **What the Counting Is For (40 gp)** — buy this one first. There is a thing that happens at the end of every Kiddie Chaos bout and I would rather you paid me than found out.
+- **Hand-Signal Drills (30 gp)** — one of those buttons kills sound. All of it. Work out now how you tell each other things without saying them, or spend that minute standing around pointing.
+- **Gate Hooks (25 gp)** — when the floor lets go, everything on it goes up. Something to hook onto is worth more than anything you can swing.
+- **Healing Potions** — Bassa's crew have drilled for this and you haven't. Buy accordingly.
 
 **Highly Recommended:**
-- **Academy Gossip (25 gp):** Everything I know about Corr, and what the colleges actually want out of tomorrow.
-- **Four-Legged Drill (35 gp):** Practice fighting as something with claws. Sounds daft. Isn't.
-- **Font-Breaker Maul (30 gp rental):** If you decide those pillars die, don't do it with a longsword.
+- **A Bag of Sweets (5 gp)** — laugh if you want. Three children are going to be standing at that gate looking at you.
+- **Steadying Drill (40 gp)** — half those buttons come down to keeping your head when something impossible happens.
+- **Bootmarking (20 gp)** — so at least *one* person out there is still recognisably yours.
 
 **Nice to Have:**
-- **Anchor Stone (120 gp rental):** Holds you to your own shape. Costs you a hand to carry.
-- **Reagent Pouch (100 gp):** Snaps one of you back out of a shimmer. Won't touch anything the mage is holding onto himself.
+- **A Word With the Stamp-Cutter (60 gp)** — where the box gets its power from, and what happens if you break it wrong. Expensive. Worth it if you're the sort to try.
+- **Ward-Thread Bracelet (150 gp, rental)** — one extra chance to shrug off something the box does. On top of your bead, not instead of it.
+
+> "And listen. You get one bead each at the gate and I don't sell those, so don't ask. Betting houses count 'em in and count 'em out. Fella tried to walk off with one two years back. He does not fight here any more."
 
 ---
 
 ## Shop Inventory
 
 | Price | Name | Category | Action | Effect | Snak's Pitch |
-| ----- | ---- | -------- | ------ | ------ | ------------ |
-| 5 | Healer's Kit (10 uses) | equipment | action | Stabilize a dying creature without a Medicine check | "Basic. Somebody's going down tomorrow and they might not have hands when it happens." |
-| 5 | Signal Whistle | equipment | action | Piercing note audible across the arena; a transformed creature can still blow one held in its teeth | "You won't be able to talk. You'll still be able to make noise. Agree on what two blasts means before you walk in." |
-| 10 | Chalk and Cord (50 ft) | equipment | action | Mark distances on the sand; measure a twenty-foot radius before the bout | "Pace out the danger before the gates open. Know exactly where the edge is. Costs you nothing to be certain." |
-| 15 | Grease Pot | consumable | action | Coat a 5-ft square or an object; DC 10 Dex save or fall prone; applied to a creature, grapples against it are at disadvantage for 1 minute | "Slick yourself up. Half those animal shapes want to grab you and squeeze." |
-| 20 | Muzzle Strap and Harness | equipment | worn | Gear stays on you through a change of shape; without it, dropped items scatter 5 ft in a random direction | "A bear can't hold a sword, but a bear can still be wearing your kit. Otherwise you're picking it out of the sand afterwards." |
-| 25 | Academy Gossip | service | pre-match | Learn the Magister's name, temperament, spell habits, and that he holds his transformations by concentration | "Corr. Never been hit in his life. Talks the whole way through. And whatever he does to you, he's holding it — like a rope. Cut the rope." |
-| 30 | Font-Breaker Maul | rental | worn | Heavy maul, 2d6 bludgeoning; deals **double damage to objects** including the Fonts | "Two thousand gold a pillar and the academy said don't. I'm not telling you what to do. I'm just renting you the hammer." |
-| 30 | Beast Lore Briefing | service | pre-match | Learn the six shapes the colleges are using and what each one is good for; advantage on the first attack made in any form | "I got the list off the supplier. Toad, snake, bear, octopus, elk, vulture. Know which one you're hoping for." |
-| 35 | Four-Legged Drill | service | pre-match | An evening drilling on all fours. The first round in any new form, you don't lose your action to disorientation, and you know the form's reach without asking | "Feels ridiculous. Looks ridiculous. The men who've done it don't waste a turn standing there confused." |
-| 40 | Mental Fortitude Drill | service | pre-match | Advantage on your first Wisdom saving throw of the bout | "The pillars come for your mind. This buys you one good look at them." |
-| 50 | Alchemist's Fire (2 for 50 gp) | consumable | action | Ranged attack, 20 ft; 1d4 fire and 1d4 at the start of each of the target's turns until a DC 10 Dex check puts it out; **Qty: 2** | "Something you can throw before the change takes you. Burns on regardless of whose hands started it." |
-| 50 | Potion of Heroism | consumable | action | 10 temporary HP and immunity to the Frightened condition for 1 hour | "Drink it early. The temporary blood stays with you through a change — I've seen it hold." |
-| 60 | Antitoxin (2 doses) | consumable | action | Advantage on saves against poison for 1 hour; **Qty: 2** | "The hound's bite comes out different every time and one of those is poison. Cheap insurance." |
-| 60 | Tanglefoot Bag | consumable | action | Thrown 20 ft, ranged attack; DC 13 Strength save or speed 0 for 1 minute | "Pin the mage where he stands. He's a runner. They always are." |
-| 90 | Greater Healing Potion | consumable | action | Restore 4d4+4 HP | "Better medicine, for when you come out of a shape with somebody else's damage waiting for you." |
-| 100 | Reagent Pouch | consumable | action | Touch a transformed creature; the shimmer ends and it returns to its true shape. Single use. **Has no effect on a transformation the Magister is actively holding.** | "Bought off a college porter who shouldn't have sold it. Snaps one of you back. Only works on the pillars' doing — the mage's own grip, you have to break the man." |
-| 120 | Anchor Stone | rental (magic) | worn | While held in one hand, you have advantage on saving throws against being transformed. Occupies a hand — you cannot use it with a two-handed weapon | "Holds you to your own shape. Costs you a hand the whole bout. Some of you will think that's worth it, and some of you fight with two hands, so decide." |
-| 150 | Wand of the Steady Mind | rental (magic) | reaction | 3 charges. Spend one to give an ally within 30 ft advantage on a saving throw against transformation, or to reroll your own failed one | "Expensive, and it's a rental, and if it comes back cracked you're working it off. But three saves is three saves." |
-| 180 | Boots of Striding and Springing | rental (magic) | worn | +10 ft walking speed; triple jump distance; **Attune** | "Twenty feet from a pillar is safe and thirty is safer. These buy you the difference every single round." |
+|-------|------|----------|--------|--------|-------------|
+| 5 | Bag of Sweets | consumable | pre-match | Given to a child at the staging gate: advantage on that PC's social approach in Before the Bout | "Five copper of boiled sugar. Three kids at that gate, all of 'em nervous, all of 'em about to decide which of you they like. You want to walk up there empty-handed?" |
+| 5 | Healer's Kit (10 uses) | equipment | action | Stabilize a dying creature without a Medicine check | "Bandages and a splint. Somebody's going down out there and you'll want your hands full of the right thing." |
+| 10 | Slate and Chalk (pair) | equipment | action | Write instead of speak; usable while deafened or silenced | "Cheap and stupid and it works. Write it, hold it up. Nobody's ever died of looking daft." |
+| 20 | Bootmarking | service | pre-match | Mark yourself and one ally with pitch and ash. You and that ally can identify each other on sight even while your appearance is magically changed | "Pitch on the boot, ash in the pattern. If the floor decides you all wear the same face, you'll still know which one is the person you marked. Just the one. Pick carefully." |
+| 25 | Gate Hooks (set) | equipment | worn | Advantage on saves made to catch hold of a fixture when the floor's gravity reverses | "Iron hooks on a short strap. When up stops being up, you get one grab at something solid. These make that grab a lot likelier." |
+| 25 | Who's In The Box | information | pre-match | Names, ages, households and temperaments of all three lottery winners, and what each one is known to like | "Two Senate brats and a sweep's girl. I'll tell you which is which, what their people want, and what makes each of 'em light up. Cheap for what it's worth at that gate." |
+| 30 | Hand-Signal Drills | service | pre-match | The whole party learns a shared signal set. While unable to speak or hear, you can convey simple tactical instructions without an ability check | "One evening, six signs. Come here, go there, behind you, I'm hurt, run, and one rude one. When the sound goes you'll be the only crew out there still working together." |
+| 40 | Steadying Drill | service | pre-match | Advantage on your first Wisdom saving throw of the bout | "Old pen trick. You practise being surprised until being surprised stops costing you. Works once. After that you're on your own." |
+| 40 | Smokebomb (3 for 40 gp) | consumable | action | Throw 30 ft; heavily obscured 10-ft radius for 1 minute; **Qty:** 3 | "Somewhere to not be. Buy them if you're the one Bassa decides to walk at." |
+| 50 | Potion of Heroism | consumable | action | 10 temporary HP; immunity to the frightened condition for 1 hour | "Steadies the nerve and pads the ribs. Both useful when the ground stops behaving." |
+| 50 | Rented Steel — martial weapon, quality | rental | worn | A well-made non-magical martial weapon of choice for the bout. Returned after | "Better than what's in the rack. It's a rental — bring it back, or bring back what's left of you and we'll discuss it." |
+| 40 | What the Counting Is For | information | pre-match | The Empty Box: when the last available button is spent, the lattice discharges across the whole floor — a Dexterity save for heavy force damage, no exceptions and no cover. Knowing it is coming is the whole value | "Crowd starts counting the buttons off about halfway through and most new bloods think it's cheering. It isn't. When the box runs dry it's got a remainder and nowhere to put it. Ask me what that's worth to know in advance." |
+| 60 | A Word With the Stamp-Cutter | information | pre-match | Exact location of the conduit seam and junction plate, plus the warning that smashing it discharges the console's remaining effects at once. Advantage on the check to spot it | "Fella cuts the stamps for the magisters and drinks like it's a trade. He'll tell you where that box gets its power and what happens to you if you break it in a hurry. Take the word 'hurry' seriously." |
+| 60 | Rented Plate | rental | worn | Non-magical plate armour for the bout. Returned after | "Heavy, hot, and it does not care what the floor is doing this minute." |
+| 80 | Thieves' Tools, Fine (rental) | rental | action | Masterwork picks and probes: +2 to checks made with thieves' tools | "If you're planning to unpick something rather than hit it, do it with these. Hitting it is the loud option and the loud option has consequences." |
+| 100 | Healing Potion (2 for 100 gp) | consumable | action | Restore 2d4+2 HP; **Qty:** 2 | "Standard. Buy two, carry one where you can reach it with the wrong hand." |
+| 150 | Greater Healing Potion | consumable | action | Restore 4d4+4 HP | "For when standard isn't going to do it. You'll know the moment." |
+| 150 | Ward-Thread Bracelet | rental | worn | Once during the bout, advantage on one saving throw against an arena-wide magical effect. **Attune** | "Magister's cast-off, rethreaded. Buys you one better chance against whatever the box throws. It doesn't replace your bead — it's the thing you use *before* you spend the bead." |
+| 200 | Potion of Speed | consumable | action | 1 min: double speed, +2 AC, advantage on Dex saves, one extra action each turn. **After:** no movement or action for one turn | "Expensive, and it drops you flat when it wears off. But if you've decided you're going for that plate behind the north gate, this is how you get there before the crew does." |
+
+---
+
+## Notes
+
+- **Rentals** come back after the bout. **Consumables, services and information** do not.
+- Snak does not sell Motes of Refusal, will not source one, and will change the subject if asked twice.

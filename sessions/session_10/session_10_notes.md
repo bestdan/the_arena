@@ -8,172 +8,167 @@ created: 2026-08-20
 updated: 2026-08-20
 ---
 
-# Session 10 Notes: Polymorphic Chaos
+# Session 10 Notes: Kiddie Chaos
 
 ## Pre-Session Summary
 
 **Party Playing:**
-- Father Crow (Cleric, 5)
-- Torgana (Barbarian, 5)
-- Imwe (Fighter, 5)
-- Killing Eagle Laughs (Ranger, 5)
+- [[imwe|Imwe]] — Human Fighter 5
+- [[father_crow|Father Crow]] — Human Cleric 5
+- [[torgana|Torgana]] — Orc Barbarian 5
+- [[silas_vale|Silas Vale]] — Wizard (Necromancer) 5
 
-**Purchases from Snak's Shop:**
-
-**Formation agreed before the gates opened:**
+**Carryover from Session 9:** none recorded — the session 9 notes were never filled in.
 
 ---
 
 ## Session Objectives
 
 ### Primary Goal
-Defeat or drive off Magister Ilvane Corr and clear the floor.
+Put down Bassa the Unbothered and her crew.
 
 ### Secondary Goals
-- Destroy at least one Polymorphic Font
-- Land a kill while transformed
-- Finish without a death
+- Win a child over at the staging gate.
+- Survive the Box without blaming it out loud.
 
 ---
 
 ## Key Mechanics
 
-**Pulse schedule:** end of rounds 3, 6, 9. DC 14 Wisdom save within 20 feet of a Font.
-**Fonts:** AC 15, 30 HP each, immune to poison and psychic.
-**Magister's polymorph:** concentration — breaks on a failed concentration save.
+### Button Tracker
 
-### Font Status
+Strike each symbol as it burns. Record who pressed it and what it did to the fight.
 
-| Font | Position | HP | Destroyed Round | Notes |
-|------|----------|----|-----------------|-------|
-| I | 12 o'clock | 30 | | |
-| II | 4 o'clock | 30 | | |
-| III | 8 o'clock | 30 | | |
+| Console | Symbol | Effect | Round pressed | Who chose it | What it changed |
+|---|---|---|---|---|---|
+| I — Vessia | Sun | Everyone Big | | | |
+| I — Vessia | Pine | The Hush | | | |
+| I — Vessia | Crescent | Reverse Gravity | | | |
+| II — Ottavan | Anchor | Slow | | | |
+| II — Ottavan | Wave | Downpour | | | |
+| II — Ottavan | Star | Random Polymorph | | | |
+| III — Pip | Bell | Mirror Skins | | | |
+| III — Pip | Coin | Everyone Small | | | |
+| III — Pip | Key | The Shuffle | | | |
 
-### Transformation Log
+### The Empty Box
 
-| Round | Creature | Save Result | Form Rolled | Reverted (round / how) |
-|-------|----------|-------------|-------------|------------------------|
-| 3 | | | | |
-| 3 | | | | |
-| 6 | | | | |
-| 6 | | | | |
-| 9 | | | | |
+- Fired at end of round: _______ (after the last available button)
+- Damage tier used: 8d6 / 6d6 (6d6 only if a console was smashed)
+- Who failed:
+- Who spent a mote on it:
+- Who dropped:
 
-### Voluntary Failures
+### Mote Tracker
 
-| Round | PC | Form Chosen Into | What They Did With It | Favor |
-|-------|----|------------------|----------------------|-------|
-| | | | | |
+| PC | Spent on | Round | Unspent at end? |
+|---|---|---|---|
+| Imwe | | | |
+| Father Crow | | | |
+| Torgana | | | |
+| Silas Vale | | | |
+
+### Which child took to which PC
+
+| Child | PC | How they won them | Pressed for them? |
+|---|---|---|---|
+| Vessia Marn-Doru | | | |
+| Ottavan Sceld | | | |
+| Pip Ash | | | |
+
+**PC with no child:** _______________ — did the announcer make it a thing?
+
+### The junction plate
+
+- Spotted? By whom, which round:
+- Approached? Broken, unwired, or left alone:
+- If broken — which console surged, and what went off at once:
+- Crowd verdict (+3 with Panache / −3 without):
 
 ---
 
 ## Crowd Favor Tracking
 
 | PC Name | Favor Earned | Favor Spent | Current Favor | Notable Actions |
-|----------------------|--------------|-------------|---------------|-----------------|
+|---------|--------------|-------------|---------------|-----------------|
+| Imwe | | | | |
 | Father Crow | | | | |
 | Torgana | | | | |
-| Imwe | | | | |
-| Killing Eagle Laughs | | | | |
+| Silas Vale | | | | |
 
 ### Favor Opportunities (Quick Reference)
-- Kill while transformed: +2
-- Voluntary shimmer + signature ability same round: +2
-- Destroy a Font to free an ally within 15 ft: +2
-- Break the Magister's concentration to free an ally: +2
-- Finish the bout untransformed: +2
-- Kill Whimsy mid-breath (readied action): +2
-- Shove an enemy into a zone before a pulse: +1
-- Grapple something with tentacles: +1
-- Anything a bear does with Panache: +1
+- Play to a child with Panache: +1 (and they press next round)
+- Console effect into a kill, same round: +2
+- Panache during the Hush, nothing said: +2
+- Fail the Empty Box save and stay standing: +2
+- Refuse the Empty Box with a mote held all bout: +2
+- Raise one of Bassa's fallen in front of the crowd, with Panache: +2
+- Mote spent on a certain-death moment: +2
+- Mote spent early and cheap, win anyway: +1
+- Save one of Bassa's crew from an effect: +2
+- Ring the tower bell at the right moment: +1
+- Kill a console: +3 with Panache, −3 without
+- Blame the Box out loud: −1
+- End with an unspent mote: −1
+- Kill Bassa after she yields: −2
 
 ---
 
 ## Enemy Status
 
-| Name | Role | HP | AC | Status | Notes |
-|------|------|----|----|--------|-------|
-| Magister Ilvane Corr | Transmuter (CR 6) | 40 | 15 | | Fled / defeated / yielded? |
-| Whimsy | Chaos Hound (CR 3) | 45 | 15 | | |
-| Trial Gladiator 1 | Thug → | 32 | 11 | | Pre-rolled form: |
-| Trial Gladiator 2 | Thug → | 32 | 11 | | Pre-rolled form: |
-| Trial Gladiator 3 | Thug → | 32 | 11 | | Pre-rolled form (monstrosity): |
-
-**Did the party find the concentration lever on their own?** (round, and how)
+| Enemy | HP | Status | Notes |
+|---|---|---|---|
+| Bassa the Unbothered | 112 | | Yielded at ≤15 HP if crowd is loud for the party |
+| Wall-Hugger 1 | 58 | | |
+| Wall-Hugger 2 | 58 | | |
+| Stall-Rat 1 | 32 | | |
+| Stall-Rat 2 | 32 | | |
+| Stall-Rat 3 | 32 | | |
+| Stall-Rat 4 | 32 | | |
 
 ---
 
 ## Critical Moments Log
-
-**Round 1:**
-
-**Round 2:**
-
-**Round 3 — FIRST PULSE:**
-
-**Round 4:**
-
-**Round 5:**
-
-**Round 6 — SECOND PULSE:**
-
-**Round 7:**
-
-**Round 8:**
-
-**Round 9 — THIRD PULSE:**
 
 ---
 
 ## Post-Session Summary
 
 ### Outcome
-- [ ] Victory: Magister defeated
-- [ ] Victory: Magister fled, floor cleared
-- [ ] Partial: floor cleared, deaths taken
-- [ ] Defeat
-
-### Announcer's Nickname Awarded
 
 ### PC Status After Session
 
-| PC Name | Status | Final Favor | Rounds Transformed | Special Conditions | Level Up? |
-|----------------------|--------|-------------|--------------------|--------------------|-----------|
-| Father Crow | | | | | |
-| Torgana | | | | | |
-| Imwe | | | | | |
-| Killing Eagle Laughs | | | | | |
+| PC Name | Status | Final Favor | Special Conditions | Level Up? |
+|---------|--------|-------------|-------------------|-----------|
+| Imwe | | | | |
+| Father Crow | | | | |
+| Torgana | | | | |
+| Silas Vale | | | | |
 
 ---
 
 ## Rewards and Consequences
 
 ### Loot Acquired
-- Academy purse: 250 gp per surviving gladiator
-- Shimmer-glass shards (40 gp each, 2d4 per Font destroyed):
-
-### Damages Owed
-- Fonts destroyed × 2,000 gp — did the arena pass the bill to Snak?
 
 ### Ongoing Effects
-- Lingering transformation traces:
 
 ---
 
 ## Notes for Next Session
 
 ### Plot Threads
-- Did the rival Cassine professor make contact?
-- Did any Trial Gladiator fail to revert?
-- Where did Ilvane go, and does he come back with better notes?
+- Pip Ash — evicted or enriched within the week, depending on whose money her last press cost.
+- The magister who cut the stamps — the thread that leads somewhere if anyone pulls it.
+- If a console was killed: the magisters' response, due about two sessions out.
+- Bassa, if she yielded and lived.
 
 ### PC Development
 -
 
 ### Arena Politics
--
+- Did House Marn-Doru or House Sceld take an interest in anyone?
+- Did anyone walk off the sand still holding a mote, and what did the crowd make of it?
 
 ### DM Reminders
-- Update `players/index.md` — it still says level 2
 -

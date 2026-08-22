@@ -1,33 +1,25 @@
 ---
-tags: [arena, session, session-10, index]
+tags: [arena, session, index, session-10]
 session_number: 10
 party_level: 5
 status: ready
-visibility: private
+visibility: public
 created: 2026-08-20
 updated: 2026-08-20
 ---
 
-# Session 10: Polymorphic Chaos
+# Session 10: Kiddie Chaos
 
-The magic colleges have bought the arena floor. Three crystal Fonts sing every third round, and whatever is standing near them stops being what it was. Four gladiators, one transmuter, and a hound whose bite changes flavour.
+Once a year, three children win a public lottery for the right to sit in a gilded box above the sand and press the nine brass buttons that bend the Arena. The lottery is sworn to be fair. Two of the three winners are always the children of Senate families. Everyone knows. Everyone cheers anyway.
+
+Nine buttons, one press each, one press a round. The children cannot aim, cannot choose, and cannot un-press. Every fighter carries one chalk-white bead that refuses one thing, once. The box is thirty feet up and cannot be reached.
+
+The fight is ordinary. The Arena is not.
+
+---
 
 ## Session Files
 
-### For the GM
-- [[session_10_setup_gm|GM Setup & Preparation]] — checklist, roleplaying hooks, combat flow, on-the-fly balancing
-- [[session_10_encounter|Encounter Document]] — arena, Wild Shimmer rules, printable form tables, statblocks, round-by-round
-- [[session_10_notes|Session Notes Template]] — Font trackers, transformation log, Favor and enemy status
+[Player Setup](session_10_setup_players.md)
 
-### For the Players
-- [[session_10_setup_players|Player Briefing]] — Snak's warning, the armory, the walk in
-- [[../../items/snak_shop_session_10|Snak's Shop]]
-
-## Quick Reference
-
-**Pulse schedule:** end of rounds 3, 6, 9 — DC 14 Wisdom within 20 ft of a Font
-**Fonts:** AC 15, 30 HP, immune poison/psychic; destroying one reverts transformed creatures within 15 ft
-**Victory:** Magister Ilvane Corr defeated, yielded or fled, and the floor cleared
-**The lever:** the Magister's *polymorph* is concentration; the Fonts' shimmer is not
-
-**Source Material:** based on `ideas/polymorphic_chaos.md`, scaled from 4-6 PCs to 4 PCs at level 5
+[Snak's Shop](../../items/snak_shop_session_10.md)
