@@ -195,7 +195,7 @@ Planned for Session 8 deployment in Killing Field zone (Rounds 6-7).
 **Thematic Role:**
 - Direct counter to Session 8's "move the Burden" objective
 - Gravity/weight theme reinforces the session's burden-carrying philosophy
-- Mantras echo the priest's philosophical tone from [[session_8_priest_mantra]]
+- Mantras echo the priest's philosophical tone from the Session 8 mantra
 - Represents the Arena's test: can you move forward when the weight of the world opposes you?
 
 **Design Philosophy:**
